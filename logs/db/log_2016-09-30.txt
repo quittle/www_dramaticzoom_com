@@ -1,0 +1,32 @@
+2016-09-30 1:29:12 - INFO --> getUserByCookie: 
+2016-09-30 1:29:12 - INFO --> getZoomById: yeHB_b
+2016-09-30 1:29:12 - INFO --> incrementZoomById: yeHB_b
+2016-09-30 1:29:12 - INFO --> increment zoom: yeHB_b
+2016-09-30 6:00:58 - INFO --> getUserByCookie: 
+2016-09-30 6:00:58 - INFO --> getZoomById: iSctp
+2016-09-30 6:00:58 - INFO --> incrementZoomById: iSctp
+2016-09-30 6:00:58 - INFO --> increment zoom: iSctp
+2016-09-30 8:52:47 - INFO --> getUserByCookie: 
+2016-09-30 8:52:47 - INFO --> getZoomById: iSctp
+2016-09-30 8:52:47 - INFO --> incrementZoomById: iSctp
+2016-09-30 8:52:47 - INFO --> increment zoom: iSctp
+2016-09-30 8:52:49 - INFO --> getUserByCookie: 
+2016-09-30 20:13:00 - INFO --> getUserByCookie: befed9dc5174b4b507bfe4c8291544274c0abbcdf3819485c012a689de6295b2
+2016-09-30 20:13:11 - INFO --> getUserByCookie: befed9dc5174b4b507bfe4c8291544274c0abbcdf3819485c012a689de6295b2
+2016-09-30 20:13:11 - INFO --> getZoomById: c)v2y
+2016-09-30 20:13:11 - INFO --> incrementZoomById: c)v2y
+2016-09-30 20:13:11 - INFO --> increment zoom: c)v2y
+2016-09-30 20:13:32 - INFO --> getUserByCookie: befed9dc5174b4b507bfe4c8291544274c0abbcdf3819485c012a689de6295b2
+2016-09-30 20:13:32 - INFO --> getZoomById: c)v2y
+2016-09-30 20:13:32 - INFO --> incrementZoomById: c)v2y
+2016-09-30 20:13:32 - INFO --> increment zoom: c)v2y
+2016-09-30 20:22:03 - INFO --> getUserByCookie: 
+2016-09-30 20:22:03 - INFO --> getZoomById: iSctp
+2016-09-30 20:22:03 - INFO --> incrementZoomById: iSctp
+2016-09-30 20:22:03 - INFO --> increment zoom: iSctp
+2016-09-30 21:49:58 - INFO --> getUserByCookie: 
+2016-09-30 21:49:58 - INFO --> getZoomById: yeHB_b
+2016-09-30 21:49:58 - INFO --> incrementZoomById: yeHB_b
+2016-09-30 21:49:58 - INFO --> increment zoom: yeHB_b
+2016-09-30 23:25:29 - INFO --> getUserByCookie: 
+2016-09-30 23:25:29 - INFO --> getZoomById: wp-login.php

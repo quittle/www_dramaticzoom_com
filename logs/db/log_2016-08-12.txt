@@ -1,0 +1,6 @@
+2016-08-12 3:03:11 - INFO --> getUserByCookie: 
+2016-08-12 3:03:11 - INFO --> getZoomById: wp-content/
+2016-08-12 8:26:34 - INFO --> getUserByCookie: 
+2016-08-12 10:28:51 - INFO --> getUserByCookie: 
+2016-08-12 10:28:51 - INFO --> getZoomById: js/mage/cookies.js
+2016-08-12 20:51:21 - INFO --> getUserByCookie: 

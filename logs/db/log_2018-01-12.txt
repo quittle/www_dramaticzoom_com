@@ -1,0 +1,28 @@
+2018-01-12 0:02:57 - INFO --> getUserByCookie: 
+2018-01-12 0:02:57 - INFO --> getZoomById: register-user=&register-email=jb%40jbphotoworks.com&register-pass=&register-pass2=&register-agree=&
+2018-01-12 0:32:11 - INFO --> getUserByCookie: 
+2018-01-12 0:32:11 - INFO --> getZoomById: register-user=&register-email=pjgannon%40sbcglobal.net&register-pass=&register-pass2=&register-agree=&
+2018-01-12 1:05:56 - INFO --> getUserByCookie: 
+2018-01-12 1:05:56 - INFO --> getZoomById: register-user=&register-email=pswanie%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-01-12 1:09:25 - INFO --> getUserByCookie: 
+2018-01-12 1:09:25 - INFO --> getZoomById: register-user=&register-email=jen33334%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-01-12 2:12:11 - INFO --> getUserByCookie: 
+2018-01-12 2:12:11 - INFO --> getZoomById: register-user=&register-email=jferrer%40barronintl.com&register-pass=&register-pass2=&register-agree=&
+2018-01-12 3:00:21 - INFO --> getUserByCookie: 
+2018-01-12 3:00:21 - INFO --> getZoomById: register-user=&register-email=jlastarria%40barronintl.com&register-pass=&register-pass2=&register-agree=&
+2018-01-12 4:00:24 - INFO --> getUserByCookie: 
+2018-01-12 4:00:24 - INFO --> getZoomById: register-user=&register-email=lj8279%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2018-01-12 6:03:30 - INFO --> getUserByCookie: 
+2018-01-12 6:03:30 - INFO --> getZoomById: register-user=&register-email=kristi%40eandassociates.com&register-pass=&register-pass2=&register-agree=&
+2018-01-12 22:55:00 - INFO --> getUserByCookie: 
+2018-01-12 22:55:00 - INFO --> getZoomById: .ftpconfig
+2018-01-12 22:55:01 - INFO --> getUserByCookie: 
+2018-01-12 22:55:01 - INFO --> getZoomById: .remote-sync.json
+2018-01-12 22:55:02 - INFO --> getUserByCookie: 
+2018-01-12 22:55:02 - INFO --> getZoomById: .vscode/ftp-sync.json
+2018-01-12 22:55:03 - INFO --> getUserByCookie: 
+2018-01-12 22:55:03 - INFO --> getZoomById: sftp-config.json
+2018-01-12 22:55:05 - INFO --> getUserByCookie: 
+2018-01-12 22:55:05 - INFO --> getZoomById: .env
+2018-01-12 22:55:06 - INFO --> getUserByCookie: 
+2018-01-12 22:55:06 - INFO --> getZoomById: deployment-config.json

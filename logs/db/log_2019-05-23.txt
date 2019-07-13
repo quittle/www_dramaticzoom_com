@@ -1,0 +1,14 @@
+2019-05-23 0:12:16 - INFO --> getUserByCookie: 
+2019-05-23 0:12:16 - INFO --> getZoomById: wp-login.php
+2019-05-23 0:12:19 - INFO --> getUserByCookie: 
+2019-05-23 0:12:19 - INFO --> getZoomById: option=com_user&task=register
+2019-05-23 0:12:22 - INFO --> getUserByCookie: 
+2019-05-23 0:12:22 - INFO --> getZoomById: user/register
+2019-05-23 8:03:42 - INFO --> getUserByCookie: 
+2019-05-23 8:03:42 - INFO --> getZoomById: wp-login.php
+2019-05-23 18:04:27 - INFO --> getUserByCookie: 
+2019-05-23 18:04:27 - INFO --> getZoomById: mbahKb
+2019-05-23 18:04:27 - INFO --> incrementZoomById: mbahKb
+2019-05-23 18:04:27 - INFO --> increment zoom: mbahKb
+2019-05-23 19:55:21 - INFO --> getUserByCookie: 
+2019-05-23 19:55:21 - INFO --> getZoomById: admin/

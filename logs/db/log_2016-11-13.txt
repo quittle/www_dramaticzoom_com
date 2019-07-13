@@ -1,0 +1,16 @@
+2016-11-13 2:15:11 - INFO --> getUserByCookie: 
+2016-11-13 2:15:11 - INFO --> getZoomById: xmlrpc.php
+2016-11-13 2:15:12 - INFO --> getUserByCookie: 
+2016-11-13 2:15:12 - INFO --> getZoomById: blog/robots.txt
+2016-11-13 2:15:13 - INFO --> getUserByCookie: 
+2016-11-13 2:15:13 - INFO --> getZoomById: blog/
+2016-11-13 2:15:13 - INFO --> getUserByCookie: 
+2016-11-13 2:15:13 - INFO --> getZoomById: wordpress/
+2016-11-13 2:15:14 - INFO --> getUserByCookie: 
+2016-11-13 2:15:14 - INFO --> getZoomById: wp/
+2016-11-13 7:34:19 - INFO --> getUserByCookie: 
+2016-11-13 10:21:37 - INFO --> getUserByCookie: 
+2016-11-13 10:31:54 - INFO --> getUserByCookie: 
+2016-11-13 10:31:54 - INFO --> getZoomById: iSctp
+2016-11-13 10:31:54 - INFO --> incrementZoomById: iSctp
+2016-11-13 10:31:54 - INFO --> increment zoom: iSctp

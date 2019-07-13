@@ -1,0 +1,10 @@
+2015-10-14 0:10:18 - INFO --> getUserByCookie: 
+2015-10-14 0:10:18 - INFO --> getZoomById: bitrix/admin/
+2015-10-14 0:10:18 - INFO --> getUserByCookie: 
+2015-10-14 0:10:18 - INFO --> getZoomById: q=user
+2015-10-14 8:37:02 - INFO --> getUserByCookie: 
+2015-10-14 8:37:02 - INFO --> getZoomById: 406.shtml
+2015-10-14 21:29:44 - INFO --> getUserByCookie: 
+2015-10-14 21:29:44 - INFO --> getZoomById: mbahKb
+2015-10-14 21:29:44 - INFO --> incrementZoomById: mbahKb
+2015-10-14 21:29:44 - INFO --> increment zoom: mbahKb

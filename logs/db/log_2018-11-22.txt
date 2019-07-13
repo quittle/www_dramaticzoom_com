@@ -1,0 +1,15 @@
+2018-11-22 8:02:10 - INFO --> getUserByCookie: 
+2018-11-22 8:18:25 - INFO --> getUserByCookie: 
+2018-11-22 9:27:05 - INFO --> getUserByCookie: 
+2018-11-22 9:27:05 - INFO --> getZoomById: phpbb/
+2018-11-22 18:58:47 - INFO --> getUserByCookie: 
+2018-11-22 18:58:47 - INFO --> getZoomById: email=jasena.2000%40yahoo.com&reportType=&description=&
+2018-11-22 20:25:38 - INFO --> getUserByCookie: 
+2018-11-22 21:12:20 - INFO --> getUserByCookie: 
+2018-11-22 21:12:20 - INFO --> getZoomById: email=lakei.will%40comcast.net&reportType=&description=&
+2018-11-22 21:12:54 - INFO --> getUserByCookie: 
+2018-11-22 21:12:54 - INFO --> getZoomById: email=rob4hub%40aol.com&reportType=&description=&
+2018-11-22 22:22:22 - INFO --> getUserByCookie: 
+2018-11-22 22:22:22 - INFO --> getZoomById: iSctp
+2018-11-22 22:22:22 - INFO --> incrementZoomById: iSctp
+2018-11-22 22:22:22 - INFO --> increment zoom: iSctp

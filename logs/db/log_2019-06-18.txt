@@ -1,0 +1,10 @@
+2019-06-18 6:05:21 - INFO --> getUserByCookie: 
+2019-06-18 6:05:21 - INFO --> getZoomById: wp-config.php.backup
+2019-06-18 9:09:05 - INFO --> getUserByCookie: 
+2019-06-18 9:09:05 - INFO --> getZoomById: xmlrpc.php
+2019-06-18 9:09:07 - INFO --> getUserByCookie: 
+2019-06-18 9:09:07 - INFO --> getZoomById: wp-login.php
+2019-06-18 12:09:32 - INFO --> getUserByCookie: 
+2019-06-18 12:09:32 - INFO --> getZoomById: xmlrpc.php
+2019-06-18 12:09:34 - INFO --> getUserByCookie: 
+2019-06-18 12:09:34 - INFO --> getZoomById: wp-login.php

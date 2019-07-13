@@ -1,0 +1,8 @@
+2016-10-06 2:15:21 - INFO --> getUserByCookie: 
+2016-10-06 2:15:21 - INFO --> getZoomById: sitemap.xml
+2016-10-06 3:55:02 - INFO --> getUserByCookie: 
+2016-10-06 14:13:59 - INFO --> getUserByCookie: 
+2016-10-06 14:13:59 - INFO --> getZoomById: option=com_user&task=register
+2016-10-06 14:14:04 - INFO --> getUserByCookie: 
+2016-10-06 14:14:04 - INFO --> getZoomById: user/register
+2016-10-06 17:44:15 - INFO --> getUserByCookie: 

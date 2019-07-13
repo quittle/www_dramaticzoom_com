@@ -1,0 +1,36 @@
+2016-07-17 1:28:42 - INFO --> getUserByCookie: 
+2016-07-17 1:41:13 - INFO --> getUserByCookie: 
+2016-07-17 1:41:13 - INFO --> getZoomById: iSctp
+2016-07-17 1:41:13 - INFO --> incrementZoomById: iSctp
+2016-07-17 1:41:13 - INFO --> increment zoom: iSctp
+2016-07-17 2:26:12 - INFO --> getUserByCookie: 
+2016-07-17 2:26:12 - INFO --> getZoomById: iSctp
+2016-07-17 2:26:12 - INFO --> incrementZoomById: iSctp
+2016-07-17 2:26:12 - INFO --> increment zoom: iSctp
+2016-07-17 6:32:09 - INFO --> getUserByCookie: 
+2016-07-17 6:32:09 - INFO --> getZoomById: iSctp
+2016-07-17 6:32:09 - INFO --> incrementZoomById: iSctp
+2016-07-17 6:32:09 - INFO --> increment zoom: iSctp
+2016-07-17 6:32:27 - INFO --> getUserByCookie: 
+2016-07-17 6:32:27 - INFO --> getZoomById: iSctp
+2016-07-17 6:32:27 - INFO --> incrementZoomById: iSctp
+2016-07-17 6:32:27 - INFO --> increment zoom: iSctp
+2016-07-17 6:32:47 - INFO --> getUserByCookie: 
+2016-07-17 6:32:47 - INFO --> getZoomById: iSctp
+2016-07-17 6:32:47 - INFO --> incrementZoomById: iSctp
+2016-07-17 6:32:47 - INFO --> increment zoom: iSctp
+2016-07-17 7:42:46 - INFO --> getUserByCookie: 
+2016-07-17 7:42:46 - INFO --> getZoomById: corewbrtwpiny.html
+2016-07-17 12:52:51 - INFO --> getUserByCookie: 
+2016-07-17 12:52:51 - INFO --> getZoomById: G1YU4
+2016-07-17 12:52:51 - INFO --> incrementZoomById: G1YU4
+2016-07-17 12:52:51 - INFO --> increment zoom: G1YU4
+2016-07-17 15:48:43 - INFO --> getUserByCookie: 
+2016-07-17 15:48:43 - INFO --> getZoomById: iSctp
+2016-07-17 15:48:43 - INFO --> incrementZoomById: iSctp
+2016-07-17 15:48:43 - INFO --> increment zoom: iSctp
+2016-07-17 16:37:21 - INFO --> getUserByCookie: 
+2016-07-17 16:37:21 - INFO --> getZoomById: blog/wp-login.php
+2016-07-17 16:40:12 - INFO --> getUserByCookie: 
+2016-07-17 16:40:12 - INFO --> getZoomById: wp-login.php
+2016-07-17 23:22:36 - INFO --> getUserByCookie: 

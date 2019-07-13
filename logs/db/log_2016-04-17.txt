@@ -1,0 +1,7 @@
+2016-04-17 12:19:09 - INFO --> getUserByCookie: 
+2016-04-17 12:19:09 - INFO --> getZoomById: w6tlCc
+2016-04-17 12:19:09 - INFO --> incrementZoomById: w6tlCc
+2016-04-17 12:19:09 - INFO --> increment zoom: w6tlCc
+2016-04-17 21:49:45 - INFO --> getUserByCookie: 
+2016-04-17 21:49:45 - INFO --> getZoomById: wp-login.php
+2016-04-17 23:40:25 - INFO --> getUserByCookie: 

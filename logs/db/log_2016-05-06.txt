@@ -1,0 +1,34 @@
+2016-05-06 11:59:27 - INFO --> getUserByCookie: 
+2016-05-06 11:59:27 - INFO --> getZoomById: iSctp
+2016-05-06 11:59:27 - INFO --> incrementZoomById: iSctp
+2016-05-06 11:59:27 - INFO --> increment zoom: iSctp
+2016-05-06 12:01:30 - INFO --> getUserByCookie: 
+2016-05-06 12:01:30 - INFO --> getZoomById: mbahKb
+2016-05-06 12:01:30 - INFO --> incrementZoomById: mbahKb
+2016-05-06 12:01:30 - INFO --> increment zoom: mbahKb
+2016-05-06 12:46:17 - INFO --> getUserByCookie: 
+2016-05-06 12:46:17 - INFO --> getZoomById: iSctp
+2016-05-06 12:46:17 - INFO --> incrementZoomById: iSctp
+2016-05-06 12:46:17 - INFO --> increment zoom: iSctp
+2016-05-06 13:26:31 - INFO --> getUserByCookie: 
+2016-05-06 13:26:31 - INFO --> getZoomById: G1YU4
+2016-05-06 13:26:31 - INFO --> incrementZoomById: G1YU4
+2016-05-06 13:26:31 - INFO --> increment zoom: G1YU4
+2016-05-06 14:06:51 - INFO --> getUserByCookie: 
+2016-05-06 14:06:51 - INFO --> getZoomById: mbahKb
+2016-05-06 14:06:51 - INFO --> incrementZoomById: mbahKb
+2016-05-06 14:06:51 - INFO --> increment zoom: mbahKb
+2016-05-06 15:30:42 - INFO --> getUserByCookie: 
+2016-05-06 15:52:51 - INFO --> getUserByCookie: 
+2016-05-06 15:52:51 - INFO --> getZoomById: mbahKb
+2016-05-06 15:52:51 - INFO --> incrementZoomById: mbahKb
+2016-05-06 15:52:51 - INFO --> increment zoom: mbahKb
+2016-05-06 17:55:06 - INFO --> getUserByCookie: 
+2016-05-06 17:55:06 - INFO --> getZoomById: author=1
+2016-05-06 18:13:58 - INFO --> getUserByCookie: 
+2016-05-06 18:23:05 - INFO --> getUserByCookie: 
+2016-05-06 18:23:05 - INFO --> getZoomById: iSctp
+2016-05-06 18:23:05 - INFO --> incrementZoomById: iSctp
+2016-05-06 18:23:05 - INFO --> increment zoom: iSctp
+2016-05-06 23:17:00 - INFO --> getUserByCookie: 
+2016-05-06 23:17:00 - INFO --> getZoomById: 406.shtml

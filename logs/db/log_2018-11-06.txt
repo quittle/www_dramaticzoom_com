@@ -1,0 +1,2 @@
+2018-11-06 23:09:35 - INFO --> getUserByCookie: 
+2018-11-06 23:09:35 - INFO --> getZoomById: wp-json/wp/v2/users/

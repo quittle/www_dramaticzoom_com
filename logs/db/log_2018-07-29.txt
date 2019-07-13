@@ -1,0 +1,7 @@
+2018-07-29 8:44:35 - INFO --> getUserByCookie: 
+2018-07-29 10:52:34 - INFO --> getUserByCookie: 
+2018-07-29 10:52:34 - INFO --> getZoomById: .well-known/assetlinks.json
+2018-07-29 23:25:19 - INFO --> getUserByCookie: 
+2018-07-29 23:25:19 - INFO --> getZoomById: G1YU4
+2018-07-29 23:25:19 - INFO --> incrementZoomById: G1YU4
+2018-07-29 23:25:19 - INFO --> increment zoom: G1YU4

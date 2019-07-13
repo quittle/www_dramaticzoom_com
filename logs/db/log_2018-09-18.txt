@@ -1,0 +1,9 @@
+2018-09-18 10:40:52 - INFO --> getUserByCookie: 
+2018-09-18 10:40:52 - INFO --> getZoomById: wp-login.php
+2018-09-18 10:40:53 - INFO --> getUserByCookie: 
+2018-09-18 10:40:53 - INFO --> getZoomById: blog/wp-login.php
+2018-09-18 10:40:54 - INFO --> getUserByCookie: 
+2018-09-18 10:40:54 - INFO --> getZoomById: wordpress/wp-login.php
+2018-09-18 10:40:54 - INFO --> getUserByCookie: 
+2018-09-18 10:40:54 - INFO --> getZoomById: wp/wp-login.php
+2018-09-18 13:54:26 - INFO --> getUserByCookie: 

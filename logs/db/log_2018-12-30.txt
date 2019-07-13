@@ -1,0 +1,16 @@
+2018-12-30 0:02:41 - INFO --> getUserByCookie: 
+2018-12-30 0:02:41 - INFO --> getZoomById: s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=assert&vars[1][]=die(md5(3453453));
+2018-12-30 5:56:46 - INFO --> getUserByCookie: 
+2018-12-30 5:56:46 - INFO --> getZoomById: email=elimelmiranda%40yahoo.com&reportType=&description=&
+2018-12-30 6:05:41 - INFO --> getUserByCookie: 
+2018-12-30 6:05:41 - INFO --> getZoomById: search.php
+2018-12-30 17:38:52 - INFO --> getUserByCookie: 
+2018-12-30 17:38:52 - INFO --> getZoomById: email=elimelmiranda%40yahoo.com&reportType=&description=&
+2018-12-30 23:57:03 - INFO --> getUserByCookie: 
+2018-12-30 23:57:03 - INFO --> getZoomById: iSctp
+2018-12-30 23:57:03 - INFO --> incrementZoomById: iSctp
+2018-12-30 23:57:03 - INFO --> increment zoom: iSctp
+2018-12-30 23:57:15 - INFO --> getUserByCookie: 
+2018-12-30 23:57:15 - INFO --> getZoomById: iSctp
+2018-12-30 23:57:15 - INFO --> incrementZoomById: iSctp
+2018-12-30 23:57:15 - INFO --> increment zoom: iSctp

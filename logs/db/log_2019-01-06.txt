@@ -1,0 +1,28 @@
+2019-01-06 1:32:09 - INFO --> getUserByCookie: 
+2019-01-06 1:32:09 - INFO --> getZoomById: mbahKb
+2019-01-06 1:32:09 - INFO --> incrementZoomById: mbahKb
+2019-01-06 1:32:09 - INFO --> increment zoom: mbahKb
+2019-01-06 2:44:01 - INFO --> getUserByCookie: 
+2019-01-06 2:44:01 - INFO --> getZoomById: email=kursedkyuubi%40gmail.com&reportType=&description=&
+2019-01-06 3:20:28 - INFO --> getUserByCookie: 
+2019-01-06 3:20:28 - INFO --> getZoomById: .well-known/acme-challenge/hnzLCSzAXDKMwdh7MWHqb6-BXZBRgMWuZ_9NMDknE2g
+2019-01-06 3:20:29 - INFO --> getUserByCookie: 
+2019-01-06 3:20:29 - INFO --> getZoomById: .well-known/acme-challenge/Dl2BP-voKIhYm-N-CYH9B346NKqAGALdnNS_b1nkaPo
+2019-01-06 3:20:29 - INFO --> getUserByCookie: 
+2019-01-06 3:20:29 - INFO --> getZoomById: .well-known/acme-challenge/MKGvJ4g9NMieVShpU-GPj4xbnGHvDJK8ui-foAhHlP4
+2019-01-06 3:20:29 - INFO --> getUserByCookie: 
+2019-01-06 3:20:29 - INFO --> getZoomById: .well-known/acme-challenge/LldaAJpOkwKsjWqH7aFGNkdgGA0dSKBiBZH0fAH646s
+2019-01-06 5:02:58 - INFO --> getUserByCookie: 
+2019-01-06 5:02:58 - INFO --> getZoomById: email=chris.d.cowin%40gmail.com&reportType=&description=&
+2019-01-06 8:58:31 - INFO --> getUserByCookie: 
+2019-01-06 8:58:31 - INFO --> getZoomById: email=powerpopplin87%40gmail.com&reportType=&description=&
+2019-01-06 13:36:42 - INFO --> getUserByCookie: 
+2019-01-06 13:36:42 - INFO --> getZoomById: email=ibr.hin95%40gmail.com&reportType=&description=&
+2019-01-06 15:13:03 - INFO --> getUserByCookie: 
+2019-01-06 15:13:03 - INFO --> getZoomById: email=winechick38%40yahoo.com&reportType=&description=&
+2019-01-06 16:50:50 - INFO --> getUserByCookie: 
+2019-01-06 16:50:50 - INFO --> getZoomById: email=kedari.a.matthews%40gmail.com&reportType=&description=&
+2019-01-06 17:30:38 - INFO --> getUserByCookie: 
+2019-01-06 17:30:38 - INFO --> getZoomById: email=gochattercom%40gmail.com&reportType=&description=&
+2019-01-06 21:26:10 - INFO --> getUserByCookie: 
+2019-01-06 21:26:10 - INFO --> getZoomById: email=tjjacksonsm%40gmail.com&reportType=&description=&

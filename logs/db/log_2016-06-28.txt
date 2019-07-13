@@ -1,0 +1,26 @@
+2016-06-28 2:34:30 - INFO --> getUserByCookie: 
+2016-06-28 2:34:30 - INFO --> getZoomById: iSctp
+2016-06-28 2:34:30 - INFO --> incrementZoomById: iSctp
+2016-06-28 2:34:30 - INFO --> increment zoom: iSctp
+2016-06-28 3:20:48 - INFO --> getUserByCookie: 
+2016-06-28 3:20:48 - INFO --> getZoomById: G1YU4
+2016-06-28 3:20:48 - INFO --> incrementZoomById: G1YU4
+2016-06-28 3:20:48 - INFO --> increment zoom: G1YU4
+2016-06-28 4:45:10 - INFO --> getUserByCookie: 
+2016-06-28 4:45:10 - INFO --> getZoomById: wp-content/plugins/simple-ads-manager/sam-ajax-admin.php
+2016-06-28 5:41:57 - INFO --> getUserByCookie: 
+2016-06-28 6:37:31 - INFO --> getUserByCookie: 
+2016-06-28 6:37:31 - INFO --> getZoomById: G1YU4
+2016-06-28 6:37:31 - INFO --> incrementZoomById: G1YU4
+2016-06-28 6:37:31 - INFO --> increment zoom: G1YU4
+2016-06-28 12:04:21 - INFO --> getUserByCookie: 
+2016-06-28 12:04:21 - INFO --> getZoomById: w+JPX
+2016-06-28 12:04:21 - INFO --> incrementZoomById: w+JPX
+2016-06-28 12:04:21 - INFO --> increment zoom: w+JPX
+2016-06-28 15:14:12 - INFO --> getUserByCookie: 
+2016-06-28 17:20:30 - INFO --> getUserByCookie: 
+2016-06-28 17:20:30 - INFO --> getZoomById: wp-login.php
+2016-06-28 17:20:30 - INFO --> getUserByCookie: 
+2016-06-28 17:20:30 - INFO --> getZoomById: administrator/index.php
+2016-06-28 20:10:06 - INFO --> getUserByCookie: 
+2016-06-28 20:10:06 - INFO --> getZoomById: tmp/sfx.php

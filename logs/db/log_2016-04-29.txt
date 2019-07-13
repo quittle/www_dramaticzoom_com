@@ -1,0 +1,37 @@
+2016-04-29 4:54:32 - INFO --> getUserByCookie: 
+2016-04-29 4:54:32 - INFO --> getZoomById: wordpress/
+2016-04-29 7:57:42 - INFO --> getUserByCookie: 
+2016-04-29 7:57:42 - INFO --> getZoomById: G1YU4
+2016-04-29 7:57:42 - INFO --> incrementZoomById: G1YU4
+2016-04-29 7:57:42 - INFO --> increment zoom: G1YU4
+2016-04-29 9:52:07 - INFO --> getUserByCookie: 
+2016-04-29 9:52:12 - INFO --> getUserByCookie: 
+2016-04-29 9:52:12 - INFO --> getZoomById: wp-login.php
+2016-04-29 9:52:13 - INFO --> getUserByCookie: 
+2016-04-29 9:52:13 - INFO --> getZoomById: administrator/index.php
+2016-04-29 9:52:16 - INFO --> getUserByCookie: 
+2016-04-29 9:52:16 - INFO --> getZoomById: css/administrator/index.php
+2016-04-29 13:42:29 - INFO --> getUserByCookie: 
+2016-04-29 13:42:29 - INFO --> getZoomById: iSctp
+2016-04-29 13:42:29 - INFO --> incrementZoomById: iSctp
+2016-04-29 13:42:29 - INFO --> increment zoom: iSctp
+2016-04-29 15:43:49 - INFO --> getUserByCookie: 
+2016-04-29 18:56:23 - INFO --> getUserByCookie: 
+2016-04-29 22:06:58 - INFO --> getUserByCookie: 
+2016-04-29 22:06:58 - INFO --> getZoomById: iSctp
+2016-04-29 22:06:58 - INFO --> incrementZoomById: iSctp
+2016-04-29 22:06:58 - INFO --> increment zoom: iSctp
+2016-04-29 22:55:19 - INFO --> getUserByCookie: 
+2016-04-29 22:55:19 - INFO --> getZoomById: mbahKb
+2016-04-29 22:55:19 - INFO --> incrementZoomById: mbahKb
+2016-04-29 22:55:19 - INFO --> increment zoom: mbahKb
+2016-04-29 23:56:58 - INFO --> getUserByCookie: 
+2016-04-29 23:56:58 - INFO --> getZoomById: xmlrpc.php
+2016-04-29 23:56:58 - INFO --> getUserByCookie: 
+2016-04-29 23:56:58 - INFO --> getZoomById: blog/robots.txt
+2016-04-29 23:56:58 - INFO --> getUserByCookie: 
+2016-04-29 23:56:58 - INFO --> getZoomById: blog/
+2016-04-29 23:56:59 - INFO --> getUserByCookie: 
+2016-04-29 23:56:59 - INFO --> getZoomById: wordpress/
+2016-04-29 23:56:59 - INFO --> getUserByCookie: 
+2016-04-29 23:56:59 - INFO --> getZoomById: wp/

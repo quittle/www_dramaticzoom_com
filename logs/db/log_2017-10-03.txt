@@ -1,0 +1,16 @@
+2017-10-03 0:08:34 - INFO --> getUserByCookie: 
+2017-10-03 0:08:34 - INFO --> getZoomById: register-user=&register-email=joshuadeseanmorris%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-10-03 0:37:46 - INFO --> getUserByCookie: 
+2017-10-03 0:37:46 - INFO --> getZoomById: register-user=&register-email=mevermette%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-10-03 1:52:59 - INFO --> getUserByCookie: 
+2017-10-03 1:52:59 - INFO --> getZoomById: .well-known/assetlinks.json
+2017-10-03 1:58:09 - INFO --> getUserByCookie: 
+2017-10-03 1:58:09 - INFO --> getZoomById: .well-known/apple-app-site-association
+2017-10-03 2:08:19 - INFO --> getUserByCookie: 
+2017-10-03 2:08:19 - INFO --> getZoomById: apple-app-site-association
+2017-10-03 7:40:49 - INFO --> getUserByCookie: 
+2017-10-03 7:40:49 - INFO --> getZoomById: register-user=&register-email=opoerez%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-10-03 12:15:14 - INFO --> getUserByCookie: 
+2017-10-03 12:15:14 - INFO --> getZoomById: register-user=&register-email=ingrid%40tn20y.com&register-pass=&register-pass2=&register-agree=&
+2017-10-03 20:35:49 - INFO --> getUserByCookie: 
+2017-10-03 20:35:49 - INFO --> getZoomById: phpmyadmin/scripts/setup.php

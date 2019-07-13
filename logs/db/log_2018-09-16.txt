@@ -1,0 +1,10 @@
+2018-09-16 21:14:41 - INFO --> getUserByCookie: 
+2018-09-16 21:14:41 - INFO --> getZoomById: ljvtakjysvasdaso.html
+2018-09-16 22:46:19 - INFO --> getUserByCookie: 
+2018-09-16 22:46:19 - INFO --> getZoomById: admin/images/cal_date_over.gif
+2018-09-16 22:46:20 - INFO --> getUserByCookie: 
+2018-09-16 22:46:20 - INFO --> getZoomById: admin/login.php
+2018-09-16 22:46:22 - INFO --> getUserByCookie: 
+2018-09-16 22:46:22 - INFO --> getZoomById: templates/system/css/system.css
+2018-09-16 22:46:24 - INFO --> getUserByCookie: 
+2018-09-16 22:46:24 - INFO --> getZoomById: fckeditor/editor/filemanager/connectors/php/upload.php

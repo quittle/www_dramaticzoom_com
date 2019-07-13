@@ -1,0 +1,14 @@
+2016-01-09 8:53:53 - INFO --> getUserByCookie: 
+2016-01-09 8:53:53 - INFO --> getZoomById: iSctp
+2016-01-09 8:53:53 - INFO --> incrementZoomById: iSctp
+2016-01-09 8:53:53 - INFO --> increment zoom: iSctp
+2016-01-09 9:11:25 - INFO --> getUserByCookie: 
+2016-01-09 9:11:25 - INFO --> getZoomById: option=com_contenthistory&view=history&list[ordering]=&item_id=75&type_id=1&list[select]=(ExtractValue(1,(select%20concat_ws(0x3a,user(),version(),database()))))
+2016-01-09 11:11:34 - INFO --> getUserByCookie: 
+2016-01-09 11:11:34 - INFO --> getZoomById: yeHB_b
+2016-01-09 11:11:34 - INFO --> incrementZoomById: yeHB_b
+2016-01-09 11:11:34 - INFO --> increment zoom: yeHB_b
+2016-01-09 23:59:59 - INFO --> getUserByCookie: 
+2016-01-09 23:59:59 - INFO --> getZoomById: yeHB_b
+2016-01-09 23:59:59 - INFO --> incrementZoomById: yeHB_b
+2016-01-09 23:59:59 - INFO --> increment zoom: yeHB_b

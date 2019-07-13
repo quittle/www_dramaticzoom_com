@@ -1,0 +1,26 @@
+2018-10-17 4:19:53 - INFO --> getUserByCookie: 
+2018-10-17 4:19:53 - INFO --> getZoomById: iSctp
+2018-10-17 4:19:53 - INFO --> incrementZoomById: iSctp
+2018-10-17 4:19:53 - INFO --> increment zoom: iSctp
+2018-10-17 7:37:24 - INFO --> getUserByCookie: 
+2018-10-17 7:37:24 - INFO --> getZoomById: iSctp
+2018-10-17 7:37:24 - INFO --> incrementZoomById: iSctp
+2018-10-17 7:37:24 - INFO --> increment zoom: iSctp
+2018-10-17 7:43:54 - INFO --> getUserByCookie: 
+2018-10-17 7:43:54 - INFO --> getZoomById: bea_wls_deployment_internal
+2018-10-17 7:44:01 - INFO --> getUserByCookie: 
+2018-10-17 7:44:01 - INFO --> getZoomById: bea_wls_deployment_internal
+2018-10-17 7:44:14 - INFO --> getUserByCookie: 
+2018-10-17 7:44:14 - INFO --> getZoomById: _phpMyAdmin/scripts/setup.php
+2018-10-17 7:44:20 - INFO --> getUserByCookie: 
+2018-10-17 7:44:20 - INFO --> getZoomById: scripts/setup.php
+2018-10-17 7:44:29 - INFO --> getUserByCookie: 
+2018-10-17 7:44:29 - INFO --> getZoomById: pma/scripts/setup.php
+2018-10-17 12:10:09 - INFO --> getUserByCookie: 
+2018-10-17 13:45:02 - INFO --> getUserByCookie: 
+2018-10-17 13:45:02 - INFO --> getZoomById: iSctp
+2018-10-17 13:45:02 - INFO --> incrementZoomById: iSctp
+2018-10-17 13:45:02 - INFO --> increment zoom: iSctp
+2018-10-17 20:36:40 - INFO --> getUserByCookie: 
+2018-10-17 20:36:46 - INFO --> getUserByCookie: 
+2018-10-17 20:36:46 - INFO --> getZoomById: reportType=nother+Thing&email=info%40hooplahinteractive.com&description=Hello+there%0D%0A%0D%0AShop+Oakley+Sunglasses+$19.95+only+today.+Please+visit+our+website+@www.designerframes.online%0D%0A%0D%0AAll+the+best%2C%0D%0A%0D%0ADramatic+Zoom%0D%0A%0D%0A%0D%0ANote:+We+are+not+spamming+you;+we+visited+your+website+to+get+contact+information.+If+you+don%E2%80%99t+find+this+mail+suitable+please+ask+us+to+%E2%80%9CRemove%E2%80%9D/+%E2%80%9CUnsubscribe%E2%80%9D.%0D%0A

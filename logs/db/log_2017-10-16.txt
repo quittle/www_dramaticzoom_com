@@ -1,0 +1,5 @@
+2017-10-16 8:00:01 - INFO --> getUserByCookie: 
+2017-10-16 8:00:01 - INFO --> getZoomById: register-user=&register-email=lopez5497%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-10-16 8:20:03 - INFO --> getUserByCookie: 
+2017-10-16 8:20:03 - INFO --> getZoomById: register-user=&register-email=etberlin5%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-10-16 10:19:16 - INFO --> getUserByCookie: 

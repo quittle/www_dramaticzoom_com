@@ -1,0 +1,30 @@
+2016-06-29 6:08:03 - INFO --> getUserByCookie: 
+2016-06-29 6:08:03 - INFO --> getZoomById: iSctp
+2016-06-29 6:08:03 - INFO --> incrementZoomById: iSctp
+2016-06-29 6:08:03 - INFO --> increment zoom: iSctp
+2016-06-29 6:08:05 - INFO --> getUserByCookie: 
+2016-06-29 6:42:18 - INFO --> getUserByCookie: 
+2016-06-29 6:42:18 - INFO --> getZoomById: 406.shtml
+2016-06-29 12:10:28 - INFO --> getUserByCookie: 
+2016-06-29 12:10:28 - INFO --> getZoomById: xmlrpc.php
+2016-06-29 12:10:29 - INFO --> getUserByCookie: 
+2016-06-29 12:10:29 - INFO --> getZoomById: blog/robots.txt
+2016-06-29 12:10:29 - INFO --> getUserByCookie: 
+2016-06-29 12:10:29 - INFO --> getZoomById: blog/
+2016-06-29 12:10:29 - INFO --> getUserByCookie: 
+2016-06-29 12:10:29 - INFO --> getZoomById: wordpress/
+2016-06-29 12:10:30 - INFO --> getUserByCookie: 
+2016-06-29 12:10:30 - INFO --> getZoomById: wp/
+2016-06-29 21:44:14 - INFO --> getUserByCookie: 
+2016-06-29 21:44:14 - INFO --> getZoomById: G1YU4
+2016-06-29 21:44:14 - INFO --> incrementZoomById: G1YU4
+2016-06-29 21:44:14 - INFO --> increment zoom: G1YU4
+2016-06-29 21:44:16 - INFO --> getUserByCookie: 
+2016-06-29 21:44:16 - INFO --> getZoomById: iSctp
+2016-06-29 21:44:16 - INFO --> incrementZoomById: iSctp
+2016-06-29 21:44:16 - INFO --> increment zoom: iSctp
+2016-06-29 21:44:17 - INFO --> getUserByCookie: 
+2016-06-29 21:44:20 - INFO --> getUserByCookie: 
+2016-06-29 21:44:20 - INFO --> getZoomById: mbahKb
+2016-06-29 21:44:20 - INFO --> incrementZoomById: mbahKb
+2016-06-29 21:44:20 - INFO --> increment zoom: mbahKb

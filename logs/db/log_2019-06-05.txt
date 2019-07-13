@@ -1,0 +1,37 @@
+2019-06-05 1:12:05 - INFO --> getUserByCookie: 
+2019-06-05 1:12:05 - INFO --> getZoomById: G1YU4
+2019-06-05 1:12:05 - INFO --> incrementZoomById: G1YU4
+2019-06-05 1:12:05 - INFO --> increment zoom: G1YU4
+2019-06-05 1:12:13 - INFO --> getUserByCookie: 
+2019-06-05 1:12:13 - INFO --> getZoomById: G1YU4
+2019-06-05 1:12:13 - INFO --> incrementZoomById: G1YU4
+2019-06-05 1:12:13 - INFO --> increment zoom: G1YU4
+2019-06-05 1:52:23 - INFO --> getUserByCookie: 
+2019-06-05 1:52:23 - INFO --> getZoomById: G1YU4
+2019-06-05 1:52:23 - INFO --> incrementZoomById: G1YU4
+2019-06-05 1:52:23 - INFO --> increment zoom: G1YU4
+2019-06-05 1:52:27 - INFO --> getUserByCookie: 
+2019-06-05 1:52:27 - INFO --> getZoomById: G1YU4
+2019-06-05 1:52:27 - INFO --> incrementZoomById: G1YU4
+2019-06-05 1:52:27 - INFO --> increment zoom: G1YU4
+2019-06-05 1:53:39 - INFO --> getUserByCookie: 
+2019-06-05 1:53:39 - INFO --> getZoomById: .well-known/assetlinks.json
+2019-06-05 2:32:10 - INFO --> getUserByCookie: 
+2019-06-05 2:32:10 - INFO --> getZoomById: ,18.204.16.59
+2019-06-05 2:33:49 - INFO --> getUserByCookie: 
+2019-06-05 2:33:49 - INFO --> getZoomById: iSctp
+2019-06-05 2:33:49 - INFO --> incrementZoomById: iSctp
+2019-06-05 2:33:49 - INFO --> increment zoom: iSctp
+2019-06-05 5:12:02 - INFO --> getUserByCookie: 
+2019-06-05 5:12:02 - INFO --> getZoomById: dayrui/libraries/Chart/ofc_upload_image.php
+2019-06-05 5:12:05 - INFO --> getUserByCookie: 
+2019-06-05 5:12:05 - INFO --> getZoomById: dayrui/libraries/tmp-upload-images/test6079.php
+2019-06-05 5:26:14 - INFO --> getUserByCookie: 
+2019-06-05 5:26:14 - INFO --> getZoomById: ,18.204.16.59
+2019-06-05 9:04:56 - INFO --> getUserByCookie: 
+2019-06-05 10:24:16 - INFO --> getUserByCookie: 
+2019-06-05 10:24:16 - INFO --> getZoomById: wp-login.php
+2019-06-05 11:37:15 - INFO --> getUserByCookie: 
+2019-06-05 11:37:15 - INFO --> getZoomById: wp-login.php
+2019-06-05 22:28:09 - INFO --> getUserByCookie: 
+2019-06-05 22:28:09 - INFO --> getZoomById: search.php

@@ -1,0 +1,55 @@
+2016-06-02 1:59:35 - INFO --> getUserByCookie: 
+2016-06-02 6:09:21 - INFO --> getUserByCookie: 
+2016-06-02 6:09:21 - INFO --> getZoomById: iSctp
+2016-06-02 6:09:21 - INFO --> incrementZoomById: iSctp
+2016-06-02 6:09:21 - INFO --> increment zoom: iSctp
+2016-06-02 6:09:22 - INFO --> getUserByCookie: 
+2016-06-02 6:40:15 - INFO --> getUserByCookie: 
+2016-06-02 6:40:15 - INFO --> getZoomById: M)v(f
+2016-06-02 6:40:15 - INFO --> incrementZoomById: M)v(f
+2016-06-02 6:40:15 - INFO --> increment zoom: M)v(f
+2016-06-02 7:47:23 - INFO --> getUserByCookie: 
+2016-06-02 7:47:23 - INFO --> getZoomById: G1YU4
+2016-06-02 7:47:23 - INFO --> incrementZoomById: G1YU4
+2016-06-02 7:47:23 - INFO --> increment zoom: G1YU4
+2016-06-02 7:47:26 - INFO --> getUserByCookie: 
+2016-06-02 7:47:26 - INFO --> getZoomById: iSctp
+2016-06-02 7:47:26 - INFO --> incrementZoomById: iSctp
+2016-06-02 7:47:26 - INFO --> increment zoom: iSctp
+2016-06-02 9:08:55 - INFO --> getUserByCookie: 
+2016-06-02 9:08:55 - INFO --> getZoomById: trackback/
+2016-06-02 10:12:04 - INFO --> getUserByCookie: 
+2016-06-02 10:12:04 - INFO --> getZoomById: G1YU4
+2016-06-02 10:12:04 - INFO --> incrementZoomById: G1YU4
+2016-06-02 10:12:04 - INFO --> increment zoom: G1YU4
+2016-06-02 10:12:05 - INFO --> getUserByCookie: 
+2016-06-02 15:36:21 - INFO --> getUserByCookie: 
+2016-06-02 16:13:55 - INFO --> getUserByCookie: 
+2016-06-02 16:13:56 - INFO --> getUserByCookie: 
+2016-06-02 16:13:56 - INFO --> getZoomById: isctp
+2016-06-02 16:13:56 - INFO --> incrementZoomById: isctp
+2016-06-02 16:13:56 - INFO --> increment zoom: isctp
+2016-06-02 16:33:39 - INFO --> getUserByCookie: 
+2016-06-02 16:33:39 - INFO --> getZoomById: G1YU4
+2016-06-02 16:33:39 - INFO --> incrementZoomById: G1YU4
+2016-06-02 16:33:39 - INFO --> increment zoom: G1YU4
+2016-06-02 20:49:44 - INFO --> getUserByCookie: 
+2016-06-02 20:49:44 - INFO --> getZoomById: author=1
+2016-06-02 20:55:08 - INFO --> getUserByCookie: 
+2016-06-02 20:55:08 - INFO --> getZoomById: mbahKb
+2016-06-02 20:55:08 - INFO --> incrementZoomById: mbahKb
+2016-06-02 20:55:08 - INFO --> increment zoom: mbahKb
+2016-06-02 21:22:06 - INFO --> getUserByCookie: 
+2016-06-02 21:22:06 - INFO --> getZoomById: iSctp
+2016-06-02 21:22:06 - INFO --> incrementZoomById: iSctp
+2016-06-02 21:22:06 - INFO --> increment zoom: iSctp
+2016-06-02 21:47:37 - INFO --> getUserByCookie: 
+2016-06-02 21:47:37 - INFO --> getZoomById: wp-login.php
+2016-06-02 21:48:39 - INFO --> getUserByCookie: 
+2016-06-02 21:48:39 - INFO --> getZoomById: G1YU4
+2016-06-02 21:48:39 - INFO --> incrementZoomById: G1YU4
+2016-06-02 21:48:39 - INFO --> increment zoom: G1YU4
+2016-06-02 22:36:09 - INFO --> getUserByCookie: 
+2016-06-02 22:36:09 - INFO --> getZoomById: iSctp
+2016-06-02 22:36:09 - INFO --> incrementZoomById: iSctp
+2016-06-02 22:36:09 - INFO --> increment zoom: iSctp

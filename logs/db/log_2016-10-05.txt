@@ -1,0 +1,4 @@
+2016-10-05 16:34:22 - INFO --> getUserByCookie: 
+2016-10-05 16:34:22 - INFO --> getZoomById: iSctp
+2016-10-05 16:34:22 - INFO --> incrementZoomById: iSctp
+2016-10-05 16:34:22 - INFO --> increment zoom: iSctp

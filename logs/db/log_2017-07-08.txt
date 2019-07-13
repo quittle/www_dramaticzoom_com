@@ -1,0 +1,11 @@
+2017-07-08 4:47:53 - INFO --> getUserByCookie: 
+2017-07-08 4:47:53 - INFO --> getZoomById: register-user=&register-email=rebecca%40nonplusultrainc.com&register-pass=&register-pass2=&register-agree=&
+2017-07-08 8:10:24 - INFO --> getUserByCookie: 
+2017-07-08 8:39:32 - INFO --> getUserByCookie: 
+2017-07-08 8:39:32 - INFO --> getZoomById: register-user=&register-email=annebriggs2010%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-07-08 8:55:51 - INFO --> getUserByCookie: 
+2017-07-08 8:55:51 - INFO --> getZoomById: register-user=&register-email=jplanger%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-07-08 20:14:10 - INFO --> getUserByCookie: 
+2017-07-08 20:14:10 - INFO --> getZoomById: register-user=&register-email=isholmes%40sbcglobal.net&register-pass=&register-pass2=&register-agree=&
+2017-07-08 20:41:16 - INFO --> getUserByCookie: 
+2017-07-08 20:41:16 - INFO --> getZoomById: register-user=&register-email=pacevedo%40delpilar-evt.com.ar&register-pass=&register-pass2=&register-agree=&

@@ -1,0 +1,12 @@
+2017-09-30 3:05:25 - INFO --> getUserByCookie: 
+2017-09-30 3:05:25 - INFO --> getZoomById: iSctp
+2017-09-30 3:05:25 - INFO --> incrementZoomById: iSctp
+2017-09-30 3:05:25 - INFO --> increment zoom: iSctp
+2017-09-30 7:34:27 - INFO --> getUserByCookie: 
+2017-09-30 7:34:27 - INFO --> getZoomById: js/mage/cookies.js
+2017-09-30 8:16:49 - INFO --> getUserByCookie: 
+2017-09-30 8:16:49 - INFO --> getZoomById: register-user=&register-email=ks%40harvestfilms.com&register-pass=&register-pass2=&register-agree=&
+2017-09-30 12:38:47 - INFO --> getUserByCookie: 
+2017-09-30 12:38:47 - INFO --> getZoomById: LICENSE.php
+2017-09-30 13:03:13 - INFO --> getUserByCookie: 
+2017-09-30 13:03:13 - INFO --> getZoomById: register-user=&register-email=johnlee028%40gmail.com&register-pass=&register-pass2=&register-agree=&

@@ -1,0 +1,2 @@
+2015-11-30 20:38:16 - INFO --> getUserByCookie: 
+2015-11-30 20:38:16 - INFO --> getZoomById: wp-login.php

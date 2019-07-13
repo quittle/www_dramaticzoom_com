@@ -1,0 +1,29 @@
+2017-02-25 3:29:11 - INFO --> getUserByCookie: 
+2017-02-25 7:11:14 - INFO --> getUserByCookie: 
+2017-02-25 7:11:14 - INFO --> getZoomById: iSctp
+2017-02-25 7:11:14 - INFO --> incrementZoomById: iSctp
+2017-02-25 7:11:14 - INFO --> increment zoom: iSctp
+2017-02-25 8:42:22 - INFO --> getUserByCookie: 
+2017-02-25 11:12:36 - INFO --> getUserByCookie: 
+2017-02-25 11:12:36 - INFO --> getZoomById: iSctp
+2017-02-25 11:12:36 - INFO --> incrementZoomById: iSctp
+2017-02-25 11:12:36 - INFO --> increment zoom: iSctp
+2017-02-25 15:36:39 - INFO --> getUserByCookie: 
+2017-02-25 15:36:39 - INFO --> getZoomById: iSctp
+2017-02-25 15:36:39 - INFO --> incrementZoomById: iSctp
+2017-02-25 15:36:39 - INFO --> increment zoom: iSctp
+2017-02-25 17:30:00 - INFO --> getUserByCookie: 
+2017-02-25 17:30:00 - INFO --> getZoomById: js/otherscript.js
+2017-02-25 17:30:05 - INFO --> getUserByCookie: 
+2017-02-25 17:30:05 - INFO --> getZoomById: js/djuiceui.js
+2017-02-25 17:30:37 - INFO --> getUserByCookie: 
+2017-02-25 17:30:37 - INFO --> getZoomById: js/nodisplay.js
+2017-02-25 17:30:43 - INFO --> getUserByCookie: 
+2017-02-25 17:30:43 - INFO --> getZoomById: js/djuice.js
+2017-02-25 19:20:30 - INFO --> getUserByCookie: 
+2017-02-25 19:40:14 - INFO --> getUserByCookie: 
+2017-02-25 19:40:14 - INFO --> getZoomById: administrator/index.php
+2017-02-25 19:40:14 - INFO --> getUserByCookie: 
+2017-02-25 19:40:14 - INFO --> getZoomById: bitrix/admin/index.php
+2017-02-25 19:40:15 - INFO --> getUserByCookie: 
+2017-02-25 19:40:15 - INFO --> getZoomById: admin/index.php

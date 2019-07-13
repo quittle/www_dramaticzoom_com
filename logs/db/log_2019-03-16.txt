@@ -1,0 +1,19 @@
+2019-03-16 3:10:14 - INFO --> getUserByCookie: 
+2019-03-16 3:10:14 - INFO --> getZoomById: email=cnovas75%40gmail.com&reportType=&description=&
+2019-03-16 3:10:41 - INFO --> getUserByCookie: 
+2019-03-16 3:10:41 - INFO --> getZoomById: mbahKb
+2019-03-16 3:10:41 - INFO --> incrementZoomById: mbahKb
+2019-03-16 3:10:41 - INFO --> increment zoom: mbahKb
+2019-03-16 3:47:09 - INFO --> getUserByCookie: 
+2019-03-16 3:47:09 - INFO --> getZoomById: email=m.p.brancoveanu%40gmail.com&reportType=&description=&
+2019-03-16 3:52:34 - INFO --> getUserByCookie: 
+2019-03-16 3:52:34 - INFO --> getZoomById: fl=i4c
+2019-03-16 3:52:34 - INFO --> incrementZoomById: fl=i4c
+2019-03-16 3:52:34 - INFO --> increment zoom: fl=i4c
+2019-03-16 9:27:56 - INFO --> getUserByCookie: 
+2019-03-16 9:27:56 - INFO --> getZoomById: email=ddemaria%40gmail.com&reportType=&description=&
+2019-03-16 9:45:18 - INFO --> getUserByCookie: 
+2019-03-16 15:01:23 - INFO --> getUserByCookie: 
+2019-03-16 15:01:23 - INFO --> getZoomById: email=monicasborkar%40yahoo.com&reportType=&description=&
+2019-03-16 19:12:34 - INFO --> getUserByCookie: 
+2019-03-16 19:12:34 - INFO --> getZoomById: email=ddemaria%40gmail.com&reportType=&description=&

@@ -1,0 +1,26 @@
+2018-05-15 0:13:37 - INFO --> getUserByCookie: 
+2018-05-15 0:13:37 - INFO --> getZoomById: register-user=&register-email=scallis2004%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-05-15 0:35:04 - INFO --> getUserByCookie: 
+2018-05-15 0:35:04 - INFO --> getZoomById: wp-login.php
+2018-05-15 0:35:29 - INFO --> getUserByCookie: 
+2018-05-15 0:35:29 - INFO --> getZoomById: option=com_user&task=register
+2018-05-15 0:35:37 - INFO --> getUserByCookie: 
+2018-05-15 0:35:37 - INFO --> getZoomById: user/register
+2018-05-15 2:58:50 - INFO --> getUserByCookie: 
+2018-05-15 2:58:50 - INFO --> getZoomById: register-user=&register-email=jshaatal%40fourseasonsnh.com&register-pass=&register-pass2=&register-agree=&
+2018-05-15 6:56:02 - INFO --> getUserByCookie: 
+2018-05-15 6:56:02 - INFO --> getZoomById: G1YU4
+2018-05-15 6:56:02 - INFO --> incrementZoomById: G1YU4
+2018-05-15 6:56:02 - INFO --> increment zoom: G1YU4
+2018-05-15 15:31:47 - INFO --> getUserByCookie: 
+2018-05-15 15:31:47 - INFO --> getZoomById: iSctp
+2018-05-15 15:31:47 - INFO --> incrementZoomById: iSctp
+2018-05-15 15:31:47 - INFO --> increment zoom: iSctp
+2018-05-15 16:04:16 - INFO --> getUserByCookie: 
+2018-05-15 16:04:16 - INFO --> getZoomById: iSctp
+2018-05-15 16:04:16 - INFO --> incrementZoomById: iSctp
+2018-05-15 16:04:16 - INFO --> increment zoom: iSctp
+2018-05-15 16:04:24 - INFO --> getUserByCookie: 
+2018-05-15 16:04:24 - INFO --> getZoomById: iSctp
+2018-05-15 16:04:24 - INFO --> incrementZoomById: iSctp
+2018-05-15 16:04:24 - INFO --> increment zoom: iSctp

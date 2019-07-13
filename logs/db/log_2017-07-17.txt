@@ -1,0 +1,39 @@
+2017-07-17 1:04:43 - INFO --> getUserByCookie: 
+2017-07-17 1:04:43 - INFO --> getZoomById: register-user=&register-email=j.vandebrug%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-07-17 3:50:35 - INFO --> getUserByCookie: 
+2017-07-17 3:50:35 - INFO --> getZoomById: register-user=&register-email=nate.c.vail%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-07-17 5:07:07 - INFO --> getUserByCookie: 
+2017-07-17 7:18:15 - INFO --> getUserByCookie: 
+2017-07-17 9:03:03 - INFO --> getUserByCookie: 
+2017-07-17 14:35:08 - INFO --> getUserByCookie: 
+2017-07-17 14:35:08 - INFO --> getZoomById: register-user=&register-email=ballenincleveland%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-07-17 15:41:36 - INFO --> getUserByCookie: 
+2017-07-17 15:41:36 - INFO --> getZoomById: register-user=&register-email=ballenincleveland%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-07-17 16:04:13 - INFO --> getUserByCookie: 
+2017-07-17 16:04:13 - INFO --> getZoomById: register-user=&register-email=andrewsglor%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-07-17 16:39:46 - INFO --> getUserByCookie: 
+2017-07-17 16:39:46 - INFO --> getZoomById: register-user=&register-email=andrewsglor%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-07-17 16:54:08 - INFO --> getUserByCookie: 
+2017-07-17 16:54:08 - INFO --> getZoomById: register-user=&register-email=rbriese%40new.rr.com&register-pass=&register-pass2=&register-agree=&
+2017-07-17 16:58:14 - INFO --> getUserByCookie: 
+2017-07-17 16:58:14 - INFO --> getZoomById: register-user=&register-email=jasonmbuchanan%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-07-17 17:49:12 - INFO --> getUserByCookie: 
+2017-07-17 17:49:12 - INFO --> getZoomById: register-user=&register-email=mgagnon2%40cox.net&register-pass=&register-pass2=&register-agree=&
+2017-07-17 18:52:46 - INFO --> getUserByCookie: 
+2017-07-17 18:52:46 - INFO --> getZoomById: register-user=&register-email=talbott4%40charter.net&register-pass=&register-pass2=&register-agree=&
+2017-07-17 19:17:46 - INFO --> getUserByCookie: 
+2017-07-17 19:17:46 - INFO --> getZoomById: register-user=&register-email=esmariev%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-07-17 20:01:43 - INFO --> getUserByCookie: 
+2017-07-17 20:01:43 - INFO --> getZoomById: register-user=&register-email=robinson25748%40sbcglobal.net&register-pass=&register-pass2=&register-agree=&
+2017-07-17 20:08:36 - INFO --> getUserByCookie: 
+2017-07-17 20:08:36 - INFO --> getZoomById: register-user=&register-email=natngail2011%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-07-17 20:31:41 - INFO --> getUserByCookie: 
+2017-07-17 20:31:41 - INFO --> getZoomById: iSctp
+2017-07-17 20:31:41 - INFO --> incrementZoomById: iSctp
+2017-07-17 20:31:41 - INFO --> increment zoom: iSctp
+2017-07-17 20:31:42 - INFO --> getUserByCookie: 
+2017-07-17 20:31:42 - INFO --> getZoomById: iSctp
+2017-07-17 20:31:42 - INFO --> incrementZoomById: iSctp
+2017-07-17 20:31:42 - INFO --> increment zoom: iSctp
+2017-07-17 22:21:00 - INFO --> getUserByCookie: 
+2017-07-17 22:21:00 - INFO --> getZoomById: register-user=&register-email=pete%40620-jones.com&register-pass=&register-pass2=&register-agree=&

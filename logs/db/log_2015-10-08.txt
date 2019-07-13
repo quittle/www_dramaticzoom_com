@@ -1,0 +1,12 @@
+2015-10-08 0:25:12 - INFO --> getUserByCookie: 
+2015-10-08 0:25:12 - INFO --> getZoomById: wp-admin/setup-config.php
+2015-10-08 1:11:44 - INFO --> getUserByCookie: 
+2015-10-08 1:11:44 - INFO --> getZoomById: news/wp-admin/setup-config.php
+2015-10-08 1:34:23 - INFO --> getUserByCookie: 
+2015-10-08 1:34:23 - INFO --> getZoomById: checkout/
+2015-10-08 1:46:58 - INFO --> getUserByCookie: 
+2015-10-08 1:46:58 - INFO --> getZoomById: wp-admin/setup-config.php
+2015-10-08 2:00:31 - INFO --> getUserByCookie: 
+2015-10-08 2:00:31 - INFO --> getZoomById: iSctp
+2015-10-08 2:00:31 - INFO --> incrementZoomById: iSctp
+2015-10-08 2:00:31 - INFO --> increment zoom: iSctp

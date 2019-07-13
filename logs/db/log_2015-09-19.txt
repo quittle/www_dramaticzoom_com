@@ -1,0 +1,18 @@
+2015-09-19 0:05:37 - INFO --> getUserByCookie: 
+2015-09-19 0:05:37 - INFO --> getZoomById: iSctp
+2015-09-19 0:05:37 - INFO --> incrementZoomById: iSctp
+2015-09-19 0:05:37 - INFO --> increment zoom: iSctp
+2015-09-19 2:02:25 - INFO --> getUserByCookie: 
+2015-09-19 5:38:21 - INFO --> getUserByCookie: 
+2015-09-19 5:38:21 - INFO --> getZoomById: mbahKb
+2015-09-19 5:38:21 - INFO --> incrementZoomById: mbahKb
+2015-09-19 5:38:21 - INFO --> increment zoom: mbahKb
+2015-09-19 7:01:16 - INFO --> getUserByCookie: 
+2015-09-19 12:25:35 - INFO --> getUserByCookie: 
+2015-09-19 12:25:35 - INFO --> getZoomById: M)v(f
+2015-09-19 12:25:35 - INFO --> incrementZoomById: M)v(f
+2015-09-19 12:25:35 - INFO --> increment zoom: M)v(f
+2015-09-19 20:00:44 - INFO --> getUserByCookie: 
+2015-09-19 20:00:44 - INFO --> getZoomById: mbahKb
+2015-09-19 20:00:44 - INFO --> incrementZoomById: mbahKb
+2015-09-19 20:00:44 - INFO --> increment zoom: mbahKb

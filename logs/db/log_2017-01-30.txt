@@ -1,0 +1,8 @@
+2017-01-30 9:34:29 - INFO --> getUserByCookie: 
+2017-01-30 14:05:57 - INFO --> getUserByCookie: 
+2017-01-30 14:05:57 - INFO --> getZoomById: wp-login.php
+2017-01-30 14:06:02 - INFO --> getUserByCookie: 
+2017-01-30 14:06:02 - INFO --> getZoomById: option=com_user&task=register
+2017-01-30 14:06:06 - INFO --> getUserByCookie: 
+2017-01-30 14:06:06 - INFO --> getZoomById: user/register
+2017-01-30 22:01:04 - INFO --> getUserByCookie: 

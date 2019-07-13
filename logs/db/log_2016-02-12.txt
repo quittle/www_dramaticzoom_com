@@ -1,0 +1,7 @@
+2016-02-12 1:09:47 - INFO --> getUserByCookie: 
+2016-02-12 1:09:47 - INFO --> getZoomById: language/en-GB/en-GB.xml
+2016-02-12 9:59:33 - INFO --> getUserByCookie: 
+2016-02-12 10:03:49 - INFO --> getUserByCookie: 
+2016-02-12 10:03:49 - INFO --> getZoomById: G1YU4
+2016-02-12 10:03:49 - INFO --> incrementZoomById: G1YU4
+2016-02-12 10:03:49 - INFO --> increment zoom: G1YU4

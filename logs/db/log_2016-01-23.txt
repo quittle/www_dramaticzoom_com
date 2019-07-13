@@ -1,0 +1,18 @@
+2016-01-23 1:13:06 - INFO --> getUserByCookie: 
+2016-01-23 1:13:06 - INFO --> getZoomById: mbahKb
+2016-01-23 1:13:06 - INFO --> incrementZoomById: mbahKb
+2016-01-23 1:13:06 - INFO --> increment zoom: mbahKb
+2016-01-23 2:08:35 - INFO --> getUserByCookie: 
+2016-01-23 5:08:23 - INFO --> getUserByCookie: 
+2016-01-23 5:08:23 - INFO --> getZoomById: iSctp
+2016-01-23 5:08:23 - INFO --> incrementZoomById: iSctp
+2016-01-23 5:08:23 - INFO --> increment zoom: iSctp
+2016-01-23 7:17:26 - INFO --> getUserByCookie: 
+2016-01-23 7:17:26 - INFO --> getZoomById: yeHB_b
+2016-01-23 7:17:26 - INFO --> incrementZoomById: yeHB_b
+2016-01-23 7:17:26 - INFO --> increment zoom: yeHB_b
+2016-01-23 12:08:51 - INFO --> getUserByCookie: 
+2016-01-23 12:08:51 - INFO --> getZoomById: G1YU4
+2016-01-23 12:08:51 - INFO --> incrementZoomById: G1YU4
+2016-01-23 12:08:51 - INFO --> increment zoom: G1YU4
+2016-01-23 21:52:39 - INFO --> getUserByCookie: 

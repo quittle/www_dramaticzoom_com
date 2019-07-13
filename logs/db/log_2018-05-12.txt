@@ -1,0 +1,7 @@
+2018-05-12 5:51:42 - INFO --> getUserByCookie: 
+2018-05-12 5:51:42 - INFO --> getZoomById: register-user=&register-email=kelvin%40noordkaap.nl&register-pass=&register-pass2=&register-agree=&
+2018-05-12 22:02:17 - INFO --> getUserByCookie: 
+2018-05-12 22:02:17 - INFO --> getZoomById: mbahKb
+2018-05-12 22:02:17 - INFO --> incrementZoomById: mbahKb
+2018-05-12 22:02:17 - INFO --> increment zoom: mbahKb
+2018-05-12 23:08:29 - INFO --> getUserByCookie: 

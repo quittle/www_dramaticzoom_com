@@ -1,0 +1,3 @@
+2018-11-01 18:47:24 - INFO --> getUserByCookie: 
+2018-11-01 18:47:24 - INFO --> getZoomById: sitemap.xml
+2018-11-01 19:59:04 - INFO --> getUserByCookie: 

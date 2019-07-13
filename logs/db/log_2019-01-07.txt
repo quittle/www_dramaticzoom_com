@@ -1,0 +1,34 @@
+2019-01-07 3:11:28 - INFO --> getUserByCookie: 
+2019-01-07 3:11:28 - INFO --> getZoomById: .well-known/acme-challenge/xWuAz9bRAfeF4tSKJfwrM_QW7CO05L6zFK_1ugXEpmQ
+2019-01-07 3:11:28 - INFO --> getUserByCookie: 
+2019-01-07 3:11:28 - INFO --> getZoomById: .well-known/acme-challenge/X_RCZEsiSe5K-sU-JE0GTD7OA-Z7aDbKsC2u91YWhRk
+2019-01-07 3:11:28 - INFO --> getUserByCookie: 
+2019-01-07 3:11:28 - INFO --> getZoomById: .well-known/acme-challenge/os-PBJNEejfS28jwhe1KmBmkZR_NXySVJmMfRlnejNE
+2019-01-07 3:11:28 - INFO --> getUserByCookie: 
+2019-01-07 3:11:28 - INFO --> getZoomById: .well-known/acme-challenge/jkLxvz3v77DphS-PLiH9uhhOrPCdNgXj5dBOi56N5ws
+2019-01-07 3:46:19 - INFO --> getUserByCookie: 
+2019-01-07 3:46:19 - INFO --> getZoomById: email=thegiftedbond%40gmail.com&reportType=&description=&
+2019-01-07 4:24:13 - INFO --> getUserByCookie: 
+2019-01-07 4:24:13 - INFO --> getZoomById: email=lynchdavid%40aol.com&reportType=&description=&
+2019-01-07 4:36:50 - INFO --> getUserByCookie: 
+2019-01-07 4:36:50 - INFO --> getZoomById: email=suhioi0220%40gmail.com&reportType=&description=&
+2019-01-07 11:17:10 - INFO --> getUserByCookie: 
+2019-01-07 11:17:10 - INFO --> getZoomById: plus/advancedsearch.php
+2019-01-07 11:17:12 - INFO --> getUserByCookie: 
+2019-01-07 11:17:12 - INFO --> getZoomById: plus/mytag_js.php
+2019-01-07 11:38:40 - INFO --> getUserByCookie: 
+2019-01-07 11:38:40 - INFO --> getZoomById: email=jgkortis%40gmail.com&reportType=&description=&
+2019-01-07 12:36:24 - INFO --> getUserByCookie: 
+2019-01-07 12:36:24 - INFO --> getZoomById: email=suhioi0220%40gmail.com&reportType=&description=&
+2019-01-07 13:24:43 - INFO --> getUserByCookie: 
+2019-01-07 13:24:43 - INFO --> getZoomById: email=suhioi0220%40gmail.com&reportType=&description=&
+2019-01-07 18:07:26 - INFO --> getUserByCookie: 
+2019-01-07 18:07:26 - INFO --> getZoomById: email=kkmovin%40aol.com&reportType=&description=&
+2019-01-07 18:13:01 - INFO --> getUserByCookie: 
+2019-01-07 18:13:01 - INFO --> getZoomById: email=bwilliams%40sprintmedical.com&reportType=&description=&
+2019-01-07 18:23:47 - INFO --> getUserByCookie: 
+2019-01-07 18:23:47 - INFO --> getZoomById: email=ecstaticnischal%40gmail.com&reportType=&description=&
+2019-01-07 22:29:22 - INFO --> getUserByCookie: 
+2019-01-07 22:29:22 - INFO --> getZoomById: email=hilda.zado%40gmail.com&reportType=&description=&
+2019-01-07 23:11:10 - INFO --> getUserByCookie: 
+2019-01-07 23:11:10 - INFO --> getZoomById: email=tdallaire%40dallairecpa.com&reportType=&description=&

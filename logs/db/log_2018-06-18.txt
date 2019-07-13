@@ -1,0 +1,6 @@
+2018-06-18 3:03:51 - INFO --> getUserByCookie: 
+2018-06-18 3:03:51 - INFO --> getZoomById: wp-installation.php
+2018-06-18 23:10:57 - INFO --> getUserByCookie: 
+2018-06-18 23:10:57 - INFO --> getZoomById: iSctp
+2018-06-18 23:10:57 - INFO --> incrementZoomById: iSctp
+2018-06-18 23:10:57 - INFO --> increment zoom: iSctp

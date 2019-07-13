@@ -1,0 +1,81 @@
+2019-04-05 0:20:13 - INFO --> getUserByCookie: 
+2019-04-05 0:20:13 - INFO --> getZoomById: iSctp
+2019-04-05 0:20:13 - INFO --> incrementZoomById: iSctp
+2019-04-05 0:20:13 - INFO --> increment zoom: iSctp
+2019-04-05 3:51:22 - INFO --> getUserByCookie: 
+2019-04-05 3:51:22 - INFO --> getZoomById: email=jm88%40gmail.com&reportType=&description=&
+2019-04-05 3:55:54 - INFO --> getUserByCookie: 
+2019-04-05 3:55:54 - INFO --> getZoomById: email=chrisaturn%40aol.com&reportType=&description=&
+2019-04-05 4:20:41 - INFO --> getUserByCookie: 
+2019-04-05 4:20:41 - INFO --> getZoomById: email=jnavorski%40aol.com&reportType=&description=&
+2019-04-05 4:21:46 - INFO --> getUserByCookie: 
+2019-04-05 4:21:46 - INFO --> getZoomById: email=duckshark599%40gmail.com&reportType=&description=&
+2019-04-05 5:09:06 - INFO --> getUserByCookie: 
+2019-04-05 5:09:06 - INFO --> getZoomById: iSctp
+2019-04-05 5:09:06 - INFO --> incrementZoomById: iSctp
+2019-04-05 5:09:06 - INFO --> increment zoom: iSctp
+2019-04-05 6:37:44 - INFO --> getUserByCookie: 
+2019-04-05 6:37:44 - INFO --> getZoomById: dayrui/libraries/Chart/ofc_upload_image.php
+2019-04-05 6:37:50 - INFO --> getUserByCookie: 
+2019-04-05 6:37:50 - INFO --> getZoomById: dayrui/libraries/tmp-upload-images/test3888.php
+2019-04-05 8:27:43 - INFO --> getUserByCookie: 
+2019-04-05 8:27:46 - INFO --> getUserByCookie: 
+2019-04-05 8:27:46 - INFO --> getZoomById: reportType=Content+Problem&email=eric%40talkwithcustomer.com&description=Hello%2C%0D%0A%0D%0AYou+have+a+website%2C+right%3F+%0D%0A++%0D%0AOf+course+you+do.+I+found+dramaticzoom.com+today.%0D%0A%0D%0AIt+gets+traffic+every+day+%E2%80%93+that+you%E2%80%99re+probably+spending+$2+/+$4+/+$10+or+more+a+click+to+get.++Not+including+all+of+the+work+you+put+into+creating+social+media%2C+videos%2C+blog+posts%2C+emails%2C+and+so+on.%0D%0A%0D%0ASo+you%E2%80%99re+investing+seriously+in+getting+people+to+that+site.%0D%0A%0D%0ABut+how%E2%80%99s+it+working%3F++Great%3F+Okay%3F++Not+so+much%3F%0D%0A%0D%0AIf+that+answer+could+be+better%2C+then+it%E2%80%99s+likely+you%E2%80%99re+putting+a+lot+of+time%2C+effort%2C+and+money+into+an+approach+that%E2%80%99s+not+paying+off+like+it+should.%0D%0A%0D%0ANow%E2%80%A6+imagine+doubling+your+lead+conversion+in+just+minutes%E2%80%A6+In+fact%2C+I%E2%80%99ll+go+even+better.%0D%0A+%0D%0AYou+could+actually+get+up+to+100X+more+conversions%21%0D%0A%0D%0AI%E2%80%99m+not+making+this+up.++As+Chris+Smith%2C+best-selling+author+of+The+Conversion+Code+says:%0D%0A-Speed+is+essential+-+there+is+a+100x+decrease+in+Leads+when+a+Lead+is+contacted+within+14+minutes+vs+being+contacted+within+5+minutes.%0D%0A%0D%0AHe%E2%80%99s+backed+up+by+a+study+at+MIT+that+found+the+odds+of+contacting+a+lead+will+increase+by+100+times+if+attempted+in+5+minutes+or+less.%0D%0A%0D%0AAgain%2C+out+of+the+100s+of+visitors+to+your+website%2C+how+many+actually+call+to+become+clients%3F%0D%0A%0D%0AWell%2C+you+can+significantly+increase+the+number+of+calls+you+get+%E2%80%93+with+ZERO+extra+effort.%0D%0A%0D%0AOur+software%2C+Talk+With+Customer%2C+makes+it+easy%2C+simple%2C+and+fast+%E2%80%93+in+fact%2C+you+can+start+getting+more+calls+today%E2%80%A6+and+at+absolutely+no+charge+to+you.%0D%0A%0D%0ACLICK+HERE+http://www.talkwithcustomer.com+to+find+out+how.%0D%0A%0D%0ASincerely%2C%0D%0A%0D%0AEric+Jones%0D%0A%0D%0APS:+Don%E2%80%99t+just+take+my+word+for+it%2C+TalkWithCustomer+works:%0D%0A-EMA+has+been+looking+for+ways+to+reach+out+to+an+audience.+TalkWithCustomer+so+far+is+the+most+direct+call+of+action.+It+has+produced+above+average+closing+ratios+and+we+are+thrilled.+Thank+you+for+providing+a+real+and+effective+tool+to+generate+REAL+leads.+-+Patrick+MontesDeOca%2C+Ema2Trade%0D%0A%0D%0ABest+of+all%2C+act+now+to+get+a+no-cost+14-Day+Test+Drive+%E2%80%93+our+gift+to+you+just+for+giving+TalkWithCustomer+a+try.+%0D%0A%0D%0ACLICK+HERE+http://www.talkwithcustomer.com+to+start+converting+up+to+100X+more+leads+today%21%0D%0A%0D%0A%0D%0AIf+you%27d+like+to+unsubscribe+click+here.+http://liveserveronline.com/talkwithcustomer.aspx%3Fd%3Ddramaticzoom.com%0D%0A
+2019-04-05 10:01:24 - INFO --> getUserByCookie: 
+2019-04-05 10:01:24 - INFO --> getZoomById: email=tothman02%40aol.com&reportType=&description=&
+2019-04-05 11:28:45 - INFO --> getUserByCookie: 
+2019-04-05 11:28:45 - INFO --> getZoomById: email=rainbow_cookie1%40yahoo.com&reportType=&description=&
+2019-04-05 13:11:59 - INFO --> getUserByCookie: 
+2019-04-05 13:11:59 - INFO --> getZoomById: email=michael.waldemair%40googlemail.com&reportType=&description=&
+2019-04-05 15:52:18 - INFO --> getUserByCookie: 
+2019-04-05 15:52:18 - INFO --> getZoomById: iSctp
+2019-04-05 15:52:18 - INFO --> incrementZoomById: iSctp
+2019-04-05 15:52:18 - INFO --> increment zoom: iSctp
+2019-04-05 16:26:11 - INFO --> getUserByCookie: 
+2019-04-05 16:26:11 - INFO --> getZoomById: email=samibrsl%40gmail.com&reportType=&description=&
+2019-04-05 16:51:47 - INFO --> getUserByCookie: 
+2019-04-05 16:51:47 - INFO --> getZoomById: email=soinila%40sbcglobal.net&reportType=&description=&
+2019-04-05 17:24:32 - INFO --> getUserByCookie: 
+2019-04-05 17:24:32 - INFO --> getZoomById: email=southway.electric%40gmail.com&reportType=&description=&
+2019-04-05 18:09:18 - INFO --> getUserByCookie: 
+2019-04-05 18:09:18 - INFO --> getZoomById: email=ysheenal%40yahoo.com&reportType=&description=&
+2019-04-05 19:07:17 - INFO --> getUserByCookie: 
+2019-04-05 19:07:17 - INFO --> getZoomById: hrPnS
+2019-04-05 19:07:17 - INFO --> incrementZoomById: hrPnS
+2019-04-05 19:07:17 - INFO --> increment zoom: hrPnS
+2019-04-05 19:19:03 - INFO --> getUserByCookie: 
+2019-04-05 19:19:03 - INFO --> getZoomById: yeHB_b
+2019-04-05 19:19:03 - INFO --> incrementZoomById: yeHB_b
+2019-04-05 19:19:03 - INFO --> increment zoom: yeHB_b
+2019-04-05 19:31:12 - INFO --> getUserByCookie: 
+2019-04-05 19:31:12 - INFO --> getZoomById: w6tlCc
+2019-04-05 19:31:12 - INFO --> incrementZoomById: w6tlCc
+2019-04-05 19:31:12 - INFO --> increment zoom: w6tlCc
+2019-04-05 19:40:51 - INFO --> getUserByCookie: 
+2019-04-05 19:40:51 - INFO --> getZoomById: email=tobysullivan24%40gmail.com&reportType=&description=&
+2019-04-05 19:57:59 - INFO --> getUserByCookie: 
+2019-04-05 19:57:59 - INFO --> getZoomById: email=ysheenal%40yahoo.com&reportType=&description=&
+2019-04-05 20:18:32 - INFO --> getUserByCookie: 
+2019-04-05 20:18:32 - INFO --> getZoomById: G1YU4
+2019-04-05 20:18:32 - INFO --> incrementZoomById: G1YU4
+2019-04-05 20:18:32 - INFO --> increment zoom: G1YU4
+2019-04-05 20:24:56 - INFO --> getUserByCookie: 
+2019-04-05 20:24:56 - INFO --> getZoomById: w+JPX
+2019-04-05 20:24:56 - INFO --> incrementZoomById: w+JPX
+2019-04-05 20:24:56 - INFO --> increment zoom: w+JPX
+2019-04-05 20:44:41 - INFO --> getUserByCookie: 
+2019-04-05 20:44:41 - INFO --> getZoomById: email=rmarshall9591%40aol.com&reportType=&description=&
+2019-04-05 21:00:16 - INFO --> getUserByCookie: 
+2019-04-05 21:00:16 - INFO --> getZoomById: email=codycarroll97%40gmail.com&reportType=&description=&
+2019-04-05 21:00:29 - INFO --> getUserByCookie: 
+2019-04-05 21:00:29 - INFO --> getZoomById: email=vmii%40sbcglobal.net&reportType=&description=&
+2019-04-05 21:09:49 - INFO --> getUserByCookie: 
+2019-04-05 21:09:49 - INFO --> getZoomById: email=southway.electric%40gmail.com&reportType=&description=&
+2019-04-05 21:30:35 - INFO --> getUserByCookie: 
+2019-04-05 21:30:35 - INFO --> getZoomById: search.php
+2019-04-05 21:42:07 - INFO --> getUserByCookie: 
+2019-04-05 21:42:07 - INFO --> getZoomById: email=gdhilliard2%40sbcglobal.net&reportType=&description=&
+2019-04-05 21:58:39 - INFO --> getUserByCookie: 
+2019-04-05 21:58:39 - INFO --> getZoomById: email=kzielinski%40hdai.com&reportType=&description=&
+2019-04-05 23:13:47 - INFO --> getUserByCookie: 
+2019-04-05 23:13:47 - INFO --> getZoomById: email=travisandbrenda5103%40gmail.com&reportType=&description=&

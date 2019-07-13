@@ -1,0 +1,10 @@
+2018-08-27 19:18:20 - INFO --> getUserByCookie: 
+2018-08-27 19:18:20 - INFO --> getZoomById: huge-wallpapers/68434068.html
+2018-08-27 19:18:40 - INFO --> getUserByCookie: 
+2018-08-27 19:18:40 - INFO --> getZoomById: huge-wallpapers/68434068.html
+2018-08-27 19:18:43 - INFO --> getUserByCookie: 
+2018-08-27 19:18:43 - INFO --> getZoomById: huge-wallpapers/68404403.html
+2018-08-27 19:20:01 - INFO --> getUserByCookie: 
+2018-08-27 19:20:01 - INFO --> getZoomById: iSctp
+2018-08-27 19:20:01 - INFO --> incrementZoomById: iSctp
+2018-08-27 19:20:01 - INFO --> increment zoom: iSctp

@@ -1,0 +1,28 @@
+2016-06-13 1:37:13 - INFO --> getUserByCookie: 
+2016-06-13 1:37:13 - INFO --> getZoomById: iSctp
+2016-06-13 1:37:13 - INFO --> incrementZoomById: iSctp
+2016-06-13 1:37:13 - INFO --> increment zoom: iSctp
+2016-06-13 3:33:30 - INFO --> getUserByCookie: 
+2016-06-13 3:33:30 - INFO --> getZoomById: iSctp
+2016-06-13 3:33:30 - INFO --> incrementZoomById: iSctp
+2016-06-13 3:33:30 - INFO --> increment zoom: iSctp
+2016-06-13 7:07:38 - INFO --> getUserByCookie: 
+2016-06-13 7:07:38 - INFO --> getZoomById: G1YU4
+2016-06-13 7:07:38 - INFO --> incrementZoomById: G1YU4
+2016-06-13 7:07:38 - INFO --> increment zoom: G1YU4
+2016-06-13 11:05:50 - INFO --> getUserByCookie: 
+2016-06-13 11:05:50 - INFO --> getZoomById: wordpress/
+2016-06-13 14:16:35 - INFO --> getUserByCookie: 
+2016-06-13 14:16:35 - INFO --> getZoomById: w+JPX
+2016-06-13 14:16:35 - INFO --> incrementZoomById: w+JPX
+2016-06-13 14:16:35 - INFO --> increment zoom: w+JPX
+2016-06-13 18:15:46 - INFO --> getUserByCookie: 
+2016-06-13 18:15:46 - INFO --> getZoomById: iSctp
+2016-06-13 18:15:46 - INFO --> incrementZoomById: iSctp
+2016-06-13 18:15:46 - INFO --> increment zoom: iSctp
+2016-06-13 18:15:48 - INFO --> getUserByCookie: 
+2016-06-13 21:41:45 - INFO --> getUserByCookie: 
+2016-06-13 21:50:44 - INFO --> getUserByCookie: 
+2016-06-13 21:50:44 - INFO --> getZoomById: G1YU4
+2016-06-13 21:50:44 - INFO --> incrementZoomById: G1YU4
+2016-06-13 21:50:44 - INFO --> increment zoom: G1YU4

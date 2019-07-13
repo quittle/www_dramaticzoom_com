@@ -1,0 +1,10 @@
+2018-12-20 2:44:26 - INFO --> getUserByCookie: 
+2018-12-20 2:44:26 - INFO --> getZoomById: .well-known/assetlinks.json
+2018-12-20 6:33:03 - INFO --> getUserByCookie: 
+2018-12-20 8:26:24 - INFO --> getUserByCookie: 
+2018-12-20 8:26:24 - INFO --> getZoomById: mbahKb
+2018-12-20 8:26:24 - INFO --> incrementZoomById: mbahKb
+2018-12-20 8:26:24 - INFO --> increment zoom: mbahKb
+2018-12-20 14:38:14 - INFO --> getUserByCookie: 
+2018-12-20 14:38:14 - INFO --> getZoomById: xmlrpc.php
+2018-12-20 23:58:00 - INFO --> getUserByCookie: 

@@ -1,0 +1,20 @@
+2018-02-17 0:29:34 - INFO --> getUserByCookie: 
+2018-02-17 0:29:34 - INFO --> getZoomById: connectors/security/login.php
+2018-02-17 1:31:48 - INFO --> getUserByCookie: 
+2018-02-17 1:31:48 - INFO --> getZoomById: register-user=&register-email=cgajjar82%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2018-02-17 1:33:22 - INFO --> getUserByCookie: 
+2018-02-17 1:33:22 - INFO --> getZoomById: register-user=&register-email=jheca83%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2018-02-17 5:06:30 - INFO --> getUserByCookie: 
+2018-02-17 5:06:30 - INFO --> getZoomById: register-user=&register-email=aneta%40cmsmaryland.com&register-pass=&register-pass2=&register-agree=&
+2018-02-17 12:14:16 - INFO --> getUserByCookie: 
+2018-02-17 12:14:16 - INFO --> getZoomById: G1YU4
+2018-02-17 12:14:16 - INFO --> incrementZoomById: G1YU4
+2018-02-17 12:14:16 - INFO --> increment zoom: G1YU4
+2018-02-17 13:09:42 - INFO --> getUserByCookie: 
+2018-02-17 13:09:42 - INFO --> getZoomById: iSctp
+2018-02-17 13:09:42 - INFO --> incrementZoomById: iSctp
+2018-02-17 13:09:42 - INFO --> increment zoom: iSctp
+2018-02-17 19:10:59 - INFO --> getUserByCookie: 
+2018-02-17 19:10:59 - INFO --> getZoomById: register-user=&register-email=a.griese%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-02-17 22:30:38 - INFO --> getUserByCookie: 
+2018-02-17 22:36:20 - INFO --> getUserByCookie: 

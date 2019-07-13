@@ -1,0 +1,31 @@
+2018-10-01 0:49:50 - INFO --> getUserByCookie: 
+2018-10-01 0:49:50 - INFO --> getZoomById: iSctp
+2018-10-01 0:49:50 - INFO --> incrementZoomById: iSctp
+2018-10-01 0:49:50 - INFO --> increment zoom: iSctp
+2018-10-01 1:26:05 - INFO --> getUserByCookie: 
+2018-10-01 1:26:05 - INFO --> getZoomById: isctp
+2018-10-01 1:26:05 - INFO --> incrementZoomById: isctp
+2018-10-01 1:26:05 - INFO --> increment zoom: isctp
+2018-10-01 2:40:09 - INFO --> getUserByCookie: 
+2018-10-01 2:40:09 - INFO --> getZoomById: status
+2018-10-01 2:40:15 - INFO --> getUserByCookie: 
+2018-10-01 2:40:15 - INFO --> getZoomById: phpMyAdmin/scripts/setup.php
+2018-10-01 2:40:22 - INFO --> getUserByCookie: 
+2018-10-01 2:40:22 - INFO --> getZoomById: phpmyadmin/scripts/setup.php
+2018-10-01 2:40:27 - INFO --> getUserByCookie: 
+2018-10-01 2:40:27 - INFO --> getZoomById: _phpMyAdmin/scripts/setup.php
+2018-10-01 2:40:30 - INFO --> getUserByCookie: 
+2018-10-01 2:40:30 - INFO --> getZoomById: admin/scripts/setup.php
+2018-10-01 2:40:34 - INFO --> getUserByCookie: 
+2018-10-01 2:40:34 - INFO --> getZoomById: scripts/setup.php
+2018-10-01 2:40:37 - INFO --> getUserByCookie: 
+2018-10-01 2:40:37 - INFO --> getZoomById: pma/scripts/setup.php
+2018-10-01 6:45:50 - INFO --> getUserByCookie: 
+2018-10-01 6:45:50 - INFO --> getZoomById: cmd=echo(344444443%2b1);
+2018-10-01 9:58:29 - INFO --> getUserByCookie: 
+2018-10-01 9:58:29 - INFO --> getZoomById: wp-updats.php
+2018-10-01 18:01:19 - INFO --> getUserByCookie: 
+2018-10-01 20:50:39 - INFO --> getUserByCookie: 
+2018-10-01 20:50:39 - INFO --> getZoomById: G1YU4
+2018-10-01 20:50:39 - INFO --> incrementZoomById: G1YU4
+2018-10-01 20:50:39 - INFO --> increment zoom: G1YU4

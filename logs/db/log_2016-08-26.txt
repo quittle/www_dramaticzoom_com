@@ -1,0 +1,35 @@
+2016-08-26 0:01:48 - INFO --> getUserByCookie: 
+2016-08-26 0:01:48 - INFO --> getZoomById: iSctp
+2016-08-26 0:01:48 - INFO --> incrementZoomById: iSctp
+2016-08-26 0:01:48 - INFO --> increment zoom: iSctp
+2016-08-26 1:51:26 - INFO --> getUserByCookie: 
+2016-08-26 1:51:26 - INFO --> getZoomById: w+JPX
+2016-08-26 1:51:26 - INFO --> incrementZoomById: w+JPX
+2016-08-26 1:51:26 - INFO --> increment zoom: w+JPX
+2016-08-26 10:00:58 - INFO --> getUserByCookie: 
+2016-08-26 10:00:58 - INFO --> getZoomById: text/css
+2016-08-26 10:00:59 - INFO --> getUserByCookie: 
+2016-08-26 10:00:59 - INFO --> getZoomById: js/text/css
+2016-08-26 10:01:02 - INFO --> getUserByCookie: 
+2016-08-26 10:01:02 - INFO --> getZoomById: text/plain
+2016-08-26 10:01:04 - INFO --> getUserByCookie: 
+2016-08-26 10:01:04 - INFO --> getZoomById: js/application/x-www-form-urlencoded
+2016-08-26 10:01:05 - INFO --> getUserByCookie: 
+2016-08-26 10:01:05 - INFO --> getZoomById: js/m.
+2016-08-26 10:01:06 - INFO --> getUserByCookie: 
+2016-08-26 10:01:06 - INFO --> getZoomById: application/x-www-form-urlencoded
+2016-08-26 10:01:08 - INFO --> getUserByCookie: 
+2016-08-26 10:01:08 - INFO --> getZoomById: js/text/plain
+2016-08-26 10:01:11 - INFO --> getUserByCookie: 
+2016-08-26 10:01:16 - INFO --> getUserByCookie: 
+2016-08-26 10:01:16 - INFO --> getZoomById: text/html
+2016-08-26 10:01:17 - INFO --> getUserByCookie: 
+2016-08-26 10:01:17 - INFO --> getZoomById: js/text/html
+2016-08-26 11:41:09 - INFO --> getUserByCookie: 
+2016-08-26 11:41:09 - INFO --> getZoomById: w6tlCc
+2016-08-26 11:41:09 - INFO --> incrementZoomById: w6tlCc
+2016-08-26 11:41:09 - INFO --> increment zoom: w6tlCc
+2016-08-26 23:13:43 - INFO --> getUserByCookie: 
+2016-08-26 23:13:43 - INFO --> getZoomById: w6tlCc
+2016-08-26 23:13:43 - INFO --> incrementZoomById: w6tlCc
+2016-08-26 23:13:43 - INFO --> increment zoom: w6tlCc

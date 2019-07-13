@@ -1,0 +1,24 @@
+2018-12-09 0:52:34 - INFO --> getUserByCookie: 
+2018-12-09 0:52:34 - INFO --> getZoomById: email=martystanley%40alteringoutcomes.com&reportType=&description=&
+2018-12-09 4:12:48 - INFO --> getUserByCookie: 
+2018-12-09 4:12:48 - INFO --> getZoomById: w6tlCc
+2018-12-09 4:12:48 - INFO --> incrementZoomById: w6tlCc
+2018-12-09 4:12:48 - INFO --> increment zoom: w6tlCc
+2018-12-09 5:32:05 - INFO --> getUserByCookie: 
+2018-12-09 5:32:05 - INFO --> getZoomById: .well-known/assetlinks.json
+2018-12-09 7:32:41 - INFO --> getUserByCookie: 
+2018-12-09 7:32:41 - INFO --> getZoomById: w6tlCc
+2018-12-09 7:32:41 - INFO --> incrementZoomById: w6tlCc
+2018-12-09 7:32:41 - INFO --> increment zoom: w6tlCc
+2018-12-09 16:16:06 - INFO --> getUserByCookie: 
+2018-12-09 16:16:06 - INFO --> getZoomById: w6tlCc
+2018-12-09 16:16:06 - INFO --> incrementZoomById: w6tlCc
+2018-12-09 16:16:06 - INFO --> increment zoom: w6tlCc
+2018-12-09 20:17:27 - INFO --> getUserByCookie: 
+2018-12-09 20:17:27 - INFO --> getZoomById: w6tlCc
+2018-12-09 20:17:27 - INFO --> incrementZoomById: w6tlCc
+2018-12-09 20:17:27 - INFO --> increment zoom: w6tlCc
+2018-12-09 21:17:09 - INFO --> getUserByCookie: 
+2018-12-09 21:17:09 - INFO --> getZoomById: iSctp
+2018-12-09 21:17:09 - INFO --> incrementZoomById: iSctp
+2018-12-09 21:17:09 - INFO --> increment zoom: iSctp

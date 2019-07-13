@@ -1,0 +1,23 @@
+2018-05-10 6:13:16 - INFO --> getUserByCookie: 
+2018-05-10 6:13:16 - INFO --> getZoomById: sitemap.xml
+2018-05-10 6:13:18 - INFO --> getUserByCookie: 
+2018-05-10 6:13:20 - INFO --> getUserByCookie: 
+2018-05-10 6:13:20 - INFO --> getZoomById: ads.txt
+2018-05-10 7:26:10 - INFO --> getUserByCookie: 
+2018-05-10 8:31:09 - INFO --> getUserByCookie: 
+2018-05-10 8:31:09 - INFO --> getZoomById: register-user=&register-email=sparker1016%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-05-10 10:47:15 - INFO --> getUserByCookie: 
+2018-05-10 10:47:15 - INFO --> getZoomById: user/password
+2018-05-10 14:36:51 - INFO --> getUserByCookie: 
+2018-05-10 14:36:51 - INFO --> getZoomById: iSctp
+2018-05-10 14:36:51 - INFO --> incrementZoomById: iSctp
+2018-05-10 14:36:51 - INFO --> increment zoom: iSctp
+2018-05-10 18:59:19 - INFO --> getUserByCookie: 
+2018-05-10 18:59:19 - INFO --> getZoomById: iSctp
+2018-05-10 18:59:19 - INFO --> incrementZoomById: iSctp
+2018-05-10 18:59:19 - INFO --> increment zoom: iSctp
+2018-05-10 21:43:13 - INFO --> getUserByCookie: 
+2018-05-10 21:44:13 - INFO --> getUserByCookie: 
+2018-05-10 21:44:13 - INFO --> getZoomById: iSctp
+2018-05-10 21:44:13 - INFO --> incrementZoomById: iSctp
+2018-05-10 21:44:13 - INFO --> increment zoom: iSctp

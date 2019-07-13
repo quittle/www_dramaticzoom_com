@@ -1,0 +1,28 @@
+2017-04-04 7:43:29 - INFO --> getUserByCookie: 
+2017-04-04 7:51:53 - INFO --> getUserByCookie: 
+2017-04-04 7:51:53 - INFO --> getZoomById: iSctp
+2017-04-04 7:51:53 - INFO --> incrementZoomById: iSctp
+2017-04-04 7:51:53 - INFO --> increment zoom: iSctp
+2017-04-04 9:31:48 - INFO --> getUserByCookie: 
+2017-04-04 9:31:48 - INFO --> getZoomById: iSctp
+2017-04-04 9:31:48 - INFO --> incrementZoomById: iSctp
+2017-04-04 9:31:48 - INFO --> increment zoom: iSctp
+2017-04-04 12:32:08 - INFO --> getUserByCookie: 
+2017-04-04 12:32:08 - INFO --> getZoomById: iSctp
+2017-04-04 12:32:08 - INFO --> incrementZoomById: iSctp
+2017-04-04 12:32:08 - INFO --> increment zoom: iSctp
+2017-04-04 17:17:51 - INFO --> getUserByCookie: 
+2017-04-04 17:17:51 - INFO --> getZoomById: '/cssPIE/PIE_IE678.js
+2017-04-04 18:40:40 - INFO --> getUserByCookie: 
+2017-04-04 20:25:16 - INFO --> getUserByCookie: 
+2017-04-04 20:25:16 - INFO --> getZoomById: iSctp
+2017-04-04 20:25:16 - INFO --> incrementZoomById: iSctp
+2017-04-04 20:25:16 - INFO --> increment zoom: iSctp
+2017-04-04 21:13:22 - INFO --> getUserByCookie: 
+2017-04-04 21:13:22 - INFO --> getZoomById: G1YU4
+2017-04-04 21:13:22 - INFO --> incrementZoomById: G1YU4
+2017-04-04 21:13:22 - INFO --> increment zoom: G1YU4
+2017-04-04 21:23:03 - INFO --> getUserByCookie: 
+2017-04-04 21:23:03 - INFO --> getZoomById: iSctp
+2017-04-04 21:23:03 - INFO --> incrementZoomById: iSctp
+2017-04-04 21:23:03 - INFO --> increment zoom: iSctp

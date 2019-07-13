@@ -1,0 +1,11 @@
+2018-07-13 2:10:09 - INFO --> getUserByCookie: 
+2018-07-13 8:34:03 - INFO --> getUserByCookie: 
+2018-07-13 8:34:03 - INFO --> getZoomById: iSctp
+2018-07-13 8:34:03 - INFO --> incrementZoomById: iSctp
+2018-07-13 8:34:03 - INFO --> increment zoom: iSctp
+2018-07-13 11:44:47 - INFO --> getUserByCookie: 
+2018-07-13 11:44:47 - INFO --> getZoomById: G1YU4
+2018-07-13 11:44:47 - INFO --> incrementZoomById: G1YU4
+2018-07-13 11:44:47 - INFO --> increment zoom: G1YU4
+2018-07-13 20:20:25 - INFO --> getUserByCookie: 
+2018-07-13 20:20:25 - INFO --> getZoomById: '/cssPIE/PIE_IE678.js

@@ -1,0 +1,27 @@
+2019-04-13 11:24:52 - INFO --> getUserByCookie: 
+2019-04-13 11:24:52 - INFO --> getZoomById: email=jens.graner%40gmx.de&reportType=&description=&
+2019-04-13 13:35:22 - INFO --> getUserByCookie: 
+2019-04-13 13:35:22 - INFO --> getZoomById: g=Comment&m=Widget&a=fetch
+2019-04-13 14:40:32 - INFO --> getUserByCookie: 
+2019-04-13 14:40:32 - INFO --> getZoomById: iSctp
+2019-04-13 14:40:32 - INFO --> incrementZoomById: iSctp
+2019-04-13 14:40:32 - INFO --> increment zoom: iSctp
+2019-04-13 15:51:57 - INFO --> getUserByCookie: 
+2019-04-13 15:51:57 - INFO --> getZoomById: wp-login.php
+2019-04-13 16:34:08 - INFO --> getUserByCookie: 
+2019-04-13 16:34:08 - INFO --> getZoomById: feed=comments-rss2
+2019-04-13 17:49:52 - INFO --> getUserByCookie: 
+2019-04-13 17:49:52 - INFO --> getZoomById: email=tigonridgekevin%40gmail.com&reportType=&description=&
+2019-04-13 19:07:28 - INFO --> getUserByCookie: 
+2019-04-13 19:07:28 - INFO --> getZoomById: info
+2019-04-13 19:08:24 - INFO --> getUserByCookie: 
+2019-04-13 19:09:14 - INFO --> getUserByCookie: 
+2019-04-13 19:09:14 - INFO --> getZoomById: .env
+2019-04-13 20:01:22 - INFO --> getUserByCookie: 
+2019-04-13 20:01:22 - INFO --> getZoomById: goodsshow.php
+2019-04-13 20:35:45 - INFO --> getUserByCookie: 
+2019-04-13 20:35:45 - INFO --> getZoomById: cms/wp-login.php
+2019-04-13 23:01:28 - INFO --> getUserByCookie: 
+2019-04-13 23:01:28 - INFO --> getZoomById: wordpress1/wp-login.php
+2019-04-13 23:38:20 - INFO --> getUserByCookie: 
+2019-04-13 23:38:20 - INFO --> getZoomById: email=brian_shaffer82%40yahoo.com&reportType=&description=&

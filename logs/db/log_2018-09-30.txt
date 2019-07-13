@@ -1,0 +1,12 @@
+2018-09-30 14:53:27 - INFO --> getUserByCookie: 
+2018-09-30 14:53:27 - INFO --> getZoomById: cmd=echo(344444443%2b1);
+2018-09-30 21:04:31 - INFO --> getUserByCookie: 
+2018-09-30 21:04:31 - INFO --> getZoomById: status
+2018-09-30 21:04:33 - INFO --> getUserByCookie: 
+2018-09-30 21:04:33 - INFO --> getZoomById: _phpMyAdmin/scripts/setup.php
+2018-09-30 21:04:34 - INFO --> getUserByCookie: 
+2018-09-30 21:04:34 - INFO --> getZoomById: admin/scripts/setup.php
+2018-09-30 21:04:35 - INFO --> getUserByCookie: 
+2018-09-30 21:04:35 - INFO --> getZoomById: scripts/setup.php
+2018-09-30 21:04:36 - INFO --> getUserByCookie: 
+2018-09-30 21:04:36 - INFO --> getZoomById: pma/scripts/setup.php

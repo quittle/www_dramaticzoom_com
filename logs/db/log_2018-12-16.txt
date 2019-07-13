@@ -1,0 +1,22 @@
+2018-12-16 2:21:18 - INFO --> getUserByCookie: 
+2018-12-16 5:00:06 - INFO --> getUserByCookie: 
+2018-12-16 5:00:06 - INFO --> getZoomById: mbahKb
+2018-12-16 5:00:06 - INFO --> incrementZoomById: mbahKb
+2018-12-16 5:00:06 - INFO --> increment zoom: mbahKb
+2018-12-16 5:41:02 - INFO --> getUserByCookie: 
+2018-12-16 5:41:02 - INFO --> getZoomById: email=askreft%40gmail.com&reportType=&description=&
+2018-12-16 11:25:48 - INFO --> getUserByCookie: 
+2018-12-16 11:25:48 - INFO --> getZoomById: s=api&c=api&m=save_form_data&name=/../../../result.php
+2018-12-16 11:25:50 - INFO --> getUserByCookie: 
+2018-12-16 11:25:50 - INFO --> getZoomById: result.php
+2018-12-16 12:47:35 - INFO --> getUserByCookie: 
+2018-12-16 12:47:35 - INFO --> getZoomById: wp-admin/
+2018-12-16 13:44:22 - INFO --> getUserByCookie: 
+2018-12-16 13:44:22 - INFO --> getZoomById: mbahKb
+2018-12-16 13:44:22 - INFO --> incrementZoomById: mbahKb
+2018-12-16 13:44:22 - INFO --> increment zoom: mbahKb
+2018-12-16 14:40:13 - INFO --> getUserByCookie: 
+2018-12-16 14:40:13 - INFO --> getZoomById: wp-admin/
+2018-12-16 19:01:45 - INFO --> getUserByCookie: 
+2018-12-16 23:57:46 - INFO --> getUserByCookie: 
+2018-12-16 23:57:46 - INFO --> getZoomById: wp-admin/

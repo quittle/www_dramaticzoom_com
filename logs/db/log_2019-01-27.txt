@@ -1,0 +1,56 @@
+2019-01-27 0:36:55 - INFO --> getUserByCookie: 
+2019-01-27 0:36:55 - INFO --> getZoomById: email=myfivemonsters%40aol.com&reportType=&description=&
+2019-01-27 1:01:31 - INFO --> getUserByCookie: 
+2019-01-27 1:01:31 - INFO --> getZoomById: administrator/index.php
+2019-01-27 1:31:43 - INFO --> getUserByCookie: 
+2019-01-27 1:31:43 - INFO --> getZoomById: email=kennyinbmore%40gmail.com&reportType=&description=&
+2019-01-27 2:52:52 - INFO --> getUserByCookie: 
+2019-01-27 2:52:52 - INFO --> getZoomById: email=kennyinbmore%40gmail.com&reportType=&description=&
+2019-01-27 3:19:31 - INFO --> getUserByCookie: 
+2019-01-27 3:19:31 - INFO --> getZoomById: .well-known/acme-challenge/PLzi2l9CH868LXCF4R62OMi-50wwTGYrvgzIw9A5Wj0
+2019-01-27 3:19:31 - INFO --> getUserByCookie: 
+2019-01-27 3:19:31 - INFO --> getZoomById: .well-known/acme-challenge/NswDH6r-K3QGSkqF9IdZBB4ffd26Nl4tcE5JzxxBNmo
+2019-01-27 3:19:31 - INFO --> getUserByCookie: 
+2019-01-27 3:19:31 - INFO --> getZoomById: .well-known/acme-challenge/tY7Xpi9LozUtoGpEAMBFZ_sCWSwjLlB2AI6Y59qDUxk
+2019-01-27 3:19:31 - INFO --> getUserByCookie: 
+2019-01-27 3:19:31 - INFO --> getZoomById: .well-known/acme-challenge/YlDhAFnqlcrLpKH6qAkBr-W0ReVkG5K3v0N_5vD5XJg
+2019-01-27 3:19:39 - INFO --> getUserByCookie: 
+2019-01-27 3:19:39 - INFO --> getZoomById: .well-known/acme-challenge/8IklhZOQKFr8nrsX1v2sCZqN-qRAXbDF3a73KDJQmUo
+2019-01-27 3:19:47 - INFO --> getUserByCookie: 
+2019-01-27 3:19:47 - INFO --> getZoomById: .well-known/acme-challenge/hX6nfEzd25INFadOVp4Pp_ZKkxcl96XLZ6us7wuSrQ8
+2019-01-27 3:19:54 - INFO --> getUserByCookie: 
+2019-01-27 3:19:54 - INFO --> getZoomById: .well-known/acme-challenge/ePm4-ZGcN_ISC7h9BbSlFQZoxLYu-V5Wwrok03oZAOg
+2019-01-27 3:20:02 - INFO --> getUserByCookie: 
+2019-01-27 3:20:02 - INFO --> getZoomById: .well-known/acme-challenge/IReTF7Z6WBwXj0vvvEmp-oU3Rzb1Ku7XTBEhuFOg8uQ
+2019-01-27 4:09:22 - INFO --> getUserByCookie: 
+2019-01-27 4:09:22 - INFO --> getZoomById: email=caitlinciance%40gmail.com&reportType=&description=&
+2019-01-27 5:51:45 - INFO --> getUserByCookie: 
+2019-01-27 5:51:45 - INFO --> getZoomById: email=yudyhil%40yahoo.com&reportType=&description=&
+2019-01-27 11:09:54 - INFO --> getUserByCookie: 
+2019-01-27 11:09:54 - INFO --> getZoomById: email=acezn8s%40gmail.com&reportType=&description=&
+2019-01-27 11:41:45 - INFO --> getUserByCookie: 
+2019-01-27 11:41:45 - INFO --> getZoomById: email=davideitel.medical%40gmail.com&reportType=&description=&
+2019-01-27 11:42:17 - INFO --> getUserByCookie: 
+2019-01-27 11:42:17 - INFO --> getZoomById: email=piazzatarotart%40gmail.com&reportType=&description=&
+2019-01-27 12:51:05 - INFO --> getUserByCookie: 
+2019-01-27 12:51:05 - INFO --> getZoomById: wp-login.php
+2019-01-27 14:02:00 - INFO --> getUserByCookie: 
+2019-01-27 14:02:00 - INFO --> getZoomById: email=ewatkins915%40gmail.com&reportType=&description=&
+2019-01-27 15:54:52 - INFO --> getUserByCookie: 
+2019-01-27 15:54:52 - INFO --> getZoomById: joomla/
+2019-01-27 17:21:51 - INFO --> getUserByCookie: 
+2019-01-27 17:21:51 - INFO --> getZoomById: email=cecilys78%40gmail.com&reportType=&description=&
+2019-01-27 18:51:08 - INFO --> getUserByCookie: 
+2019-01-27 18:51:08 - INFO --> getZoomById: email=winters.amie%40gmail.com&reportType=&description=&
+2019-01-27 19:04:49 - INFO --> getUserByCookie: 
+2019-01-27 19:04:49 - INFO --> getZoomById: email=fredrik.alenrot%40gmail.com&reportType=&description=&
+2019-01-27 19:24:27 - INFO --> getUserByCookie: 
+2019-01-27 19:24:27 - INFO --> getZoomById: email=emmanuelemassimo%40yahoo.com&reportType=&description=&
+2019-01-27 20:11:24 - INFO --> getUserByCookie: 
+2019-01-27 20:11:24 - INFO --> getZoomById: email=doctorvashi%40gmail.com&reportType=&description=&
+2019-01-27 22:14:29 - INFO --> getUserByCookie: 
+2019-01-27 22:14:29 - INFO --> getZoomById: wordpress/wp-login.php
+2019-01-27 22:16:25 - INFO --> getUserByCookie: 
+2019-01-27 22:16:25 - INFO --> getZoomById: user/login
+2019-01-27 23:08:39 - INFO --> getUserByCookie: 
+2019-01-27 23:08:39 - INFO --> getZoomById: email=xtong1989%40yahoo.com&reportType=&description=&

@@ -1,0 +1,19 @@
+2018-12-03 4:37:52 - INFO --> getUserByCookie: 
+2018-12-03 4:37:52 - INFO --> getZoomById: email=emily.ruchaud%40gmail.com&reportType=&description=&
+2018-12-03 6:30:07 - INFO --> getUserByCookie: 
+2018-12-03 7:03:49 - INFO --> getUserByCookie: 
+2018-12-03 7:03:49 - INFO --> getZoomById: iSctp
+2018-12-03 7:03:49 - INFO --> incrementZoomById: iSctp
+2018-12-03 7:03:49 - INFO --> increment zoom: iSctp
+2018-12-03 7:03:58 - INFO --> getUserByCookie: 
+2018-12-03 9:50:38 - INFO --> getUserByCookie: 
+2018-12-03 10:06:20 - INFO --> getUserByCookie: 
+2018-12-03 10:06:20 - INFO --> getZoomById: iSctp
+2018-12-03 10:06:20 - INFO --> incrementZoomById: iSctp
+2018-12-03 10:06:20 - INFO --> increment zoom: iSctp
+2018-12-03 10:06:28 - INFO --> getUserByCookie: 
+2018-12-03 10:06:28 - INFO --> getZoomById: iSctp
+2018-12-03 10:06:28 - INFO --> incrementZoomById: iSctp
+2018-12-03 10:06:28 - INFO --> increment zoom: iSctp
+2018-12-03 14:05:27 - INFO --> getUserByCookie: 
+2018-12-03 14:05:27 - INFO --> getZoomById: sitemap.xml

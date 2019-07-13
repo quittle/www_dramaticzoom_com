@@ -1,0 +1,15 @@
+2015-09-30 3:47:03 - INFO --> getUserByCookie: 
+2015-09-30 3:47:03 - INFO --> getZoomById: apple-app-site-association
+2015-09-30 4:25:07 - INFO --> getUserByCookie: 
+2015-09-30 4:25:07 - INFO --> getZoomById: w+JPX
+2015-09-30 4:25:07 - INFO --> incrementZoomById: w+JPX
+2015-09-30 4:25:07 - INFO --> increment zoom: w+JPX
+2015-09-30 8:12:16 - INFO --> getUserByCookie: 
+2015-09-30 11:49:55 - INFO --> getUserByCookie: 
+2015-09-30 11:49:55 - INFO --> getZoomById: iSctp
+2015-09-30 11:49:55 - INFO --> incrementZoomById: iSctp
+2015-09-30 11:49:55 - INFO --> increment zoom: iSctp
+2015-09-30 22:47:01 - INFO --> getUserByCookie: 
+2015-09-30 22:47:01 - INFO --> getZoomById: iSctp
+2015-09-30 22:47:01 - INFO --> incrementZoomById: iSctp
+2015-09-30 22:47:01 - INFO --> increment zoom: iSctp

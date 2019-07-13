@@ -1,0 +1,22 @@
+2016-10-21 0:49:32 - INFO --> getUserByCookie: 
+2016-10-21 0:49:32 - INFO --> getZoomById: wp-login.php
+2016-10-21 0:49:32 - INFO --> getUserByCookie: 
+2016-10-21 0:49:32 - INFO --> getZoomById: administrator/index.php
+2016-10-21 0:49:33 - INFO --> getUserByCookie: 
+2016-10-21 0:49:33 - INFO --> getZoomById: admin.php
+2016-10-21 0:49:33 - INFO --> getUserByCookie: 
+2016-10-21 0:49:33 - INFO --> getZoomById: bitrix/admin/index.php
+2016-10-21 0:49:34 - INFO --> getUserByCookie: 
+2016-10-21 0:49:34 - INFO --> getZoomById: admin/login.php
+2016-10-21 0:49:34 - INFO --> getUserByCookie: 
+2016-10-21 0:49:34 - INFO --> getZoomById: admin/
+2016-10-21 0:49:35 - INFO --> getUserByCookie: 
+2016-10-21 0:49:35 - INFO --> getZoomById: user/
+2016-10-21 6:53:55 - INFO --> getUserByCookie: 
+2016-10-21 14:29:20 - INFO --> getUserByCookie: 
+2016-10-21 15:58:13 - INFO --> getUserByCookie: 
+2016-10-21 16:44:04 - INFO --> getUserByCookie: 
+2016-10-21 16:44:04 - INFO --> getZoomById: iSctp
+2016-10-21 16:44:04 - INFO --> incrementZoomById: iSctp
+2016-10-21 16:44:04 - INFO --> increment zoom: iSctp
+2016-10-21 19:52:38 - INFO --> getUserByCookie: 

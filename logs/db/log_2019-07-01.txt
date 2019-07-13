@@ -1,0 +1,8 @@
+2019-07-01 5:38:55 - INFO --> getUserByCookie: 
+2019-07-01 5:38:55 - INFO --> getZoomById: M)v(f
+2019-07-01 5:38:55 - INFO --> incrementZoomById: M)v(f
+2019-07-01 5:38:55 - INFO --> increment zoom: M)v(f
+2019-07-01 7:17:16 - INFO --> getUserByCookie: 
+2019-07-01 7:17:16 - INFO --> getZoomById: administrator/index.php
+2019-07-01 21:45:46 - INFO --> getUserByCookie: 
+2019-07-01 21:45:46 - INFO --> getZoomById: user/

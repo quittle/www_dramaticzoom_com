@@ -1,0 +1,8 @@
+2017-01-14 6:21:19 - INFO --> getUserByCookie: 
+2017-01-14 6:21:19 - INFO --> getZoomById: ktjqyiacmaam.html
+2017-01-14 16:08:27 - INFO --> getUserByCookie: 
+2017-01-14 21:45:55 - INFO --> getUserByCookie: 
+2017-01-14 23:38:26 - INFO --> getUserByCookie: 
+2017-01-14 23:38:26 - INFO --> getZoomById: w6tlCc
+2017-01-14 23:38:26 - INFO --> incrementZoomById: w6tlCc
+2017-01-14 23:38:26 - INFO --> increment zoom: w6tlCc

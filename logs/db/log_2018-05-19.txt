@@ -1,0 +1,10 @@
+2018-05-19 8:01:26 - INFO --> getUserByCookie: 
+2018-05-19 8:01:26 - INFO --> getZoomById: iSctp
+2018-05-19 8:01:26 - INFO --> incrementZoomById: iSctp
+2018-05-19 8:01:26 - INFO --> increment zoom: iSctp
+2018-05-19 13:41:57 - INFO --> getUserByCookie: 
+2018-05-19 13:41:57 - INFO --> getZoomById: iSctp
+2018-05-19 13:41:57 - INFO --> incrementZoomById: iSctp
+2018-05-19 13:41:57 - INFO --> increment zoom: iSctp
+2018-05-19 18:55:46 - INFO --> getUserByCookie: 
+2018-05-19 18:55:46 - INFO --> getZoomById: web-cache.php

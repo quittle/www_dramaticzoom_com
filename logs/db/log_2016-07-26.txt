@@ -1,0 +1,18 @@
+2016-07-26 0:25:42 - INFO --> getUserByCookie: 
+2016-07-26 0:25:42 - INFO --> getZoomById: blog/
+2016-07-26 9:07:39 - INFO --> getUserByCookie: 
+2016-07-26 9:07:39 - INFO --> getZoomById: mbahKb
+2016-07-26 9:07:39 - INFO --> incrementZoomById: mbahKb
+2016-07-26 9:07:39 - INFO --> increment zoom: mbahKb
+2016-07-26 14:35:29 - INFO --> getUserByCookie: 
+2016-07-26 14:35:29 - INFO --> getZoomById: mbahKb
+2016-07-26 14:35:29 - INFO --> incrementZoomById: mbahKb
+2016-07-26 14:35:29 - INFO --> increment zoom: mbahKb
+2016-07-26 15:03:21 - INFO --> getUserByCookie: 
+2016-07-26 15:03:21 - INFO --> getZoomById: license.php
+2016-07-26 15:03:22 - INFO --> getUserByCookie: 
+2016-07-26 15:03:22 - INFO --> getZoomById: modules/columnadverts/uploadimage.php
+2016-07-26 23:40:50 - INFO --> getUserByCookie: 
+2016-07-26 23:40:50 - INFO --> getZoomById: yeHB_b
+2016-07-26 23:40:50 - INFO --> incrementZoomById: yeHB_b
+2016-07-26 23:40:50 - INFO --> increment zoom: yeHB_b

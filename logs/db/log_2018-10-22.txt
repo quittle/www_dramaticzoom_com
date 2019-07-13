@@ -1,0 +1,12 @@
+2018-10-22 9:48:31 - INFO --> getUserByCookie: 
+2018-10-22 9:48:31 - INFO --> getZoomById: mentions-legales
+2018-10-22 9:48:31 - INFO --> getUserByCookie: 
+2018-10-22 9:48:31 - INFO --> getZoomById: home.html
+2018-10-22 9:48:32 - INFO --> getUserByCookie: 
+2018-10-22 9:48:32 - INFO --> getZoomById: Home.html
+2018-10-22 11:18:30 - INFO --> getUserByCookie: 
+2018-10-22 11:18:30 - INFO --> getZoomById: iSctp
+2018-10-22 11:18:30 - INFO --> incrementZoomById: iSctp
+2018-10-22 11:18:30 - INFO --> increment zoom: iSctp
+2018-10-22 20:30:22 - INFO --> getUserByCookie: 
+2018-10-22 20:30:22 - INFO --> getZoomById: wp-admin/setup-config.php

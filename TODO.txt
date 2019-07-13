@@ -1,0 +1,12 @@
+70. Use database for index (done!)
+99999. Cross-browser support (ie9+)
+
+a. Add extra sounds
+b. Add upload sounds
+c. Make zoomographs hidden/private
+d. Popular Zoomographies
+e. Upload image before clicking upload
+f. Move resources to r.dramaticzoom.com
+g. Make resources sprite loaded
+h. Paginated loading of zoomographies
+i. Add scrolling to custom alerts

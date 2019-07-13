@@ -1,0 +1,27 @@
+2016-07-05 7:20:59 - INFO --> getUserByCookie: 
+2016-07-05 7:20:59 - INFO --> getZoomById: G1YU4
+2016-07-05 7:20:59 - INFO --> incrementZoomById: G1YU4
+2016-07-05 7:20:59 - INFO --> increment zoom: G1YU4
+2016-07-05 9:32:36 - INFO --> getUserByCookie: 
+2016-07-05 9:32:36 - INFO --> getZoomById: sytjnmbk.html
+2016-07-05 10:23:39 - INFO --> getUserByCookie: 
+2016-07-05 11:15:26 - INFO --> getUserByCookie: 
+2016-07-05 11:29:46 - INFO --> getUserByCookie: 
+2016-07-05 11:29:46 - INFO --> getZoomById: G1YU4
+2016-07-05 11:29:46 - INFO --> incrementZoomById: G1YU4
+2016-07-05 11:29:46 - INFO --> increment zoom: G1YU4
+2016-07-05 12:02:18 - INFO --> getUserByCookie: 
+2016-07-05 12:02:18 - INFO --> getZoomById: wp-login.php
+2016-07-05 16:06:01 - INFO --> getUserByCookie: 
+2016-07-05 16:06:01 - INFO --> getZoomById: mbahKb
+2016-07-05 16:06:01 - INFO --> incrementZoomById: mbahKb
+2016-07-05 16:06:01 - INFO --> increment zoom: mbahKb
+2016-07-05 18:39:33 - INFO --> getUserByCookie: 
+2016-07-05 18:39:33 - INFO --> getZoomById: iSctp
+2016-07-05 18:39:33 - INFO --> incrementZoomById: iSctp
+2016-07-05 18:39:33 - INFO --> increment zoom: iSctp
+2016-07-05 21:34:58 - INFO --> getUserByCookie: 
+2016-07-05 22:11:59 - INFO --> getUserByCookie: 
+2016-07-05 22:11:59 - INFO --> getZoomById: iSctp
+2016-07-05 22:11:59 - INFO --> incrementZoomById: iSctp
+2016-07-05 22:11:59 - INFO --> increment zoom: iSctp

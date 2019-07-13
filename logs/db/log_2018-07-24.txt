@@ -1,0 +1,15 @@
+2018-07-24 0:58:52 - INFO --> getUserByCookie: 
+2018-07-24 0:58:52 - INFO --> getZoomById: connectors/system/phpthumb.php
+2018-07-24 5:58:45 - INFO --> getUserByCookie: 
+2018-07-24 5:58:45 - INFO --> getZoomById: connectors/system/phpthumb.php
+2018-07-24 8:52:27 - INFO --> getUserByCookie: 
+2018-07-24 8:52:29 - INFO --> getUserByCookie: 
+2018-07-24 8:52:29 - INFO --> getZoomById: reportType=Suggestion&email=Randy%40TalkWithLead.com&description=Hi%2C%0D%0A%0D%0AMy+name+is+Randy+and+I+was+looking+at+a+few+different+sites+online+and+came+across+your+site+dramaticzoom.com.++I+must+say+-+your+website+is+very+impressive.++I+found+your+website+on+the+first+page+of+the+Search+Engine.+%0D%0A%0D%0AHave+you+noticed+that+70+percent+of+visitors+who+leave+your+website+will+never+return%3F++In+most+cases%2C+this+means+that+95+percent+to+98+percent+of+your+marketing+efforts+are+going+to+waste%2C+not+to+mention+that+you+are+losing+more+money+in+customer+acquisition+costs+than+you+need+to.%0D%0A+%0D%0AAs+a+business+person%2C+the+time+and+money+you+put+into+your+marketing+efforts+is+extremely+valuable.++So+why+let+it+go+to+waste%3F++Our+users+have+seen+staggering+improvements+in+conversions+with+insane+growths+of+150+percent+going+upwards+of+785+percent.+Are+you+ready+to+unlock+the+highest+conversion+revenue+from+each+of+your+website+visitors%3F++%0D%0A%0D%0ATalkWithLead+is+a+widget+which+captures+a+website+visitor%E2%80%99s+Name%2C+Email+address+and+Phone+Number+and+then+calls+you+immediately%2C+so+that+you+can+talk+to+the+Lead+exactly+when+they+are+live+on+your+website+%E2%80%94+while+they%27re+hot%21%0D%0A++%0D%0ATry+the+TalkWithLead+Live+Demo+now+to+see+exactly+how+it+works.++Visit:+https://www.talkwithlead.com/Contents/LiveDemo.aspx%0D%0A%0D%0AWhen+targeting+leads%2C+speed+is+essential+-+there+is+a+100x+decrease+in+Leads+when+a+Lead+is+contacted+within+30+minutes+vs+being+contacted+within+5+minutes.%0D%0A%0D%0AIf+you+would+like+to+talk+to+me+about+this+service%2C+please+give+me+a+call.++We+do+offer+a+30+days+free+trial.++%0D%0A%0D%0AThanks+and+Best+Regards%2C%0D%0ARandy
+2018-07-24 11:23:57 - INFO --> getUserByCookie: 
+2018-07-24 11:23:57 - INFO --> getZoomById: q=user/password
+2018-07-24 14:53:56 - INFO --> getUserByCookie: 
+2018-07-24 14:53:56 - INFO --> getZoomById: iSctp
+2018-07-24 14:53:56 - INFO --> incrementZoomById: iSctp
+2018-07-24 14:53:56 - INFO --> increment zoom: iSctp
+2018-07-24 17:40:26 - INFO --> getUserByCookie: 
+2018-07-24 17:40:26 - INFO --> getZoomById: .well-known/assetlinks.json

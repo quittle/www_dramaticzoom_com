@@ -1,0 +1,11 @@
+2018-06-10 6:51:08 - INFO --> getUserByCookie: 
+2018-06-10 6:51:08 - INFO --> getZoomById: 11.php
+2018-06-10 8:37:10 - INFO --> getUserByCookie: 
+2018-06-10 8:37:10 - INFO --> getZoomById: G1YU4
+2018-06-10 8:37:10 - INFO --> incrementZoomById: G1YU4
+2018-06-10 8:37:10 - INFO --> increment zoom: G1YU4
+2018-06-10 19:43:45 - INFO --> getUserByCookie: 
+2018-06-10 19:43:45 - INFO --> getZoomById: iSctp
+2018-06-10 19:43:45 - INFO --> incrementZoomById: iSctp
+2018-06-10 19:43:45 - INFO --> increment zoom: iSctp
+2018-06-10 19:43:49 - INFO --> getUserByCookie: 

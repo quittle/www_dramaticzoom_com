@@ -1,0 +1,23 @@
+2018-11-10 3:04:08 - INFO --> getUserByCookie: 
+2018-11-10 3:04:08 - INFO --> getZoomById: bea_wls_deployment_internal
+2018-11-10 3:04:11 - INFO --> getUserByCookie: 
+2018-11-10 3:04:11 - INFO --> getZoomById: bea_wls_deployment_internal
+2018-11-10 10:29:49 - INFO --> getUserByCookie: 
+2018-11-10 10:29:49 - INFO --> getZoomById: bea_wls_deployment_internal
+2018-11-10 10:29:52 - INFO --> getUserByCookie: 
+2018-11-10 10:29:52 - INFO --> getZoomById: bea_wls_deployment_internal
+2018-11-10 17:59:24 - INFO --> getUserByCookie: 
+2018-11-10 17:59:24 - INFO --> getZoomById: bea_wls_deployment_internal
+2018-11-10 17:59:26 - INFO --> getUserByCookie: 
+2018-11-10 17:59:26 - INFO --> getZoomById: bea_wls_deployment_internal
+2018-11-10 19:02:05 - INFO --> getUserByCookie: 
+2018-11-10 19:02:05 - INFO --> getZoomById: bea_wls_deployment_internal
+2018-11-10 19:02:08 - INFO --> getUserByCookie: 
+2018-11-10 19:02:08 - INFO --> getZoomById: bea_wls_deployment_internal
+2018-11-10 21:05:46 - INFO --> getUserByCookie: 
+2018-11-10 21:05:46 - INFO --> getZoomById: sitemap.xml
+2018-11-10 21:47:59 - INFO --> getUserByCookie: 
+2018-11-10 22:06:07 - INFO --> getUserByCookie: 
+2018-11-10 22:06:07 - INFO --> getZoomById: bea_wls_deployment_internal
+2018-11-10 22:06:14 - INFO --> getUserByCookie: 
+2018-11-10 22:06:14 - INFO --> getZoomById: bea_wls_deployment_internal

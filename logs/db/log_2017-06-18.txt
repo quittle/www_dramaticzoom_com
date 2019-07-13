@@ -1,0 +1,17 @@
+2017-06-18 0:28:49 - INFO --> getUserByCookie: 
+2017-06-18 0:28:49 - INFO --> getZoomById: w6tlCc
+2017-06-18 0:28:49 - INFO --> incrementZoomById: w6tlCc
+2017-06-18 0:28:49 - INFO --> increment zoom: w6tlCc
+2017-06-18 0:49:14 - INFO --> getUserByCookie: 
+2017-06-18 0:49:14 - INFO --> getZoomById: register-user=&register-email=bartsch.sam%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-06-18 14:15:52 - INFO --> getUserByCookie: 
+2017-06-18 14:15:52 - INFO --> getZoomById: iSctp
+2017-06-18 14:15:52 - INFO --> incrementZoomById: iSctp
+2017-06-18 14:15:52 - INFO --> increment zoom: iSctp
+2017-06-18 14:29:13 - INFO --> getUserByCookie: 
+2017-06-18 16:16:19 - INFO --> getUserByCookie: 
+2017-06-18 16:16:19 - INFO --> getZoomById: register-user=&register-email=shellchoi%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-06-18 22:28:29 - INFO --> getUserByCookie: 
+2017-06-18 22:28:29 - INFO --> getZoomById: w+JPX
+2017-06-18 22:28:29 - INFO --> incrementZoomById: w+JPX
+2017-06-18 22:28:29 - INFO --> increment zoom: w+JPX

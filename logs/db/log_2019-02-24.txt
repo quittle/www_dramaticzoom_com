@@ -1,0 +1,44 @@
+2019-02-24 8:02:27 - INFO --> getUserByCookie: 
+2019-02-24 8:02:27 - INFO --> getZoomById: iSctp
+2019-02-24 8:02:27 - INFO --> incrementZoomById: iSctp
+2019-02-24 8:02:27 - INFO --> increment zoom: iSctp
+2019-02-24 13:21:09 - INFO --> getUserByCookie: 
+2019-02-24 13:21:09 - INFO --> getZoomById: iSctp
+2019-02-24 13:21:09 - INFO --> incrementZoomById: iSctp
+2019-02-24 13:21:09 - INFO --> increment zoom: iSctp
+2019-02-24 14:01:11 - INFO --> getUserByCookie: 
+2019-02-24 14:01:11 - INFO --> getZoomById: mbahKb
+2019-02-24 14:01:11 - INFO --> incrementZoomById: mbahKb
+2019-02-24 14:01:11 - INFO --> increment zoom: mbahKb
+2019-02-24 14:41:33 - INFO --> getUserByCookie: 
+2019-02-24 15:15:51 - INFO --> getUserByCookie: 
+2019-02-24 15:15:51 - INFO --> getZoomById: email=office%40pumpworks.com.au&reportType=&description=&
+2019-02-24 15:41:41 - INFO --> getUserByCookie: 
+2019-02-24 15:41:41 - INFO --> getZoomById: sitemap.xml
+2019-02-24 16:42:51 - INFO --> getUserByCookie: 
+2019-02-24 16:42:51 - INFO --> getZoomById: iSctp
+2019-02-24 16:42:51 - INFO --> incrementZoomById: iSctp
+2019-02-24 16:42:51 - INFO --> increment zoom: iSctp
+2019-02-24 17:32:57 - INFO --> getUserByCookie: 
+2019-02-24 17:32:57 - INFO --> getZoomById: w6tlCc
+2019-02-24 17:32:57 - INFO --> incrementZoomById: w6tlCc
+2019-02-24 17:32:57 - INFO --> increment zoom: w6tlCc
+2019-02-24 17:36:11 - INFO --> getUserByCookie: 
+2019-02-24 17:36:11 - INFO --> getZoomById: email=darren_carter%40earthlink.net&reportType=&description=&
+2019-02-24 17:48:18 - INFO --> getUserByCookie: 
+2019-02-24 17:48:18 - INFO --> getZoomById: email=xia.zhang%40theroyal.ca&reportType=&description=&
+2019-02-24 18:34:59 - INFO --> getUserByCookie: 
+2019-02-24 19:54:37 - INFO --> getUserByCookie: 
+2019-02-24 19:54:37 - INFO --> getZoomById: iSctp
+2019-02-24 19:54:37 - INFO --> incrementZoomById: iSctp
+2019-02-24 19:54:37 - INFO --> increment zoom: iSctp
+2019-02-24 22:35:01 - INFO --> getUserByCookie: 
+2019-02-24 22:35:01 - INFO --> getZoomById: iSctp
+2019-02-24 22:35:01 - INFO --> incrementZoomById: iSctp
+2019-02-24 22:35:01 - INFO --> increment zoom: iSctp
+2019-02-24 23:18:38 - INFO --> getUserByCookie: 
+2019-02-24 23:18:38 - INFO --> getZoomById: wp-login.php
+2019-02-24 23:18:59 - INFO --> getUserByCookie: 
+2019-02-24 23:18:59 - INFO --> getZoomById: option=com_user&task=register
+2019-02-24 23:19:04 - INFO --> getUserByCookie: 
+2019-02-24 23:19:04 - INFO --> getZoomById: user/register

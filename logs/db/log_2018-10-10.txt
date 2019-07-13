@@ -1,0 +1,10 @@
+2018-10-10 6:11:21 - INFO --> getUserByCookie: 
+2018-10-10 6:11:21 - INFO --> getZoomById: iSctp
+2018-10-10 6:11:21 - INFO --> incrementZoomById: iSctp
+2018-10-10 6:11:21 - INFO --> increment zoom: iSctp
+2018-10-10 13:09:59 - INFO --> getUserByCookie: 
+2018-10-10 13:09:59 - INFO --> getZoomById: wp-login.php
+2018-10-10 13:10:11 - INFO --> getUserByCookie: 
+2018-10-10 13:10:11 - INFO --> getZoomById: option=com_user&task=register
+2018-10-10 13:10:17 - INFO --> getUserByCookie: 
+2018-10-10 13:10:17 - INFO --> getZoomById: user/register

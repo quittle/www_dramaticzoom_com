@@ -1,0 +1,37 @@
+2019-01-03 0:06:06 - INFO --> getUserByCookie: 
+2019-01-03 1:47:38 - INFO --> getUserByCookie: 
+2019-01-03 1:47:38 - INFO --> getZoomById: email=z4myi2%40yahoo.com&reportType=&description=&
+2019-01-03 3:42:53 - INFO --> getUserByCookie: 
+2019-01-03 3:42:53 - INFO --> getZoomById: iSctp
+2019-01-03 3:42:53 - INFO --> incrementZoomById: iSctp
+2019-01-03 3:42:53 - INFO --> increment zoom: iSctp
+2019-01-03 5:57:15 - INFO --> getUserByCookie: 
+2019-01-03 5:57:15 - INFO --> getZoomById: email=mwkeister2%40yahoo.com&reportType=&description=&
+2019-01-03 7:21:23 - INFO --> getUserByCookie: 
+2019-01-03 7:21:23 - INFO --> getZoomById: wp-login.php
+2019-01-03 7:21:33 - INFO --> getUserByCookie: 
+2019-01-03 7:21:33 - INFO --> getZoomById: option=com_user&task=register
+2019-01-03 7:21:38 - INFO --> getUserByCookie: 
+2019-01-03 7:21:38 - INFO --> getZoomById: user/register
+2019-01-03 8:53:50 - INFO --> getUserByCookie: 
+2019-01-03 8:53:50 - INFO --> getZoomById: admin/index.php
+2019-01-03 9:43:12 - INFO --> getUserByCookie: 
+2019-01-03 9:43:12 - INFO --> getZoomById: email=bocoopermx%40gmail.com&reportType=&description=&
+2019-01-03 11:25:43 - INFO --> getUserByCookie: 
+2019-01-03 11:25:43 - INFO --> getZoomById: email=tjjacksonsm%40gmail.com&reportType=&description=&
+2019-01-03 11:54:37 - INFO --> getUserByCookie: 
+2019-01-03 11:54:37 - INFO --> getZoomById: email=kellysm66%40yahoo.com&reportType=&description=&
+2019-01-03 11:55:32 - INFO --> getUserByCookie: 
+2019-01-03 11:55:32 - INFO --> getZoomById: email=kromelyk%40yahoo.com&reportType=&description=&
+2019-01-03 14:30:07 - INFO --> getUserByCookie: 
+2019-01-03 14:30:07 - INFO --> getZoomById: email=kellysm66%40yahoo.com&reportType=&description=&
+2019-01-03 17:14:08 - INFO --> getUserByCookie: 
+2019-01-03 17:14:08 - INFO --> getZoomById: email=jdsmith_73120%40yahoo.com&reportType=&description=&
+2019-01-03 17:20:19 - INFO --> getUserByCookie: 
+2019-01-03 17:20:19 - INFO --> getZoomById: login.php
+2019-01-03 17:20:20 - INFO --> getUserByCookie: 
+2019-01-03 17:20:20 - INFO --> getZoomById: cache/jepiycopemkr.php
+2019-01-03 17:24:10 - INFO --> getUserByCookie: 
+2019-01-03 17:24:10 - INFO --> getZoomById: email=delsong95%40cox.net&reportType=&description=&
+2019-01-03 22:22:41 - INFO --> getUserByCookie: 
+2019-01-03 22:22:41 - INFO --> getZoomById: email=z4myi2%40yahoo.com&reportType=&description=&

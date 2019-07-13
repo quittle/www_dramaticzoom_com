@@ -1,0 +1,18 @@
+2018-10-16 3:28:26 - INFO --> getUserByCookie: 
+2018-10-16 3:28:26 - INFO --> getZoomById: iSctp
+2018-10-16 3:28:26 - INFO --> incrementZoomById: iSctp
+2018-10-16 3:28:26 - INFO --> increment zoom: iSctp
+2018-10-16 22:05:29 - INFO --> getUserByCookie: 
+2018-10-16 22:05:29 - INFO --> getZoomById: bea_wls_deployment_internal
+2018-10-16 22:05:33 - INFO --> getUserByCookie: 
+2018-10-16 22:05:33 - INFO --> getZoomById: bea_wls_deployment_internal
+2018-10-16 22:05:37 - INFO --> getUserByCookie: 
+2018-10-16 22:05:37 - INFO --> getZoomById: _phpMyAdmin/scripts/setup.php
+2018-10-16 22:05:40 - INFO --> getUserByCookie: 
+2018-10-16 22:05:40 - INFO --> getZoomById: scripts/setup.php
+2018-10-16 22:05:43 - INFO --> getUserByCookie: 
+2018-10-16 22:05:43 - INFO --> getZoomById: pma/scripts/setup.php
+2018-10-16 22:05:47 - INFO --> getUserByCookie: 
+2018-10-16 22:05:47 - INFO --> getZoomById: phpmyadmin/scripts/setup.php
+2018-10-16 22:05:49 - INFO --> getUserByCookie: 
+2018-10-16 22:05:49 - INFO --> getZoomById: phpMyAdmin/scripts/setup.php

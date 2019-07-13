@@ -1,0 +1,22 @@
+2015-12-30 3:10:43 - INFO --> getUserByCookie: 
+2015-12-30 6:55:23 - INFO --> getUserByCookie: 
+2015-12-30 6:55:23 - INFO --> getZoomById: G1YU4
+2015-12-30 6:55:23 - INFO --> incrementZoomById: G1YU4
+2015-12-30 6:55:23 - INFO --> increment zoom: G1YU4
+2015-12-30 10:09:46 - INFO --> getUserByCookie: 
+2015-12-30 10:09:46 - INFO --> getZoomById: iSctp
+2015-12-30 10:09:46 - INFO --> incrementZoomById: iSctp
+2015-12-30 10:09:46 - INFO --> increment zoom: iSctp
+2015-12-30 12:58:35 - INFO --> getUserByCookie: 
+2015-12-30 12:58:35 - INFO --> getZoomById: w+JPX
+2015-12-30 12:58:35 - INFO --> incrementZoomById: w+JPX
+2015-12-30 12:58:35 - INFO --> increment zoom: w+JPX
+2015-12-30 15:17:37 - INFO --> getUserByCookie: 
+2015-12-30 17:34:12 - INFO --> getUserByCookie: 
+2015-12-30 17:34:12 - INFO --> getZoomById: w+JPX
+2015-12-30 17:34:12 - INFO --> incrementZoomById: w+JPX
+2015-12-30 17:34:12 - INFO --> increment zoom: w+JPX
+2015-12-30 22:34:28 - INFO --> getUserByCookie: 
+2015-12-30 22:34:28 - INFO --> getZoomById: G1YU4
+2015-12-30 22:34:28 - INFO --> incrementZoomById: G1YU4
+2015-12-30 22:34:28 - INFO --> increment zoom: G1YU4

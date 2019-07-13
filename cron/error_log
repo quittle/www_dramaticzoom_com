@@ -1,0 +1,2 @@
+[12-Jun-2014 10:27:58 America/Chicago] PHP Warning:  unlink(/home/quittle/dramaticzoom.com/cron/../): Is a directory in /home/quittle/dramaticzoom.com/cron/cleanupJob.php on line 36
+[12-Jun-2014 10:28:18 America/Chicago] PHP Warning:  unlink(/home/quittle/dramaticzoom.com/cron/../): Is a directory in /home/quittle/dramaticzoom.com/cron/cleanupJob.php on line 36

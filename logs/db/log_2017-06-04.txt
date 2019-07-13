@@ -1,0 +1,8 @@
+2017-06-04 5:28:41 - INFO --> getUserByCookie: 
+2017-06-04 5:28:41 - INFO --> getZoomById: register-user=&register-email=dwill0214%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-06-04 11:33:44 - INFO --> getUserByCookie: 
+2017-06-04 11:33:44 - INFO --> getZoomById: register-user=&register-email=press%40airbnb.com&register-pass=&register-pass2=&register-agree=&
+2017-06-04 13:19:34 - INFO --> getUserByCookie: 
+2017-06-04 13:19:34 - INFO --> getZoomById: register-user=&register-email=jdorsett%40excelms.com&register-pass=&register-pass2=&register-agree=&
+2017-06-04 18:16:58 - INFO --> getUserByCookie: 
+2017-06-04 18:16:58 - INFO --> getZoomById: register-user=&register-email=nwall%40us.westfield.com&register-pass=&register-pass2=&register-agree=&

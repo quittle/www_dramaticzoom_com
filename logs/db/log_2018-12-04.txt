@@ -1,0 +1,5 @@
+2018-12-04 4:15:45 - INFO --> getUserByCookie: 
+2018-12-04 4:15:45 - INFO --> getZoomById: drzm.co.zip
+2018-12-04 8:01:30 - INFO --> getUserByCookie: 
+2018-12-04 8:01:30 - INFO --> getZoomById: email=info%40rijschool-expert.nl&reportType=&description=&
+2018-12-04 8:03:57 - INFO --> getUserByCookie: 

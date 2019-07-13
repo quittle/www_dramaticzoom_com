@@ -1,0 +1,16 @@
+2018-04-08 0:08:57 - INFO --> getUserByCookie: 
+2018-04-08 0:10:03 - INFO --> getUserByCookie: 
+2018-04-08 0:10:03 - INFO --> getZoomById: register-user=&register-email=mcagroup1%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-04-08 5:16:04 - INFO --> getUserByCookie: 
+2018-04-08 5:16:04 - INFO --> getZoomById: '/cssPIE/PIE_IE678.js
+2018-04-08 9:20:18 - INFO --> getUserByCookie: 
+2018-04-08 9:20:18 - INFO --> getZoomById: register-user=&register-email=guyfinelli2%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2018-04-08 10:56:20 - INFO --> getUserByCookie: 
+2018-04-08 10:56:20 - INFO --> getZoomById: register-user=&register-email=jan.plank%40az.gov&register-pass=&register-pass2=&register-agree=&
+2018-04-08 11:59:01 - INFO --> getUserByCookie: 
+2018-04-08 11:59:01 - INFO --> getZoomById: register-user=&register-email=bpennell377%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2018-04-08 22:54:00 - INFO --> getUserByCookie: 
+2018-04-08 22:54:00 - INFO --> getZoomById: register-user=&register-email=petra2todd%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-04-08 23:19:39 - INFO --> getUserByCookie: 
+2018-04-08 23:57:20 - INFO --> getUserByCookie: 
+2018-04-08 23:57:20 - INFO --> getZoomById: register-user=&register-email=sestout08%40yahoo.com&register-pass=&register-pass2=&register-agree=&

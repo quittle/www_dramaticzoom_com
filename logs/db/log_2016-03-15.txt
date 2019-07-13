@@ -1,0 +1,63 @@
+2016-03-15 3:08:37 - INFO --> getUserByCookie: 
+2016-03-15 3:08:37 - INFO --> getZoomById: fckeditor/editor/
+2016-03-15 5:05:52 - INFO --> getUserByCookie: 
+2016-03-15 5:05:52 - INFO --> getZoomById: admin/fckeditor/editor/
+2016-03-15 6:51:02 - INFO --> getUserByCookie: 
+2016-03-15 6:51:02 - INFO --> getZoomById: scripts/fckeditor/editor/
+2016-03-15 7:15:35 - INFO --> getUserByCookie: 
+2016-03-15 7:15:35 - INFO --> getZoomById: G1YU4
+2016-03-15 7:15:35 - INFO --> incrementZoomById: G1YU4
+2016-03-15 7:15:35 - INFO --> increment zoom: G1YU4
+2016-03-15 7:52:25 - INFO --> getUserByCookie: 
+2016-03-15 7:52:26 - INFO --> getZoomById: yeHB_b
+2016-03-15 7:52:26 - INFO --> incrementZoomById: yeHB_b
+2016-03-15 7:52:26 - INFO --> increment zoom: yeHB_b
+2016-03-15 10:28:11 - INFO --> getUserByCookie: 
+2016-03-15 10:28:11 - INFO --> getZoomById: editor/fckeditor/editor/
+2016-03-15 11:10:51 - INFO --> getUserByCookie: 
+2016-03-15 12:16:41 - INFO --> getUserByCookie: 
+2016-03-15 12:16:41 - INFO --> getZoomById: editor/editor/
+2016-03-15 12:42:36 - INFO --> getUserByCookie: 
+2016-03-15 12:42:36 - INFO --> getZoomById: administrator/
+2016-03-15 12:42:37 - INFO --> getUserByCookie: 
+2016-03-15 12:42:37 - INFO --> getZoomById: administrator/index.php
+2016-03-15 12:46:03 - INFO --> getUserByCookie: 
+2016-03-15 12:46:03 - INFO --> getZoomById: wp-login.php
+2016-03-15 12:46:04 - INFO --> getUserByCookie: 
+2016-03-15 12:46:04 - INFO --> getZoomById: wp-admin/
+2016-03-15 12:49:48 - INFO --> getUserByCookie: 
+2016-03-15 12:49:48 - INFO --> getZoomById: admin.php
+2016-03-15 12:50:38 - INFO --> getUserByCookie: 
+2016-03-15 12:50:38 - INFO --> getZoomById: admin
+2016-03-15 13:09:44 - INFO --> getUserByCookie: 
+2016-03-15 13:09:44 - INFO --> getZoomById: administrator/
+2016-03-15 13:09:45 - INFO --> getUserByCookie: 
+2016-03-15 13:09:45 - INFO --> getZoomById: administrator/index.php
+2016-03-15 13:12:21 - INFO --> getUserByCookie: 
+2016-03-15 13:12:21 - INFO --> getZoomById: wp-login.php
+2016-03-15 13:12:22 - INFO --> getUserByCookie: 
+2016-03-15 13:12:22 - INFO --> getZoomById: wp-admin/
+2016-03-15 13:15:53 - INFO --> getUserByCookie: 
+2016-03-15 13:15:53 - INFO --> getZoomById: admin.php
+2016-03-15 13:16:43 - INFO --> getUserByCookie: 
+2016-03-15 13:16:43 - INFO --> getZoomById: admin
+2016-03-15 13:38:30 - INFO --> getUserByCookie: 
+2016-03-15 13:38:30 - INFO --> getZoomById: administrator/
+2016-03-15 13:38:31 - INFO --> getUserByCookie: 
+2016-03-15 13:38:31 - INFO --> getZoomById: administrator/index.php
+2016-03-15 13:40:27 - INFO --> getUserByCookie: 
+2016-03-15 13:40:27 - INFO --> getZoomById: wp-login.php
+2016-03-15 13:40:28 - INFO --> getUserByCookie: 
+2016-03-15 13:40:28 - INFO --> getZoomById: wp-admin/
+2016-03-15 13:43:53 - INFO --> getUserByCookie: 
+2016-03-15 13:43:53 - INFO --> getZoomById: admin.php
+2016-03-15 13:45:10 - INFO --> getUserByCookie: 
+2016-03-15 13:45:10 - INFO --> getZoomById: admin
+2016-03-15 14:11:05 - INFO --> getUserByCookie: 
+2016-03-15 14:11:05 - INFO --> getZoomById: w6tlCc
+2016-03-15 14:11:05 - INFO --> incrementZoomById: w6tlCc
+2016-03-15 14:11:05 - INFO --> increment zoom: w6tlCc
+2016-03-15 14:48:56 - INFO --> getUserByCookie: 
+2016-03-15 14:48:56 - INFO --> getZoomById: iSctp
+2016-03-15 14:48:56 - INFO --> incrementZoomById: iSctp
+2016-03-15 14:48:56 - INFO --> increment zoom: iSctp

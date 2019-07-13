@@ -1,0 +1,6 @@
+2017-01-12 3:56:46 - INFO --> getUserByCookie: 
+2017-01-12 3:56:46 - INFO --> getZoomById: admin/imgs/version.js
+2017-01-12 6:30:58 - INFO --> getUserByCookie: 
+2017-01-12 6:30:58 - INFO --> getZoomById: iSctp
+2017-01-12 6:30:58 - INFO --> incrementZoomById: iSctp
+2017-01-12 6:30:58 - INFO --> increment zoom: iSctp

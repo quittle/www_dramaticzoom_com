@@ -1,0 +1,13 @@
+2016-11-06 2:49:12 - INFO --> getUserByCookie: 
+2016-11-06 2:49:12 - INFO --> getZoomById: license.php
+2016-11-06 12:27:13 - INFO --> getUserByCookie: 
+2016-11-06 12:27:13 - INFO --> getZoomById: login.php
+2016-11-06 12:27:14 - INFO --> getUserByCookie: 
+2016-11-06 12:27:14 - INFO --> getZoomById: login.php
+2016-11-06 12:32:50 - INFO --> getUserByCookie: 
+2016-11-06 14:00:24 - INFO --> getUserByCookie: 
+2016-11-06 14:00:24 - INFO --> getZoomById: login.php
+2016-11-06 14:00:25 - INFO --> getUserByCookie: 
+2016-11-06 14:00:25 - INFO --> getZoomById: login.php
+2016-11-06 19:59:52 - INFO --> getUserByCookie: 
+2016-11-06 19:59:52 - INFO --> getZoomById: login.php

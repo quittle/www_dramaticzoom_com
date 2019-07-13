@@ -1,0 +1,11 @@
+2016-08-08 0:28:46 - INFO --> getUserByCookie: 
+2016-08-08 13:34:36 - INFO --> getUserByCookie: 
+2016-08-08 13:34:36 - INFO --> getZoomById: mbahKb
+2016-08-08 13:34:36 - INFO --> incrementZoomById: mbahKb
+2016-08-08 13:34:36 - INFO --> increment zoom: mbahKb
+2016-08-08 18:11:45 - INFO --> getUserByCookie: 
+2016-08-08 18:11:45 - INFO --> getZoomById: mbahKb
+2016-08-08 18:11:45 - INFO --> incrementZoomById: mbahKb
+2016-08-08 18:11:45 - INFO --> increment zoom: mbahKb
+2016-08-08 19:42:55 - INFO --> getUserByCookie: 
+2016-08-08 19:42:55 - INFO --> getZoomById: reportType=Legal+Issue&email=jimos4581rt%40hotmail.com&description=dQHCUp+http%3A%2F%2Fwww.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com

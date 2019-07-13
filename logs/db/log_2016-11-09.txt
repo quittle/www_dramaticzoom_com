@@ -1,0 +1,22 @@
+2016-11-09 1:46:09 - INFO --> getUserByCookie: 
+2016-11-09 1:46:09 - INFO --> getZoomById: xmlrpc.php
+2016-11-09 1:46:09 - INFO --> getUserByCookie: 
+2016-11-09 1:46:09 - INFO --> getZoomById: blog/robots.txt
+2016-11-09 1:46:10 - INFO --> getUserByCookie: 
+2016-11-09 1:46:10 - INFO --> getZoomById: blog/
+2016-11-09 1:46:10 - INFO --> getUserByCookie: 
+2016-11-09 1:46:10 - INFO --> getZoomById: wordpress/
+2016-11-09 1:46:10 - INFO --> getUserByCookie: 
+2016-11-09 1:46:10 - INFO --> getZoomById: wp/
+2016-11-09 1:47:49 - INFO --> getUserByCookie: 
+2016-11-09 1:47:49 - INFO --> getZoomById: xmlrpc.php
+2016-11-09 1:47:49 - INFO --> getUserByCookie: 
+2016-11-09 1:47:49 - INFO --> getZoomById: blog/robots.txt
+2016-11-09 1:47:50 - INFO --> getUserByCookie: 
+2016-11-09 1:47:50 - INFO --> getZoomById: blog/
+2016-11-09 1:47:50 - INFO --> getUserByCookie: 
+2016-11-09 1:47:50 - INFO --> getZoomById: wordpress/
+2016-11-09 1:47:50 - INFO --> getUserByCookie: 
+2016-11-09 1:47:50 - INFO --> getZoomById: wp/
+2016-11-09 16:09:51 - INFO --> getUserByCookie: 
+2016-11-09 16:09:51 - INFO --> getZoomById: author=1

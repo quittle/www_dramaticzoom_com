@@ -1,0 +1,13 @@
+2018-08-31 2:26:57 - INFO --> getUserByCookie: 
+2018-08-31 2:26:57 - INFO --> getZoomById: w6tlCc
+2018-08-31 2:26:57 - INFO --> incrementZoomById: w6tlCc
+2018-08-31 2:26:57 - INFO --> increment zoom: w6tlCc
+2018-08-31 9:16:11 - INFO --> getUserByCookie: 
+2018-08-31 9:16:11 - INFO --> getZoomById: iSctp
+2018-08-31 9:16:11 - INFO --> incrementZoomById: iSctp
+2018-08-31 9:16:11 - INFO --> increment zoom: iSctp
+2018-08-31 17:15:53 - INFO --> getUserByCookie: 
+2018-08-31 17:15:53 - INFO --> getZoomById: bB4q8c
+2018-08-31 17:15:53 - INFO --> incrementZoomById: bB4q8c
+2018-08-31 17:15:53 - INFO --> increment zoom: bB4q8c
+2018-08-31 23:37:41 - INFO --> getUserByCookie: 

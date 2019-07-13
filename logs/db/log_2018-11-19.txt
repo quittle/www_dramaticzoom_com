@@ -1,0 +1,24 @@
+2018-11-19 0:44:08 - INFO --> getUserByCookie: 
+2018-11-19 14:22:26 - INFO --> getUserByCookie: 
+2018-11-19 14:22:26 - INFO --> getZoomById: assets/components/gallery/css/mgr.css
+2018-11-19 14:38:32 - INFO --> getUserByCookie: 
+2018-11-19 14:38:32 - INFO --> getZoomById: iSctp
+2018-11-19 14:38:32 - INFO --> incrementZoomById: iSctp
+2018-11-19 14:38:32 - INFO --> increment zoom: iSctp
+2018-11-19 14:38:32 - INFO --> getUserByCookie: 
+2018-11-19 15:05:57 - INFO --> getUserByCookie: 
+2018-11-19 15:05:57 - INFO --> getZoomById: iSctp
+2018-11-19 15:05:57 - INFO --> incrementZoomById: iSctp
+2018-11-19 15:05:57 - INFO --> increment zoom: iSctp
+2018-11-19 17:37:24 - INFO --> getUserByCookie: 
+2018-11-19 17:37:24 - INFO --> getZoomById: sitemap.xml
+2018-11-19 19:06:59 - INFO --> getUserByCookie: 
+2018-11-19 19:06:59 - INFO --> getZoomById: wp-login.php
+2018-11-19 19:07:18 - INFO --> getUserByCookie: 
+2018-11-19 19:07:18 - INFO --> getZoomById: option=com_user&task=register
+2018-11-19 19:07:26 - INFO --> getUserByCookie: 
+2018-11-19 19:07:26 - INFO --> getZoomById: user/register
+2018-11-19 20:01:50 - INFO --> getUserByCookie: 
+2018-11-19 20:01:50 - INFO --> getZoomById: assets/components/gallery/css/mgr.css
+2018-11-19 22:12:22 - INFO --> getUserByCookie: 
+2018-11-19 22:12:22 - INFO --> getZoomById: forum/

@@ -1,0 +1,69 @@
+2019-03-24 13:09:05 - INFO --> getUserByCookie: 
+2019-03-24 13:09:08 - INFO --> getUserByCookie: 
+2019-03-24 13:09:08 - INFO --> getZoomById: iSctp
+2019-03-24 13:09:08 - INFO --> incrementZoomById: iSctp
+2019-03-24 13:09:08 - INFO --> increment zoom: iSctp
+2019-03-24 13:09:10 - INFO --> getUserByCookie: 
+2019-03-24 13:09:10 - INFO --> getZoomById: manage"
+2019-03-24 13:09:10 - INFO --> getUserByCookie: 
+2019-03-24 13:09:10 - INFO --> getZoomById: "
+2019-03-24 13:09:11 - INFO --> getUserByCookie: 
+2019-03-24 13:09:12 - INFO --> getUserByCookie: 
+2019-03-24 13:09:12 - INFO --> getZoomById: 2121121121212.1
+2019-03-24 13:09:13 - INFO --> getUserByCookie: 
+2019-03-24 13:09:13 - INFO --> getZoomById: manage2121121121212.1
+2019-03-24 13:09:13 - INFO --> getUserByCookie: 
+2019-03-24 13:09:13 - INFO --> getZoomById:  and 1=1
+2019-03-24 13:09:14 - INFO --> getUserByCookie: 
+2019-03-24 13:09:14 - INFO --> getZoomById: manage and 1=1
+2019-03-24 13:09:15 - INFO --> getUserByCookie: 
+2019-03-24 13:09:15 - INFO --> getZoomById: manage and 1>1
+2019-03-24 13:09:15 - INFO --> getUserByCookie: 
+2019-03-24 13:09:15 - INFO --> getZoomById:  and 1>1
+2019-03-24 13:09:16 - INFO --> getUserByCookie: 
+2019-03-24 13:09:16 - INFO --> getZoomById: manage' and 'x'='x
+2019-03-24 13:09:16 - INFO --> getUserByCookie: 
+2019-03-24 13:09:16 - INFO --> getZoomById: ' and 'x'='x
+2019-03-24 13:09:18 - INFO --> getUserByCookie: 
+2019-03-24 13:09:18 - INFO --> getZoomById: manage' and 'x'='y
+2019-03-24 13:09:18 - INFO --> getUserByCookie: 
+2019-03-24 13:09:18 - INFO --> getZoomById: ' and 'x'='y
+2019-03-24 13:09:19 - INFO --> getUserByCookie: 
+2019-03-24 13:09:19 - INFO --> getZoomById: " and "x"="x
+2019-03-24 13:09:19 - INFO --> getUserByCookie: 
+2019-03-24 13:09:19 - INFO --> getZoomById: manage" and "x"="x
+2019-03-24 13:09:20 - INFO --> getUserByCookie: 
+2019-03-24 13:09:20 - INFO --> getZoomById: " and "x"="y
+2019-03-24 13:09:20 - INFO --> getUserByCookie: 
+2019-03-24 13:09:20 - INFO --> getZoomById: manage" and "x"="y
+2019-03-24 13:09:21 - INFO --> getUserByCookie: 
+2019-03-24 13:09:21 - INFO --> getZoomById: 999999.1 union select unhex(hex(version())) -- and 1=1
+2019-03-24 13:09:21 - INFO --> getUserByCookie: 
+2019-03-24 13:09:21 - INFO --> getZoomById: manage999999.1 union select unhex(hex(version())) -- and 1=1
+2019-03-24 13:09:22 - INFO --> getUserByCookie: 
+2019-03-24 13:09:22 - INFO --> getZoomById: 99999' union select unhex(hex(version())) -- 'x'='x
+2019-03-24 13:09:22 - INFO --> getUserByCookie: 
+2019-03-24 13:09:22 - INFO --> getZoomById: manage99999' union select unhex(hex(version())) -- 'x'='x
+2019-03-24 13:09:23 - INFO --> getUserByCookie: 
+2019-03-24 13:09:23 - INFO --> getZoomById: manage99999" union select unhex(hex(version())) -- "x"="x
+2019-03-24 13:09:23 - INFO --> getUserByCookie: 
+2019-03-24 13:09:23 - INFO --> getZoomById: 99999" union select unhex(hex(version())) -- "x"="x
+2019-03-24 13:09:24 - INFO --> getUserByCookie: 
+2019-03-24 13:09:24 - INFO --> getZoomById: manage or (1,2)=(select*from(select name_const(CHAR(71,99,85,105,75,73,102,78,86,86),1),name_const(CHAR(71,99,85,105,75,73,102,78,86,86),1))a) -- and 1=1
+2019-03-24 13:09:24 - INFO --> getUserByCookie: 
+2019-03-24 13:09:24 - INFO --> getZoomById:  or (1,2)=(select*from(select name_const(CHAR(100,76,97,80,73,112,102,66,85,120),1),name_const(CHAR(100,76,97,80,73,112,102,66,85,120),1))a) -- and 1=1
+2019-03-24 13:09:25 - INFO --> getUserByCookie: 
+2019-03-24 13:09:25 - INFO --> getZoomById: manage' or (1,2)=(select*from(select name_const(CHAR(71,99,85,105,75,73,102,78,86,86),1),name_const(CHAR(71,99,85,105,75,73,102,78,86,86),1))a) -- 'x'='x
+2019-03-24 13:09:25 - INFO --> getUserByCookie: 
+2019-03-24 13:09:25 - INFO --> getZoomById: ' or (1,2)=(select*from(select name_const(CHAR(100,76,97,80,73,112,102,66,85,120),1),name_const(CHAR(100,76,97,80,73,112,102,66,85,120),1))a) -- 'x'='x
+2019-03-24 13:09:26 - INFO --> getUserByCookie: 
+2019-03-24 13:09:26 - INFO --> getZoomById: " or (1,2)=(select*from(select name_const(CHAR(100,76,97,80,73,112,102,66,85,120),1),name_const(CHAR(100,76,97,80,73,112,102,66,85,120),1))a) -- "x"="x
+2019-03-24 13:09:26 - INFO --> getUserByCookie: 
+2019-03-24 13:09:26 - INFO --> getZoomById: manage" or (1,2)=(select*from(select name_const(CHAR(71,99,85,105,75,73,102,78,86,86),1),name_const(CHAR(71,99,85,105,75,73,102,78,86,86),1))a) -- "x"="x
+2019-03-24 15:18:16 - INFO --> getUserByCookie: 
+2019-03-24 15:18:16 - INFO --> getZoomById: wp-login.php
+2019-03-24 20:40:04 - INFO --> getUserByCookie: 
+2019-03-24 20:40:04 - INFO --> getZoomById: CHANGELOG.txt
+2019-03-24 20:40:08 - INFO --> getUserByCookie: 
+2019-03-24 20:40:08 - INFO --> getZoomById: core/CHANGELOG.txt
+2019-03-24 22:56:19 - INFO --> getUserByCookie: 

@@ -1,0 +1,9 @@
+2019-03-22 4:40:06 - INFO --> getUserByCookie: 
+2019-03-22 6:29:58 - INFO --> getUserByCookie: 
+2019-03-22 6:29:58 - INFO --> getZoomById: mbahKb
+2019-03-22 6:29:58 - INFO --> incrementZoomById: mbahKb
+2019-03-22 6:29:58 - INFO --> increment zoom: mbahKb
+2019-03-22 7:05:57 - INFO --> getUserByCookie: 
+2019-03-22 7:05:57 - INFO --> getZoomById: email=gordonminier%40gmail.com&reportType=&description=&
+2019-03-22 9:47:55 - INFO --> getUserByCookie: 
+2019-03-22 9:47:55 - INFO --> getZoomById: email=pixelgod51%40yahoo.com&reportType=&description=&

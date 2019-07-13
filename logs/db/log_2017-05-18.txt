@@ -1,0 +1,33 @@
+2017-05-18 1:23:22 - INFO --> getUserByCookie: 
+2017-05-18 1:23:22 - INFO --> getZoomById: register-user=&register-email=iselaargenal%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-05-18 9:51:50 - INFO --> getUserByCookie: 
+2017-05-18 9:51:50 - INFO --> getZoomById: register-user=&register-email=bradleyleeknapik%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-05-18 12:27:53 - INFO --> getUserByCookie: 
+2017-05-18 12:27:53 - INFO --> getZoomById: w+JPX
+2017-05-18 12:27:53 - INFO --> incrementZoomById: w+JPX
+2017-05-18 12:27:53 - INFO --> increment zoom: w+JPX
+2017-05-18 12:50:11 - INFO --> getUserByCookie: 
+2017-05-18 12:50:11 - INFO --> getZoomById: register-user=&register-email=chrisannhays%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-05-18 13:09:21 - INFO --> getUserByCookie: 
+2017-05-18 16:07:44 - INFO --> getUserByCookie: 
+2017-05-18 16:07:44 - INFO --> getZoomById: G1YU4
+2017-05-18 16:07:44 - INFO --> incrementZoomById: G1YU4
+2017-05-18 16:07:44 - INFO --> increment zoom: G1YU4
+2017-05-18 18:09:32 - INFO --> getUserByCookie: 
+2017-05-18 18:09:33 - INFO --> getUserByCookie: 
+2017-05-18 18:39:59 - INFO --> getUserByCookie: 
+2017-05-18 18:45:01 - INFO --> getUserByCookie: 
+2017-05-18 18:45:01 - INFO --> getZoomById: iSctp
+2017-05-18 18:45:01 - INFO --> incrementZoomById: iSctp
+2017-05-18 18:45:01 - INFO --> increment zoom: iSctp
+2017-05-18 19:11:21 - INFO --> getUserByCookie: 
+2017-05-18 19:11:21 - INFO --> getZoomById: register-user=&register-email=tybush77%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-05-18 19:48:11 - INFO --> getUserByCookie: 
+2017-05-18 19:48:11 - INFO --> getZoomById: register-user=&register-email=stwhit30%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-05-18 20:41:04 - INFO --> getUserByCookie: 
+2017-05-18 21:31:24 - INFO --> getUserByCookie: 
+2017-05-18 21:31:24 - INFO --> getZoomById: register-user=&register-email=janahigh1015%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-05-18 21:33:55 - INFO --> getUserByCookie: 
+2017-05-18 21:33:55 - INFO --> getZoomById: iSctp
+2017-05-18 21:33:55 - INFO --> incrementZoomById: iSctp
+2017-05-18 21:33:55 - INFO --> increment zoom: iSctp

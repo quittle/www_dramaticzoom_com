@@ -1,0 +1,7 @@
+2018-11-26 1:53:27 - INFO --> getUserByCookie: 
+2018-11-26 6:56:50 - INFO --> getUserByCookie: 
+2018-11-26 6:56:50 - INFO --> getZoomById: email=tamirpinchasi%40gmail.com&reportType=&description=&
+2018-11-26 10:49:22 - INFO --> getUserByCookie: 
+2018-11-26 10:49:22 - INFO --> getZoomById: phpmyadmin/
+2018-11-26 20:27:43 - INFO --> getUserByCookie: 
+2018-11-26 20:27:43 - INFO --> getZoomById: sitemap.xml

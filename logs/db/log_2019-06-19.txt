@@ -1,0 +1,36 @@
+2019-06-19 0:09:24 - INFO --> getUserByCookie: 
+2019-06-19 0:09:24 - INFO --> getZoomById: wp-login.php
+2019-06-19 1:56:42 - INFO --> getUserByCookie: 
+2019-06-19 1:56:42 - INFO --> getZoomById: wp-login.php
+2019-06-19 4:45:36 - INFO --> getUserByCookie: 
+2019-06-19 4:45:36 - INFO --> getZoomById: ads.txt
+2019-06-19 5:13:34 - INFO --> getUserByCookie: 
+2019-06-19 5:13:34 - INFO --> getZoomById: downloader/index.php
+2019-06-19 5:13:39 - INFO --> getUserByCookie: 
+2019-06-19 5:13:39 - INFO --> getZoomById: errors/503.php
+2019-06-19 5:13:49 - INFO --> getUserByCookie: 
+2019-06-19 5:13:49 - INFO --> getZoomById: magento/index.php/admin/
+2019-06-19 5:13:54 - INFO --> getUserByCookie: 
+2019-06-19 5:13:54 - INFO --> getZoomById: magento/downloader/index.php
+2019-06-19 5:13:58 - INFO --> getUserByCookie: 
+2019-06-19 5:13:58 - INFO --> getZoomById: magento/errors/503.php
+2019-06-19 5:14:16 - INFO --> getUserByCookie: 
+2019-06-19 5:14:16 - INFO --> getZoomById: store/index.php/admin/
+2019-06-19 5:14:21 - INFO --> getUserByCookie: 
+2019-06-19 5:14:21 - INFO --> getZoomById: store/downloader/index.php
+2019-06-19 5:14:33 - INFO --> getUserByCookie: 
+2019-06-19 5:14:33 - INFO --> getZoomById: store/errors/503.php
+2019-06-19 5:14:42 - INFO --> getUserByCookie: 
+2019-06-19 5:14:42 - INFO --> getZoomById: shop/index.php/admin/
+2019-06-19 5:14:45 - INFO --> getUserByCookie: 
+2019-06-19 5:14:45 - INFO --> getZoomById: shop/downloader/index.php
+2019-06-19 5:14:49 - INFO --> getUserByCookie: 
+2019-06-19 5:14:49 - INFO --> getZoomById: shop/errors/503.php
+2019-06-19 10:32:02 - INFO --> getUserByCookie: 
+2019-06-19 15:03:16 - INFO --> getUserByCookie: 
+2019-06-19 15:03:16 - INFO --> getZoomById: wp-login.php
+2019-06-19 19:09:31 - INFO --> getUserByCookie: 
+2019-06-19 19:09:31 - INFO --> getZoomById: sitemap.xml
+2019-06-19 19:09:38 - INFO --> getUserByCookie: 
+2019-06-19 23:52:59 - INFO --> getUserByCookie: 
+2019-06-19 23:52:59 - INFO --> getZoomById: wp-login.php

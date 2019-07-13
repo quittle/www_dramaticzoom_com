@@ -1,0 +1,14 @@
+2016-11-30 10:50:59 - INFO --> getUserByCookie: 
+2016-11-30 10:50:59 - INFO --> getZoomById: cms/wp-login.php
+2016-11-30 13:45:09 - INFO --> getUserByCookie: 
+2016-11-30 13:45:09 - INFO --> getZoomById: new/wp-login.php
+2016-11-30 15:56:21 - INFO --> getUserByCookie: 
+2016-11-30 15:56:21 - INFO --> getZoomById: wordpress/wp-login.php
+2016-11-30 16:06:04 - INFO --> getUserByCookie: 
+2016-11-30 16:06:04 - INFO --> getZoomById: test/wp-login.php
+2016-11-30 21:05:26 - INFO --> getUserByCookie: 
+2016-11-30 21:05:26 - INFO --> getZoomById: wp/wp-login.php
+2016-11-30 22:23:26 - INFO --> getUserByCookie: 
+2016-11-30 22:23:26 - INFO --> getZoomById: wp-login.php
+2016-11-30 23:13:59 - INFO --> getUserByCookie: 
+2016-11-30 23:13:59 - INFO --> getZoomById: cms/wp-login.php

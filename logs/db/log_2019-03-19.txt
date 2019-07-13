@@ -1,0 +1,66 @@
+2019-03-19 0:59:59 - INFO --> getUserByCookie: 
+2019-03-19 0:59:59 - INFO --> getZoomById: email=jane.s.lomas%40gmail.com&reportType=&description=&
+2019-03-19 2:48:49 - INFO --> getUserByCookie: 
+2019-03-19 2:48:49 - INFO --> getZoomById: email=krishnanstephanie%40gmail.com&reportType=&description=&
+2019-03-19 3:53:42 - INFO --> getUserByCookie: 
+2019-03-19 3:53:42 - INFO --> getZoomById: email=larrancel%40gmail.com&reportType=&description=&
+2019-03-19 4:24:13 - INFO --> getUserByCookie: 
+2019-03-19 4:24:13 - INFO --> getZoomById: email=lindz58%40gmail.com&reportType=&description=&
+2019-03-19 5:43:01 - INFO --> getUserByCookie: 
+2019-03-19 5:43:01 - INFO --> getZoomById: email=phillipsmuriel61%40gmail.com&reportType=&description=&
+2019-03-19 5:48:16 - INFO --> getUserByCookie: 
+2019-03-19 5:48:16 - INFO --> getZoomById: iSctp
+2019-03-19 5:48:16 - INFO --> incrementZoomById: iSctp
+2019-03-19 5:48:16 - INFO --> increment zoom: iSctp
+2019-03-19 8:31:17 - INFO --> getUserByCookie: 
+2019-03-19 8:31:17 - INFO --> getZoomById: administrator/index.php
+2019-03-19 9:13:15 - INFO --> getUserByCookie: 
+2019-03-19 9:13:15 - INFO --> getZoomById: administrator/index.php
+2019-03-19 10:04:01 - INFO --> getUserByCookie: 
+2019-03-19 10:04:01 - INFO --> getZoomById: email=1964cid%40gmail.com&reportType=&description=&
+2019-03-19 12:06:52 - INFO --> getUserByCookie: 
+2019-03-19 12:06:52 - INFO --> getZoomById: email=zmisic%40sunrise.ch&reportType=&description=&
+2019-03-19 13:13:18 - INFO --> getUserByCookie: 
+2019-03-19 13:13:18 - INFO --> getZoomById: email=larrancel%40gmail.com&reportType=&description=&
+2019-03-19 13:55:21 - INFO --> getUserByCookie: 
+2019-03-19 13:55:21 - INFO --> getZoomById: email=lopezcinthya058%40gmail.com&reportType=&description=&
+2019-03-19 14:21:46 - INFO --> getUserByCookie: 
+2019-03-19 14:21:46 - INFO --> getZoomById: email=websterservices%40aol.com&reportType=&description=&
+2019-03-19 15:22:24 - INFO --> getUserByCookie: 
+2019-03-19 15:22:24 - INFO --> getZoomById: M)v(f
+2019-03-19 15:22:24 - INFO --> incrementZoomById: M)v(f
+2019-03-19 15:22:24 - INFO --> increment zoom: M)v(f
+2019-03-19 17:55:12 - INFO --> getUserByCookie: 
+2019-03-19 17:55:12 - INFO --> getZoomById: email=lgmg1007%40comcast.net&reportType=&description=&
+2019-03-19 18:04:34 - INFO --> getUserByCookie: 
+2019-03-19 18:04:34 - INFO --> getZoomById: email=subagsingh%40yahoo.com&reportType=&description=&
+2019-03-19 18:19:52 - INFO --> getUserByCookie: 
+2019-03-19 18:19:52 - INFO --> getZoomById: catalog/
+2019-03-19 18:20:01 - INFO --> getUserByCookie: 
+2019-03-19 18:20:01 - INFO --> getZoomById: cart/
+2019-03-19 18:21:06 - INFO --> getUserByCookie: 
+2019-03-19 18:21:06 - INFO --> getZoomById: store/
+2019-03-19 18:21:21 - INFO --> getUserByCookie: 
+2019-03-19 18:21:21 - INFO --> getZoomById: catalog/
+2019-03-19 18:21:29 - INFO --> getUserByCookie: 
+2019-03-19 18:21:29 - INFO --> getZoomById: cart/
+2019-03-19 18:21:39 - INFO --> getUserByCookie: 
+2019-03-19 18:21:39 - INFO --> getZoomById: store/
+2019-03-19 18:21:47 - INFO --> getUserByCookie: 
+2019-03-19 18:21:47 - INFO --> getZoomById: shop/
+2019-03-19 18:21:53 - INFO --> getUserByCookie: 
+2019-03-19 18:21:53 - INFO --> getZoomById: catalog/
+2019-03-19 20:08:19 - INFO --> getUserByCookie: 
+2019-03-19 20:08:19 - INFO --> getZoomById: wp-login.php
+2019-03-19 20:22:17 - INFO --> getUserByCookie: 
+2019-03-19 20:22:17 - INFO --> getZoomById: email=odl4u%40yahoo.com&reportType=&description=&
+2019-03-19 21:45:30 - INFO --> getUserByCookie: 
+2019-03-19 21:45:30 - INFO --> getZoomById: email=jeff.benevides%40gmail.com&reportType=&description=&
+2019-03-19 21:48:13 - INFO --> getUserByCookie: 
+2019-03-19 21:48:13 - INFO --> getZoomById: admin/images/cal_date_over.gif
+2019-03-19 21:48:30 - INFO --> getUserByCookie: 
+2019-03-19 21:48:30 - INFO --> getZoomById: admin/login.php
+2019-03-19 21:48:40 - INFO --> getUserByCookie: 
+2019-03-19 21:48:40 - INFO --> getZoomById: templates/system/css/system.css
+2019-03-19 21:49:09 - INFO --> getUserByCookie: 
+2019-03-19 21:49:09 - INFO --> getZoomById: fckeditor/editor/filemanager/connectors/php/upload.php

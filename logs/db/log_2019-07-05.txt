@@ -1,0 +1,14 @@
+2019-07-05 9:20:55 - INFO --> getUserByCookie: 
+2019-07-05 9:20:55 - INFO --> getZoomById: mbahKb
+2019-07-05 9:20:55 - INFO --> incrementZoomById: mbahKb
+2019-07-05 9:20:55 - INFO --> increment zoom: mbahKb
+2019-07-05 9:31:05 - INFO --> getUserByCookie: 
+2019-07-05 9:31:05 - INFO --> getZoomById: mbahKb
+2019-07-05 9:31:05 - INFO --> incrementZoomById: mbahKb
+2019-07-05 9:31:05 - INFO --> increment zoom: mbahKb
+2019-07-05 20:04:43 - INFO --> getUserByCookie: 
+2019-07-05 20:04:43 - INFO --> getZoomById: mbahKb
+2019-07-05 20:04:43 - INFO --> incrementZoomById: mbahKb
+2019-07-05 20:04:43 - INFO --> increment zoom: mbahKb
+2019-07-05 21:47:07 - INFO --> getUserByCookie: 
+2019-07-05 21:47:07 - INFO --> getZoomById: goodsshow.php

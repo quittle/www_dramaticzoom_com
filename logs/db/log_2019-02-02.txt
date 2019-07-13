@@ -1,0 +1,108 @@
+2019-02-02 1:01:41 - INFO --> getUserByCookie: 
+2019-02-02 1:01:41 - INFO --> getZoomById: email=nspjoshking%40yahoo.com&reportType=&description=&
+2019-02-02 1:11:10 - INFO --> getUserByCookie: 
+2019-02-02 1:11:10 - INFO --> getZoomById: email=certeez%40yahoo.com&reportType=&description=&
+2019-02-02 2:02:49 - INFO --> getUserByCookie: 
+2019-02-02 2:02:49 - INFO --> getZoomById: email=jshowjae%40gmail.com&reportType=&description=&
+2019-02-02 2:57:23 - INFO --> getUserByCookie: 
+2019-02-02 2:57:23 - INFO --> getZoomById: ads.txt
+2019-02-02 3:03:46 - INFO --> getUserByCookie: 
+2019-02-02 3:03:46 - INFO --> getZoomById: email=brentghampton.bh%40gmail.com&reportType=&description=&
+2019-02-02 3:27:14 - INFO --> getUserByCookie: 
+2019-02-02 3:27:14 - INFO --> getZoomById: .well-known/acme-challenge/2astkJ_efjAtArs2UHNyGbvDGPJ5UR0OojQmTYeE4CY
+2019-02-02 3:27:14 - INFO --> getUserByCookie: 
+2019-02-02 3:27:14 - INFO --> getZoomById: .well-known/acme-challenge/6NL0yrR-05z0Qemam61lCcpNeUzvmwzdLW9MgiaDejc
+2019-02-02 3:27:14 - INFO --> getUserByCookie: 
+2019-02-02 3:27:14 - INFO --> getZoomById: .well-known/acme-challenge/tCTathIsWjVA5K4MVu1VhDNg4toGZTfNUIJ_zy4ah5g
+2019-02-02 3:27:14 - INFO --> getUserByCookie: 
+2019-02-02 3:27:14 - INFO --> getZoomById: .well-known/acme-challenge/2jvDxHwhuA25rECl67uWm7k297pei_GIvID2cr2xJLk
+2019-02-02 3:27:22 - INFO --> getUserByCookie: 
+2019-02-02 3:27:22 - INFO --> getZoomById: .well-known/acme-challenge/R-1gFRV-s4dj9U-wVHB4QP-gsjo66yAHIHApHHCc0Dc
+2019-02-02 3:27:30 - INFO --> getUserByCookie: 
+2019-02-02 3:27:30 - INFO --> getZoomById: .well-known/acme-challenge/kqYWM7zKS_6ehWUaRyuc5gOH3Z5OtTjosJ487PnbNoE
+2019-02-02 3:27:37 - INFO --> getUserByCookie: 
+2019-02-02 3:27:37 - INFO --> getZoomById: .well-known/acme-challenge/3O0Bw6h-Xs85ZKSAklnA2y_UPrNW1gWxzmYWcD-XjQU
+2019-02-02 3:27:45 - INFO --> getUserByCookie: 
+2019-02-02 3:27:45 - INFO --> getZoomById: .well-known/acme-challenge/p5Moeb94Z1hcokqZrsied5yRH8JrvLKxv0Li2ArzHFM
+2019-02-02 3:51:26 - INFO --> getUserByCookie: 
+2019-02-02 3:51:26 - INFO --> getZoomById: email=cbibro%40yahoo.com&reportType=&description=&
+2019-02-02 5:13:09 - INFO --> getUserByCookie: 
+2019-02-02 5:13:09 - INFO --> getZoomById: email=siracusa6751%40gmail.com&reportType=&description=&
+2019-02-02 5:28:15 - INFO --> getUserByCookie: 
+2019-02-02 5:28:15 - INFO --> getZoomById: email=traceygallegos%40yahoo.com&reportType=&description=&
+2019-02-02 6:45:02 - INFO --> getUserByCookie: 
+2019-02-02 6:45:02 - INFO --> getZoomById: email=snooge4%40gmail.com&reportType=&description=&
+2019-02-02 7:08:02 - INFO --> getUserByCookie: 
+2019-02-02 7:08:02 - INFO --> getZoomById: email=cbibro%40yahoo.com&reportType=&description=&
+2019-02-02 7:59:40 - INFO --> getUserByCookie: 
+2019-02-02 7:59:40 - INFO --> getZoomById: email=myfivemonsters%40aol.com&reportType=&description=&
+2019-02-02 9:15:55 - INFO --> getUserByCookie: 
+2019-02-02 9:15:55 - INFO --> getZoomById: email=cherylhollyfield%40gmail.com&reportType=&description=&
+2019-02-02 9:23:22 - INFO --> getUserByCookie: 
+2019-02-02 9:23:22 - INFO --> getZoomById: email=alex.vision%40gmail.com&reportType=&description=&
+2019-02-02 10:05:32 - INFO --> getUserByCookie: 
+2019-02-02 10:05:32 - INFO --> getZoomById: .well-known/assetlinks.json
+2019-02-02 10:06:36 - INFO --> getUserByCookie: 
+2019-02-02 10:06:36 - INFO --> getZoomById: email=goku101109%40gmail.com&reportType=&description=&
+2019-02-02 11:56:38 - INFO --> getUserByCookie: 
+2019-02-02 11:56:38 - INFO --> getZoomById: email=samiam2360%40gmail.com&reportType=&description=&
+2019-02-02 12:29:28 - INFO --> getUserByCookie: 
+2019-02-02 12:29:28 - INFO --> getZoomById: email=davidamable19%40gmail.com&reportType=&description=&
+2019-02-02 13:07:32 - INFO --> getUserByCookie: 
+2019-02-02 13:07:32 - INFO --> getZoomById: email=kazmet62%40yahoo.com&reportType=&description=&
+2019-02-02 13:29:11 - INFO --> getUserByCookie: 
+2019-02-02 13:29:11 - INFO --> getZoomById: .well-known/acme-challenge/7Yj03LvJ1J9DXvkIr5rmXsFJYsVIcZ_aQSDb3_j1ylA
+2019-02-02 13:29:11 - INFO --> getUserByCookie: 
+2019-02-02 13:29:11 - INFO --> getZoomById: .well-known/acme-challenge/J5Q3NIHuuvwJyzL_qZReXp0kUumoslAU6l3Vlzk_pzg
+2019-02-02 13:29:11 - INFO --> getUserByCookie: 
+2019-02-02 13:29:11 - INFO --> getZoomById: .well-known/acme-challenge/UA3DH0RIW84TXz5G9WeoGSthVTp9D4egOztbGZtX1Bg
+2019-02-02 13:29:11 - INFO --> getUserByCookie: 
+2019-02-02 13:29:11 - INFO --> getZoomById: .well-known/acme-challenge/SAuEi2JNYAEfeyORI4AKvDj4k8saTFa9hSozgnesV4Y
+2019-02-02 13:33:01 - INFO --> getUserByCookie: 
+2019-02-02 13:33:01 - INFO --> getZoomById: .well-known/acme-challenge/777NscN2m834Ur0gPa5tWuBJb5jz6kFC8ELjFTOswqo
+2019-02-02 13:33:02 - INFO --> getUserByCookie: 
+2019-02-02 13:33:02 - INFO --> getZoomById: .well-known/acme-challenge/LQXmHtWjfOjEidPCYE5rNyQkwi3EP1oAFL-AoFoxjEQ
+2019-02-02 13:33:02 - INFO --> getUserByCookie: 
+2019-02-02 13:33:02 - INFO --> getZoomById: .well-known/acme-challenge/KGIb5WWhDYsfbG57EJKHW3grECUcIHcTA-E1qrqgdaw
+2019-02-02 13:33:02 - INFO --> getUserByCookie: 
+2019-02-02 13:33:02 - INFO --> getZoomById: .well-known/acme-challenge/p-6GD9YXfADtIRFyOpySn8YIdZ4KvwSe4pf8MWf9Z1o
+2019-02-02 13:33:10 - INFO --> getUserByCookie: 
+2019-02-02 13:33:10 - INFO --> getZoomById: .well-known/acme-challenge/kB-ugzYtK7ItJ6BN2bVh7iWJXa8mByxS_a311fp5aRA
+2019-02-02 13:37:29 - INFO --> getUserByCookie: 
+2019-02-02 13:37:29 - INFO --> getZoomById: .well-known/acme-challenge/PyPymOoQwfT-pgvqdgmpL8YRuqjhuNz6JVxjJ9u3IgQ
+2019-02-02 13:38:46 - INFO --> getUserByCookie: 
+2019-02-02 13:38:46 - INFO --> getZoomById: .well-known/acme-challenge/XhSqZ7os7zaVie1pM7o7CA8wYJD43yUzWmgnBGUaIqQ
+2019-02-02 13:39:00 - INFO --> getUserByCookie: 
+2019-02-02 13:39:00 - INFO --> getZoomById: .well-known/acme-challenge/XhSqZ7os7zaVie1pM7o7CA8wYJD43yUzWmgnBGUaIqQ
+2019-02-02 13:40:04 - INFO --> getUserByCookie: 
+2019-02-02 13:40:04 - INFO --> getZoomById: .well-known/acme-challenge/F35-0b0ZzhJ6wNgwLFKRkplQJwzNfnK6wGI9Fv6YbFc
+2019-02-02 13:41:27 - INFO --> getUserByCookie: 
+2019-02-02 13:41:27 - INFO --> getZoomById: .well-known/acme-challenge/7Zf7ZIU8bkJgzF8rLwHkQR1mwrkcGSTMB4azXJVA1JQ
+2019-02-02 13:41:53 - INFO --> getUserByCookie: 
+2019-02-02 13:41:53 - INFO --> getZoomById: .well-known/acme-challenge/uxMEwY_L5AOQlZO35qVZI-_dN_4CLGQr91RGV9JwqIs
+2019-02-02 13:53:43 - INFO --> getUserByCookie: 
+2019-02-02 13:53:43 - INFO --> getZoomById: wp-login.php
+2019-02-02 14:25:55 - INFO --> getUserByCookie: 
+2019-02-02 14:25:55 - INFO --> getZoomById: email=thejellybeanboy%40gmail.com&reportType=&description=&
+2019-02-02 14:33:47 - INFO --> getUserByCookie: 
+2019-02-02 14:33:47 - INFO --> getZoomById: email=jiannii203%40gmail.com&reportType=&description=&
+2019-02-02 15:34:27 - INFO --> getUserByCookie: 
+2019-02-02 16:43:04 - INFO --> getUserByCookie: 
+2019-02-02 16:43:04 - INFO --> getZoomById: email=herrickcarey%40gmail.com&reportType=&description=&
+2019-02-02 17:00:23 - INFO --> getUserByCookie: 
+2019-02-02 17:00:23 - INFO --> getZoomById: email=ybalviny7%40gmail.com&reportType=&description=&
+2019-02-02 17:43:23 - INFO --> getUserByCookie: 
+2019-02-02 17:43:23 - INFO --> getZoomById: email=rcouhig%40gmail.com&reportType=&description=&
+2019-02-02 18:00:51 - INFO --> getUserByCookie: 
+2019-02-02 18:00:51 - INFO --> getZoomById: email=mgc131%40aol.com&reportType=&description=&
+2019-02-02 18:28:48 - INFO --> getUserByCookie: 
+2019-02-02 18:28:48 - INFO --> getZoomById: iSctp
+2019-02-02 18:28:48 - INFO --> incrementZoomById: iSctp
+2019-02-02 18:28:48 - INFO --> increment zoom: iSctp
+2019-02-02 21:01:44 - INFO --> getUserByCookie: 
+2019-02-02 21:01:44 - INFO --> getZoomById: email=ricknap1974%40gmail.com&reportType=&description=&
+2019-02-02 21:29:26 - INFO --> getUserByCookie: 
+2019-02-02 21:29:26 - INFO --> getZoomById: iSctp
+2019-02-02 21:29:26 - INFO --> incrementZoomById: iSctp
+2019-02-02 21:29:26 - INFO --> increment zoom: iSctp
+2019-02-02 22:09:49 - INFO --> getUserByCookie: 

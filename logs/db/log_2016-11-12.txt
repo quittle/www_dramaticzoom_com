@@ -1,0 +1,10 @@
+2016-11-12 2:10:07 - INFO --> getUserByCookie: 
+2016-11-12 2:10:07 - INFO --> getZoomById: tmp/sfx.php
+2016-11-12 3:44:28 - INFO --> getUserByCookie: 
+2016-11-12 8:18:38 - INFO --> getUserByCookie: 
+2016-11-12 9:24:34 - INFO --> getUserByCookie: 
+2016-11-12 20:54:28 - INFO --> getUserByCookie: 
+2016-11-12 22:35:54 - INFO --> getUserByCookie: 
+2016-11-12 22:35:54 - INFO --> getZoomById: iSctp
+2016-11-12 22:35:54 - INFO --> incrementZoomById: iSctp
+2016-11-12 22:35:54 - INFO --> increment zoom: iSctp

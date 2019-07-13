@@ -1,0 +1,21 @@
+2016-06-16 3:07:55 - INFO --> getUserByCookie: 
+2016-06-16 8:18:25 - INFO --> getUserByCookie: 
+2016-06-16 8:18:25 - INFO --> getZoomById: iSctp
+2016-06-16 8:18:25 - INFO --> incrementZoomById: iSctp
+2016-06-16 8:18:25 - INFO --> increment zoom: iSctp
+2016-06-16 19:07:07 - INFO --> getUserByCookie: 
+2016-06-16 19:07:07 - INFO --> getZoomById: iSctp
+2016-06-16 19:07:07 - INFO --> incrementZoomById: iSctp
+2016-06-16 19:07:07 - INFO --> increment zoom: iSctp
+2016-06-16 19:48:40 - INFO --> getUserByCookie: 
+2016-06-16 19:48:40 - INFO --> getZoomById: G1YU4
+2016-06-16 19:48:40 - INFO --> incrementZoomById: G1YU4
+2016-06-16 19:48:40 - INFO --> increment zoom: G1YU4
+2016-06-16 20:24:33 - INFO --> getUserByCookie: 
+2016-06-16 20:24:33 - INFO --> getZoomById: w+JPX
+2016-06-16 20:24:33 - INFO --> incrementZoomById: w+JPX
+2016-06-16 20:24:33 - INFO --> increment zoom: w+JPX
+2016-06-16 22:32:45 - INFO --> getUserByCookie: 
+2016-06-16 22:32:45 - INFO --> getZoomById: w6tlCc
+2016-06-16 22:32:45 - INFO --> incrementZoomById: w6tlCc
+2016-06-16 22:32:45 - INFO --> increment zoom: w6tlCc

@@ -1,0 +1,39 @@
+2016-05-20 5:26:10 - INFO --> getUserByCookie: 
+2016-05-20 5:26:10 - INFO --> getZoomById: yeHB_b
+2016-05-20 5:26:10 - INFO --> incrementZoomById: yeHB_b
+2016-05-20 5:26:10 - INFO --> increment zoom: yeHB_b
+2016-05-20 6:20:39 - INFO --> getUserByCookie: 
+2016-05-20 6:30:09 - INFO --> getUserByCookie: 
+2016-05-20 6:30:09 - INFO --> getZoomById: w6tlCc
+2016-05-20 6:30:09 - INFO --> incrementZoomById: w6tlCc
+2016-05-20 6:30:09 - INFO --> increment zoom: w6tlCc
+2016-05-20 7:05:52 - INFO --> getUserByCookie: 
+2016-05-20 7:05:52 - INFO --> getZoomById: iSctp
+2016-05-20 7:05:52 - INFO --> incrementZoomById: iSctp
+2016-05-20 7:05:52 - INFO --> increment zoom: iSctp
+2016-05-20 7:18:06 - INFO --> getUserByCookie: 
+2016-05-20 7:18:06 - INFO --> getZoomById: mbahKb
+2016-05-20 7:18:06 - INFO --> incrementZoomById: mbahKb
+2016-05-20 7:18:06 - INFO --> increment zoom: mbahKb
+2016-05-20 11:01:21 - INFO --> getUserByCookie: 
+2016-05-20 11:01:21 - INFO --> getZoomById: iSctp
+2016-05-20 11:01:21 - INFO --> incrementZoomById: iSctp
+2016-05-20 11:01:21 - INFO --> increment zoom: iSctp
+2016-05-20 11:29:31 - INFO --> getUserByCookie: 
+2016-05-20 11:29:31 - INFO --> getZoomById: G1YU4
+2016-05-20 11:29:31 - INFO --> incrementZoomById: G1YU4
+2016-05-20 11:29:31 - INFO --> increment zoom: G1YU4
+2016-05-20 13:56:17 - INFO --> getUserByCookie: 
+2016-05-20 17:14:46 - INFO --> getUserByCookie: 
+2016-05-20 17:14:46 - INFO --> getZoomById: yeHB_b
+2016-05-20 17:14:46 - INFO --> incrementZoomById: yeHB_b
+2016-05-20 17:14:46 - INFO --> increment zoom: yeHB_b
+2016-05-20 17:17:02 - INFO --> getUserByCookie: 
+2016-05-20 17:17:02 - INFO --> getZoomById: G1YU4
+2016-05-20 17:17:02 - INFO --> incrementZoomById: G1YU4
+2016-05-20 17:17:02 - INFO --> increment zoom: G1YU4
+2016-05-20 19:07:29 - INFO --> getUserByCookie: 
+2016-05-20 19:07:29 - INFO --> getZoomById: iSctp
+2016-05-20 19:07:29 - INFO --> incrementZoomById: iSctp
+2016-05-20 19:07:29 - INFO --> increment zoom: iSctp
+2016-05-20 19:48:42 - INFO --> getUserByCookie: 

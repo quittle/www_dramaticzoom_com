@@ -1,0 +1,30 @@
+2016-04-12 0:22:39 - INFO --> getUserByCookie: 
+2016-04-12 0:22:39 - INFO --> getZoomById: iSctp
+2016-04-12 0:22:39 - INFO --> incrementZoomById: iSctp
+2016-04-12 0:22:39 - INFO --> increment zoom: iSctp
+2016-04-12 0:22:52 - INFO --> getUserByCookie: 
+2016-04-12 0:35:12 - INFO --> getUserByCookie: 
+2016-04-12 0:35:12 - INFO --> getZoomById: w6tlCc
+2016-04-12 0:35:12 - INFO --> incrementZoomById: w6tlCc
+2016-04-12 0:35:12 - INFO --> increment zoom: w6tlCc
+2016-04-12 1:35:29 - INFO --> getUserByCookie: 
+2016-04-12 1:35:29 - INFO --> getZoomById: iSctp
+2016-04-12 1:35:29 - INFO --> incrementZoomById: iSctp
+2016-04-12 1:35:29 - INFO --> increment zoom: iSctp
+2016-04-12 5:06:00 - INFO --> getUserByCookie: 
+2016-04-12 5:06:00 - INFO --> getZoomById: iSctp
+2016-04-12 5:06:00 - INFO --> incrementZoomById: iSctp
+2016-04-12 5:06:00 - INFO --> increment zoom: iSctp
+2016-04-12 5:27:34 - INFO --> getUserByCookie: 
+2016-04-12 5:27:34 - INFO --> getZoomById: M)v(f
+2016-04-12 5:27:34 - INFO --> incrementZoomById: M)v(f
+2016-04-12 5:27:34 - INFO --> increment zoom: M)v(f
+2016-04-12 6:40:25 - INFO --> getUserByCookie: 
+2016-04-12 6:40:25 - INFO --> getZoomById: iSctp
+2016-04-12 6:40:25 - INFO --> incrementZoomById: iSctp
+2016-04-12 6:40:25 - INFO --> increment zoom: iSctp
+2016-04-12 12:13:34 - INFO --> getUserByCookie: 
+2016-04-12 12:13:34 - INFO --> getZoomById: iSctp
+2016-04-12 12:13:34 - INFO --> incrementZoomById: iSctp
+2016-04-12 12:13:34 - INFO --> increment zoom: iSctp
+2016-04-12 13:36:57 - INFO --> getUserByCookie: 

@@ -1,0 +1,19 @@
+2016-08-22 18:59:16 - INFO --> getUserByCookie: 
+2016-08-22 18:59:16 - INFO --> getZoomById: text/css
+2016-08-22 18:59:17 - INFO --> getUserByCookie: 
+2016-08-22 18:59:17 - INFO --> getZoomById: js/text/css
+2016-08-22 18:59:20 - INFO --> getUserByCookie: 
+2016-08-22 18:59:20 - INFO --> getZoomById: text/plain
+2016-08-22 18:59:23 - INFO --> getUserByCookie: 
+2016-08-22 18:59:23 - INFO --> getZoomById: js/m.
+2016-08-22 18:59:24 - INFO --> getUserByCookie: 
+2016-08-22 18:59:24 - INFO --> getZoomById: application/x-www-form-urlencoded
+2016-08-22 18:59:26 - INFO --> getUserByCookie: 
+2016-08-22 18:59:26 - INFO --> getZoomById: js/application/x-www-form-urlencoded
+2016-08-22 18:59:27 - INFO --> getUserByCookie: 
+2016-08-22 18:59:27 - INFO --> getZoomById: js/text/plain
+2016-08-22 18:59:30 - INFO --> getUserByCookie: 
+2016-08-22 18:59:35 - INFO --> getUserByCookie: 
+2016-08-22 18:59:35 - INFO --> getZoomById: text/html
+2016-08-22 18:59:36 - INFO --> getUserByCookie: 
+2016-08-22 18:59:36 - INFO --> getZoomById: js/text/html

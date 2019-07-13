@@ -1,0 +1,41 @@
+2018-01-18 0:13:23 - INFO --> getUserByCookie: 
+2018-01-18 0:13:23 - INFO --> getZoomById: register-user=&register-email=rachaelgambel%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2018-01-18 0:19:15 - INFO --> getUserByCookie: 
+2018-01-18 0:19:15 - INFO --> getZoomById: register-user=&register-email=karimamtc%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-01-18 0:46:07 - INFO --> getUserByCookie: 
+2018-01-18 0:46:07 - INFO --> getZoomById: components/com_foxcontact/sef_ext/com_foxcontact.php
+2018-01-18 1:59:54 - INFO --> getUserByCookie: 
+2018-01-18 1:59:54 - INFO --> getZoomById: register-user=&register-email=smith_michaeld%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-01-18 3:43:57 - INFO --> getUserByCookie: 
+2018-01-18 3:43:57 - INFO --> getZoomById: .ftpconfig
+2018-01-18 3:44:03 - INFO --> getUserByCookie: 
+2018-01-18 3:44:03 - INFO --> getZoomById: .remote-sync.json
+2018-01-18 3:44:14 - INFO --> getUserByCookie: 
+2018-01-18 3:44:14 - INFO --> getZoomById: .vscode/ftp-sync.json
+2018-01-18 3:44:20 - INFO --> getUserByCookie: 
+2018-01-18 3:44:20 - INFO --> getZoomById: sftp-config.json
+2018-01-18 3:44:47 - INFO --> getUserByCookie: 
+2018-01-18 3:44:47 - INFO --> getZoomById: deployment-config.json
+2018-01-18 3:59:38 - INFO --> getUserByCookie: 
+2018-01-18 5:34:22 - INFO --> getUserByCookie: 
+2018-01-18 5:34:22 - INFO --> getZoomById: register-user=&register-email=kjthepa%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-01-18 9:12:33 - INFO --> getUserByCookie: 
+2018-01-18 9:12:33 - INFO --> getZoomById: register-user=&register-email=dchessler%40comcast.net&register-pass=&register-pass2=&register-agree=&
+2018-01-18 13:07:43 - INFO --> getUserByCookie: 
+2018-01-18 13:07:43 - INFO --> getZoomById: .well-known/assetlinks.json
+2018-01-18 15:09:50 - INFO --> getUserByCookie: 
+2018-01-18 15:09:50 - INFO --> getZoomById: .well-known/apple-app-site-association
+2018-01-18 16:48:33 - INFO --> getUserByCookie: 
+2018-01-18 16:48:33 - INFO --> getZoomById: iSctp
+2018-01-18 16:48:33 - INFO --> incrementZoomById: iSctp
+2018-01-18 16:48:33 - INFO --> increment zoom: iSctp
+2018-01-18 19:27:34 - INFO --> getUserByCookie: 
+2018-01-18 19:27:34 - INFO --> getZoomById: register-user=&register-email=dbauer0212%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2018-01-18 20:28:33 - INFO --> getUserByCookie: 
+2018-01-18 20:28:33 - INFO --> getZoomById: register-user=&register-email=pw%40thecompasscrew.com&register-pass=&register-pass2=&register-agree=&
+2018-01-18 21:38:27 - INFO --> getUserByCookie: 
+2018-01-18 21:38:27 - INFO --> getZoomById: register-user=&register-email=genxclothing%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2018-01-18 22:11:40 - INFO --> getUserByCookie: 
+2018-01-18 22:11:40 - INFO --> getZoomById: register-user=&register-email=scott01019%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2018-01-18 23:58:47 - INFO --> getUserByCookie: 
+2018-01-18 23:58:47 - INFO --> getZoomById: register-user=&register-email=kaulgirl1313%40yahoo.com&register-pass=&register-pass2=&register-agree=&

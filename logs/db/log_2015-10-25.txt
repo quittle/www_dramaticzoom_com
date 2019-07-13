@@ -1,0 +1,14 @@
+2015-10-25 11:53:28 - INFO --> getUserByCookie: 
+2015-10-25 11:53:28 - INFO --> getZoomById: G1YU4
+2015-10-25 11:53:28 - INFO --> incrementZoomById: G1YU4
+2015-10-25 11:53:28 - INFO --> increment zoom: G1YU4
+2015-10-25 12:37:50 - INFO --> getUserByCookie: 
+2015-10-25 12:37:50 - INFO --> getZoomById: w+JPX
+2015-10-25 12:37:50 - INFO --> incrementZoomById: w+JPX
+2015-10-25 12:37:50 - INFO --> increment zoom: w+JPX
+2015-10-25 15:48:47 - INFO --> getUserByCookie: 
+2015-10-25 15:48:47 - INFO --> getZoomById: reportType=Content+Problem&email=lucas2d44%40gmail.com&description=y6x5xt+http%3A%2F%2Fwww.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
+2015-10-25 19:13:57 - INFO --> getUserByCookie: 
+2015-10-25 19:13:57 - INFO --> getZoomById: w+JPX
+2015-10-25 19:13:57 - INFO --> incrementZoomById: w+JPX
+2015-10-25 19:13:57 - INFO --> increment zoom: w+JPX

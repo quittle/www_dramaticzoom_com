@@ -1,0 +1,163 @@
+2016-01-19 2:10:51 - INFO --> getUserByCookie: 
+2016-01-19 2:10:51 - INFO --> getZoomById: administrator/
+2016-01-19 2:10:52 - INFO --> getUserByCookie: 
+2016-01-19 2:10:52 - INFO --> getZoomById: administrator/index.php
+2016-01-19 2:21:26 - INFO --> getUserByCookie: 
+2016-01-19 2:21:26 - INFO --> getZoomById: wp-login.php
+2016-01-19 2:21:27 - INFO --> getUserByCookie: 
+2016-01-19 2:21:27 - INFO --> getZoomById: wp-admin/
+2016-01-19 2:33:12 - INFO --> getUserByCookie: 
+2016-01-19 2:33:12 - INFO --> getZoomById: admin.php
+2016-01-19 2:34:00 - INFO --> getUserByCookie: 
+2016-01-19 2:34:00 - INFO --> getZoomById: admin
+2016-01-19 2:40:02 - INFO --> getUserByCookie: 
+2016-01-19 2:40:02 - INFO --> getZoomById: administrator/
+2016-01-19 2:40:02 - INFO --> getUserByCookie: 
+2016-01-19 2:40:02 - INFO --> getZoomById: administrator/index.php
+2016-01-19 2:59:47 - INFO --> getUserByCookie: 
+2016-01-19 2:59:47 - INFO --> getZoomById: wp-login.php
+2016-01-19 2:59:48 - INFO --> getUserByCookie: 
+2016-01-19 2:59:48 - INFO --> getZoomById: wp-admin/
+2016-01-19 3:04:24 - INFO --> getUserByCookie: 
+2016-01-19 3:04:24 - INFO --> getZoomById: admin.php
+2016-01-19 3:05:15 - INFO --> getUserByCookie: 
+2016-01-19 3:05:15 - INFO --> getZoomById: admin
+2016-01-19 3:05:22 - INFO --> getUserByCookie: 
+2016-01-19 3:05:22 - INFO --> getZoomById: administrator/
+2016-01-19 3:05:23 - INFO --> getUserByCookie: 
+2016-01-19 3:05:23 - INFO --> getZoomById: administrator/index.php
+2016-01-19 3:12:02 - INFO --> getUserByCookie: 
+2016-01-19 3:12:02 - INFO --> getZoomById: wp-login.php
+2016-01-19 3:12:02 - INFO --> getUserByCookie: 
+2016-01-19 3:12:02 - INFO --> getZoomById: wp-admin/
+2016-01-19 3:19:33 - INFO --> getUserByCookie: 
+2016-01-19 3:19:33 - INFO --> getZoomById: admin.php
+2016-01-19 3:22:55 - INFO --> getUserByCookie: 
+2016-01-19 3:22:55 - INFO --> getZoomById: admin
+2016-01-19 3:37:37 - INFO --> getUserByCookie: 
+2016-01-19 3:37:37 - INFO --> getZoomById: administrator/
+2016-01-19 3:37:52 - INFO --> getUserByCookie: 
+2016-01-19 3:37:52 - INFO --> getZoomById: administrator/index.php
+2016-01-19 3:52:12 - INFO --> getUserByCookie: 
+2016-01-19 3:52:12 - INFO --> getZoomById: administrator/
+2016-01-19 3:52:13 - INFO --> getUserByCookie: 
+2016-01-19 3:52:13 - INFO --> getZoomById: administrator/index.php
+2016-01-19 4:01:25 - INFO --> getUserByCookie: 
+2016-01-19 4:04:55 - INFO --> getUserByCookie: 
+2016-01-19 4:04:55 - INFO --> getZoomById: wp-login.php
+2016-01-19 4:05:01 - INFO --> getUserByCookie: 
+2016-01-19 4:05:01 - INFO --> getZoomById: wp-login.php
+2016-01-19 4:05:02 - INFO --> getUserByCookie: 
+2016-01-19 4:05:02 - INFO --> getZoomById: wp-admin/
+2016-01-19 4:05:07 - INFO --> getUserByCookie: 
+2016-01-19 4:05:07 - INFO --> getZoomById: wp-admin/
+2016-01-19 4:16:51 - INFO --> getUserByCookie: 
+2016-01-19 4:16:51 - INFO --> getZoomById: admin.php
+2016-01-19 4:17:38 - INFO --> getUserByCookie: 
+2016-01-19 4:17:38 - INFO --> getZoomById: administrator/
+2016-01-19 4:17:39 - INFO --> getUserByCookie: 
+2016-01-19 4:17:39 - INFO --> getZoomById: administrator/index.php
+2016-01-19 4:24:05 - INFO --> getUserByCookie: 
+2016-01-19 4:24:05 - INFO --> getZoomById: admin
+2016-01-19 4:29:01 - INFO --> getUserByCookie: 
+2016-01-19 4:29:01 - INFO --> getZoomById: wp-login.php
+2016-01-19 4:29:02 - INFO --> getUserByCookie: 
+2016-01-19 4:29:02 - INFO --> getZoomById: wp-admin/
+2016-01-19 4:41:09 - INFO --> getUserByCookie: 
+2016-01-19 4:41:09 - INFO --> getZoomById: admin.php
+2016-01-19 4:41:59 - INFO --> getUserByCookie: 
+2016-01-19 4:41:59 - INFO --> getZoomById: admin
+2016-01-19 4:46:34 - INFO --> getUserByCookie: 
+2016-01-19 4:46:34 - INFO --> getZoomById: administrator/
+2016-01-19 4:46:34 - INFO --> getUserByCookie: 
+2016-01-19 4:46:34 - INFO --> getZoomById: administrator/index.php
+2016-01-19 5:07:57 - INFO --> getUserByCookie: 
+2016-01-19 5:07:57 - INFO --> getZoomById: wp-login.php
+2016-01-19 5:07:57 - INFO --> getUserByCookie: 
+2016-01-19 5:07:57 - INFO --> getZoomById: wp-admin/
+2016-01-19 5:15:41 - INFO --> getUserByCookie: 
+2016-01-19 5:15:41 - INFO --> getZoomById: admin.php
+2016-01-19 5:15:54 - INFO --> getUserByCookie: 
+2016-01-19 5:15:54 - INFO --> getZoomById: administrator/
+2016-01-19 5:16:02 - INFO --> getUserByCookie: 
+2016-01-19 5:16:02 - INFO --> getZoomById: administrator/index.php
+2016-01-19 5:17:46 - INFO --> getUserByCookie: 
+2016-01-19 5:17:46 - INFO --> getZoomById: admin
+2016-01-19 5:38:03 - INFO --> getUserByCookie: 
+2016-01-19 5:38:03 - INFO --> getZoomById: administrator/
+2016-01-19 5:38:05 - INFO --> getUserByCookie: 
+2016-01-19 5:38:05 - INFO --> getZoomById: administrator/index.php
+2016-01-19 5:55:53 - INFO --> getUserByCookie: 
+2016-01-19 5:55:53 - INFO --> getZoomById: wp-login.php
+2016-01-19 5:55:56 - INFO --> getUserByCookie: 
+2016-01-19 5:55:56 - INFO --> getZoomById: wp-admin/
+2016-01-19 6:00:08 - INFO --> getUserByCookie: 
+2016-01-19 6:00:08 - INFO --> getZoomById: administrator/
+2016-01-19 6:00:14 - INFO --> getUserByCookie: 
+2016-01-19 6:00:14 - INFO --> getZoomById: administrator/index.php
+2016-01-19 6:06:36 - INFO --> getUserByCookie: 
+2016-01-19 6:06:36 - INFO --> getZoomById: wp-login.php
+2016-01-19 6:06:37 - INFO --> getUserByCookie: 
+2016-01-19 6:06:37 - INFO --> getZoomById: wp-admin/
+2016-01-19 6:16:35 - INFO --> getUserByCookie: 
+2016-01-19 6:16:35 - INFO --> getZoomById: wp-login.php
+2016-01-19 6:16:36 - INFO --> getUserByCookie: 
+2016-01-19 6:16:36 - INFO --> getZoomById: wp-admin/
+2016-01-19 6:24:23 - INFO --> getUserByCookie: 
+2016-01-19 6:24:23 - INFO --> getZoomById: administrator/
+2016-01-19 6:24:24 - INFO --> getUserByCookie: 
+2016-01-19 6:24:24 - INFO --> getZoomById: administrator/index.php
+2016-01-19 6:30:08 - INFO --> getUserByCookie: 
+2016-01-19 6:30:08 - INFO --> getZoomById: admin.php
+2016-01-19 6:31:53 - INFO --> getUserByCookie: 
+2016-01-19 6:31:53 - INFO --> getZoomById: admin
+2016-01-19 6:34:34 - INFO --> getUserByCookie: 
+2016-01-19 6:34:34 - INFO --> getZoomById: wp-admin/
+2016-01-19 6:41:44 - INFO --> getUserByCookie: 
+2016-01-19 6:41:44 - INFO --> getZoomById: admin.php
+2016-01-19 6:43:36 - INFO --> getUserByCookie: 
+2016-01-19 6:43:36 - INFO --> getZoomById: admin
+2016-01-19 6:46:20 - INFO --> getUserByCookie: 
+2016-01-19 6:46:20 - INFO --> getZoomById: administrator/
+2016-01-19 6:46:20 - INFO --> getUserByCookie: 
+2016-01-19 6:46:20 - INFO --> getZoomById: administrator/index.php
+2016-01-19 6:59:06 - INFO --> getUserByCookie: 
+2016-01-19 6:59:06 - INFO --> getZoomById: wp-login.php
+2016-01-19 6:59:07 - INFO --> getUserByCookie: 
+2016-01-19 6:59:07 - INFO --> getZoomById: wp-admin/
+2016-01-19 7:10:32 - INFO --> getUserByCookie: 
+2016-01-19 7:10:32 - INFO --> getZoomById: admin.php
+2016-01-19 7:11:19 - INFO --> getUserByCookie: 
+2016-01-19 7:11:19 - INFO --> getZoomById: admin
+2016-01-19 7:11:24 - INFO --> getUserByCookie: 
+2016-01-19 7:11:24 - INFO --> getZoomById: administrator/
+2016-01-19 7:11:25 - INFO --> getUserByCookie: 
+2016-01-19 7:11:25 - INFO --> getZoomById: administrator/index.php
+2016-01-19 7:18:55 - INFO --> getUserByCookie: 
+2016-01-19 7:18:55 - INFO --> getZoomById: wp-login.php
+2016-01-19 7:18:55 - INFO --> getUserByCookie: 
+2016-01-19 7:18:55 - INFO --> getZoomById: wp-admin/
+2016-01-19 7:30:05 - INFO --> getUserByCookie: 
+2016-01-19 7:30:05 - INFO --> getZoomById: admin.php
+2016-01-19 7:31:44 - INFO --> getUserByCookie: 
+2016-01-19 7:31:44 - INFO --> getZoomById: admin
+2016-01-19 7:33:16 - INFO --> getUserByCookie: 
+2016-01-19 7:33:16 - INFO --> getZoomById: administrator/
+2016-01-19 7:33:17 - INFO --> getUserByCookie: 
+2016-01-19 7:33:17 - INFO --> getZoomById: administrator/index.php
+2016-01-19 7:39:33 - INFO --> getUserByCookie: 
+2016-01-19 7:39:33 - INFO --> getZoomById: wp-login.php
+2016-01-19 7:39:33 - INFO --> getUserByCookie: 
+2016-01-19 7:39:33 - INFO --> getZoomById: wp-admin/
+2016-01-19 7:57:30 - INFO --> getUserByCookie: 
+2016-01-19 7:57:30 - INFO --> getZoomById: admin.php
+2016-01-19 7:58:23 - INFO --> getUserByCookie: 
+2016-01-19 7:58:23 - INFO --> getZoomById: admin
+2016-01-19 9:04:58 - INFO --> getUserByCookie: 
+2016-01-19 9:04:58 - INFO --> getZoomById: iSctp
+2016-01-19 9:04:58 - INFO --> incrementZoomById: iSctp
+2016-01-19 9:04:58 - INFO --> increment zoom: iSctp
+2016-01-19 19:12:49 - INFO --> getUserByCookie: 
+2016-01-19 19:12:49 - INFO --> getZoomById: iSctp
+2016-01-19 19:12:49 - INFO --> incrementZoomById: iSctp
+2016-01-19 19:12:49 - INFO --> increment zoom: iSctp

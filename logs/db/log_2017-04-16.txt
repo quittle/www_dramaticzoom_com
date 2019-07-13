@@ -1,0 +1,6 @@
+2017-04-16 4:05:47 - INFO --> getUserByCookie: 
+2017-04-16 4:05:47 - INFO --> getZoomById: wp-login.php
+2017-04-16 7:09:02 - INFO --> getUserByCookie: 
+2017-04-16 7:09:02 - INFO --> getZoomById: w+JPX
+2017-04-16 7:09:02 - INFO --> incrementZoomById: w+JPX
+2017-04-16 7:09:02 - INFO --> increment zoom: w+JPX

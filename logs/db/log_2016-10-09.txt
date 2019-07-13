@@ -1,0 +1,104 @@
+2016-10-09 12:25:51 - INFO --> getUserByCookie: 
+2016-10-09 12:25:51 - INFO --> getZoomById: wp-login.php
+2016-10-09 12:25:52 - INFO --> getUserByCookie: 
+2016-10-09 12:25:52 - INFO --> getZoomById: administrator
+2016-10-09 12:25:53 - INFO --> getUserByCookie: 
+2016-10-09 12:25:53 - INFO --> getZoomById: admin/content/sitetree
+2016-10-09 12:25:53 - INFO --> getUserByCookie: 
+2016-10-09 12:25:53 - INFO --> getZoomById: panel
+2016-10-09 12:25:54 - INFO --> getUserByCookie: 
+2016-10-09 12:25:54 - INFO --> getZoomById: bitrix/admin
+2016-10-09 12:25:55 - INFO --> getUserByCookie: 
+2016-10-09 12:25:55 - INFO --> getZoomById: manager
+2016-10-09 12:25:55 - INFO --> getUserByCookie: 
+2016-10-09 12:25:55 - INFO --> getZoomById: admin.php
+2016-10-09 12:25:56 - INFO --> getUserByCookie: 
+2016-10-09 12:25:56 - INFO --> getZoomById: user
+2016-10-09 12:31:49 - INFO --> getUserByCookie: 
+2016-10-09 12:31:49 - INFO --> getZoomById: wp-login.php
+2016-10-09 12:31:50 - INFO --> getUserByCookie: 
+2016-10-09 12:31:50 - INFO --> getZoomById: administrator
+2016-10-09 12:31:54 - INFO --> getUserByCookie: 
+2016-10-09 12:31:54 - INFO --> getZoomById: admin/content/sitetree
+2016-10-09 12:31:55 - INFO --> getUserByCookie: 
+2016-10-09 12:31:55 - INFO --> getZoomById: panel
+2016-10-09 12:31:56 - INFO --> getUserByCookie: 
+2016-10-09 12:31:56 - INFO --> getZoomById: bitrix/admin
+2016-10-09 12:31:56 - INFO --> getUserByCookie: 
+2016-10-09 12:31:56 - INFO --> getZoomById: manager
+2016-10-09 12:32:01 - INFO --> getUserByCookie: 
+2016-10-09 12:32:01 - INFO --> getZoomById: admin.php
+2016-10-09 12:32:02 - INFO --> getUserByCookie: 
+2016-10-09 12:32:02 - INFO --> getZoomById: user
+2016-10-09 12:59:23 - INFO --> getUserByCookie: 
+2016-10-09 12:59:23 - INFO --> getZoomById: wp-login.php
+2016-10-09 12:59:24 - INFO --> getUserByCookie: 
+2016-10-09 12:59:24 - INFO --> getZoomById: administrator
+2016-10-09 12:59:24 - INFO --> getUserByCookie: 
+2016-10-09 12:59:24 - INFO --> getZoomById: admin/content/sitetree
+2016-10-09 12:59:24 - INFO --> getUserByCookie: 
+2016-10-09 12:59:24 - INFO --> getZoomById: panel
+2016-10-09 12:59:25 - INFO --> getUserByCookie: 
+2016-10-09 12:59:25 - INFO --> getZoomById: bitrix/admin
+2016-10-09 12:59:25 - INFO --> getUserByCookie: 
+2016-10-09 12:59:25 - INFO --> getZoomById: manager
+2016-10-09 12:59:26 - INFO --> getUserByCookie: 
+2016-10-09 12:59:26 - INFO --> getZoomById: admin.php
+2016-10-09 12:59:26 - INFO --> getUserByCookie: 
+2016-10-09 12:59:26 - INFO --> getZoomById: wp-login.php
+2016-10-09 12:59:26 - INFO --> getUserByCookie: 
+2016-10-09 12:59:26 - INFO --> getZoomById: user
+2016-10-09 12:59:27 - INFO --> getUserByCookie: 
+2016-10-09 12:59:27 - INFO --> getZoomById: administrator
+2016-10-09 12:59:28 - INFO --> getUserByCookie: 
+2016-10-09 12:59:28 - INFO --> getZoomById: admin/content/sitetree
+2016-10-09 12:59:29 - INFO --> getUserByCookie: 
+2016-10-09 12:59:29 - INFO --> getZoomById: panel
+2016-10-09 12:59:30 - INFO --> getUserByCookie: 
+2016-10-09 12:59:30 - INFO --> getZoomById: bitrix/admin
+2016-10-09 12:59:31 - INFO --> getUserByCookie: 
+2016-10-09 12:59:31 - INFO --> getZoomById: manager
+2016-10-09 12:59:32 - INFO --> getUserByCookie: 
+2016-10-09 12:59:32 - INFO --> getZoomById: admin.php
+2016-10-09 12:59:33 - INFO --> getUserByCookie: 
+2016-10-09 12:59:33 - INFO --> getZoomById: user
+2016-10-09 13:02:11 - INFO --> getUserByCookie: 
+2016-10-09 13:02:11 - INFO --> getZoomById: wp-login.php
+2016-10-09 13:02:15 - INFO --> getUserByCookie: 
+2016-10-09 13:02:15 - INFO --> getZoomById: administrator
+2016-10-09 13:02:19 - INFO --> getUserByCookie: 
+2016-10-09 13:02:19 - INFO --> getZoomById: admin/content/sitetree
+2016-10-09 13:02:23 - INFO --> getUserByCookie: 
+2016-10-09 13:02:23 - INFO --> getZoomById: panel
+2016-10-09 13:06:16 - INFO --> getUserByCookie: 
+2016-10-09 13:06:16 - INFO --> getZoomById: wp-login.php
+2016-10-09 13:06:17 - INFO --> getUserByCookie: 
+2016-10-09 13:06:17 - INFO --> getZoomById: administrator
+2016-10-09 13:06:17 - INFO --> getUserByCookie: 
+2016-10-09 13:06:17 - INFO --> getZoomById: admin/content/sitetree
+2016-10-09 13:06:18 - INFO --> getUserByCookie: 
+2016-10-09 13:06:18 - INFO --> getZoomById: panel
+2016-10-09 13:06:19 - INFO --> getUserByCookie: 
+2016-10-09 13:06:19 - INFO --> getZoomById: bitrix/admin
+2016-10-09 13:06:19 - INFO --> getUserByCookie: 
+2016-10-09 13:06:19 - INFO --> getZoomById: manager
+2016-10-09 13:06:20 - INFO --> getUserByCookie: 
+2016-10-09 13:06:20 - INFO --> getZoomById: admin.php
+2016-10-09 13:06:21 - INFO --> getUserByCookie: 
+2016-10-09 13:06:21 - INFO --> getZoomById: user
+2016-10-09 13:39:26 - INFO --> getUserByCookie: 
+2016-10-09 13:39:26 - INFO --> getZoomById: wp-login.php
+2016-10-09 13:39:26 - INFO --> getUserByCookie: 
+2016-10-09 13:39:26 - INFO --> getZoomById: administrator
+2016-10-09 13:39:27 - INFO --> getUserByCookie: 
+2016-10-09 13:39:27 - INFO --> getZoomById: admin/content/sitetree
+2016-10-09 13:39:28 - INFO --> getUserByCookie: 
+2016-10-09 13:39:28 - INFO --> getZoomById: panel
+2016-10-09 13:39:28 - INFO --> getUserByCookie: 
+2016-10-09 13:39:28 - INFO --> getZoomById: bitrix/admin
+2016-10-09 13:39:29 - INFO --> getUserByCookie: 
+2016-10-09 13:39:29 - INFO --> getZoomById: manager
+2016-10-09 13:39:30 - INFO --> getUserByCookie: 
+2016-10-09 13:39:30 - INFO --> getZoomById: admin.php
+2016-10-09 13:39:30 - INFO --> getUserByCookie: 
+2016-10-09 13:39:30 - INFO --> getZoomById: user

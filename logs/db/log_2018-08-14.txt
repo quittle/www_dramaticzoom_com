@@ -1,0 +1,6 @@
+2018-08-14 20:24:28 - INFO --> getUserByCookie: 
+2018-08-14 20:24:28 - INFO --> getZoomById: iSctp
+2018-08-14 20:24:28 - INFO --> incrementZoomById: iSctp
+2018-08-14 20:24:28 - INFO --> increment zoom: iSctp
+2018-08-14 20:49:31 - INFO --> getUserByCookie: 
+2018-08-14 20:49:31 - INFO --> getZoomById: .well-known/assetlinks.json

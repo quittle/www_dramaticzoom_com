@@ -1,0 +1,6 @@
+2018-05-13 0:20:32 - INFO --> getUserByCookie: 
+2018-05-13 0:20:32 - INFO --> getZoomById: iSctp
+2018-05-13 0:20:32 - INFO --> incrementZoomById: iSctp
+2018-05-13 0:20:32 - INFO --> increment zoom: iSctp
+2018-05-13 0:52:47 - INFO --> getUserByCookie: 
+2018-05-13 0:52:47 - INFO --> getZoomById: option=com_jce&task=plugin&plugin=imgmanager&file=imgmanager&version=1576&cid=20

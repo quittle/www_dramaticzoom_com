@@ -1,0 +1,21 @@
+2019-07-04 4:28:37 - INFO --> getUserByCookie: 
+2019-07-04 4:28:37 - INFO --> getZoomById: iSctp
+2019-07-04 4:28:37 - INFO --> incrementZoomById: iSctp
+2019-07-04 4:28:37 - INFO --> increment zoom: iSctp
+2019-07-04 5:50:43 - INFO --> getUserByCookie: 
+2019-07-04 5:50:43 - INFO --> getZoomById: wp-login.php
+2019-07-04 7:09:15 - INFO --> getUserByCookie: 
+2019-07-04 10:26:33 - INFO --> getUserByCookie: 
+2019-07-04 10:26:33 - INFO --> getZoomById: wp-login.php
+2019-07-04 12:44:35 - INFO --> getUserByCookie: 
+2019-07-04 12:44:35 - INFO --> getZoomById: plus/ajax_common.php
+2019-07-04 13:08:36 - INFO --> getUserByCookie: 
+2019-07-04 13:08:36 - INFO --> getZoomById: user.php
+2019-07-04 15:50:15 - INFO --> getUserByCookie: 
+2019-07-04 15:50:15 - INFO --> getUserByCookie: 
+2019-07-04 15:50:15 - INFO --> getZoomById: nobody.php
+2019-07-04 15:50:15 - INFO --> getZoomById: imdex.php
+2019-07-04 15:50:15 - INFO --> getUserByCookie: 
+2019-07-04 15:50:15 - INFO --> getUserByCookie: 
+2019-07-04 15:50:15 - INFO --> getZoomById: no.php
+2019-07-04 15:50:15 - INFO --> getZoomById: index2.php

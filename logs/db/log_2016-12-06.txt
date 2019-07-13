@@ -1,0 +1,2 @@
+2016-12-06 2:30:48 - INFO --> getUserByCookie: 
+2016-12-06 2:30:48 - INFO --> getZoomById: _file-manager/php/connector.php

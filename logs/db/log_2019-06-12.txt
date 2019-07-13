@@ -1,0 +1,16 @@
+2019-06-12 0:02:36 - INFO --> getUserByCookie: 
+2019-06-12 0:02:36 - INFO --> getZoomById: fl=i4c
+2019-06-12 0:02:36 - INFO --> incrementZoomById: fl=i4c
+2019-06-12 0:02:36 - INFO --> increment zoom: fl=i4c
+2019-06-12 9:36:57 - INFO --> getUserByCookie: 
+2019-06-12 9:36:57 - INFO --> getZoomById: dayrui/libraries/Chart/ofc_upload_image.php
+2019-06-12 9:36:59 - INFO --> getUserByCookie: 
+2019-06-12 9:36:59 - INFO --> getZoomById: dayrui/libraries/tmp-upload-images/test9671.php
+2019-06-12 15:03:35 - INFO --> getUserByCookie: 
+2019-06-12 15:03:35 - INFO --> getZoomById: wp-login.php
+2019-06-12 22:53:26 - INFO --> getUserByCookie: 
+2019-06-12 22:53:26 - INFO --> getZoomById: wp-login.php
+2019-06-12 23:05:08 - INFO --> getUserByCookie: 
+2019-06-12 23:05:08 - INFO --> getZoomById: 28evAb
+2019-06-12 23:05:08 - INFO --> incrementZoomById: 28evAb
+2019-06-12 23:05:08 - INFO --> increment zoom: 28evAb

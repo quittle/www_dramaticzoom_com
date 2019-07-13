@@ -1,0 +1,16 @@
+2017-06-25 7:09:32 - INFO --> getUserByCookie: 
+2017-06-25 7:09:32 - INFO --> getZoomById: admin/
+2017-06-25 7:09:35 - INFO --> getUserByCookie: 
+2017-06-25 7:09:35 - INFO --> getZoomById: manager/
+2017-06-25 7:09:37 - INFO --> getUserByCookie: 
+2017-06-25 7:09:37 - INFO --> getZoomById: admin/content/sitetree/
+2017-06-25 7:09:40 - INFO --> getUserByCookie: 
+2017-06-25 7:09:40 - INFO --> getZoomById: simpla/
+2017-06-25 7:09:40 - INFO --> getUserByCookie: 
+2017-06-25 7:09:40 - INFO --> getZoomById: js/mage/cookies.js
+2017-06-25 9:48:00 - INFO --> getUserByCookie: 
+2017-06-25 9:48:00 - INFO --> getZoomById: language/en-GB/language/en-GB/en-GB.xml
+2017-06-25 13:14:29 - INFO --> getUserByCookie: 
+2017-06-25 13:14:29 - INFO --> getZoomById: xmlrpc.php
+2017-06-25 13:14:29 - INFO --> getUserByCookie: 
+2017-06-25 13:14:29 - INFO --> getZoomById: wp-login.php

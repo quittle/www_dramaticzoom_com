@@ -1,0 +1,7 @@
+2018-12-01 5:21:00 - INFO --> getUserByCookie: 
+2018-12-01 5:21:00 - INFO --> getZoomById: sitemap.xml
+2018-12-01 11:20:23 - INFO --> getUserByCookie: 
+2018-12-01 12:09:50 - INFO --> getUserByCookie: 
+2018-12-01 12:09:50 - INFO --> getZoomById: email=brinsfield.cole%40gmail.com&reportType=&description=&
+2018-12-01 18:16:17 - INFO --> getUserByCookie: 
+2018-12-01 18:16:17 - INFO --> getZoomById: sitemap.xml

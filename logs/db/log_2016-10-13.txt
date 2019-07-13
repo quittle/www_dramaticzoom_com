@@ -1,0 +1,11 @@
+2016-10-13 0:32:19 - INFO --> getUserByCookie: 
+2016-10-13 2:04:23 - INFO --> getUserByCookie: 
+2016-10-13 2:04:23 - INFO --> getZoomById: iSctp
+2016-10-13 2:04:23 - INFO --> incrementZoomById: iSctp
+2016-10-13 2:04:23 - INFO --> increment zoom: iSctp
+2016-10-13 11:06:24 - INFO --> getUserByCookie: 
+2016-10-13 11:06:24 - INFO --> getZoomById: author=1
+2016-10-13 22:22:16 - INFO --> getUserByCookie: 
+2016-10-13 22:22:16 - INFO --> getZoomById: iSctp
+2016-10-13 22:22:16 - INFO --> incrementZoomById: iSctp
+2016-10-13 22:22:16 - INFO --> increment zoom: iSctp

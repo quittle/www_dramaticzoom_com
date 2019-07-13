@@ -1,0 +1,11 @@
+2017-04-05 4:18:42 - INFO --> getUserByCookie: 
+2017-04-05 4:18:42 - INFO --> getZoomById: w+JPX
+2017-04-05 4:18:42 - INFO --> incrementZoomById: w+JPX
+2017-04-05 4:18:42 - INFO --> increment zoom: w+JPX
+2017-04-05 6:44:06 - INFO --> getUserByCookie: 
+2017-04-05 6:44:06 - INFO --> getZoomById: fl=i4c
+2017-04-05 6:44:06 - INFO --> incrementZoomById: fl=i4c
+2017-04-05 6:44:06 - INFO --> increment zoom: fl=i4c
+2017-04-05 13:25:26 - INFO --> getUserByCookie: 
+2017-04-05 13:25:26 - INFO --> getZoomById: sitemap.xml
+2017-04-05 13:25:29 - INFO --> getUserByCookie: 

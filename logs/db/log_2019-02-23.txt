@@ -1,0 +1,25 @@
+2019-02-23 0:05:34 - INFO --> getUserByCookie: 
+2019-02-23 0:05:34 - INFO --> getZoomById: email=lazysurfbum%40mail.com&reportType=&description=&
+2019-02-23 0:36:56 - INFO --> getUserByCookie: 
+2019-02-23 0:36:56 - INFO --> getZoomById: email=peaches0920%40aol.com&reportType=&description=&
+2019-02-23 1:06:01 - INFO --> getUserByCookie: 
+2019-02-23 1:06:01 - INFO --> getZoomById: email=greenhausc%40aol.com&reportType=&description=&
+2019-02-23 1:48:52 - INFO --> getUserByCookie: 
+2019-02-23 1:48:52 - INFO --> getZoomById: email=greenhausc%40aol.com&reportType=&description=&
+2019-02-23 2:18:54 - INFO --> getUserByCookie: 
+2019-02-23 2:18:54 - INFO --> getZoomById: email=downsouthdiva82%40yahoo.com&reportType=&description=&
+2019-02-23 4:25:46 - INFO --> getUserByCookie: 
+2019-02-23 4:25:46 - INFO --> getZoomById: email=downsouthdiva82%40yahoo.com&reportType=&description=&
+2019-02-23 7:58:27 - INFO --> getUserByCookie: 
+2019-02-23 7:58:27 - INFO --> getZoomById: email=greenhausc%40aol.com&reportType=&description=&
+2019-02-23 14:38:34 - INFO --> getUserByCookie: 
+2019-02-23 14:38:34 - INFO --> getZoomById: email=downsouthdiva82%40yahoo.com&reportType=&description=&
+2019-02-23 16:42:51 - INFO --> getUserByCookie: 
+2019-02-23 16:42:51 - INFO --> getZoomById: email=lorena.m.lm29%40gmail.com&reportType=&description=&
+2019-02-23 18:41:59 - INFO --> getUserByCookie: 
+2019-02-23 19:27:43 - INFO --> getUserByCookie: 
+2019-02-23 19:27:43 - INFO --> getZoomById: .well-known/assetlinks.json
+2019-02-23 19:47:33 - INFO --> getUserByCookie: 
+2019-02-23 19:47:33 - INFO --> getZoomById: iSctp
+2019-02-23 19:47:33 - INFO --> incrementZoomById: iSctp
+2019-02-23 19:47:33 - INFO --> increment zoom: iSctp

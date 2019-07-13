@@ -1,0 +1,10 @@
+2016-05-02 7:48:30 - INFO --> getUserByCookie: 
+2016-05-02 7:48:30 - INFO --> getZoomById: magazine/js/mage/cookies.js
+2016-05-02 9:49:18 - INFO --> getUserByCookie: 
+2016-05-02 9:49:18 - INFO --> getZoomById: iSctp
+2016-05-02 9:49:18 - INFO --> incrementZoomById: iSctp
+2016-05-02 9:49:18 - INFO --> increment zoom: iSctp
+2016-05-02 11:02:35 - INFO --> getUserByCookie: 
+2016-05-02 11:02:35 - INFO --> getZoomById: G1YU4
+2016-05-02 11:02:35 - INFO --> incrementZoomById: G1YU4
+2016-05-02 11:02:35 - INFO --> increment zoom: G1YU4

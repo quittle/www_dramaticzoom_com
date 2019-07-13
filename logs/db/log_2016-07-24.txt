@@ -1,0 +1,16 @@
+2016-07-24 0:52:52 - INFO --> getUserByCookie: 
+2016-07-24 0:52:52 - INFO --> getZoomById: G1YU4
+2016-07-24 0:52:52 - INFO --> incrementZoomById: G1YU4
+2016-07-24 0:52:52 - INFO --> increment zoom: G1YU4
+2016-07-24 14:33:39 - INFO --> getUserByCookie: 
+2016-07-24 14:33:39 - INFO --> getZoomById: iSctp
+2016-07-24 14:33:39 - INFO --> incrementZoomById: iSctp
+2016-07-24 14:33:39 - INFO --> increment zoom: iSctp
+2016-07-24 17:17:10 - INFO --> getUserByCookie: 
+2016-07-24 17:17:10 - INFO --> getZoomById: mbahKb
+2016-07-24 17:17:10 - INFO --> incrementZoomById: mbahKb
+2016-07-24 17:17:10 - INFO --> increment zoom: mbahKb
+2016-07-24 17:58:40 - INFO --> getUserByCookie: 
+2016-07-24 17:58:40 - INFO --> getZoomById: modules/simpleslideshow/uploadimage.php
+2016-07-24 23:36:55 - INFO --> getUserByCookie: 
+2016-07-24 23:36:55 - INFO --> getZoomById: admin/

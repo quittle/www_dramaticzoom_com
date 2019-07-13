@@ -1,0 +1,11 @@
+2016-12-11 4:11:00 - INFO --> getUserByCookie: 
+2016-12-11 4:11:00 - INFO --> getZoomById: assets/plugins/jquery-file-upload/index.html
+2016-12-11 7:21:20 - INFO --> getUserByCookie: 
+2016-12-11 7:21:20 - INFO --> getZoomById: wp-login.php
+2016-12-11 7:21:20 - INFO --> getUserByCookie: 
+2016-12-11 7:21:20 - INFO --> getZoomById: administrator/index.php
+2016-12-11 7:21:22 - INFO --> getUserByCookie: 
+2016-12-11 7:21:22 - INFO --> getZoomById: admin.php
+2016-12-11 13:17:08 - INFO --> getUserByCookie: 
+2016-12-11 16:45:46 - INFO --> getUserByCookie: 
+2016-12-11 16:45:46 - INFO --> getZoomById: up.php

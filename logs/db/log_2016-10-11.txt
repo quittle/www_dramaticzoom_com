@@ -1,0 +1,8 @@
+2016-10-11 10:10:22 - INFO --> getUserByCookie: 
+2016-10-11 10:10:22 - INFO --> getZoomById: license.php
+2016-10-11 11:32:47 - INFO --> getUserByCookie: 
+2016-10-11 11:32:47 - INFO --> getZoomById: license.php
+2016-10-11 21:33:01 - INFO --> getUserByCookie: 
+2016-10-11 21:33:01 - INFO --> getZoomById: yeHB_b
+2016-10-11 21:33:01 - INFO --> incrementZoomById: yeHB_b
+2016-10-11 21:33:01 - INFO --> increment zoom: yeHB_b

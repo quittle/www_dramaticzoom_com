@@ -1,0 +1,6 @@
+2016-12-31 8:23:21 - INFO --> getUserByCookie: 
+2016-12-31 8:23:21 - INFO --> getZoomById: vpukdvmunektjl.html
+2016-12-31 9:54:27 - INFO --> getUserByCookie: 
+2016-12-31 9:54:27 - INFO --> getZoomById: mbahKb
+2016-12-31 9:54:27 - INFO --> incrementZoomById: mbahKb
+2016-12-31 9:54:27 - INFO --> increment zoom: mbahKb

@@ -1,0 +1,32 @@
+2016-08-03 3:11:50 - INFO --> getUserByCookie: 
+2016-08-03 3:11:50 - INFO --> getZoomById: modules/productpageadverts/uploadimage.php
+2016-08-03 5:01:23 - INFO --> getUserByCookie: 
+2016-08-03 5:01:23 - INFO --> getZoomById: iSctp
+2016-08-03 5:01:23 - INFO --> incrementZoomById: iSctp
+2016-08-03 5:01:23 - INFO --> increment zoom: iSctp
+2016-08-03 10:22:06 - INFO --> getUserByCookie: 
+2016-08-03 10:22:06 - INFO --> getZoomById: wp-login.php
+2016-08-03 10:59:42 - INFO --> getUserByCookie: 
+2016-08-03 10:59:42 - INFO --> getZoomById: w+JPX
+2016-08-03 10:59:42 - INFO --> incrementZoomById: w+JPX
+2016-08-03 10:59:42 - INFO --> increment zoom: w+JPX
+2016-08-03 20:47:17 - INFO --> getUserByCookie: 
+2016-08-03 20:47:17 - INFO --> getZoomById: xmlrpc.php
+2016-08-03 20:47:18 - INFO --> getUserByCookie: 
+2016-08-03 20:47:18 - INFO --> getZoomById: blog/robots.txt
+2016-08-03 20:47:18 - INFO --> getUserByCookie: 
+2016-08-03 20:47:18 - INFO --> getZoomById: blog/
+2016-08-03 20:47:18 - INFO --> getUserByCookie: 
+2016-08-03 20:47:18 - INFO --> getZoomById: wordpress/
+2016-08-03 20:47:18 - INFO --> getUserByCookie: 
+2016-08-03 20:47:18 - INFO --> getZoomById: wp/
+2016-08-03 20:47:19 - INFO --> getUserByCookie: 
+2016-08-03 20:47:19 - INFO --> getZoomById: administrator/index.php
+2016-08-03 20:47:19 - INFO --> getUserByCookie: 
+2016-08-03 20:47:19 - INFO --> getZoomById: blog/robots.txt
+2016-08-03 20:47:20 - INFO --> getUserByCookie: 
+2016-08-03 20:47:20 - INFO --> getZoomById: blog/administrator/index.php
+2016-08-03 20:47:20 - INFO --> getUserByCookie: 
+2016-08-03 20:47:20 - INFO --> getZoomById: joomla/robots.txt
+2016-08-03 20:47:20 - INFO --> getUserByCookie: 
+2016-08-03 20:47:20 - INFO --> getZoomById: joomla/administrator/index.php

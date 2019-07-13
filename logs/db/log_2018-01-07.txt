@@ -1,0 +1,9 @@
+2018-01-07 5:05:21 - INFO --> getUserByCookie: 
+2018-01-07 5:05:21 - INFO --> getZoomById: register-user=&register-email=qt4lif2004%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-01-07 5:30:40 - INFO --> getUserByCookie: 
+2018-01-07 5:30:40 - INFO --> getZoomById: register-user=&register-email=vmpraie%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-01-07 17:32:14 - INFO --> getUserByCookie: 
+2018-01-07 17:32:14 - INFO --> getZoomById: register-user=&register-email=idmontana%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-01-07 23:12:19 - INFO --> getUserByCookie: 
+2018-01-07 23:12:19 - INFO --> getZoomById: apple-app-site-association
+2018-01-07 23:13:19 - INFO --> getUserByCookie: 

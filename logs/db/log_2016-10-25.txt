@@ -1,0 +1,19 @@
+2016-10-25 1:47:11 - INFO --> getUserByCookie: 
+2016-10-25 1:47:11 - INFO --> getZoomById: w6tlCc
+2016-10-25 1:47:11 - INFO --> incrementZoomById: w6tlCc
+2016-10-25 1:47:11 - INFO --> increment zoom: w6tlCc
+2016-10-25 5:33:54 - INFO --> getUserByCookie: 
+2016-10-25 8:42:44 - INFO --> getUserByCookie: 
+2016-10-25 8:42:44 - INFO --> getZoomById: iSctp
+2016-10-25 8:42:44 - INFO --> incrementZoomById: iSctp
+2016-10-25 8:42:44 - INFO --> increment zoom: iSctp
+2016-10-25 11:04:54 - INFO --> getUserByCookie: 
+2016-10-25 11:04:54 - INFO --> getZoomById: w+JPX
+2016-10-25 11:04:54 - INFO --> incrementZoomById: w+JPX
+2016-10-25 11:04:54 - INFO --> increment zoom: w+JPX
+2016-10-25 13:03:23 - INFO --> getUserByCookie: 
+2016-10-25 13:03:23 - INFO --> getZoomById: sitemap.xml
+2016-10-25 15:07:52 - INFO --> getUserByCookie: 
+2016-10-25 15:07:52 - INFO --> getZoomById: iSctp
+2016-10-25 15:07:52 - INFO --> incrementZoomById: iSctp
+2016-10-25 15:07:52 - INFO --> increment zoom: iSctp

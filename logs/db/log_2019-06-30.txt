@@ -1,0 +1,22 @@
+2019-06-30 6:04:18 - INFO --> getUserByCookie: 
+2019-06-30 6:04:18 - INFO --> getZoomById: ads.txt
+2019-06-30 6:23:27 - INFO --> getUserByCookie: 
+2019-06-30 8:03:16 - INFO --> getUserByCookie: 
+2019-06-30 8:03:16 - INFO --> getZoomById: wp-login.php
+2019-06-30 12:48:30 - INFO --> getUserByCookie: 
+2019-06-30 12:48:30 - INFO --> getZoomById: wp-login.php
+2019-06-30 12:59:09 - INFO --> getUserByCookie: 
+2019-06-30 12:59:09 - INFO --> getZoomById: type.php
+2019-06-30 14:23:48 - INFO --> getUserByCookie: 
+2019-06-30 14:23:48 - INFO --> getZoomById: wp-login.php
+2019-06-30 14:23:54 - INFO --> getUserByCookie: 
+2019-06-30 14:23:54 - INFO --> getZoomById: wp-login.php
+2019-06-30 17:06:31 - INFO --> getUserByCookie: 
+2019-06-30 17:06:31 - INFO --> getZoomById: admin/FCKeditor/editor/filemanager/connectors/uploadtest.html
+2019-06-30 17:07:54 - INFO --> getUserByCookie: 
+2019-06-30 17:07:54 - INFO --> getZoomById: admin/fckeditor/editor/filemanager/connectors/uploadtest.html
+2019-06-30 17:28:10 - INFO --> getUserByCookie: 
+2019-06-30 17:28:10 - INFO --> getZoomById: FCKeditor/editor/filemanager/connectors/uploadtest.html
+2019-06-30 19:25:37 - INFO --> getUserByCookie: 
+2019-06-30 23:45:35 - INFO --> getUserByCookie: 
+2019-06-30 23:45:35 - INFO --> getZoomById: include/dialog/select_soft_post.php

@@ -1,0 +1,14 @@
+2018-10-23 2:28:00 - INFO --> getUserByCookie: 
+2018-10-23 2:28:00 - INFO --> getZoomById: administrator/index.php
+2018-10-23 2:33:16 - INFO --> getUserByCookie: 
+2018-10-23 2:33:16 - INFO --> getZoomById: wp-content/plugins/easyrotator-for-wordpress/indox.php
+2018-10-23 7:25:37 - INFO --> getUserByCookie: 
+2018-10-23 7:25:37 - INFO --> getZoomById: wp-content/plugins/easyrotator-for-wordpress/indox.php
+2018-10-23 9:25:31 - INFO --> getUserByCookie: 
+2018-10-23 9:25:31 - INFO --> getZoomById: iSctp
+2018-10-23 9:25:31 - INFO --> incrementZoomById: iSctp
+2018-10-23 9:25:31 - INFO --> increment zoom: iSctp
+2018-10-23 14:12:09 - INFO --> getUserByCookie: 
+2018-10-23 14:12:09 - INFO --> getZoomById: .well-known/assetlinks.json
+2018-10-23 17:55:36 - INFO --> getUserByCookie: 
+2018-10-23 17:55:36 - INFO --> getZoomById: sitemap.xml

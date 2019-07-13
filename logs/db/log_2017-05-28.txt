@@ -1,0 +1,23 @@
+2017-05-28 4:37:17 - INFO --> getUserByCookie: 
+2017-05-28 4:37:17 - INFO --> getZoomById: M)v(f
+2017-05-28 4:37:17 - INFO --> incrementZoomById: M)v(f
+2017-05-28 4:37:17 - INFO --> increment zoom: M)v(f
+2017-05-28 13:52:25 - INFO --> getUserByCookie: 
+2017-05-28 13:52:25 - INFO --> getZoomById: iSctp
+2017-05-28 13:52:25 - INFO --> incrementZoomById: iSctp
+2017-05-28 13:52:25 - INFO --> increment zoom: iSctp
+2017-05-28 16:59:46 - INFO --> getUserByCookie: 
+2017-05-28 16:59:46 - INFO --> getZoomById: w+JPX
+2017-05-28 16:59:46 - INFO --> incrementZoomById: w+JPX
+2017-05-28 16:59:46 - INFO --> increment zoom: w+JPX
+2017-05-28 20:27:10 - INFO --> getUserByCookie: 
+2017-05-28 20:27:10 - INFO --> getZoomById: register-user=&register-email=zacharyragsdale%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-05-28 20:46:13 - INFO --> getUserByCookie: 
+2017-05-28 20:46:13 - INFO --> getZoomById: yeHB_b
+2017-05-28 20:46:13 - INFO --> incrementZoomById: yeHB_b
+2017-05-28 20:46:13 - INFO --> increment zoom: yeHB_b
+2017-05-28 21:21:10 - INFO --> getUserByCookie: 
+2017-05-28 22:51:52 - INFO --> getUserByCookie: 
+2017-05-28 22:51:52 - INFO --> getZoomById: register-user=&register-email=sevilla.aline%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-05-28 22:57:15 - INFO --> getUserByCookie: 
+2017-05-28 22:57:15 - INFO --> getZoomById: register-user=&register-email=cameronjsteele%40gmail.com&register-pass=&register-pass2=&register-agree=&

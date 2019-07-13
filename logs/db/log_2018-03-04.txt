@@ -1,0 +1,25 @@
+2018-03-04 3:12:48 - INFO --> getUserByCookie: 
+2018-03-04 3:12:48 - INFO --> getZoomById: register-user=&register-email=danfinney2014%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2018-03-04 4:01:42 - INFO --> getUserByCookie: 
+2018-03-04 4:01:42 - INFO --> getZoomById: .well-known/apple-app-site-association
+2018-03-04 4:42:12 - INFO --> getUserByCookie: 
+2018-03-04 4:42:12 - INFO --> getZoomById: apple-app-site-association
+2018-03-04 4:57:34 - INFO --> getUserByCookie: 
+2018-03-04 4:57:34 - INFO --> getZoomById: register-user=&register-email=daddyrich2329%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-03-04 5:31:08 - INFO --> getUserByCookie: 
+2018-03-04 5:31:08 - INFO --> getZoomById: register-user=&register-email=milletgj%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-03-04 5:50:55 - INFO --> getUserByCookie: 
+2018-03-04 5:50:55 - INFO --> getZoomById: register-user=&register-email=patbrown8%40cox.net&register-pass=&register-pass2=&register-agree=&
+2018-03-04 5:57:58 - INFO --> getUserByCookie: 
+2018-03-04 5:57:58 - INFO --> getZoomById: register-user=&register-email=bfsboy%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-03-04 5:59:09 - INFO --> getUserByCookie: 
+2018-03-04 5:59:09 - INFO --> getZoomById: register-user=&register-email=daddyrich2329%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-03-04 6:49:14 - INFO --> getUserByCookie: 
+2018-03-04 6:49:14 - INFO --> getZoomById: .well-known/assetlinks.json
+2018-03-04 7:19:24 - INFO --> getUserByCookie: 
+2018-03-04 7:19:24 - INFO --> getZoomById: register-user=&register-email=design4u295%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-03-04 11:40:21 - INFO --> getUserByCookie: 
+2018-03-04 11:40:21 - INFO --> getZoomById: register-user=&register-email=justinschilder%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-03-04 13:58:17 - INFO --> getUserByCookie: 
+2018-03-04 19:01:21 - INFO --> getUserByCookie: 
+2018-03-04 19:01:21 - INFO --> getZoomById: register-user=&register-email=slckvic69%40yahoo.com&register-pass=&register-pass2=&register-agree=&

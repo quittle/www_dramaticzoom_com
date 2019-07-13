@@ -1,0 +1,82 @@
+2019-01-21 1:04:32 - INFO --> getUserByCookie: 
+2019-01-21 1:04:32 - INFO --> getZoomById: email=djromello%40gmail.com&reportType=&description=&
+2019-01-21 2:01:16 - INFO --> getUserByCookie: 
+2019-01-21 2:01:16 - INFO --> getZoomById: email=ramenmonsterr%40gmail.com&reportType=&description=&
+2019-01-21 2:36:20 - INFO --> getUserByCookie: 
+2019-01-21 2:36:20 - INFO --> getZoomById: email=trovescott%40gmail.com&reportType=&description=&
+2019-01-21 3:06:31 - INFO --> getUserByCookie: 
+2019-01-21 3:06:31 - INFO --> getZoomById: email=pathorb%40gmail.com&reportType=&description=&
+2019-01-21 3:34:21 - INFO --> getUserByCookie: 
+2019-01-21 3:34:21 - INFO --> getZoomById: .well-known/acme-challenge/mN-YOR9toDFOL4gCYBGUeauUZUcXKm0HCI6MoirecbQ
+2019-01-21 3:34:22 - INFO --> getUserByCookie: 
+2019-01-21 3:34:22 - INFO --> getZoomById: .well-known/acme-challenge/6ys8JZwjKliYKvvce2Mw_pI05M8XtgRPUEK848fmcyU
+2019-01-21 3:34:22 - INFO --> getUserByCookie: 
+2019-01-21 3:34:22 - INFO --> getZoomById: .well-known/acme-challenge/8VDf7gBgFqPyOYZ58auS8_F6nmUjes7H8bEqaoLrHms
+2019-01-21 3:34:22 - INFO --> getUserByCookie: 
+2019-01-21 3:34:22 - INFO --> getZoomById: .well-known/acme-challenge/2hoF_TkzBbpZNNi2Tzetk4bv7bMw-rCDNHqDGCG3lgU
+2019-01-21 3:56:49 - INFO --> getUserByCookie: 
+2019-01-21 3:56:49 - INFO --> getZoomById: email=manjubnayak%40gmail.com&reportType=&description=&
+2019-01-21 5:07:45 - INFO --> getUserByCookie: 
+2019-01-21 5:07:45 - INFO --> getZoomById: email=banker.man.cf%40gmail.com&reportType=&description=&
+2019-01-21 5:33:51 - INFO --> getUserByCookie: 
+2019-01-21 5:33:51 - INFO --> getZoomById: email=xcrunner3141%40gmail.com&reportType=&description=&
+2019-01-21 5:39:07 - INFO --> getUserByCookie: 
+2019-01-21 5:39:07 - INFO --> getZoomById: email=tyzohgaming%40gmail.com&reportType=&description=&
+2019-01-21 5:58:13 - INFO --> getUserByCookie: 
+2019-01-21 5:58:13 - INFO --> getZoomById: email=willhensler%40gmail.com&reportType=&description=&
+2019-01-21 6:41:23 - INFO --> getUserByCookie: 
+2019-01-21 6:41:23 - INFO --> getZoomById: email=pivotabledoor%40gmail.com&reportType=&description=&
+2019-01-21 9:02:10 - INFO --> getUserByCookie: 
+2019-01-21 9:02:10 - INFO --> getZoomById: new/wp-admin/
+2019-01-21 10:05:52 - INFO --> getUserByCookie: 
+2019-01-21 10:05:52 - INFO --> getZoomById: email=ramenmonsterr%40gmail.com&reportType=&description=&
+2019-01-21 11:11:43 - INFO --> getUserByCookie: 
+2019-01-21 11:11:43 - INFO --> getZoomById: g=Comment&m=Widget&a=fetch
+2019-01-21 11:40:21 - INFO --> getUserByCookie: 
+2019-01-21 11:40:21 - INFO --> getZoomById: new/wp-admin/
+2019-01-21 11:59:52 - INFO --> getUserByCookie: 
+2019-01-21 11:59:52 - INFO --> getZoomById: email=jojimillerxx%40gmail.com&reportType=&description=&
+2019-01-21 17:05:13 - INFO --> getUserByCookie: 
+2019-01-21 17:05:13 - INFO --> getZoomById: email=concierge%40livunltd.com&reportType=&description=&
+2019-01-21 17:10:29 - INFO --> getUserByCookie: 
+2019-01-21 17:10:29 - INFO --> getZoomById: iSctp
+2019-01-21 17:10:29 - INFO --> incrementZoomById: iSctp
+2019-01-21 17:10:29 - INFO --> increment zoom: iSctp
+2019-01-21 17:57:20 - INFO --> getUserByCookie: 
+2019-01-21 17:57:20 - INFO --> getZoomById: email=jpmartineau%40jpmartineau.com&reportType=&description=&
+2019-01-21 18:07:31 - INFO --> getUserByCookie: 
+2019-01-21 18:07:31 - INFO --> getZoomById: email=willie.roda%40gmail.com&reportType=&description=&
+2019-01-21 19:02:56 - INFO --> getUserByCookie: 
+2019-01-21 19:02:56 - INFO --> getZoomById: email=dhowerton3%40aol.com&reportType=&description=&
+2019-01-21 20:28:18 - INFO --> getUserByCookie: 
+2019-01-21 20:28:18 - INFO --> getZoomById: email=danielleyoung302419%40gmail.com&reportType=&description=&
+2019-01-21 20:33:49 - INFO --> getUserByCookie: 
+2019-01-21 20:33:49 - INFO --> getZoomById: email=danielleyoung302419%40gmail.com&reportType=&description=&
+2019-01-21 21:03:15 - INFO --> getUserByCookie: 
+2019-01-21 21:03:15 - INFO --> getZoomById: email=pparsons10%40gmail.com&reportType=&description=&
+2019-01-21 21:13:17 - INFO --> getUserByCookie: 
+2019-01-21 21:13:17 - INFO --> getZoomById: email=ruby.wray%40gmail.com&reportType=&description=&
+2019-01-21 23:38:28 - INFO --> getUserByCookie: 
+2019-01-21 23:38:28 - INFO --> getZoomById: .well-known/acme-challenge/d5vHpHBNDj13h9olcUGLlVIPcCCsfnVUBflPeTS1Qi8
+2019-01-21 23:38:28 - INFO --> getUserByCookie: 
+2019-01-21 23:38:28 - INFO --> getZoomById: .well-known/acme-challenge/GRHJL1POugnv0u6JCc4M6D8Svq4HcqsdXlzV7iRjSSw
+2019-01-21 23:38:29 - INFO --> getUserByCookie: 
+2019-01-21 23:38:29 - INFO --> getZoomById: .well-known/acme-challenge/FMJIG1szYCzRcgUn4HznDj9SoM641q23kddn1_JliD4
+2019-01-21 23:38:38 - INFO --> getUserByCookie: 
+2019-01-21 23:38:38 - INFO --> getZoomById: .well-known/acme-challenge/jORL5Eu-Xg7chM_LfdNnK1vPRu62N-aGydsepfEv2Fc
+2019-01-21 23:41:57 - INFO --> getUserByCookie: 
+2019-01-21 23:41:57 - INFO --> getZoomById: .well-known/acme-challenge/YFaElvnPD0KTW3_NYaenBLt4jv02xFhCOZgCewvd-PY
+2019-01-21 23:41:57 - INFO --> getUserByCookie: 
+2019-01-21 23:41:57 - INFO --> getZoomById: .well-known/acme-challenge/gHphcpm0si2Z5EDVEu2zYVaxSlBotEGyeYJVDSSiGE8
+2019-01-21 23:41:57 - INFO --> getUserByCookie: 
+2019-01-21 23:41:57 - INFO --> getZoomById: .well-known/acme-challenge/YQ0S1ELVDVo2JDeJfz25niR_RmQNlEfq-POVfies77g
+2019-01-21 23:41:57 - INFO --> getUserByCookie: 
+2019-01-21 23:41:57 - INFO --> getZoomById: .well-known/acme-challenge/W16Wm9rRdV1nhn5Mo_qHoAoEMCROi_RSuzK6EHsPCOU
+2019-01-21 23:43:17 - INFO --> getUserByCookie: 
+2019-01-21 23:43:17 - INFO --> getZoomById: .well-known/acme-challenge/PR982KHOeXkwpBJofE3VAwduCCiu32B-RLfb90pJFX0
+2019-01-21 23:43:17 - INFO --> getUserByCookie: 
+2019-01-21 23:43:17 - INFO --> getZoomById: .well-known/acme-challenge/rNU8NGD22F49swP5mm4x7XCZNuoVrd3yZDB4bPrZzGk
+2019-01-21 23:43:17 - INFO --> getUserByCookie: 
+2019-01-21 23:43:17 - INFO --> getZoomById: .well-known/acme-challenge/gy04_-OPh8-q17D4pA7uSZWk7wqSi3DtPnInnRhOnug
+2019-01-21 23:43:17 - INFO --> getUserByCookie: 
+2019-01-21 23:43:17 - INFO --> getZoomById: .well-known/acme-challenge/8_6fqjR_8wSzqj7Ygh5vUvIKf2OU_Ea-1VTM0nfqkx8

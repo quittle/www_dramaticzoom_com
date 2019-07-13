@@ -1,0 +1,6 @@
+2018-06-22 11:47:01 - INFO --> getUserByCookie: 
+2018-06-22 11:47:01 - INFO --> getZoomById: G1YU4
+2018-06-22 11:47:01 - INFO --> incrementZoomById: G1YU4
+2018-06-22 11:47:01 - INFO --> increment zoom: G1YU4
+2018-06-22 14:09:13 - INFO --> getUserByCookie: 
+2018-06-22 14:09:13 - INFO --> getZoomById: modules/modules/joomla-resize.php

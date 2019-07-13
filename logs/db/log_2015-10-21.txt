@@ -1,0 +1,6 @@
+2015-10-21 0:42:08 - INFO --> getUserByCookie: 
+2015-10-21 0:42:08 - INFO --> getZoomById: iSctp
+2015-10-21 0:42:08 - INFO --> incrementZoomById: iSctp
+2015-10-21 0:42:08 - INFO --> increment zoom: iSctp
+2015-10-21 20:43:48 - INFO --> getUserByCookie: 
+2015-10-21 20:43:48 - INFO --> getZoomById: dump.sql

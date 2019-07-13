@@ -1,0 +1,20 @@
+2018-01-20 1:00:41 - INFO --> getUserByCookie: 
+2018-01-20 1:00:41 - INFO --> getZoomById: register-user=&register-email=trc63074%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-01-20 2:06:11 - INFO --> getUserByCookie: 
+2018-01-20 2:12:54 - INFO --> getUserByCookie: 
+2018-01-20 2:12:54 - INFO --> getZoomById: iSctp
+2018-01-20 2:12:54 - INFO --> incrementZoomById: iSctp
+2018-01-20 2:12:54 - INFO --> increment zoom: iSctp
+2018-01-20 2:26:51 - INFO --> getUserByCookie: 
+2018-01-20 2:26:51 - INFO --> getZoomById: register-user=&register-email=dsean15%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-01-20 3:19:30 - INFO --> getUserByCookie: 
+2018-01-20 3:19:30 - INFO --> getZoomById: register-user=&register-email=trc63074%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-01-20 12:05:21 - INFO --> getUserByCookie: 
+2018-01-20 14:55:38 - INFO --> getUserByCookie: 
+2018-01-20 14:55:38 - INFO --> getZoomById: register-user=&register-email=rbbolton%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-01-20 15:27:32 - INFO --> getUserByCookie: 
+2018-01-20 15:27:32 - INFO --> getZoomById: register-user=&register-email=rbbolton%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-01-20 18:07:46 - INFO --> getUserByCookie: 
+2018-01-20 18:07:46 - INFO --> getZoomById: register-user=&register-email=laughingull%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2018-01-20 22:26:23 - INFO --> getUserByCookie: 
+2018-01-20 22:26:23 - INFO --> getZoomById: register-user=&register-email=jbush%40ihmatlanta.org&register-pass=&register-pass2=&register-agree=&

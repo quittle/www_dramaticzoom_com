@@ -1,0 +1,8 @@
+2018-05-04 8:37:56 - INFO --> getUserByCookie: 
+2018-05-04 8:37:56 - INFO --> getZoomById: register-user=&register-email=jjarrett%40rpmhd.org&register-pass=&register-pass2=&register-agree=&
+2018-05-04 15:09:31 - INFO --> getUserByCookie: 
+2018-05-04 15:09:31 - INFO --> getZoomById: savnjaovevr.html
+2018-05-04 22:50:34 - INFO --> getUserByCookie: 
+2018-05-04 22:50:34 - INFO --> getZoomById: iSctp
+2018-05-04 22:50:34 - INFO --> incrementZoomById: iSctp
+2018-05-04 22:50:34 - INFO --> increment zoom: iSctp

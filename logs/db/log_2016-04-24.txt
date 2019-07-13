@@ -1,0 +1,21 @@
+2016-04-24 11:37:19 - INFO --> getUserByCookie: 
+2016-04-24 11:37:19 - INFO --> getZoomById: wp-login.php
+2016-04-24 14:22:49 - INFO --> getUserByCookie: 
+2016-04-24 14:22:49 - INFO --> getZoomById: iSctp
+2016-04-24 14:22:49 - INFO --> incrementZoomById: iSctp
+2016-04-24 14:22:49 - INFO --> increment zoom: iSctp
+2016-04-24 15:39:36 - INFO --> getUserByCookie: 
+2016-04-24 15:39:36 - INFO --> getZoomById: iSctp
+2016-04-24 15:39:36 - INFO --> incrementZoomById: iSctp
+2016-04-24 15:39:36 - INFO --> increment zoom: iSctp
+2016-04-24 17:31:42 - INFO --> getUserByCookie: 
+2016-04-24 17:31:42 - INFO --> getZoomById: G1YU4
+2016-04-24 17:31:42 - INFO --> incrementZoomById: G1YU4
+2016-04-24 17:31:42 - INFO --> increment zoom: G1YU4
+2016-04-24 18:30:55 - INFO --> getUserByCookie: 
+2016-04-24 20:32:47 - INFO --> getUserByCookie: 
+2016-04-24 20:32:47 - INFO --> getZoomById: js/otherscript.js
+2016-04-24 20:33:16 - INFO --> getUserByCookie: 
+2016-04-24 20:33:16 - INFO --> getZoomById: js/djuice.js
+2016-04-24 20:33:54 - INFO --> getUserByCookie: 
+2016-04-24 20:33:54 - INFO --> getZoomById: js/djuiceui.js

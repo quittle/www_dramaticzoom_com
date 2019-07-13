@@ -1,0 +1,39 @@
+2016-05-01 1:25:12 - INFO --> getUserByCookie: 
+2016-05-01 2:34:06 - INFO --> getUserByCookie: 
+2016-05-01 2:34:06 - INFO --> getZoomById: iSctp
+2016-05-01 2:34:06 - INFO --> incrementZoomById: iSctp
+2016-05-01 2:34:06 - INFO --> increment zoom: iSctp
+2016-05-01 4:00:13 - INFO --> getUserByCookie: 
+2016-05-01 4:00:13 - INFO --> getZoomById: mbahKb
+2016-05-01 4:00:13 - INFO --> incrementZoomById: mbahKb
+2016-05-01 4:00:13 - INFO --> increment zoom: mbahKb
+2016-05-01 7:09:12 - INFO --> getUserByCookie: 
+2016-05-01 7:09:12 - INFO --> getZoomById: tmp/sfx.php
+2016-05-01 12:26:44 - INFO --> getUserByCookie: 
+2016-05-01 14:43:27 - INFO --> getUserByCookie: 
+2016-05-01 14:43:27 - INFO --> getZoomById: iSctp
+2016-05-01 14:43:27 - INFO --> incrementZoomById: iSctp
+2016-05-01 14:43:27 - INFO --> increment zoom: iSctp
+2016-05-01 15:12:39 - INFO --> getUserByCookie: 
+2016-05-01 15:12:39 - INFO --> getZoomById: iSctp
+2016-05-01 15:12:39 - INFO --> incrementZoomById: iSctp
+2016-05-01 15:12:39 - INFO --> increment zoom: iSctp
+2016-05-01 15:15:06 - INFO --> getUserByCookie: 
+2016-05-01 16:02:55 - INFO --> getUserByCookie: 
+2016-05-01 16:02:55 - INFO --> getZoomById: mbahKb
+2016-05-01 16:02:55 - INFO --> incrementZoomById: mbahKb
+2016-05-01 16:02:55 - INFO --> increment zoom: mbahKb
+2016-05-01 16:27:48 - INFO --> getUserByCookie: 
+2016-05-01 16:40:11 - INFO --> getUserByCookie: 
+2016-05-01 17:46:01 - INFO --> getUserByCookie: 
+2016-05-01 17:46:01 - INFO --> getZoomById: iSctp
+2016-05-01 17:46:01 - INFO --> incrementZoomById: iSctp
+2016-05-01 17:46:01 - INFO --> increment zoom: iSctp
+2016-05-01 20:52:23 - INFO --> getUserByCookie: 
+2016-05-01 20:52:23 - INFO --> getZoomById: mbahKb
+2016-05-01 20:52:23 - INFO --> incrementZoomById: mbahKb
+2016-05-01 20:52:23 - INFO --> increment zoom: mbahKb
+2016-05-01 22:19:11 - INFO --> getUserByCookie: 
+2016-05-01 22:19:11 - INFO --> getZoomById: iSctp
+2016-05-01 22:19:11 - INFO --> incrementZoomById: iSctp
+2016-05-01 22:19:11 - INFO --> increment zoom: iSctp

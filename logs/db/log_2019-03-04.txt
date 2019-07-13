@@ -1,0 +1,24 @@
+2019-03-04 1:02:16 - INFO --> getUserByCookie: 
+2019-03-04 1:02:16 - INFO --> getZoomById: email=akapansat%40yahoo.com&reportType=&description=&
+2019-03-04 6:13:52 - INFO --> getUserByCookie: 
+2019-03-04 6:13:52 - INFO --> getZoomById: email=maugugliaro%40htk.com&reportType=&description=&
+2019-03-04 9:01:15 - INFO --> getUserByCookie: 
+2019-03-04 9:01:15 - INFO --> getZoomById: fbclid=IwAR2X7dsnIa2ngdAdsEMN1lUIhm6bKHvTHlvAM1u6rtKCZbw4E9CrGcvleSs
+2019-03-04 10:22:08 - INFO --> getUserByCookie: 
+2019-03-04 10:22:08 - INFO --> getZoomById: wordpress/wp-content/plugins/ubh/up.php
+2019-03-04 10:25:01 - INFO --> getUserByCookie: 
+2019-03-04 10:25:01 - INFO --> getZoomById: email=maugugliaro%40htk.com&reportType=&description=&
+2019-03-04 11:26:15 - INFO --> getUserByCookie: 
+2019-03-04 11:46:05 - INFO --> getUserByCookie: 
+2019-03-04 11:55:47 - INFO --> getUserByCookie: 
+2019-03-04 11:55:47 - INFO --> getZoomById: vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+2019-03-04 14:26:16 - INFO --> getUserByCookie: 
+2019-03-04 14:26:16 - INFO --> getZoomById: =6LXQb
+2019-03-04 14:26:16 - INFO --> incrementZoomById: =6LXQb
+2019-03-04 14:26:16 - INFO --> increment zoom: =6LXQb
+2019-03-04 15:38:52 - INFO --> getUserByCookie: 
+2019-03-04 15:38:52 - INFO --> getZoomById: email=rconlee%40cox.net&reportType=&description=&
+2019-03-04 16:25:07 - INFO --> getUserByCookie: 
+2019-03-04 16:25:07 - INFO --> getZoomById: email=nolasaint9009%40yahoo.com&reportType=&description=&
+2019-03-04 18:00:51 - INFO --> getUserByCookie: 
+2019-03-04 18:00:51 - INFO --> getZoomById: email=nolasaint9009%40yahoo.com&reportType=&description=&

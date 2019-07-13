@@ -1,0 +1,14 @@
+2017-01-15 4:28:23 - INFO --> getUserByCookie: 
+2017-01-15 4:28:23 - INFO --> getZoomById: w+JPX
+2017-01-15 4:28:23 - INFO --> incrementZoomById: w+JPX
+2017-01-15 4:28:23 - INFO --> increment zoom: w+JPX
+2017-01-15 6:13:08 - INFO --> getUserByCookie: 
+2017-01-15 6:13:08 - INFO --> getZoomById: iSctp
+2017-01-15 6:13:08 - INFO --> incrementZoomById: iSctp
+2017-01-15 6:13:08 - INFO --> increment zoom: iSctp
+2017-01-15 8:08:26 - INFO --> getUserByCookie: 
+2017-01-15 8:08:26 - INFO --> getZoomById: iSctp
+2017-01-15 8:08:26 - INFO --> incrementZoomById: iSctp
+2017-01-15 8:08:26 - INFO --> increment zoom: iSctp
+2017-01-15 20:15:54 - INFO --> getUserByCookie: 
+2017-01-15 20:15:54 - INFO --> getZoomById: bin/logo_img.php

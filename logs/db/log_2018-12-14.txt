@@ -1,0 +1,35 @@
+2018-12-14 1:35:38 - INFO --> getUserByCookie: 
+2018-12-14 1:35:38 - INFO --> getZoomById: email=aswaffield%40kordamentha.com&reportType=&description=&
+2018-12-14 1:52:24 - INFO --> getUserByCookie: 
+2018-12-14 1:52:24 - INFO --> getZoomById: email=aleq123%40gmail.com&reportType=&description=&
+2018-12-14 3:05:23 - INFO --> getUserByCookie: 
+2018-12-14 3:05:23 - INFO --> getZoomById: mbahKb
+2018-12-14 3:05:23 - INFO --> incrementZoomById: mbahKb
+2018-12-14 3:05:23 - INFO --> increment zoom: mbahKb
+2018-12-14 4:19:21 - INFO --> getUserByCookie: 
+2018-12-14 5:08:40 - INFO --> getUserByCookie: 
+2018-12-14 6:15:47 - INFO --> getUserByCookie: 
+2018-12-14 6:15:47 - INFO --> getZoomById: mbahKb
+2018-12-14 6:15:47 - INFO --> incrementZoomById: mbahKb
+2018-12-14 6:15:47 - INFO --> increment zoom: mbahKb
+2018-12-14 8:56:55 - INFO --> getUserByCookie: 
+2018-12-14 14:50:13 - INFO --> getUserByCookie: 
+2018-12-14 14:50:13 - INFO --> getZoomById: mbahKb
+2018-12-14 14:50:13 - INFO --> incrementZoomById: mbahKb
+2018-12-14 14:50:13 - INFO --> increment zoom: mbahKb
+2018-12-14 15:04:06 - INFO --> getUserByCookie: 
+2018-12-14 15:04:06 - INFO --> getZoomById: mbahKb
+2018-12-14 15:04:06 - INFO --> incrementZoomById: mbahKb
+2018-12-14 15:04:06 - INFO --> increment zoom: mbahKb
+2018-12-14 16:50:51 - INFO --> getUserByCookie: 
+2018-12-14 16:50:51 - INFO --> getZoomById: mbahKb
+2018-12-14 16:50:51 - INFO --> incrementZoomById: mbahKb
+2018-12-14 16:50:51 - INFO --> increment zoom: mbahKb
+2018-12-14 16:50:52 - INFO --> getUserByCookie: 
+2018-12-14 16:50:52 - INFO --> getZoomById: mbahKb
+2018-12-14 16:50:52 - INFO --> incrementZoomById: mbahKb
+2018-12-14 16:50:52 - INFO --> increment zoom: mbahKb
+2018-12-14 18:21:01 - INFO --> getUserByCookie: 
+2018-12-14 18:21:01 - INFO --> getZoomById: email=thomastquinn%40gmail.com&reportType=&description=&
+2018-12-14 22:50:05 - INFO --> getUserByCookie: 
+2018-12-14 22:50:05 - INFO --> getZoomById: email=lynchdavid%40aol.com&reportType=&description=&

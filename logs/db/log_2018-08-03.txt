@@ -1,0 +1,10 @@
+2018-08-03 5:58:08 - INFO --> getUserByCookie: 
+2018-08-03 5:58:08 - INFO --> getZoomById: iSctp
+2018-08-03 5:58:08 - INFO --> incrementZoomById: iSctp
+2018-08-03 5:58:08 - INFO --> increment zoom: iSctp
+2018-08-03 13:15:46 - INFO --> getUserByCookie: 
+2018-08-03 13:15:46 - INFO --> getZoomById: xmlrpc.php
+2018-08-03 20:38:13 - INFO --> getUserByCookie: 
+2018-08-03 20:38:13 - INFO --> getZoomById: xmlrpc.php
+2018-08-03 21:37:43 - INFO --> getUserByCookie: 
+2018-08-03 21:37:43 - INFO --> getZoomById: ads.txt

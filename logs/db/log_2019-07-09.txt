@@ -1,0 +1,21 @@
+2019-07-09 1:17:28 - INFO --> getUserByCookie: 
+2019-07-09 1:17:28 - INFO --> getZoomById: mbahKb
+2019-07-09 1:17:28 - INFO --> incrementZoomById: mbahKb
+2019-07-09 1:17:28 - INFO --> increment zoom: mbahKb
+2019-07-09 5:57:16 - INFO --> getUserByCookie: 
+2019-07-09 7:55:57 - INFO --> getUserByCookie: 
+2019-07-09 7:55:57 - INFO --> getZoomById: w+JPX
+2019-07-09 7:55:57 - INFO --> incrementZoomById: w+JPX
+2019-07-09 7:55:57 - INFO --> increment zoom: w+JPX
+2019-07-09 9:46:04 - INFO --> getUserByCookie: 
+2019-07-09 9:46:30 - INFO --> getUserByCookie: 
+2019-07-09 9:46:30 - INFO --> getZoomById: reportType=Content+Problem&email=aly1%40alychidesigns.com&description=Hello+there%2C+My+name+is+Aly+and+I+would+like+to+know+if+you+would+have+any+interest+to+have+your+website+here+at+dramaticzoom.com++promoted+as+a+resource+on+our+blog+alychidesign.com+%3F%0D%0A%0D%0A+We+are++updating+our+do-follow+broken+link+resources+to+include+current+and+up+to+date+resources+for+our+readers.+If+you+may+be+interested+in+being+included+as+a+resource+on+our+blog%2C+please+let+me+know.%0D%0A%0D%0A+Thanks%2C+Aly
+2019-07-09 16:11:40 - INFO --> getUserByCookie: 
+2019-07-09 16:11:40 - INFO --> getZoomById: admin/images/cal_date_over.gif
+2019-07-09 16:11:45 - INFO --> getUserByCookie: 
+2019-07-09 16:11:45 - INFO --> getZoomById: admin/login.php
+2019-07-09 16:11:49 - INFO --> getUserByCookie: 
+2019-07-09 16:11:49 - INFO --> getZoomById: templates/system/css/system.css
+2019-07-09 18:31:41 - INFO --> getUserByCookie: 
+2019-07-09 21:07:14 - INFO --> getUserByCookie: 
+2019-07-09 21:07:14 - INFO --> getZoomById: sftp-config.json

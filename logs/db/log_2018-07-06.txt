@@ -1,0 +1,16 @@
+2018-07-06 3:21:02 - INFO --> getUserByCookie: 
+2018-07-06 3:21:02 - INFO --> getZoomById: iSctp
+2018-07-06 3:21:02 - INFO --> incrementZoomById: iSctp
+2018-07-06 3:21:02 - INFO --> increment zoom: iSctp
+2018-07-06 3:21:17 - INFO --> getUserByCookie: 
+2018-07-06 3:21:17 - INFO --> getZoomById: iSctp
+2018-07-06 3:21:17 - INFO --> incrementZoomById: iSctp
+2018-07-06 3:21:17 - INFO --> increment zoom: iSctp
+2018-07-06 4:26:56 - INFO --> getUserByCookie: 
+2018-07-06 4:26:56 - INFO --> getZoomById: iSctp
+2018-07-06 4:26:56 - INFO --> incrementZoomById: iSctp
+2018-07-06 4:26:56 - INFO --> increment zoom: iSctp
+2018-07-06 8:51:31 - INFO --> getUserByCookie: 
+2018-07-06 8:51:31 - INFO --> getZoomById: iSctp
+2018-07-06 8:51:31 - INFO --> incrementZoomById: iSctp
+2018-07-06 8:51:31 - INFO --> increment zoom: iSctp

@@ -1,0 +1,26 @@
+2018-02-20 0:16:28 - INFO --> getUserByCookie: 
+2018-02-20 0:16:28 - INFO --> getZoomById: .well-known/assetlinks.json
+2018-02-20 2:48:31 - INFO --> getUserByCookie: 
+2018-02-20 2:48:31 - INFO --> getZoomById: register-user=&register-email=antvllla%40verizon.net&register-pass=&register-pass2=&register-agree=&
+2018-02-20 5:39:27 - INFO --> getUserByCookie: 
+2018-02-20 7:27:17 - INFO --> getUserByCookie: 
+2018-02-20 7:27:17 - INFO --> getZoomById: register-user=&register-email=youngqsue%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-02-20 11:03:42 - INFO --> getUserByCookie: 
+2018-02-20 11:03:42 - INFO --> getZoomById: G1YU4
+2018-02-20 11:03:42 - INFO --> incrementZoomById: G1YU4
+2018-02-20 11:03:42 - INFO --> increment zoom: G1YU4
+2018-02-20 14:46:46 - INFO --> getUserByCookie: 
+2018-02-20 14:46:46 - INFO --> getZoomById: register-user=&register-email=kristinnicolehuston%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2018-02-20 14:47:18 - INFO --> getUserByCookie: 
+2018-02-20 14:47:18 - INFO --> getZoomById: register-user=&register-email=chris%40adcderm.com&register-pass=&register-pass2=&register-agree=&
+2018-02-20 16:41:18 - INFO --> getUserByCookie: 
+2018-02-20 16:41:18 - INFO --> getZoomById: register-user=&register-email=maryroberts1118%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2018-02-20 17:11:16 - INFO --> getUserByCookie: 
+2018-02-20 17:11:16 - INFO --> getZoomById: register-user=&register-email=seanl%40jpo.com&register-pass=&register-pass2=&register-agree=&
+2018-02-20 17:13:14 - INFO --> getUserByCookie: 
+2018-02-20 17:13:14 - INFO --> getZoomById: register-user=&register-email=artthomas92%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-02-20 18:52:18 - INFO --> getUserByCookie: 
+2018-02-20 19:12:57 - INFO --> getUserByCookie: 
+2018-02-20 19:12:57 - INFO --> getZoomById: register-user=&register-email=griffind5%40windstream.net&register-pass=&register-pass2=&register-agree=&
+2018-02-20 22:33:01 - INFO --> getUserByCookie: 
+2018-02-20 22:33:01 - INFO --> getZoomById: register-user=&register-email=emily.hsu.lin98%40gmail.com&register-pass=&register-pass2=&register-agree=&

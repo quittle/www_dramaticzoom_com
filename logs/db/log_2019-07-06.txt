@@ -1,0 +1,27 @@
+2019-07-06 6:07:54 - INFO --> getUserByCookie: 
+2019-07-06 6:07:54 - INFO --> getZoomById: mbahKb
+2019-07-06 6:07:54 - INFO --> incrementZoomById: mbahKb
+2019-07-06 6:07:54 - INFO --> increment zoom: mbahKb
+2019-07-06 11:00:50 - INFO --> getUserByCookie: 
+2019-07-06 11:00:50 - INFO --> getZoomById: type.php
+2019-07-06 14:00:28 - INFO --> getUserByCookie: 
+2019-07-06 14:00:28 - INFO --> getZoomById: wp-login.php
+2019-07-06 14:00:32 - INFO --> getUserByCookie: 
+2019-07-06 14:00:32 - INFO --> getZoomById: option=com_user&task=register
+2019-07-06 14:00:36 - INFO --> getUserByCookie: 
+2019-07-06 14:00:36 - INFO --> getZoomById: user/register
+2019-07-06 18:21:45 - INFO --> getUserByCookie: 
+2019-07-06 18:21:45 - INFO --> getZoomById: mbahKb
+2019-07-06 18:21:45 - INFO --> incrementZoomById: mbahKb
+2019-07-06 18:21:45 - INFO --> increment zoom: mbahKb
+2019-07-06 18:48:38 - INFO --> getUserByCookie: 
+2019-07-06 18:48:38 - INFO --> getZoomById: iSctp
+2019-07-06 18:48:38 - INFO --> incrementZoomById: iSctp
+2019-07-06 18:48:38 - INFO --> increment zoom: iSctp
+2019-07-06 21:01:00 - INFO --> getUserByCookie: 
+2019-07-06 21:01:00 - INFO --> getZoomById: email=eriksterling2%40gmail.com&reportType=&description=&
+2019-07-06 23:39:27 - INFO --> getUserByCookie: 
+2019-07-06 23:39:27 - INFO --> getZoomById: iSctp
+2019-07-06 23:39:27 - INFO --> incrementZoomById: iSctp
+2019-07-06 23:39:27 - INFO --> increment zoom: iSctp
+2019-07-06 23:39:31 - INFO --> getUserByCookie: 

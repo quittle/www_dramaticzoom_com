@@ -1,0 +1,21 @@
+2016-04-21 0:19:18 - INFO --> getUserByCookie: 
+2016-04-21 0:19:18 - INFO --> getZoomById: iSctp
+2016-04-21 0:19:18 - INFO --> incrementZoomById: iSctp
+2016-04-21 0:19:18 - INFO --> increment zoom: iSctp
+2016-04-21 0:19:22 - INFO --> getUserByCookie: 
+2016-04-21 12:32:05 - INFO --> getUserByCookie: 
+2016-04-21 12:32:05 - INFO --> getZoomById: iSctp
+2016-04-21 12:32:05 - INFO --> incrementZoomById: iSctp
+2016-04-21 12:32:05 - INFO --> increment zoom: iSctp
+2016-04-21 22:04:17 - INFO --> getUserByCookie: 
+2016-04-21 22:04:17 - INFO --> getZoomById: w+JPX
+2016-04-21 22:04:17 - INFO --> incrementZoomById: w+JPX
+2016-04-21 22:04:17 - INFO --> increment zoom: w+JPX
+2016-04-21 22:24:28 - INFO --> getUserByCookie: 
+2016-04-21 22:24:28 - INFO --> getZoomById: bitrix/admin/
+2016-04-21 22:24:28 - INFO --> getUserByCookie: 
+2016-04-21 22:24:28 - INFO --> getZoomById: q=user
+2016-04-21 22:42:07 - INFO --> getUserByCookie: 
+2016-04-21 22:42:07 - INFO --> getZoomById: iSctp
+2016-04-21 22:42:07 - INFO --> incrementZoomById: iSctp
+2016-04-21 22:42:07 - INFO --> increment zoom: iSctp

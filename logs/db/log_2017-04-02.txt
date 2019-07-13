@@ -1,0 +1,32 @@
+2017-04-02 11:49:17 - INFO --> getUserByCookie: 
+2017-04-02 11:49:17 - INFO --> getZoomById: iSctp
+2017-04-02 11:49:17 - INFO --> incrementZoomById: iSctp
+2017-04-02 11:49:17 - INFO --> increment zoom: iSctp
+2017-04-02 11:53:47 - INFO --> getUserByCookie: 
+2017-04-02 11:53:47 - INFO --> getZoomById: component/users/
+2017-04-02 11:53:47 - INFO --> getUserByCookie: 
+2017-04-02 11:53:47 - INFO --> getZoomById: administrator
+2017-04-02 11:53:47 - INFO --> getUserByCookie: 
+2017-04-02 11:53:47 - INFO --> getZoomById: admin
+2017-04-02 11:53:48 - INFO --> getUserByCookie: 
+2017-04-02 11:53:48 - INFO --> getZoomById: user/login
+2017-04-02 11:53:48 - INFO --> getUserByCookie: 
+2017-04-02 11:53:48 - INFO --> getZoomById: user
+2017-04-02 11:53:48 - INFO --> getUserByCookie: 
+2017-04-02 11:53:48 - INFO --> getZoomById: wp-login.php
+2017-04-02 11:53:49 - INFO --> getUserByCookie: 
+2017-04-02 11:53:49 - INFO --> getZoomById: blog/wp-login.php
+2017-04-02 11:53:49 - INFO --> getUserByCookie: 
+2017-04-02 11:53:49 - INFO --> getZoomById: blog
+2017-04-02 11:53:55 - INFO --> getUserByCookie: 
+2017-04-02 11:53:55 - INFO --> getZoomById: admin.php
+2017-04-02 18:38:20 - INFO --> getUserByCookie: 
+2017-04-02 18:38:20 - INFO --> getZoomById: xmlrpc.php
+2017-04-02 18:38:21 - INFO --> getUserByCookie: 
+2017-04-02 18:38:21 - INFO --> getZoomById: blog/robots.txt
+2017-04-02 18:38:21 - INFO --> getUserByCookie: 
+2017-04-02 18:38:21 - INFO --> getZoomById: blog/
+2017-04-02 18:38:22 - INFO --> getUserByCookie: 
+2017-04-02 18:38:22 - INFO --> getZoomById: wordpress/
+2017-04-02 18:38:22 - INFO --> getUserByCookie: 
+2017-04-02 18:38:22 - INFO --> getZoomById: wp/

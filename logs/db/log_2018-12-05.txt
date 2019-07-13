@@ -1,0 +1,19 @@
+2018-12-05 0:12:13 - INFO --> getUserByCookie: 
+2018-12-05 0:12:13 - INFO --> getUserByCookie: 
+2018-12-05 0:12:13 - INFO --> getZoomById: iSctp
+2018-12-05 0:12:13 - INFO --> incrementZoomById: iSctp
+2018-12-05 0:12:13 - INFO --> increment zoom: iSctp
+2018-12-05 0:12:13 - INFO --> getUserByCookie: 
+2018-12-05 0:12:13 - INFO --> getZoomById: isctp
+2018-12-05 0:12:13 - INFO --> incrementZoomById: isctp
+2018-12-05 0:12:13 - INFO --> increment zoom: isctp
+2018-12-05 0:12:19 - INFO --> getUserByCookie: 
+2018-12-05 1:23:06 - INFO --> getUserByCookie: 
+2018-12-05 1:23:06 - INFO --> getZoomById: email=steven.kopp%40schulzeburch.com&reportType=&description=&
+2018-12-05 7:37:38 - INFO --> getUserByCookie: 
+2018-12-05 14:12:15 - INFO --> getUserByCookie: 
+2018-12-05 14:12:15 - INFO --> getZoomById: iSctp
+2018-12-05 14:12:15 - INFO --> incrementZoomById: iSctp
+2018-12-05 14:12:15 - INFO --> increment zoom: iSctp
+2018-12-05 21:52:03 - INFO --> getUserByCookie: 
+2018-12-05 21:52:03 - INFO --> getZoomById: email=bass_zak%40yahoo.com&reportType=&description=&

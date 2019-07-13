@@ -1,0 +1,44 @@
+2018-05-07 0:10:34 - INFO --> getUserByCookie: 
+2018-05-07 0:10:34 - INFO --> getZoomById: config/databases.yml
+2018-05-07 0:10:35 - INFO --> getUserByCookie: 
+2018-05-07 0:10:35 - INFO --> getZoomById: config/database.yml
+2018-05-07 0:10:36 - INFO --> getUserByCookie: 
+2018-05-07 0:10:36 - INFO --> getZoomById: lfm.php
+2018-05-07 0:10:37 - INFO --> getUserByCookie: 
+2018-05-07 0:10:37 - INFO --> getZoomById: app/etc/local.xml
+2018-05-07 0:10:38 - INFO --> getUserByCookie: 
+2018-05-07 0:10:38 - INFO --> getZoomById: .env
+2018-05-07 0:10:38 - INFO --> getUserByCookie: 
+2018-05-07 0:10:38 - INFO --> getZoomById: sftp-config.json
+2018-05-07 0:10:39 - INFO --> getUserByCookie: 
+2018-05-07 0:10:39 - INFO --> getZoomById: .ftpconfig
+2018-05-07 0:10:40 - INFO --> getUserByCookie: 
+2018-05-07 0:10:40 - INFO --> getZoomById: .remote-sync.json
+2018-05-07 0:10:41 - INFO --> getUserByCookie: 
+2018-05-07 0:10:41 - INFO --> getZoomById: .vscode/ftp-sync.json
+2018-05-07 0:10:42 - INFO --> getUserByCookie: 
+2018-05-07 0:10:42 - INFO --> getZoomById: deployment-config.json
+2018-05-07 0:10:43 - INFO --> getUserByCookie: 
+2018-05-07 0:10:43 - INFO --> getZoomById: WS_FTP.ini
+2018-05-07 0:10:44 - INFO --> getUserByCookie: 
+2018-05-07 0:10:44 - INFO --> getZoomById: ws_ftp.ini
+2018-05-07 0:10:45 - INFO --> getUserByCookie: 
+2018-05-07 0:10:45 - INFO --> getZoomById: WS_FTP.INI
+2018-05-07 0:10:45 - INFO --> getUserByCookie: 
+2018-05-07 0:10:45 - INFO --> getZoomById: filezilla.xml
+2018-05-07 0:10:46 - INFO --> getUserByCookie: 
+2018-05-07 0:10:46 - INFO --> getZoomById: sitemanager.xml
+2018-05-07 0:10:47 - INFO --> getUserByCookie: 
+2018-05-07 0:10:47 - INFO --> getZoomById: FileZilla.xml
+2018-05-07 0:10:48 - INFO --> getUserByCookie: 
+2018-05-07 0:10:48 - INFO --> getZoomById: winscp.ini
+2018-05-07 0:10:49 - INFO --> getUserByCookie: 
+2018-05-07 0:10:49 - INFO --> getZoomById: WinSCP.ini
+2018-05-07 2:47:06 - INFO --> getUserByCookie: 
+2018-05-07 2:47:06 - INFO --> getZoomById: iSctp
+2018-05-07 2:47:06 - INFO --> incrementZoomById: iSctp
+2018-05-07 2:47:06 - INFO --> increment zoom: iSctp
+2018-05-07 3:20:26 - INFO --> getUserByCookie: 
+2018-05-07 3:20:26 - INFO --> getZoomById: G1YU4
+2018-05-07 3:20:26 - INFO --> incrementZoomById: G1YU4
+2018-05-07 3:20:26 - INFO --> increment zoom: G1YU4

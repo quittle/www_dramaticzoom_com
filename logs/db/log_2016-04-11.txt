@@ -1,0 +1,12 @@
+2016-04-11 6:12:32 - INFO --> getUserByCookie: 
+2016-04-11 6:12:32 - INFO --> getZoomById: iSctp
+2016-04-11 6:12:32 - INFO --> incrementZoomById: iSctp
+2016-04-11 6:12:32 - INFO --> increment zoom: iSctp
+2016-04-11 18:16:08 - INFO --> getUserByCookie: 
+2016-04-11 18:16:08 - INFO --> getZoomById: iSctp
+2016-04-11 18:16:08 - INFO --> incrementZoomById: iSctp
+2016-04-11 18:16:08 - INFO --> increment zoom: iSctp
+2016-04-11 19:23:39 - INFO --> getUserByCookie: 
+2016-04-11 19:23:39 - INFO --> getZoomById: media/xxxx.php
+2016-04-11 19:23:40 - INFO --> getUserByCookie: 
+2016-04-11 19:23:40 - INFO --> getZoomById: media/css.php

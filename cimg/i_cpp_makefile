@@ -1,0 +1,29 @@
+#This makefile is to create an image processing program
+#The output is an executable called 'i'
+
+#default produces a file with default compiler optimizations
+#0 produces a file with no optimizations
+#1 produces a file with some optimizations
+#2 produces a file with a lot of optimizations
+#3 produces a file with as many optimizations as it can
+#3Plus produces a file with as many optimizations as it can and strips the executable of symbols. Shrinking it as much as possible
+
+#Flags
+#-L/usr/X11R6/lib (link to dynamic library)
+#-lm (link to math library)
+#-pthread (link to pthread library)
+#-lX11 (link to -X11 library?)
+FLAGS=-L/usr/X11R6/lib -lm -lpthread -lX11
+
+default:
+	g++ i.cpp -o i -O $(FLAGS)
+0:
+	g++ i.cpp -o i -O0 $(FLAGS)
+1:
+	g++ i.cpp -o i -O1 $(FLAGS)
+2:
+	g++ i.cpp -o i -O2 $(FLAGS)
+3:
+	g++ i.cpp -o i -O3 $(FLAGS)
+3Plus:
+	g++ i.cpp -o i -O3 -s $(FLAGS)

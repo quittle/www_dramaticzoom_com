@@ -1,0 +1,8 @@
+2018-12-02 8:07:54 - INFO --> getUserByCookie: 
+2018-12-02 8:07:54 - INFO --> getZoomById: iSctp
+2018-12-02 8:07:54 - INFO --> incrementZoomById: iSctp
+2018-12-02 8:07:54 - INFO --> increment zoom: iSctp
+2018-12-02 13:59:57 - INFO --> getUserByCookie: 
+2018-12-02 13:59:57 - INFO --> getZoomById: wp-json/wp/v2/users/
+2018-12-02 16:24:42 - INFO --> getUserByCookie: 
+2018-12-02 16:24:42 - INFO --> getZoomById: email=poppyhill%40reagan.com&reportType=&description=&

@@ -1,0 +1,13 @@
+2016-09-30 20:12:04 - INFO --> getUserSecretsByUsername: a
+2016-09-30 20:12:07 - INFO --> getUserSecretsByUsername: a
+2016-09-30 20:12:11 - INFO --> getUserSecretsByUsername: a
+2016-09-30 20:12:31 - INFO --> getUserSecretsByUsername: a
+2016-09-30 20:12:54 - INFO --> getUserSecretsByUsername: quittle
+2016-09-30 20:12:54 - INFO --> doLoginByUsername: quittle : befed9dc5174b4b507bfe4c8291544274c0abbcdf3819485c012a689de6295b2 : 1475273574
+2016-09-30 20:13:00 - INFO --> getUserByCookie: befed9dc5174b4b507bfe4c8291544274c0abbcdf3819485c012a689de6295b2
+2016-09-30 20:13:00 - INFO --> getUserByCookie: befed9dc5174b4b507bfe4c8291544274c0abbcdf3819485c012a689de6295b2
+2016-09-30 20:13:00 - INFO --> getZoomById: c)v2y
+2016-09-30 20:13:00 - INFO --> getZoomById: aFAXOc
+2016-09-30 20:13:00 - INFO --> getUserByCookie: befed9dc5174b4b507bfe4c8291544274c0abbcdf3819485c012a689de6295b2
+2016-09-30 20:13:12 - INFO --> getUserByCookie: befed9dc5174b4b507bfe4c8291544274c0abbcdf3819485c012a689de6295b2
+2016-09-30 20:13:32 - INFO --> getUserByCookie: befed9dc5174b4b507bfe4c8291544274c0abbcdf3819485c012a689de6295b2

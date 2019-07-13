@@ -1,0 +1,8 @@
+2018-10-07 3:35:23 - INFO --> getUserByCookie: 
+2018-10-07 3:35:23 - INFO --> getZoomById: tnrkezdluaihegot.html
+2018-10-07 11:36:18 - INFO --> getUserByCookie: 
+2018-10-07 11:36:18 - INFO --> getZoomById: .well-known/assetlinks.json
+2018-10-07 21:07:48 - INFO --> getUserByCookie: 
+2018-10-07 21:07:48 - INFO --> getZoomById: iSctp
+2018-10-07 21:07:48 - INFO --> incrementZoomById: iSctp
+2018-10-07 21:07:48 - INFO --> increment zoom: iSctp

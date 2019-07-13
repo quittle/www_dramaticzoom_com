@@ -1,0 +1,12 @@
+2016-07-30 4:26:23 - INFO --> getUserByCookie: 
+2016-07-30 4:26:23 - INFO --> getZoomById: tmp/sfx.php
+2016-07-30 6:30:06 - INFO --> getUserByCookie: 
+2016-07-30 7:16:11 - INFO --> getUserByCookie: 
+2016-07-30 7:16:11 - INFO --> getZoomById: G1YU4
+2016-07-30 7:16:11 - INFO --> incrementZoomById: G1YU4
+2016-07-30 7:16:11 - INFO --> increment zoom: G1YU4
+2016-07-30 12:06:36 - INFO --> getUserByCookie: 
+2016-07-30 12:06:36 - INFO --> getZoomById: w+JPX
+2016-07-30 12:06:36 - INFO --> incrementZoomById: w+JPX
+2016-07-30 12:06:36 - INFO --> increment zoom: w+JPX
+2016-07-30 20:49:21 - INFO --> getUserByCookie: 

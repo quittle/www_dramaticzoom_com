@@ -1,0 +1,6 @@
+2015-10-02 4:48:44 - INFO --> getUserByCookie: 
+2015-10-02 4:48:44 - INFO --> getZoomById: iSctp
+2015-10-02 4:48:44 - INFO --> incrementZoomById: iSctp
+2015-10-02 4:48:44 - INFO --> increment zoom: iSctp
+2015-10-02 21:48:09 - INFO --> getUserByCookie: 
+2015-10-02 21:48:09 - INFO --> getZoomById: spaw/dialogs/dialog.php

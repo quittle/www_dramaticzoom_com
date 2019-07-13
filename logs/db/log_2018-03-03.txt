@@ -1,0 +1,10 @@
+2018-03-03 3:00:24 - INFO --> getUserByCookie: 
+2018-03-03 3:00:24 - INFO --> getZoomById: register-user=&register-email=chris%40adcderm.com&register-pass=&register-pass2=&register-agree=&
+2018-03-03 12:52:04 - INFO --> getUserByCookie: 
+2018-03-03 12:52:04 - INFO --> getZoomById: register-user=&register-email=mndebbie08%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-03-03 13:22:36 - INFO --> getUserByCookie: 
+2018-03-03 13:22:36 - INFO --> getZoomById: register-user=&register-email=marcygarza2003%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-03-03 17:29:18 - INFO --> getUserByCookie: 
+2018-03-03 17:29:18 - INFO --> getZoomById: register-user=&register-email=canadian4all%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-03-03 17:38:33 - INFO --> getUserByCookie: 
+2018-03-03 17:38:33 - INFO --> getZoomById: register-user=&register-email=nataliegrieser%40gmail.com&register-pass=&register-pass2=&register-agree=&

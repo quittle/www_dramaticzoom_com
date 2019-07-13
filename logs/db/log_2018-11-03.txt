@@ -1,0 +1,28 @@
+2018-11-03 13:13:24 - INFO --> getUserByCookie: 
+2018-11-03 13:13:24 - INFO --> getZoomById: mbahKb
+2018-11-03 13:13:24 - INFO --> incrementZoomById: mbahKb
+2018-11-03 13:13:24 - INFO --> increment zoom: mbahKb
+2018-11-03 14:07:56 - INFO --> getUserByCookie: 
+2018-11-03 14:07:56 - INFO --> getZoomById: top=22250738585072011
+2018-11-03 19:09:22 - INFO --> getUserByCookie: 
+2018-11-03 19:09:22 - INFO --> getZoomById: .git/info/refs
+2018-11-03 20:25:52 - INFO --> getUserByCookie: 
+2018-11-03 20:25:52 - INFO --> getZoomById: xmlrpc.php
+2018-11-03 20:25:54 - INFO --> getUserByCookie: 
+2018-11-03 20:25:54 - INFO --> getZoomById: wp/xmlrpc.php
+2018-11-03 20:26:02 - INFO --> getUserByCookie: 
+2018-11-03 20:26:02 - INFO --> getZoomById: blog/xmlrpc.php
+2018-11-03 20:26:15 - INFO --> getUserByCookie: 
+2018-11-03 20:26:15 - INFO --> getZoomById: wordpress/xmlrpc.php
+2018-11-03 22:53:06 - INFO --> getUserByCookie: 
+2018-11-03 22:53:06 - INFO --> getZoomById: iSctp
+2018-11-03 22:53:06 - INFO --> incrementZoomById: iSctp
+2018-11-03 22:53:06 - INFO --> increment zoom: iSctp
+2018-11-03 23:48:04 - INFO --> getUserByCookie: 
+2018-11-03 23:48:04 - INFO --> getZoomById: iSctp
+2018-11-03 23:48:04 - INFO --> incrementZoomById: iSctp
+2018-11-03 23:48:04 - INFO --> increment zoom: iSctp
+2018-11-03 23:48:06 - INFO --> getUserByCookie: 
+2018-11-03 23:48:06 - INFO --> getZoomById: iSctp
+2018-11-03 23:48:06 - INFO --> incrementZoomById: iSctp
+2018-11-03 23:48:06 - INFO --> increment zoom: iSctp

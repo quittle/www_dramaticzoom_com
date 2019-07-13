@@ -1,0 +1,7 @@
+2016-09-27 19:03:52 - INFO --> getUserByCookie: 
+2016-09-27 19:03:52 - INFO --> getZoomById: iSctp
+2016-09-27 19:03:52 - INFO --> incrementZoomById: iSctp
+2016-09-27 19:03:52 - INFO --> increment zoom: iSctp
+2016-09-27 19:03:53 - INFO --> getUserByCookie: 
+2016-09-27 19:23:53 - INFO --> getUserByCookie: 
+2016-09-27 19:23:53 - INFO --> getZoomById: wp-login.php

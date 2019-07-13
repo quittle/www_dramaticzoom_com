@@ -1,0 +1,16 @@
+2015-10-07 14:59:41 - INFO --> getUserByCookie: 
+2015-10-07 14:59:41 - INFO --> getZoomById: mbahKb
+2015-10-07 14:59:41 - INFO --> incrementZoomById: mbahKb
+2015-10-07 14:59:41 - INFO --> increment zoom: mbahKb
+2015-10-07 19:09:01 - INFO --> getUserByCookie: 
+2015-10-07 19:09:01 - INFO --> getZoomById: blogs/wp-admin/setup-config.php
+2015-10-07 19:26:38 - INFO --> getUserByCookie: 
+2015-10-07 19:26:38 - INFO --> getZoomById: test/wp-admin/setup-config.php
+2015-10-07 20:39:12 - INFO --> getUserByCookie: 
+2015-10-07 20:39:12 - INFO --> getZoomById: wp/wp-admin/setup-config.php
+2015-10-07 21:32:32 - INFO --> getUserByCookie: 
+2015-10-07 21:32:32 - INFO --> getZoomById: blog/wp-admin/setup-config.php
+2015-10-07 23:24:34 - INFO --> getUserByCookie: 
+2015-10-07 23:24:34 - INFO --> getZoomById: wordpress/wp-admin/setup-config.php
+2015-10-07 23:45:49 - INFO --> getUserByCookie: 
+2015-10-07 23:45:49 - INFO --> getZoomById: blog/wp-admin/setup-config.php

@@ -1,0 +1,11 @@
+2017-10-20 0:14:58 - INFO --> getUserByCookie: 
+2017-10-20 0:14:58 - INFO --> getZoomById: apple-app-site-association
+2017-10-20 7:23:10 - INFO --> getUserByCookie: 
+2017-10-20 7:44:15 - INFO --> getUserByCookie: 
+2017-10-20 7:44:15 - INFO --> getZoomById: .well-known/assetlinks.json
+2017-10-20 9:11:04 - INFO --> getUserByCookie: 
+2017-10-20 9:11:04 - INFO --> getZoomById: .well-known/apple-app-site-association
+2017-10-20 12:55:47 - INFO --> getUserByCookie: 
+2017-10-20 12:55:47 - INFO --> getZoomById: register-user=&register-email=cindymassie8%40roadrunner.com&register-pass=&register-pass2=&register-agree=&
+2017-10-20 13:48:05 - INFO --> getUserByCookie: 
+2017-10-20 13:48:05 - INFO --> getZoomById: register-user=&register-email=jhill%40jatcoinc.com&register-pass=&register-pass2=&register-agree=&

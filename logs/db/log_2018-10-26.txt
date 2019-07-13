@@ -1,0 +1,21 @@
+2018-10-26 2:11:27 - INFO --> getUserByCookie: 
+2018-10-26 2:11:27 - INFO --> getZoomById: .git/HEAD
+2018-10-26 7:18:35 - INFO --> getUserByCookie: 
+2018-10-26 7:18:35 - INFO --> getZoomById: iSctp
+2018-10-26 7:18:35 - INFO --> incrementZoomById: iSctp
+2018-10-26 7:18:35 - INFO --> increment zoom: iSctp
+2018-10-26 11:50:42 - INFO --> getUserByCookie: 
+2018-10-26 11:50:42 - INFO --> getZoomById: wp-login.php
+2018-10-26 12:27:59 - INFO --> getUserByCookie: 
+2018-10-26 12:27:59 - INFO --> getZoomById: wp-login.php
+2018-10-26 12:28:10 - INFO --> getUserByCookie: 
+2018-10-26 12:28:10 - INFO --> getZoomById: option=com_user&task=register
+2018-10-26 12:28:16 - INFO --> getUserByCookie: 
+2018-10-26 12:28:16 - INFO --> getZoomById: user/register
+2018-10-26 19:18:14 - INFO --> getUserByCookie: 
+2018-10-26 20:23:17 - INFO --> getUserByCookie: 
+2018-10-26 20:23:17 - INFO --> getZoomById: iSctp
+2018-10-26 20:23:17 - INFO --> incrementZoomById: iSctp
+2018-10-26 20:23:17 - INFO --> increment zoom: iSctp
+2018-10-26 23:19:06 - INFO --> getUserByCookie: 
+2018-10-26 23:19:06 - INFO --> getZoomById: .git/config

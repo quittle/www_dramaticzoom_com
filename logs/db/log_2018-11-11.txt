@@ -1,0 +1,15 @@
+2018-11-11 6:20:14 - INFO --> getUserByCookie: 
+2018-11-11 6:20:14 - INFO --> getZoomById: iSctp
+2018-11-11 6:20:14 - INFO --> incrementZoomById: iSctp
+2018-11-11 6:20:14 - INFO --> increment zoom: iSctp
+2018-11-11 11:20:30 - INFO --> getUserByCookie: 
+2018-11-11 11:20:30 - INFO --> getZoomById: sitemap.xml
+2018-11-11 11:20:34 - INFO --> getUserByCookie: 
+2018-11-11 11:20:37 - INFO --> getUserByCookie: 
+2018-11-11 11:20:37 - INFO --> getZoomById: ads.txt
+2018-11-11 16:51:41 - INFO --> getUserByCookie: 
+2018-11-11 16:51:41 - INFO --> getZoomById: fl=i4c
+2018-11-11 16:51:41 - INFO --> incrementZoomById: fl=i4c
+2018-11-11 16:51:41 - INFO --> increment zoom: fl=i4c
+2018-11-11 19:51:46 - INFO --> getUserByCookie: 
+2018-11-11 19:51:46 - INFO --> getZoomById: manager/index.php

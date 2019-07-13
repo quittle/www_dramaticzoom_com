@@ -1,0 +1,132 @@
+2019-01-10 2:57:26 - INFO --> getUserByCookie: 
+2019-01-10 2:57:26 - INFO --> getZoomById: email=maggyeann%40gmail.com&reportType=&description=&
+2019-01-10 3:31:10 - INFO --> getUserByCookie: 
+2019-01-10 3:31:10 - INFO --> getZoomById: iSctp
+2019-01-10 3:31:10 - INFO --> incrementZoomById: iSctp
+2019-01-10 3:31:10 - INFO --> increment zoom: iSctp
+2019-01-10 3:52:53 - INFO --> getUserByCookie: 
+2019-01-10 3:52:53 - INFO --> getZoomById: .well-known/acme-challenge/7b4Numt_32eeAdrlVUAWnc98F_WBcldLPVFL2IZP-qE
+2019-01-10 3:52:54 - INFO --> getUserByCookie: 
+2019-01-10 3:52:54 - INFO --> getZoomById: .well-known/acme-challenge/JveQYIVRQZM9w8k1Mtk1BIttDM68HjtdMBCcsOJKq6A
+2019-01-10 3:52:54 - INFO --> getUserByCookie: 
+2019-01-10 3:52:54 - INFO --> getZoomById: .well-known/acme-challenge/o4932mp_leN_uTaCaZw7NxpCwBXij4TGdPKfkdBnQrc
+2019-01-10 3:52:54 - INFO --> getUserByCookie: 
+2019-01-10 3:52:54 - INFO --> getZoomById: .well-known/acme-challenge/EYAza64SgG1uZ16JAMt39bwJ2y5H32KOoLefNDei0cU
+2019-01-10 4:44:08 - INFO --> getUserByCookie: 
+2019-01-10 4:44:08 - INFO --> getZoomById: email=reggie.williams1967%40gmail.com&reportType=&description=&
+2019-01-10 5:06:46 - INFO --> getUserByCookie: 
+2019-01-10 5:06:46 - INFO --> getZoomById: email=leonardocorso17%40gmail.com&reportType=&description=&
+2019-01-10 5:27:49 - INFO --> getUserByCookie: 
+2019-01-10 5:27:49 - INFO --> getZoomById: iSctp
+2019-01-10 5:27:49 - INFO --> incrementZoomById: iSctp
+2019-01-10 5:27:49 - INFO --> increment zoom: iSctp
+2019-01-10 6:26:56 - INFO --> getUserByCookie: 
+2019-01-10 6:26:56 - INFO --> getZoomById: email=melre1052%40gmail.com&reportType=&description=&
+2019-01-10 6:27:45 - INFO --> getUserByCookie: 
+2019-01-10 6:27:45 - INFO --> getZoomById: email=guido.rios_diaz%40okstate.edu&reportType=&description=&
+2019-01-10 7:04:00 - INFO --> getUserByCookie: 
+2019-01-10 7:04:00 - INFO --> getZoomById: email=jblinn20%40gmail.com&reportType=&description=&
+2019-01-10 7:22:05 - INFO --> getUserByCookie: 
+2019-01-10 7:22:05 - INFO --> getZoomById: email=foster.kitty%40yahoo.com&reportType=&description=&
+2019-01-10 11:13:05 - INFO --> getUserByCookie: 
+2019-01-10 11:13:05 - INFO --> getZoomById: email=badmarshmello2323%40gmail.com&reportType=&description=&
+2019-01-10 13:33:49 - INFO --> getUserByCookie: 
+2019-01-10 13:33:49 - INFO --> getZoomById: email=michael.scichilone%40yahoo.com&reportType=&description=&
+2019-01-10 14:35:26 - INFO --> getUserByCookie: 
+2019-01-10 14:35:26 - INFO --> getZoomById: email=foster.kitty%40yahoo.com&reportType=&description=&
+2019-01-10 15:34:35 - INFO --> getUserByCookie: 
+2019-01-10 15:34:35 - INFO --> getZoomById: email=jonathanchristian26%40yahoo.com&reportType=&description=&
+2019-01-10 16:11:39 - INFO --> getUserByCookie: 
+2019-01-10 16:11:39 - INFO --> getZoomById: email=schroermp%40gmail.com&reportType=&description=&
+2019-01-10 16:47:19 - INFO --> getUserByCookie: 
+2019-01-10 16:47:19 - INFO --> getZoomById: iSctp
+2019-01-10 16:47:19 - INFO --> incrementZoomById: iSctp
+2019-01-10 16:47:19 - INFO --> increment zoom: iSctp
+2019-01-10 21:09:40 - INFO --> getUserByCookie: 
+2019-01-10 21:09:40 - INFO --> getZoomById: email=bethnewbold1%40gmail.com&reportType=&description=&
+2019-01-10 21:15:12 - INFO --> getUserByCookie: 
+2019-01-10 21:15:12 - INFO --> getZoomById: email=bethnewbold1%40gmail.com&reportType=&description=&
+2019-01-10 21:26:32 - INFO --> getUserByCookie: 
+2019-01-10 21:26:32 - INFO --> getZoomById: yp/product.php
+2019-01-10 21:36:36 - INFO --> getUserByCookie: 
+2019-01-10 21:36:36 - INFO --> getZoomById: email=llarking1%40comcast.net&reportType=&description=&
+2019-01-10 21:40:41 - INFO --> getUserByCookie: 
+2019-01-10 21:40:41 - INFO --> getZoomById: .well-known/acme-challenge/nOxQw42p3JI1AlSWheF-kQJY-tHQBgjqCQFKGYFYN0A
+2019-01-10 21:40:41 - INFO --> getUserByCookie: 
+2019-01-10 21:40:41 - INFO --> getZoomById: .well-known/acme-challenge/KU-R5Emk_FdRFzvktpgGKDV8yFVB-9jViRWtW9m_4kI
+2019-01-10 21:40:41 - INFO --> getUserByCookie: 
+2019-01-10 21:40:41 - INFO --> getZoomById: .well-known/acme-challenge/bp45ODi9LAlwpMBd4kiYIqB1aQmOo3Dr1iLHkwZBi3Y
+2019-01-10 21:40:41 - INFO --> getUserByCookie: 
+2019-01-10 21:40:41 - INFO --> getZoomById: .well-known/acme-challenge/JMcg8llAS5ah-IE-i8fue8tbEa1rtkkhYWqSbpxYleE
+2019-01-10 21:40:41 - INFO --> getUserByCookie: 
+2019-01-10 21:40:41 - INFO --> getZoomById: .well-known/acme-challenge/nOxQw42p3JI1AlSWheF-kQJY-tHQBgjqCQFKGYFYN0A
+2019-01-10 21:40:41 - INFO --> getUserByCookie: 
+2019-01-10 21:40:41 - INFO --> getZoomById: .well-known/acme-challenge/nOxQw42p3JI1AlSWheF-kQJY-tHQBgjqCQFKGYFYN0A
+2019-01-10 21:40:41 - INFO --> getUserByCookie: 
+2019-01-10 21:40:41 - INFO --> getZoomById: .well-known/acme-challenge/KU-R5Emk_FdRFzvktpgGKDV8yFVB-9jViRWtW9m_4kI
+2019-01-10 21:40:41 - INFO --> getUserByCookie: 
+2019-01-10 21:40:41 - INFO --> getZoomById: .well-known/acme-challenge/KU-R5Emk_FdRFzvktpgGKDV8yFVB-9jViRWtW9m_4kI
+2019-01-10 21:40:41 - INFO --> getUserByCookie: 
+2019-01-10 21:40:41 - INFO --> getZoomById: .well-known/acme-challenge/JMcg8llAS5ah-IE-i8fue8tbEa1rtkkhYWqSbpxYleE
+2019-01-10 21:40:42 - INFO --> getUserByCookie: 
+2019-01-10 21:40:42 - INFO --> getZoomById: .well-known/acme-challenge/JMcg8llAS5ah-IE-i8fue8tbEa1rtkkhYWqSbpxYleE
+2019-01-10 21:40:42 - INFO --> getUserByCookie: 
+2019-01-10 21:40:42 - INFO --> getZoomById: .well-known/acme-challenge/bp45ODi9LAlwpMBd4kiYIqB1aQmOo3Dr1iLHkwZBi3Y
+2019-01-10 21:40:42 - INFO --> getUserByCookie: 
+2019-01-10 21:40:42 - INFO --> getZoomById: .well-known/acme-challenge/bp45ODi9LAlwpMBd4kiYIqB1aQmOo3Dr1iLHkwZBi3Y
+2019-01-10 21:40:49 - INFO --> getUserByCookie: 
+2019-01-10 21:40:49 - INFO --> getZoomById: .well-known/acme-challenge/wTQ20CSm3VmHjj2xHjKeLqp7U4yLGKcrEGZpg2fhkU0
+2019-01-10 21:40:49 - INFO --> getUserByCookie: 
+2019-01-10 21:40:49 - INFO --> getZoomById: .well-known/acme-challenge/wTQ20CSm3VmHjj2xHjKeLqp7U4yLGKcrEGZpg2fhkU0
+2019-01-10 21:41:05 - INFO --> getUserByCookie: 
+2019-01-10 21:41:05 - INFO --> getZoomById: .well-known/acme-challenge/E0ziIm0mV_uKGmFNSRFuK3JDSs0Kzg2dcKAUSk7FUjU
+2019-01-10 21:41:05 - INFO --> getUserByCookie: 
+2019-01-10 21:41:05 - INFO --> getZoomById: .well-known/acme-challenge/QPXYo2880IExuWw_CnJ0A5J5V2nv-6S2wevnPB52j6w
+2019-01-10 21:41:05 - INFO --> getUserByCookie: 
+2019-01-10 21:41:05 - INFO --> getZoomById: .well-known/acme-challenge/eG4yrF6l-XM0Cg5_vc1d6Qul_RG6_2jrPs9NBdT6sQ4
+2019-01-10 21:41:05 - INFO --> getUserByCookie: 
+2019-01-10 21:41:05 - INFO --> getZoomById: .well-known/acme-challenge/79Z1YRdaZWEn8MiKE5Jx0uixvPObQK0t0uXOaWve77c
+2019-01-10 21:41:06 - INFO --> getUserByCookie: 
+2019-01-10 21:41:06 - INFO --> getZoomById: .well-known/acme-challenge/79Z1YRdaZWEn8MiKE5Jx0uixvPObQK0t0uXOaWve77c
+2019-01-10 21:41:06 - INFO --> getUserByCookie: 
+2019-01-10 21:41:06 - INFO --> getZoomById: .well-known/acme-challenge/79Z1YRdaZWEn8MiKE5Jx0uixvPObQK0t0uXOaWve77c
+2019-01-10 21:41:06 - INFO --> getUserByCookie: 
+2019-01-10 21:41:06 - INFO --> getZoomById: .well-known/acme-challenge/79Z1YRdaZWEn8MiKE5Jx0uixvPObQK0t0uXOaWve77c
+2019-01-10 21:41:06 - INFO --> getUserByCookie: 
+2019-01-10 21:41:06 - INFO --> getZoomById: .well-known/acme-challenge/E0ziIm0mV_uKGmFNSRFuK3JDSs0Kzg2dcKAUSk7FUjU
+2019-01-10 21:41:06 - INFO --> getUserByCookie: 
+2019-01-10 21:41:06 - INFO --> getZoomById: .well-known/acme-challenge/QPXYo2880IExuWw_CnJ0A5J5V2nv-6S2wevnPB52j6w
+2019-01-10 21:41:06 - INFO --> getUserByCookie: 
+2019-01-10 21:41:06 - INFO --> getZoomById: .well-known/acme-challenge/eG4yrF6l-XM0Cg5_vc1d6Qul_RG6_2jrPs9NBdT6sQ4
+2019-01-10 21:41:14 - INFO --> getUserByCookie: 
+2019-01-10 21:41:14 - INFO --> getZoomById: .well-known/acme-challenge/aeMt0kh_vKJaCbPUEU6DkFyqw6wNuc_SdldKh8W6ozc
+2019-01-10 21:41:14 - INFO --> getUserByCookie: 
+2019-01-10 21:41:14 - INFO --> getZoomById: .well-known/acme-challenge/aeMt0kh_vKJaCbPUEU6DkFyqw6wNuc_SdldKh8W6ozc
+2019-01-10 21:44:41 - INFO --> getUserByCookie: 
+2019-01-10 21:44:41 - INFO --> getZoomById: .well-known/acme-challenge/cEQ7qDe-_bsJIN2bY_28F5fiTpllMYMuoEMq6qW8rUg
+2019-01-10 21:44:42 - INFO --> getUserByCookie: 
+2019-01-10 21:44:42 - INFO --> getZoomById: .well-known/acme-challenge/Lb2c9gBmFv9_smVMW6wmA9rtjWVYzZrPgjnU3tsZ1TI
+2019-01-10 21:44:42 - INFO --> getUserByCookie: 
+2019-01-10 21:44:42 - INFO --> getZoomById: .well-known/acme-challenge/nKpRkfI5Tlsn5UjjK2r1wtZ6LIE24GxHxYH5HGLCnfw
+2019-01-10 21:44:42 - INFO --> getUserByCookie: 
+2019-01-10 21:44:42 - INFO --> getZoomById: .well-known/acme-challenge/TLpnClTj_rY6X-N8dXUl56PPCgLU3-GU7BL1PhdJjck
+2019-01-10 21:47:12 - INFO --> getUserByCookie: 
+2019-01-10 21:47:12 - INFO --> getZoomById: .well-known/acme-challenge/iEWV3_Z0q6Uhk010wOmSRMlRhQosjk6qsaedbAK-CmA
+2019-01-10 21:47:13 - INFO --> getUserByCookie: 
+2019-01-10 21:47:13 - INFO --> getZoomById: .well-known/acme-challenge/lfWErKKeyyJNFkOMI4FJRQBigAlQXvE0S4-zYuVkAL0
+2019-01-10 21:47:13 - INFO --> getUserByCookie: 
+2019-01-10 21:47:13 - INFO --> getZoomById: .well-known/acme-challenge/Dttu6fDhdHT-jyIpWIyVPaQVZXAf0wCIfkt2CFdmhN4
+2019-01-10 21:47:13 - INFO --> getUserByCookie: 
+2019-01-10 21:47:13 - INFO --> getZoomById: .well-known/acme-challenge/zTk930jxSoBX3mpggOczWZDcNjvci-v9tcNmFswRLto
+2019-01-10 21:51:43 - INFO --> getUserByCookie: 
+2019-01-10 21:51:43 - INFO --> getZoomById: .well-knowna/
+2019-01-10 22:09:07 - INFO --> getUserByCookie: 
+2019-01-10 22:09:07 - INFO --> getZoomById: .well-known/acme-challenge/7Qlrn4RwUfZK_OY7cqD9r8MsOmgW-BomuhRZZPntY-Q
+2019-01-10 22:09:07 - INFO --> getUserByCookie: 
+2019-01-10 22:09:07 - INFO --> getZoomById: .well-known/acme-challenge/TeQo3RbWVc4w2xCWrZfI6VHxjdkgqEbits4iT8NmcOc
+2019-01-10 22:09:07 - INFO --> getUserByCookie: 
+2019-01-10 22:09:07 - INFO --> getZoomById: .well-known/acme-challenge/H750W_8XztgO9CQS6ErsqoxHxP0IJHFdGY8yYiZpRgo
+2019-01-10 22:09:07 - INFO --> getUserByCookie: 
+2019-01-10 22:09:07 - INFO --> getZoomById: .well-known/acme-challenge/wR_EOAjwk7yx4ovL__MfQ2imPl-gR9IspM9f_Gpj4Zc
+2019-01-10 22:22:14 - INFO --> getUserByCookie: 
+2019-01-10 22:22:14 - INFO --> getZoomById: email=paypal%40copyfaxes.com&reportType=&description=&

@@ -1,0 +1,47 @@
+2018-02-09 2:35:55 - INFO --> getUserByCookie: 
+2018-02-09 2:35:55 - INFO --> getZoomById: register-user=&register-email=ysessions%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-02-09 4:48:58 - INFO --> getUserByCookie: 
+2018-02-09 4:48:58 - INFO --> getZoomById: iSctp
+2018-02-09 4:48:58 - INFO --> incrementZoomById: iSctp
+2018-02-09 4:48:58 - INFO --> increment zoom: iSctp
+2018-02-09 5:47:53 - INFO --> getUserByCookie: 
+2018-02-09 5:47:53 - INFO --> getZoomById: .ftpconfig
+2018-02-09 5:47:54 - INFO --> getUserByCookie: 
+2018-02-09 5:47:54 - INFO --> getZoomById: .remote-sync.json
+2018-02-09 5:47:56 - INFO --> getUserByCookie: 
+2018-02-09 5:47:56 - INFO --> getZoomById: .vscode/ftp-sync.json
+2018-02-09 5:47:57 - INFO --> getUserByCookie: 
+2018-02-09 5:47:57 - INFO --> getZoomById: sftp-config.json
+2018-02-09 5:47:59 - INFO --> getUserByCookie: 
+2018-02-09 5:47:59 - INFO --> getZoomById: deployment-config.json
+2018-02-09 5:48:01 - INFO --> getUserByCookie: 
+2018-02-09 5:48:01 - INFO --> getZoomById: .env
+2018-02-09 8:01:04 - INFO --> getUserByCookie: 
+2018-02-09 8:01:04 - INFO --> getZoomById: .ftpconfig
+2018-02-09 8:01:06 - INFO --> getUserByCookie: 
+2018-02-09 8:01:06 - INFO --> getZoomById: .remote-sync.json
+2018-02-09 8:01:07 - INFO --> getUserByCookie: 
+2018-02-09 8:01:07 - INFO --> getZoomById: .vscode/ftp-sync.json
+2018-02-09 8:01:09 - INFO --> getUserByCookie: 
+2018-02-09 8:01:09 - INFO --> getZoomById: sftp-config.json
+2018-02-09 8:01:10 - INFO --> getUserByCookie: 
+2018-02-09 8:01:10 - INFO --> getZoomById: deployment-config.json
+2018-02-09 8:01:12 - INFO --> getUserByCookie: 
+2018-02-09 8:01:12 - INFO --> getZoomById: .env
+2018-02-09 11:35:51 - INFO --> getUserByCookie: 
+2018-02-09 11:36:37 - INFO --> getUserByCookie: 
+2018-02-09 11:36:37 - INFO --> getZoomById: register-user=&register-email=dmah550937%40verizon.net&register-pass=&register-pass2=&register-agree=&
+2018-02-09 17:55:35 - INFO --> getUserByCookie: 
+2018-02-09 17:55:35 - INFO --> getZoomById: register-user=&register-email=mertful%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-02-09 18:32:35 - INFO --> getUserByCookie: 
+2018-02-09 18:32:35 - INFO --> getZoomById: register-user=&register-email=izarriagam%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-02-09 18:35:49 - INFO --> getUserByCookie: 
+2018-02-09 18:35:49 - INFO --> getZoomById: register-user=&register-email=paulbeatch%40shaw.ca&register-pass=&register-pass2=&register-agree=&
+2018-02-09 19:20:53 - INFO --> getUserByCookie: 
+2018-02-09 19:20:53 - INFO --> getZoomById: wp-login.php
+2018-02-09 19:21:04 - INFO --> getUserByCookie: 
+2018-02-09 19:21:04 - INFO --> getZoomById: option=com_user&task=register
+2018-02-09 20:14:11 - INFO --> getUserByCookie: 
+2018-02-09 20:14:11 - INFO --> getZoomById: register-user=&register-email=izarriagam%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-02-09 22:33:02 - INFO --> getUserByCookie: 
+2018-02-09 22:33:02 - INFO --> getZoomById: register-user=&register-email=abaauer2000%40yahoo.com&register-pass=&register-pass2=&register-agree=&

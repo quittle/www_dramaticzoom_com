@@ -1,0 +1,15 @@
+2019-03-23 3:45:06 - INFO --> getUserByCookie: 
+2019-03-23 3:45:06 - INFO --> getZoomById: email=cbphotographie.chrissi%40gmail.com&reportType=&description=&
+2019-03-23 6:19:27 - INFO --> getUserByCookie: 
+2019-03-23 6:19:27 - INFO --> getZoomById: email=pixelgod51%40yahoo.com&reportType=&description=&
+2019-03-23 7:59:23 - INFO --> getUserByCookie: 
+2019-03-23 7:59:23 - INFO --> getZoomById: email=markbfoster83%40gmail.com&reportType=&description=&
+2019-03-23 10:48:07 - INFO --> getUserByCookie: 
+2019-03-23 10:48:07 - INFO --> getZoomById: iSctp
+2019-03-23 10:48:07 - INFO --> incrementZoomById: iSctp
+2019-03-23 10:48:07 - INFO --> increment zoom: iSctp
+2019-03-23 11:44:44 - INFO --> getUserByCookie: 
+2019-03-23 11:44:44 - INFO --> getZoomById: wp-login.php
+2019-03-23 12:04:14 - INFO --> getUserByCookie: 
+2019-03-23 12:04:14 - INFO --> getZoomById: email=mp0509%40gmail.com&reportType=&description=&
+2019-03-23 18:23:13 - INFO --> getUserByCookie: 

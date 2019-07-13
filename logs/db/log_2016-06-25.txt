@@ -1,0 +1,5 @@
+2016-06-25 15:24:03 - INFO --> getUserByCookie: 
+2016-06-25 15:24:03 - INFO --> getZoomById: blog
+2016-06-25 19:54:08 - INFO --> getUserByCookie: 
+2016-06-25 20:37:47 - INFO --> getUserByCookie: 
+2016-06-25 20:37:47 - INFO --> getZoomById: 1

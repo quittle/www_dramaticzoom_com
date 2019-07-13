@@ -1,0 +1,26 @@
+2016-01-05 6:53:18 - INFO --> getUserByCookie: 
+2016-01-05 6:53:18 - INFO --> getZoomById: iSctp
+2016-01-05 6:53:18 - INFO --> incrementZoomById: iSctp
+2016-01-05 6:53:18 - INFO --> increment zoom: iSctp
+2016-01-05 10:52:22 - INFO --> getUserByCookie: 
+2016-01-05 10:52:22 - INFO --> getZoomById: iSctp
+2016-01-05 10:52:22 - INFO --> incrementZoomById: iSctp
+2016-01-05 10:52:22 - INFO --> increment zoom: iSctp
+2016-01-05 11:31:44 - INFO --> getUserByCookie: 
+2016-01-05 11:31:44 - INFO --> getZoomById: administrator/index.php
+2016-01-05 13:14:35 - INFO --> getUserByCookie: 
+2016-01-05 13:14:35 - INFO --> getZoomById: iSctp
+2016-01-05 13:14:35 - INFO --> incrementZoomById: iSctp
+2016-01-05 13:14:35 - INFO --> increment zoom: iSctp
+2016-01-05 15:21:52 - INFO --> getUserByCookie: 
+2016-01-05 15:21:52 - INFO --> getZoomById: mbahKb
+2016-01-05 15:21:52 - INFO --> incrementZoomById: mbahKb
+2016-01-05 15:21:52 - INFO --> increment zoom: mbahKb
+2016-01-05 20:59:41 - INFO --> getUserByCookie: 
+2016-01-05 20:59:41 - INFO --> getZoomById: iSctp
+2016-01-05 20:59:41 - INFO --> incrementZoomById: iSctp
+2016-01-05 20:59:41 - INFO --> increment zoom: iSctp
+2016-01-05 21:33:10 - INFO --> getUserByCookie: 
+2016-01-05 21:33:10 - INFO --> getZoomById: mbahKb
+2016-01-05 21:33:10 - INFO --> incrementZoomById: mbahKb
+2016-01-05 21:33:10 - INFO --> increment zoom: mbahKb

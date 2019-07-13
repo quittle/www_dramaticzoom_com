@@ -1,0 +1,1 @@
+var imageFile=document.getElementById("imageFile"),previewText=document.getElementById("previewText"),chooseColor=document.getElementById("choose-color");imageFile.previousSibling.nodeValue="Upload From Device";previewText.innerHTML="Step2: Tap image to set focus point";chooseColor.innerHTML="Long press image or use color picker";

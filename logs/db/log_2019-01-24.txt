@@ -1,0 +1,64 @@
+2019-01-24 1:36:44 - INFO --> getUserByCookie: 
+2019-01-24 1:36:44 - INFO --> getZoomById: sitemap.xml
+2019-01-24 1:36:46 - INFO --> getUserByCookie: 
+2019-01-24 1:36:48 - INFO --> getUserByCookie: 
+2019-01-24 1:36:48 - INFO --> getZoomById: ads.txt
+2019-01-24 1:45:39 - INFO --> getUserByCookie: 
+2019-01-24 1:45:39 - INFO --> getZoomById: site/wp-admin/
+2019-01-24 3:37:28 - INFO --> getUserByCookie: 
+2019-01-24 3:37:28 - INFO --> getZoomById: .well-known/acme-challenge/qKXE6LI6jSYgKyMMSlbuyKq2irowzHW3vVgDv5S_vTc
+2019-01-24 3:37:28 - INFO --> getUserByCookie: 
+2019-01-24 3:37:28 - INFO --> getZoomById: .well-known/acme-challenge/RnCJQR7O1IJ7DsAwcQNxEF45e5qrQCgn5ndgpHAbZFo
+2019-01-24 3:37:28 - INFO --> getUserByCookie: 
+2019-01-24 3:37:28 - INFO --> getZoomById: .well-known/acme-challenge/tKLt3-ZXd_VoEppdCFkt1Un0mab21XjbGf2Cn54f1MI
+2019-01-24 3:37:29 - INFO --> getUserByCookie: 
+2019-01-24 3:37:29 - INFO --> getZoomById: .well-known/acme-challenge/sZVCyR0C5le6aEpCEEoxfg_M-nazziWBZDYd2OH7lRc
+2019-01-24 3:37:37 - INFO --> getUserByCookie: 
+2019-01-24 3:37:37 - INFO --> getZoomById: .well-known/acme-challenge/GFf4N_6vFadyZirsXjQtCytqmkjkjbSjQs3GkKJKd-g
+2019-01-24 3:37:45 - INFO --> getUserByCookie: 
+2019-01-24 3:37:45 - INFO --> getZoomById: .well-known/acme-challenge/IZ2A8SVsuERLczxPnabpQ33mnsm4yRFCPscJRNyM8Jg
+2019-01-24 3:37:53 - INFO --> getUserByCookie: 
+2019-01-24 3:37:53 - INFO --> getZoomById: .well-known/acme-challenge/_Wn-K3T0NSjzOVtWbXBav9_k5_qte20Kt5SW4sFh6uw
+2019-01-24 3:38:01 - INFO --> getUserByCookie: 
+2019-01-24 3:38:01 - INFO --> getZoomById: .well-known/acme-challenge/fbTvpKRj6Q_q65PvyKkxGeDrJBRIQAJPrB7cPLe8PKA
+2019-01-24 4:07:23 - INFO --> getUserByCookie: 
+2019-01-24 4:07:23 - INFO --> getZoomById: email=linciyun%40gmail.com&reportType=&description=&
+2019-01-24 4:39:21 - INFO --> getUserByCookie: 
+2019-01-24 4:39:21 - INFO --> getZoomById: site/wp-admin/
+2019-01-24 6:56:13 - INFO --> getUserByCookie: 
+2019-01-24 6:56:13 - INFO --> getZoomById: email=olyasharij%40gmail.com&reportType=&description=&
+2019-01-24 7:26:47 - INFO --> getUserByCookie: 
+2019-01-24 7:26:47 - INFO --> getZoomById: email=tmichael86%40gmail.com&reportType=&description=&
+2019-01-24 9:30:36 - INFO --> getUserByCookie: 
+2019-01-24 9:30:36 - INFO --> getZoomById: fbclid=IwAR0puoFX8FmqLoehq8KogS6ogWZ6_5j87jHAaV0YTFcG2cPXk_JBGyQuiZE
+2019-01-24 9:32:51 - INFO --> getUserByCookie: 
+2019-01-24 9:32:51 - INFO --> getZoomById: iSctp
+2019-01-24 9:32:51 - INFO --> incrementZoomById: iSctp
+2019-01-24 9:32:51 - INFO --> increment zoom: iSctp
+2019-01-24 9:41:32 - INFO --> getUserByCookie: 
+2019-01-24 9:41:32 - INFO --> getZoomById: .well-known/assetlinks.json
+2019-01-24 9:53:56 - INFO --> getUserByCookie: 
+2019-01-24 9:53:56 - INFO --> getZoomById: fbclid=IwAR0_f0IoasS-6dCJ-nrGRicvmza1S2IBL7fTuJvPJuNkSFxU6BxiOd9QoVg
+2019-01-24 10:24:05 - INFO --> getUserByCookie: 
+2019-01-24 10:24:05 - INFO --> getZoomById: iSctp
+2019-01-24 10:24:05 - INFO --> incrementZoomById: iSctp
+2019-01-24 10:24:05 - INFO --> increment zoom: iSctp
+2019-01-24 12:13:01 - INFO --> getUserByCookie: 
+2019-01-24 12:13:01 - INFO --> getZoomById: email=vikram.hardatt%40gmail.com&reportType=&description=&
+2019-01-24 12:50:19 - INFO --> getUserByCookie: 
+2019-01-24 12:50:19 - INFO --> getZoomById: g=Api&m=Plugin&a=fetch
+2019-01-24 13:05:38 - INFO --> getUserByCookie: 
+2019-01-24 13:05:38 - INFO --> getZoomById: email=varishpatten%40comcast.net&reportType=&description=&
+2019-01-24 13:37:40 - INFO --> getUserByCookie: 
+2019-01-24 17:46:04 - INFO --> getUserByCookie: 
+2019-01-24 17:46:04 - INFO --> getZoomById: email=dave7752%40gmail.com&reportType=&description=&
+2019-01-24 18:24:20 - INFO --> getUserByCookie: 
+2019-01-24 18:24:20 - INFO --> getZoomById: email=jscolwyn47%40gmail.com&reportType=&description=&
+2019-01-24 18:37:43 - INFO --> getUserByCookie: 
+2019-01-24 18:37:43 - INFO --> getZoomById: email=tstanto5%40gmail.com&reportType=&description=&
+2019-01-24 19:03:20 - INFO --> getUserByCookie: 
+2019-01-24 19:03:20 - INFO --> getZoomById: email=mmedina.rogar%40gmail.com&reportType=&description=&
+2019-01-24 20:38:06 - INFO --> getUserByCookie: 
+2019-01-24 20:38:06 - INFO --> getZoomById: site/wp-admin/
+2019-01-24 21:04:59 - INFO --> getUserByCookie: 
+2019-01-24 21:04:59 - INFO --> getZoomById: email=jscolwyn47%40gmail.com&reportType=&description=&

@@ -1,0 +1,15 @@
+2019-03-21 0:49:07 - INFO --> getUserByCookie: 
+2019-03-21 13:57:03 - INFO --> getUserByCookie: 
+2019-03-21 13:57:03 - INFO --> getZoomById: iSctp
+2019-03-21 13:57:03 - INFO --> incrementZoomById: iSctp
+2019-03-21 13:57:03 - INFO --> increment zoom: iSctp
+2019-03-21 14:44:57 - INFO --> getUserByCookie: 
+2019-03-21 14:44:57 - INFO --> getZoomById: administrator/index.php
+2019-03-21 14:47:55 - INFO --> getUserByCookie: 
+2019-03-21 14:47:55 - INFO --> getZoomById: email=dahoodedfiend%40gmail.com&reportType=&description=&
+2019-03-21 15:07:54 - INFO --> getUserByCookie: 
+2019-03-21 15:07:54 - INFO --> getZoomById: email=distructo%40gmail.com&reportType=&description=&
+2019-03-21 15:58:31 - INFO --> getUserByCookie: 
+2019-03-21 15:58:31 - INFO --> getZoomById: wp-login.php
+2019-03-21 16:28:14 - INFO --> getUserByCookie: 
+2019-03-21 16:28:14 - INFO --> getZoomById: email=dazayev79%40gmail.com&reportType=&description=&

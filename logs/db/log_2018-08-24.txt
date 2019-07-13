@@ -1,0 +1,4 @@
+2018-08-24 15:47:17 - INFO --> getUserByCookie: 
+2018-08-24 15:47:17 - INFO --> getZoomById: -s
+2018-08-24 18:59:49 - INFO --> getUserByCookie: 
+2018-08-24 18:59:49 - INFO --> getZoomById: -s

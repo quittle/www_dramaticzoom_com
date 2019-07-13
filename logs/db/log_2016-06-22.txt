@@ -1,0 +1,30 @@
+2016-06-22 0:00:29 - INFO --> getUserByCookie: 
+2016-06-22 0:00:29 - INFO --> getZoomById: iSctp
+2016-06-22 0:00:29 - INFO --> incrementZoomById: iSctp
+2016-06-22 0:00:29 - INFO --> increment zoom: iSctp
+2016-06-22 4:21:13 - INFO --> getUserByCookie: 
+2016-06-22 5:03:30 - INFO --> getUserByCookie: 
+2016-06-22 5:03:30 - INFO --> getZoomById: yeHB_b
+2016-06-22 5:03:30 - INFO --> incrementZoomById: yeHB_b
+2016-06-22 5:03:30 - INFO --> increment zoom: yeHB_b
+2016-06-22 6:32:57 - INFO --> getUserByCookie: 
+2016-06-22 8:00:16 - INFO --> getUserByCookie: 
+2016-06-22 8:00:16 - INFO --> getZoomById: mbahKb
+2016-06-22 8:00:16 - INFO --> incrementZoomById: mbahKb
+2016-06-22 8:00:16 - INFO --> increment zoom: mbahKb
+2016-06-22 10:30:44 - INFO --> getUserByCookie: 
+2016-06-22 10:30:44 - INFO --> getZoomById: w6tlCc
+2016-06-22 10:30:44 - INFO --> incrementZoomById: w6tlCc
+2016-06-22 10:30:44 - INFO --> increment zoom: w6tlCc
+2016-06-22 15:46:26 - INFO --> getUserByCookie: 
+2016-06-22 15:53:44 - INFO --> getUserByCookie: 
+2016-06-22 15:53:44 - INFO --> getZoomById: iSctp
+2016-06-22 15:53:44 - INFO --> incrementZoomById: iSctp
+2016-06-22 15:53:44 - INFO --> increment zoom: iSctp
+2016-06-22 15:53:46 - INFO --> getUserByCookie: 
+2016-06-22 19:47:38 - INFO --> getUserByCookie: 
+2016-06-22 19:47:38 - INFO --> getZoomById: mbahKb
+2016-06-22 19:47:38 - INFO --> incrementZoomById: mbahKb
+2016-06-22 19:47:38 - INFO --> increment zoom: mbahKb
+2016-06-22 23:30:02 - INFO --> getUserByCookie: 
+2016-06-22 23:30:02 - INFO --> getZoomById: blog

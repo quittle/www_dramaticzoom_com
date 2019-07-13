@@ -1,0 +1,30 @@
+2018-12-07 0:21:08 - INFO --> getUserByCookie: 
+2018-12-07 0:21:08 - INFO --> getZoomById: iSctp
+2018-12-07 0:21:08 - INFO --> incrementZoomById: iSctp
+2018-12-07 0:21:08 - INFO --> increment zoom: iSctp
+2018-12-07 1:05:32 - INFO --> getUserByCookie: 
+2018-12-07 2:33:23 - INFO --> getUserByCookie: 
+2018-12-07 2:49:41 - INFO --> getUserByCookie: 
+2018-12-07 2:49:41 - INFO --> getZoomById: email=jana.parsells%40amaisd.org&reportType=&description=&
+2018-12-07 6:36:57 - INFO --> getUserByCookie: 
+2018-12-07 6:36:57 - INFO --> getZoomById: connectors/system/phpthumb.php
+2018-12-07 6:36:57 - INFO --> getUserByCookie: 
+2018-12-07 6:36:57 - INFO --> getZoomById: connectors/system/phpthumb.php
+2018-12-07 8:38:03 - INFO --> getUserByCookie: 
+2018-12-07 8:38:03 - INFO --> getZoomById: email=cadkins20%40yahoo.com&reportType=&description=&
+2018-12-07 8:56:35 - INFO --> getUserByCookie: 
+2018-12-07 8:56:35 - INFO --> getZoomById: email=stewart%40fahmy.com&reportType=&description=&
+2018-12-07 10:44:03 - INFO --> getUserByCookie: 
+2018-12-07 10:53:38 - INFO --> getUserByCookie: 
+2018-12-07 10:53:38 - INFO --> getZoomById: fbclid=IwAR2BnukLZtyUNqFTiPvjOJtm0aGsK9_ZCYz7ZXijkIeNeWnpR0r9QDmQkC8
+2018-12-07 13:22:07 - INFO --> getUserByCookie: 
+2018-12-07 13:22:07 - INFO --> getZoomById: email=trinitay274%40gmail.com&reportType=&description=&
+2018-12-07 14:54:44 - INFO --> getUserByCookie: 
+2018-12-07 14:54:44 - INFO --> getZoomById: wp-login.php
+2018-12-07 14:54:50 - INFO --> getUserByCookie: 
+2018-12-07 14:54:50 - INFO --> getZoomById: blog/wp-login.php
+2018-12-07 14:54:56 - INFO --> getUserByCookie: 
+2018-12-07 14:54:56 - INFO --> getZoomById: wordpress/wp-login.php
+2018-12-07 14:55:03 - INFO --> getUserByCookie: 
+2018-12-07 14:55:03 - INFO --> getZoomById: wp/wp-login.php
+2018-12-07 17:59:05 - INFO --> getUserByCookie: 

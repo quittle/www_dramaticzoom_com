@@ -1,0 +1,36 @@
+2018-12-10 1:49:21 - INFO --> getUserByCookie: 
+2018-12-10 1:49:21 - INFO --> getZoomById: w6tlCc
+2018-12-10 1:49:21 - INFO --> incrementZoomById: w6tlCc
+2018-12-10 1:49:21 - INFO --> increment zoom: w6tlCc
+2018-12-10 5:40:56 - INFO --> getUserByCookie: 
+2018-12-10 5:40:56 - INFO --> getZoomById: w6tlCc
+2018-12-10 5:40:56 - INFO --> incrementZoomById: w6tlCc
+2018-12-10 5:40:56 - INFO --> increment zoom: w6tlCc
+2018-12-10 9:20:28 - INFO --> getUserByCookie: 
+2018-12-10 9:20:28 - INFO --> getZoomById: email=robertluye%40gmail.com&reportType=&description=&
+2018-12-10 9:32:14 - INFO --> getUserByCookie: 
+2018-12-10 9:42:09 - INFO --> getUserByCookie: 
+2018-12-10 9:42:09 - INFO --> getZoomById: iSctp
+2018-12-10 9:42:09 - INFO --> incrementZoomById: iSctp
+2018-12-10 9:42:09 - INFO --> increment zoom: iSctp
+2018-12-10 11:51:45 - INFO --> getUserByCookie: 
+2018-12-10 12:40:44 - INFO --> getUserByCookie: 
+2018-12-10 12:40:44 - INFO --> getZoomById: w6tlCc
+2018-12-10 12:40:44 - INFO --> incrementZoomById: w6tlCc
+2018-12-10 12:40:44 - INFO --> increment zoom: w6tlCc
+2018-12-10 14:30:32 - INFO --> getUserByCookie: 
+2018-12-10 14:30:32 - INFO --> getZoomById: w6tlCc
+2018-12-10 14:30:32 - INFO --> incrementZoomById: w6tlCc
+2018-12-10 14:30:32 - INFO --> increment zoom: w6tlCc
+2018-12-10 15:28:50 - INFO --> getUserByCookie: 
+2018-12-10 15:28:50 - INFO --> getZoomById: email=anatred%40nyc.rr.com&reportType=&description=&
+2018-12-10 15:36:15 - INFO --> getUserByCookie: 
+2018-12-10 15:36:15 - INFO --> getZoomById: sitemap.xml
+2018-12-10 20:12:44 - INFO --> getUserByCookie: 
+2018-12-10 20:12:44 - INFO --> getZoomById: iSctp
+2018-12-10 20:12:44 - INFO --> incrementZoomById: iSctp
+2018-12-10 20:12:44 - INFO --> increment zoom: iSctp
+2018-12-10 22:24:33 - INFO --> getUserByCookie: 
+2018-12-10 22:24:33 - INFO --> getZoomById: email=payment%40brlodging.org&reportType=&description=&
+2018-12-10 23:08:25 - INFO --> getUserByCookie: 
+2018-12-10 23:08:25 - INFO --> getZoomById: email=christopher_pizzo%40comcast.net&reportType=&description=&

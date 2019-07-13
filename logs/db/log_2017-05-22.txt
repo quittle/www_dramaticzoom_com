@@ -1,0 +1,20 @@
+2017-05-22 0:09:50 - INFO --> getUserByCookie: 
+2017-05-22 2:53:43 - INFO --> getUserByCookie: 
+2017-05-22 2:53:43 - INFO --> getZoomById: administrator/language/en-GB/en-GB.xml
+2017-05-22 3:40:53 - INFO --> getUserByCookie: 
+2017-05-22 3:40:53 - INFO --> getZoomById: register-user=&register-email=timcraft_99%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-05-22 10:31:59 - INFO --> getUserByCookie: 
+2017-05-22 10:31:59 - INFO --> getZoomById: register-user=&register-email=jamieb77_2000%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-05-22 12:09:45 - INFO --> getUserByCookie: 
+2017-05-22 12:09:45 - INFO --> getZoomById: register-user=&register-email=jamieb77_2000%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-05-22 15:47:22 - INFO --> getUserByCookie: 
+2017-05-22 15:47:22 - INFO --> getZoomById: register-user=&register-email=zworld99%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-05-22 18:39:03 - INFO --> getUserByCookie: 
+2017-05-22 18:44:12 - INFO --> getUserByCookie: 
+2017-05-22 18:44:12 - INFO --> getZoomById: M)v(f
+2017-05-22 18:44:12 - INFO --> incrementZoomById: M)v(f
+2017-05-22 18:44:12 - INFO --> increment zoom: M)v(f
+2017-05-22 20:29:12 - INFO --> getUserByCookie: 
+2017-05-22 20:29:12 - INFO --> getZoomById: iSctp
+2017-05-22 20:29:12 - INFO --> incrementZoomById: iSctp
+2017-05-22 20:29:12 - INFO --> increment zoom: iSctp

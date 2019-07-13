@@ -1,0 +1,7 @@
+2017-07-23 11:56:36 - INFO --> getUserByCookie: 
+2017-07-23 11:56:36 - INFO --> getZoomById: iSctp
+2017-07-23 11:56:36 - INFO --> incrementZoomById: iSctp
+2017-07-23 11:56:36 - INFO --> increment zoom: iSctp
+2017-07-23 12:06:12 - INFO --> getUserByCookie: 
+2017-07-23 16:26:23 - INFO --> getUserByCookie: 
+2017-07-23 16:26:23 - INFO --> getZoomById: register-user=&register-email=amvursino%40comcast.net&register-pass=&register-pass2=&register-agree=&

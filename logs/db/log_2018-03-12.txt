@@ -1,0 +1,20 @@
+2018-03-12 0:35:27 - INFO --> getUserByCookie: 
+2018-03-12 0:35:27 - INFO --> getZoomById: register-user=&register-email=njhoskin%40comcast.net&register-pass=&register-pass2=&register-agree=&
+2018-03-12 9:45:08 - INFO --> getUserByCookie: 
+2018-03-12 9:45:08 - INFO --> getZoomById: G1YU4
+2018-03-12 9:45:08 - INFO --> incrementZoomById: G1YU4
+2018-03-12 9:45:08 - INFO --> increment zoom: G1YU4
+2018-03-12 18:44:19 - INFO --> getUserByCookie: 
+2018-03-12 18:44:19 - INFO --> getZoomById: register-user=&register-email=krafftboerner%40gmx.de&register-pass=&register-pass2=&register-agree=&
+2018-03-12 19:36:36 - INFO --> getUserByCookie: 
+2018-03-12 19:36:36 - INFO --> getZoomById: register-user=&register-email=kristendevaney%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2018-03-12 20:18:51 - INFO --> getUserByCookie: 
+2018-03-12 20:18:51 - INFO --> getZoomById: register-user=&register-email=wbsailette%40aol.com&register-pass=&register-pass2=&register-agree=&
+2018-03-12 20:33:01 - INFO --> getUserByCookie: 
+2018-03-12 20:33:01 - INFO --> getZoomById: register-user=&register-email=sawyer_keegan%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-03-12 21:06:22 - INFO --> getUserByCookie: 
+2018-03-12 21:06:22 - INFO --> getZoomById: register-user=&register-email=kurt.vest%40xerox.com&register-pass=&register-pass2=&register-agree=&
+2018-03-12 22:45:26 - INFO --> getUserByCookie: 
+2018-03-12 22:45:26 - INFO --> getZoomById: register-user=&register-email=stevedavis25%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-03-12 23:53:59 - INFO --> getUserByCookie: 
+2018-03-12 23:53:59 - INFO --> getZoomById: register-user=&register-email=cynthia%40big5electronics.com&register-pass=&register-pass2=&register-agree=&

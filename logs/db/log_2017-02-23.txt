@@ -1,0 +1,57 @@
+2017-02-23 1:22:07 - INFO --> getUserByCookie: 
+2017-02-23 8:30:37 - INFO --> getUserByCookie: 
+2017-02-23 8:30:37 - INFO --> getZoomById: author=1
+2017-02-23 9:47:17 - INFO --> getUserByCookie: 
+2017-02-23 11:28:25 - INFO --> getUserByCookie: 
+2017-02-23 11:28:25 - INFO --> getZoomById: vmskdl44rededd
+2017-02-23 11:28:25 - INFO --> getUserByCookie: 
+2017-02-23 11:28:25 - INFO --> getZoomById: vmskdl44rededd
+2017-02-23 11:28:25 - INFO --> getUserByCookie: 
+2017-02-23 11:28:25 - INFO --> getZoomById: N0Wccvvd333.php
+2017-02-23 11:28:25 - INFO --> getUserByCookie: 
+2017-02-23 11:28:25 - INFO --> getZoomById: N0Wccvvd333.php
+2017-02-23 11:28:25 - INFO --> getUserByCookie: 
+2017-02-23 11:28:25 - INFO --> getZoomById: N0WaY/N0WaY1bb2/N0WaY123.php
+2017-02-23 11:28:25 - INFO --> getUserByCookie: 
+2017-02-23 11:28:25 - INFO --> getZoomById: N0WaY/N0WaY1bb2/N0WaY123.php
+2017-02-23 11:28:25 - INFO --> getUserByCookie: 
+2017-02-23 11:28:25 - INFO --> getZoomById: user
+2017-02-23 11:28:25 - INFO --> getUserByCookie: 
+2017-02-23 11:28:25 - INFO --> getZoomById: sites/default/settings
+2017-02-23 11:28:25 - INFO --> getUserByCookie: 
+2017-02-23 11:28:25 - INFO --> getZoomById: sites/dramaticzoom.com/settings
+2017-02-23 11:28:26 - INFO --> getUserByCookie: 
+2017-02-23 11:28:26 - INFO --> getZoomById: wp-login.php
+2017-02-23 11:28:26 - INFO --> getUserByCookie: 
+2017-02-23 11:28:26 - INFO --> getZoomById: wp-config.php
+2017-02-23 11:28:26 - INFO --> getUserByCookie: 
+2017-02-23 11:28:26 - INFO --> getZoomById: configuration.php
+2017-02-23 11:28:26 - INFO --> getUserByCookie: 
+2017-02-23 11:28:26 - INFO --> getZoomById: administrator
+2017-02-23 17:43:16 - INFO --> getUserByCookie: 
+2017-02-23 17:43:16 - INFO --> getZoomById: vmskdl44rededd
+2017-02-23 17:43:16 - INFO --> getUserByCookie: 
+2017-02-23 17:43:16 - INFO --> getZoomById: vmskdl44rededd
+2017-02-23 17:43:17 - INFO --> getUserByCookie: 
+2017-02-23 17:43:17 - INFO --> getZoomById: N0Wccvvd333.php
+2017-02-23 17:43:17 - INFO --> getUserByCookie: 
+2017-02-23 17:43:17 - INFO --> getZoomById: N0Wccvvd333.php
+2017-02-23 17:43:17 - INFO --> getUserByCookie: 
+2017-02-23 17:43:17 - INFO --> getZoomById: N0WaY/N0WaY1bb2/N0WaY123.php
+2017-02-23 17:43:18 - INFO --> getUserByCookie: 
+2017-02-23 17:43:18 - INFO --> getZoomById: N0WaY/N0WaY1bb2/N0WaY123.php
+2017-02-23 17:43:19 - INFO --> getUserByCookie: 
+2017-02-23 17:43:19 - INFO --> getZoomById: user
+2017-02-23 17:43:20 - INFO --> getUserByCookie: 
+2017-02-23 17:43:20 - INFO --> getZoomById: sites/default/settings
+2017-02-23 17:43:20 - INFO --> getUserByCookie: 
+2017-02-23 17:43:20 - INFO --> getZoomById: sites/dramaticzoom.com/settings
+2017-02-23 17:43:20 - INFO --> getUserByCookie: 
+2017-02-23 17:43:20 - INFO --> getZoomById: wp-login.php
+2017-02-23 17:43:20 - INFO --> getUserByCookie: 
+2017-02-23 17:43:20 - INFO --> getZoomById: wp-config.php
+2017-02-23 17:43:21 - INFO --> getUserByCookie: 
+2017-02-23 17:43:21 - INFO --> getZoomById: configuration.php
+2017-02-23 17:43:22 - INFO --> getUserByCookie: 
+2017-02-23 17:43:22 - INFO --> getZoomById: administrator
+2017-02-23 22:38:15 - INFO --> getUserByCookie: 

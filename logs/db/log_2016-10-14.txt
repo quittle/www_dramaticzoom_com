@@ -1,0 +1,2 @@
+2016-10-14 8:01:32 - INFO --> getUserByCookie: 
+2016-10-14 8:01:32 - INFO --> getZoomById: author=1

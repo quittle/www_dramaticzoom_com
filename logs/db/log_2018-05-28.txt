@@ -1,0 +1,3 @@
+2018-05-28 9:43:27 - INFO --> getUserByCookie: 
+2018-05-28 9:43:27 - INFO --> getZoomById: components/com_b2jcontact/router.php
+2018-05-28 10:13:30 - INFO --> getUserByCookie: 

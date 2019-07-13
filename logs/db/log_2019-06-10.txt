@@ -1,0 +1,19 @@
+2019-06-10 1:04:11 - INFO --> getUserByCookie: 
+2019-06-10 9:20:00 - INFO --> getUserByCookie: 
+2019-06-10 9:20:00 - INFO --> getZoomById: type.php
+2019-06-10 13:10:32 - INFO --> getUserByCookie: 
+2019-06-10 13:10:32 - INFO --> getZoomById: user.php
+2019-06-10 15:54:58 - INFO --> getUserByCookie: 
+2019-06-10 15:54:58 - INFO --> getZoomById: admin/
+2019-06-10 16:02:29 - INFO --> getUserByCookie: 
+2019-06-10 16:02:29 - INFO --> getZoomById: wp-login.php
+2019-06-10 17:01:12 - INFO --> getUserByCookie: 
+2019-06-10 17:01:12 - INFO --> getZoomById: M)v(f
+2019-06-10 17:01:12 - INFO --> incrementZoomById: M)v(f
+2019-06-10 17:01:12 - INFO --> increment zoom: M)v(f
+2019-06-10 22:21:32 - INFO --> getUserByCookie: 
+2019-06-10 22:21:32 - INFO --> getZoomById: wp-login.php
+2019-06-10 23:00:32 - INFO --> getUserByCookie: 
+2019-06-10 23:00:32 - INFO --> getZoomById: admin/kcfinder/browse.php
+2019-06-10 23:39:37 - INFO --> getUserByCookie: 
+2019-06-10 23:39:37 - INFO --> getZoomById: m=vod-search

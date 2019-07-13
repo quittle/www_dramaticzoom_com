@@ -1,0 +1,10 @@
+2016-03-31 7:09:21 - INFO --> getUserByCookie: 
+2016-03-31 7:09:21 - INFO --> getZoomById: option=com_user&view=register
+2016-03-31 8:35:43 - INFO --> getUserByCookie: 
+2016-03-31 12:00:15 - INFO --> getUserByCookie: 
+2016-03-31 12:00:15 - INFO --> getZoomById: mbahKb
+2016-03-31 12:00:15 - INFO --> incrementZoomById: mbahKb
+2016-03-31 12:00:15 - INFO --> increment zoom: mbahKb
+2016-03-31 15:16:39 - INFO --> getUserByCookie: 
+2016-03-31 19:36:55 - INFO --> getUserByCookie: 
+2016-03-31 19:36:55 - INFO --> getZoomById: 406.shtml

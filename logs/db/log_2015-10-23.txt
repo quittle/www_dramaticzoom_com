@@ -1,0 +1,4 @@
+2015-10-23 3:09:15 - INFO --> getUserByCookie: 
+2015-10-23 3:09:15 - INFO --> getZoomById: skin/install/default/install.php
+2015-10-23 11:38:45 - INFO --> getUserByCookie: 
+2015-10-23 11:38:45 - INFO --> getZoomById: wp-login.php

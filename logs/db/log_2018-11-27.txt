@@ -1,0 +1,10 @@
+2018-11-27 1:52:17 - INFO --> getUserByCookie: 
+2018-11-27 1:52:17 - INFO --> getZoomById: email=danielchan0616%40gmail.com&reportType=&description=&
+2018-11-27 6:30:37 - INFO --> getUserByCookie: 
+2018-11-27 6:30:37 - INFO --> getZoomById: lkpavddcmlnfznfm.html
+2018-11-27 11:13:13 - INFO --> getUserByCookie: 
+2018-11-27 11:13:13 - INFO --> getZoomById: wp-includes/js/wpdialog.js
+2018-11-27 15:36:56 - INFO --> getUserByCookie: 
+2018-11-27 15:36:56 - INFO --> getZoomById: js/mage/cookies.js
+2018-11-27 22:48:32 - INFO --> getUserByCookie: 
+2018-11-27 22:48:32 - INFO --> getZoomById: email=rbrynolf1%40comcast.net&reportType=&description=&

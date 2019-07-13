@@ -1,0 +1,27 @@
+2019-02-22 2:12:10 - INFO --> getUserByCookie: 
+2019-02-22 2:12:10 - INFO --> getZoomById: email=luismadmax%40aol.com&reportType=&description=&
+2019-02-22 2:47:35 - INFO --> getUserByCookie: 
+2019-02-22 2:47:35 - INFO --> getZoomById: email=conniedc9%40aol.com&reportType=&description=&
+2019-02-22 3:03:58 - INFO --> getUserByCookie: 
+2019-02-22 3:03:58 - INFO --> getZoomById: email=greenhausc%40aol.com&reportType=&description=&
+2019-02-22 3:33:14 - INFO --> getUserByCookie: 
+2019-02-22 3:33:14 - INFO --> getZoomById: email=team%40theccbuddies.com&reportType=&description=&
+2019-02-22 5:51:24 - INFO --> getUserByCookie: 
+2019-02-22 5:51:24 - INFO --> getZoomById: iSctp
+2019-02-22 5:51:24 - INFO --> incrementZoomById: iSctp
+2019-02-22 5:51:24 - INFO --> increment zoom: iSctp
+2019-02-22 7:30:11 - INFO --> getUserByCookie: 
+2019-02-22 8:29:12 - INFO --> getUserByCookie: 
+2019-02-22 8:29:12 - INFO --> getZoomById: email=mallatoothmonster%40gmail.com&reportType=&description=&
+2019-02-22 11:59:17 - INFO --> getUserByCookie: 
+2019-02-22 11:59:17 - INFO --> getZoomById: Jwlsjd_baaqifg.php
+2019-02-22 14:29:10 - INFO --> getUserByCookie: 
+2019-02-22 14:29:10 - INFO --> getZoomById: email=andreia_jarrell%40yahoo.com&reportType=&description=&
+2019-02-22 15:21:18 - INFO --> getUserByCookie: 
+2019-02-22 15:21:18 - INFO --> getZoomById: email=carolyn1457%40yahoo.com&reportType=&description=&
+2019-02-22 18:27:57 - INFO --> getUserByCookie: 
+2019-02-22 18:27:57 - INFO --> getZoomById: iSctp
+2019-02-22 18:27:57 - INFO --> incrementZoomById: iSctp
+2019-02-22 18:27:57 - INFO --> increment zoom: iSctp
+2019-02-22 23:08:15 - INFO --> getUserByCookie: 
+2019-02-22 23:08:15 - INFO --> getZoomById: email=lissamarcus%40reish.com&reportType=&description=&

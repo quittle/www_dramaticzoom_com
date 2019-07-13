@@ -1,0 +1,11 @@
+2018-12-12 2:07:45 - INFO --> getUserByCookie: 
+2018-12-12 6:38:09 - INFO --> getUserByCookie: 
+2018-12-12 6:38:09 - INFO --> getZoomById: public/index.php
+2018-12-12 6:38:17 - INFO --> getUserByCookie: 
+2018-12-12 6:38:17 - INFO --> getZoomById: public/index.php
+2018-12-12 6:38:20 - INFO --> getUserByCookie: 
+2018-12-12 6:38:20 - INFO --> getZoomById: public/result.php
+2018-12-12 15:39:33 - INFO --> getUserByCookie: 
+2018-12-12 15:39:33 - INFO --> getZoomById: sitemap.xml
+2018-12-12 22:12:28 - INFO --> getUserByCookie: 
+2018-12-12 22:12:28 - INFO --> getZoomById: email=jjdilisio%40gmail.com&reportType=&description=&

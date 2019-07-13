@@ -1,0 +1,22 @@
+2018-11-24 0:36:19 - INFO --> getUserByCookie: 
+2018-11-24 0:36:19 - INFO --> getZoomById: email=hinh0nguyen%40yahoo.com&reportType=&description=&
+2018-11-24 1:42:46 - INFO --> getUserByCookie: 
+2018-11-24 1:42:46 - INFO --> getZoomById: iSctp
+2018-11-24 1:42:46 - INFO --> incrementZoomById: iSctp
+2018-11-24 1:42:46 - INFO --> increment zoom: iSctp
+2018-11-24 1:53:21 - INFO --> getUserByCookie: 
+2018-11-24 1:53:21 - INFO --> getZoomById: iSctp
+2018-11-24 1:53:21 - INFO --> incrementZoomById: iSctp
+2018-11-24 1:53:21 - INFO --> increment zoom: iSctp
+2018-11-24 3:27:33 - INFO --> getUserByCookie: 
+2018-11-24 3:27:33 - INFO --> getZoomById: email=jessica.crake%40hhcinc.ca&reportType=&description=&
+2018-11-24 3:30:34 - INFO --> getUserByCookie: 
+2018-11-24 3:30:34 - INFO --> getZoomById: email=will%40bitfinex.com&reportType=&description=&
+2018-11-24 5:37:47 - INFO --> getUserByCookie: 
+2018-11-24 5:37:47 - INFO --> getZoomById: email=awftransport%40yahoo.com&reportType=&description=&
+2018-11-24 7:47:23 - INFO --> getUserByCookie: 
+2018-11-24 7:47:23 - INFO --> getZoomById: email=tbellinsurance%40aol.com&reportType=&description=&
+2018-11-24 16:41:09 - INFO --> getUserByCookie: 
+2018-11-24 16:41:09 - INFO --> getZoomById: email=ralemay%40aol.com&reportType=&description=&
+2018-11-24 18:41:05 - INFO --> getUserByCookie: 
+2018-11-24 18:41:05 - INFO --> getZoomById: email=demitrikladis%40comcast.net&reportType=&description=&

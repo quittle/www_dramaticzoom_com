@@ -1,0 +1,69 @@
+2019-04-27 1:17:56 - INFO --> getUserByCookie: 
+2019-04-27 1:17:56 - INFO --> getZoomById: email=andrew.arceri%40gmail.com&reportType=&description=&
+2019-04-27 1:51:04 - INFO --> getUserByCookie: 
+2019-04-27 1:51:04 - INFO --> getZoomById: email=prieto1292%40yahoo.com&reportType=&description=&
+2019-04-27 2:02:20 - INFO --> getUserByCookie: 
+2019-04-27 2:11:43 - INFO --> getUserByCookie: 
+2019-04-27 2:11:43 - INFO --> getZoomById: email=elenor12%40yahoo.com&reportType=&description=&
+2019-04-27 2:15:08 - INFO --> getUserByCookie: 
+2019-04-27 2:15:08 - INFO --> getZoomById: iSctp
+2019-04-27 2:15:08 - INFO --> incrementZoomById: iSctp
+2019-04-27 2:15:08 - INFO --> increment zoom: iSctp
+2019-04-27 2:18:10 - INFO --> getUserByCookie: 
+2019-04-27 2:18:43 - INFO --> getUserByCookie: 
+2019-04-27 2:48:50 - INFO --> getUserByCookie: 
+2019-04-27 2:48:50 - INFO --> getZoomById: email=cat96_1999%40yahoo.com&reportType=&description=&
+2019-04-27 3:39:43 - INFO --> getUserByCookie: 
+2019-04-27 3:39:43 - INFO --> getZoomById: email=brenda11938%40gmail.com&reportType=&description=&
+2019-04-27 4:14:38 - INFO --> getUserByCookie: 
+2019-04-27 4:14:38 - INFO --> getZoomById: email=ellisbrianc%40gmail.com&reportType=&description=&
+2019-04-27 5:11:17 - INFO --> getUserByCookie: 
+2019-04-27 5:11:17 - INFO --> getZoomById: email=prachee.harrylal83%40gmail.com&reportType=&description=&
+2019-04-27 6:01:48 - INFO --> getUserByCookie: 
+2019-04-27 6:01:48 - INFO --> getZoomById: email=erikalisettesalazar%40gmail.com&reportType=&description=&
+2019-04-27 6:13:02 - INFO --> getUserByCookie: 
+2019-04-27 6:13:02 - INFO --> getZoomById: email=crpanuga%40gmail.com&reportType=&description=&
+2019-04-27 8:51:01 - INFO --> getUserByCookie: 
+2019-04-27 8:51:01 - INFO --> getZoomById: email=mrussell1803%40gmail.com&reportType=&description=&
+2019-04-27 10:03:13 - INFO --> getUserByCookie: 
+2019-04-27 10:03:13 - INFO --> getZoomById: email=tracie.hernandez1023%40yahoo.com&reportType=&description=&
+2019-04-27 10:33:36 - INFO --> getUserByCookie: 
+2019-04-27 10:33:36 - INFO --> getZoomById: email=neehaa65%40gmail.com&reportType=&description=&
+2019-04-27 11:02:42 - INFO --> getUserByCookie: 
+2019-04-27 11:02:42 - INFO --> getZoomById: email=bobcrews19810617%40gmail.com&reportType=&description=&
+2019-04-27 12:01:49 - INFO --> getUserByCookie: 
+2019-04-27 12:01:49 - INFO --> getZoomById: email=rothfamilyhopper%40gmail.com&reportType=&description=&
+2019-04-27 13:02:17 - INFO --> getUserByCookie: 
+2019-04-27 13:02:17 - INFO --> getZoomById: email=fneroproductions%40gmail.com&reportType=&description=&
+2019-04-27 14:28:37 - INFO --> getUserByCookie: 
+2019-04-27 14:28:37 - INFO --> getZoomById: wp-content/plugins/yellow-pencil-visual-theme-customizer/css/frame.css
+2019-04-27 14:58:53 - INFO --> getUserByCookie: 
+2019-04-27 15:42:07 - INFO --> getUserByCookie: 
+2019-04-27 15:42:07 - INFO --> getZoomById: plus/recommend.php
+2019-04-27 15:56:53 - INFO --> getUserByCookie: 
+2019-04-27 15:56:53 - INFO --> getZoomById: email=edit.cseh%40gmail.com&reportType=&description=&
+2019-04-27 17:12:07 - INFO --> getUserByCookie: 
+2019-04-27 17:12:07 - INFO --> getZoomById: email=esloan1945%40aol.com&reportType=&description=&
+2019-04-27 17:35:29 - INFO --> getUserByCookie: 
+2019-04-27 17:35:29 - INFO --> getZoomById: email=thomas_chad%40yahoo.com&reportType=&description=&
+2019-04-27 17:37:51 - INFO --> getUserByCookie: 
+2019-04-27 17:37:51 - INFO --> getZoomById: email=jmarcheg%40gmail.com&reportType=&description=&
+2019-04-27 17:58:56 - INFO --> getUserByCookie: 
+2019-04-27 17:58:56 - INFO --> getZoomById: email=cubepixelz%40gmail.com&reportType=&description=&
+2019-04-27 18:29:51 - INFO --> getUserByCookie: 
+2019-04-27 18:29:51 - INFO --> getZoomById: email=oloeri92%40gmail.com&reportType=&description=&
+2019-04-27 19:29:06 - INFO --> getUserByCookie: 
+2019-04-27 19:50:29 - INFO --> getUserByCookie: 
+2019-04-27 19:50:29 - INFO --> getZoomById: search.php
+2019-04-27 19:50:30 - INFO --> getUserByCookie: 
+2019-04-27 19:50:30 - INFO --> getZoomById: search.php
+2019-04-27 19:54:31 - INFO --> getUserByCookie: 
+2019-04-27 19:54:31 - INFO --> getZoomById: iSctp
+2019-04-27 19:54:31 - INFO --> incrementZoomById: iSctp
+2019-04-27 19:54:31 - INFO --> increment zoom: iSctp
+2019-04-27 20:55:28 - INFO --> getUserByCookie: 
+2019-04-27 20:55:28 - INFO --> getZoomById: email=stephekw%40yahoo.com&reportType=&description=&
+2019-04-27 21:34:25 - INFO --> getUserByCookie: 
+2019-04-27 21:34:25 - INFO --> getZoomById: goodsshow.php
+2019-04-27 23:12:41 - INFO --> getUserByCookie: 
+2019-04-27 23:12:41 - INFO --> getZoomById: email=neehaa65%40gmail.com&reportType=&description=&

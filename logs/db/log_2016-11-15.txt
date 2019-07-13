@@ -1,0 +1,9 @@
+2016-11-15 7:58:01 - INFO --> getUserByCookie: 
+2016-11-15 11:18:29 - INFO --> getUserByCookie: 
+2016-11-15 11:18:29 - INFO --> getZoomById: js/mage/cookies.js
+2016-11-15 16:18:21 - INFO --> getUserByCookie: 
+2016-11-15 16:18:21 - INFO --> getZoomById: ueuscsvvn.html
+2016-11-15 18:48:03 - INFO --> getUserByCookie: 
+2016-11-15 18:48:03 - INFO --> getZoomById: G1YU4
+2016-11-15 18:48:03 - INFO --> incrementZoomById: G1YU4
+2016-11-15 18:48:03 - INFO --> increment zoom: G1YU4

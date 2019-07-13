@@ -1,0 +1,14 @@
+2017-06-24 0:00:39 - INFO --> getUserByCookie: 
+2017-06-24 0:00:39 - INFO --> getZoomById: dump.sql.tgz
+2017-06-24 3:43:54 - INFO --> getUserByCookie: 
+2017-06-24 9:34:01 - INFO --> getUserByCookie: 
+2017-06-24 15:23:06 - INFO --> getUserByCookie: 
+2017-06-24 15:23:06 - INFO --> getZoomById: iSctp
+2017-06-24 15:23:06 - INFO --> incrementZoomById: iSctp
+2017-06-24 15:23:06 - INFO --> increment zoom: iSctp
+2017-06-24 19:56:59 - INFO --> getUserByCookie: 
+2017-06-24 19:56:59 - INFO --> getZoomById: register-user=&register-email=swiftcop%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-06-24 22:49:24 - INFO --> getUserByCookie: 
+2017-06-24 22:49:24 - INFO --> getZoomById: iSctp
+2017-06-24 22:49:24 - INFO --> incrementZoomById: iSctp
+2017-06-24 22:49:24 - INFO --> increment zoom: iSctp

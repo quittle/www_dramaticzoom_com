@@ -1,0 +1,6 @@
+2019-07-03 17:33:54 - INFO --> getUserByCookie: 
+2019-07-03 17:33:54 - INFO --> getZoomById: user/wp-login.php
+2019-07-03 18:06:05 - INFO --> getUserByCookie: 
+2019-07-03 18:06:05 - INFO --> getZoomById: .well-known/assetlinks.json
+2019-07-03 19:04:04 - INFO --> getUserByCookie: 
+2019-07-03 19:04:04 - INFO --> getZoomById: kcfinder/browse.php

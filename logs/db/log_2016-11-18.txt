@@ -1,0 +1,31 @@
+2016-11-18 8:42:50 - INFO --> getUserByCookie: 
+2016-11-18 8:42:50 - INFO --> getZoomById: blog/wp-login.php
+2016-11-18 9:45:17 - INFO --> getUserByCookie: 
+2016-11-18 9:45:17 - INFO --> getZoomById: en/wp-login.php
+2016-11-18 11:13:07 - INFO --> getUserByCookie: 
+2016-11-18 11:13:07 - INFO --> getZoomById: new/wp-login.php
+2016-11-18 11:15:18 - INFO --> getUserByCookie: 
+2016-11-18 11:15:18 - INFO --> getZoomById: home/wp-login.php
+2016-11-18 11:27:11 - INFO --> getUserByCookie: 
+2016-11-18 11:27:11 - INFO --> getZoomById: new/wp-login.php
+2016-11-18 13:08:54 - INFO --> getUserByCookie: 
+2016-11-18 13:57:58 - INFO --> getUserByCookie: 
+2016-11-18 13:57:58 - INFO --> getZoomById: mobile/
+2016-11-18 14:41:39 - INFO --> getUserByCookie: 
+2016-11-18 14:41:39 - INFO --> getZoomById: ruwrxewto.html
+2016-11-18 17:58:30 - INFO --> getUserByCookie: 
+2016-11-18 17:58:30 - INFO --> getZoomById: test/wp-login.php
+2016-11-18 19:14:24 - INFO --> getUserByCookie: 
+2016-11-18 19:14:24 - INFO --> getZoomById: cms/wp-login.php
+2016-11-18 19:23:16 - INFO --> getUserByCookie: 
+2016-11-18 19:23:16 - INFO --> getZoomById: site/wp-login.php
+2016-11-18 19:39:24 - INFO --> getUserByCookie: 
+2016-11-18 19:39:24 - INFO --> getZoomById: w+JPX
+2016-11-18 19:39:24 - INFO --> incrementZoomById: w+JPX
+2016-11-18 19:39:24 - INFO --> increment zoom: w+JPX
+2016-11-18 20:37:17 - INFO --> getUserByCookie: 
+2016-11-18 20:37:17 - INFO --> getZoomById: wp-login.php
+2016-11-18 22:21:18 - INFO --> getUserByCookie: 
+2016-11-18 22:21:18 - INFO --> getZoomById: web/wp-login.php
+2016-11-18 23:48:30 - INFO --> getUserByCookie: 
+2016-11-18 23:48:30 - INFO --> getZoomById: blogs/wp-login.php

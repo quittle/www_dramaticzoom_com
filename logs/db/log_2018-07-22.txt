@@ -1,0 +1,129 @@
+2018-07-22 9:29:14 - INFO --> getUserByCookie: 
+2018-07-22 9:29:14 - INFO --> getZoomById: iSctp
+2018-07-22 9:29:14 - INFO --> incrementZoomById: iSctp
+2018-07-22 9:29:14 - INFO --> increment zoom: iSctp
+2018-07-22 13:46:18 - INFO --> getUserByCookie: 
+2018-07-22 17:15:41 - INFO --> getUserByCookie: 
+2018-07-22 17:15:41 - INFO --> getZoomById: iSctp
+2018-07-22 17:15:41 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:15:41 - INFO --> increment zoom: iSctp
+2018-07-22 17:17:11 - INFO --> getUserByCookie: 
+2018-07-22 17:17:11 - INFO --> getZoomById: iSctp
+2018-07-22 17:17:11 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:17:11 - INFO --> increment zoom: iSctp
+2018-07-22 17:17:52 - INFO --> getUserByCookie: 
+2018-07-22 17:17:52 - INFO --> getZoomById: iSctp
+2018-07-22 17:17:52 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:17:52 - INFO --> increment zoom: iSctp
+2018-07-22 17:19:48 - INFO --> getUserByCookie: 
+2018-07-22 17:19:48 - INFO --> getZoomById: iSctp
+2018-07-22 17:19:48 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:19:48 - INFO --> increment zoom: iSctp
+2018-07-22 17:20:10 - INFO --> getUserByCookie: 
+2018-07-22 17:20:10 - INFO --> getZoomById: iSctp
+2018-07-22 17:20:10 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:20:10 - INFO --> increment zoom: iSctp
+2018-07-22 17:21:55 - INFO --> getUserByCookie: 
+2018-07-22 17:21:55 - INFO --> getZoomById: iSctp
+2018-07-22 17:21:55 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:21:55 - INFO --> increment zoom: iSctp
+2018-07-22 17:22:17 - INFO --> getUserByCookie: 
+2018-07-22 17:22:17 - INFO --> getZoomById: iSctp
+2018-07-22 17:22:17 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:22:17 - INFO --> increment zoom: iSctp
+2018-07-22 17:23:52 - INFO --> getUserByCookie: 
+2018-07-22 17:23:52 - INFO --> getZoomById: iSctp
+2018-07-22 17:23:52 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:23:52 - INFO --> increment zoom: iSctp
+2018-07-22 17:24:20 - INFO --> getUserByCookie: 
+2018-07-22 17:24:20 - INFO --> getZoomById: iSctp
+2018-07-22 17:24:20 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:24:20 - INFO --> increment zoom: iSctp
+2018-07-22 17:25:12 - INFO --> getUserByCookie: 
+2018-07-22 17:25:12 - INFO --> getZoomById: iSctp
+2018-07-22 17:25:12 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:25:12 - INFO --> increment zoom: iSctp
+2018-07-22 17:26:31 - INFO --> getUserByCookie: 
+2018-07-22 17:26:31 - INFO --> getZoomById: iSctp
+2018-07-22 17:26:31 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:26:31 - INFO --> increment zoom: iSctp
+2018-07-22 17:27:05 - INFO --> getUserByCookie: 
+2018-07-22 17:27:05 - INFO --> getZoomById: iSctp
+2018-07-22 17:27:05 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:27:05 - INFO --> increment zoom: iSctp
+2018-07-22 17:28:34 - INFO --> getUserByCookie: 
+2018-07-22 17:28:34 - INFO --> getZoomById: iSctp
+2018-07-22 17:28:34 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:28:34 - INFO --> increment zoom: iSctp
+2018-07-22 17:29:14 - INFO --> getUserByCookie: 
+2018-07-22 17:29:14 - INFO --> getZoomById: iSctp
+2018-07-22 17:29:14 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:29:14 - INFO --> increment zoom: iSctp
+2018-07-22 17:30:48 - INFO --> getUserByCookie: 
+2018-07-22 17:30:48 - INFO --> getZoomById: iSctp
+2018-07-22 17:30:48 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:30:48 - INFO --> increment zoom: iSctp
+2018-07-22 17:31:13 - INFO --> getUserByCookie: 
+2018-07-22 17:31:13 - INFO --> getZoomById: iSctp
+2018-07-22 17:31:13 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:31:13 - INFO --> increment zoom: iSctp
+2018-07-22 17:33:09 - INFO --> getUserByCookie: 
+2018-07-22 17:33:09 - INFO --> getZoomById: iSctp
+2018-07-22 17:33:09 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:33:09 - INFO --> increment zoom: iSctp
+2018-07-22 17:33:45 - INFO --> getUserByCookie: 
+2018-07-22 17:33:45 - INFO --> getZoomById: iSctp
+2018-07-22 17:33:45 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:33:45 - INFO --> increment zoom: iSctp
+2018-07-22 17:35:02 - INFO --> getUserByCookie: 
+2018-07-22 17:35:02 - INFO --> getZoomById: iSctp
+2018-07-22 17:35:02 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:35:02 - INFO --> increment zoom: iSctp
+2018-07-22 17:36:13 - INFO --> getUserByCookie: 
+2018-07-22 17:36:13 - INFO --> getZoomById: iSctp
+2018-07-22 17:36:13 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:36:13 - INFO --> increment zoom: iSctp
+2018-07-22 17:36:52 - INFO --> getUserByCookie: 
+2018-07-22 17:36:52 - INFO --> getZoomById: iSctp
+2018-07-22 17:36:52 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:36:52 - INFO --> increment zoom: iSctp
+2018-07-22 17:38:18 - INFO --> getUserByCookie: 
+2018-07-22 17:38:18 - INFO --> getZoomById: iSctp
+2018-07-22 17:38:18 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:38:18 - INFO --> increment zoom: iSctp
+2018-07-22 17:38:49 - INFO --> getUserByCookie: 
+2018-07-22 17:38:49 - INFO --> getZoomById: iSctp
+2018-07-22 17:38:49 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:38:49 - INFO --> increment zoom: iSctp
+2018-07-22 17:40:16 - INFO --> getUserByCookie: 
+2018-07-22 17:40:16 - INFO --> getZoomById: iSctp
+2018-07-22 17:40:16 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:40:16 - INFO --> increment zoom: iSctp
+2018-07-22 17:40:42 - INFO --> getUserByCookie: 
+2018-07-22 17:40:42 - INFO --> getZoomById: iSctp
+2018-07-22 17:40:42 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:40:42 - INFO --> increment zoom: iSctp
+2018-07-22 17:42:09 - INFO --> getUserByCookie: 
+2018-07-22 17:42:09 - INFO --> getZoomById: iSctp
+2018-07-22 17:42:09 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:42:09 - INFO --> increment zoom: iSctp
+2018-07-22 17:43:53 - INFO --> getUserByCookie: 
+2018-07-22 17:43:53 - INFO --> getZoomById: iSctp
+2018-07-22 17:43:53 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:43:53 - INFO --> increment zoom: iSctp
+2018-07-22 17:44:20 - INFO --> getUserByCookie: 
+2018-07-22 17:44:20 - INFO --> getZoomById: iSctp
+2018-07-22 17:44:20 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:44:20 - INFO --> increment zoom: iSctp
+2018-07-22 17:45:50 - INFO --> getUserByCookie: 
+2018-07-22 17:45:50 - INFO --> getZoomById: iSctp
+2018-07-22 17:45:50 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:45:50 - INFO --> increment zoom: iSctp
+2018-07-22 17:47:04 - INFO --> getUserByCookie: 
+2018-07-22 17:47:04 - INFO --> getZoomById: iSctp
+2018-07-22 17:47:04 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:47:04 - INFO --> increment zoom: iSctp
+2018-07-22 17:47:50 - INFO --> getUserByCookie: 
+2018-07-22 17:47:50 - INFO --> getZoomById: iSctp
+2018-07-22 17:47:50 - INFO --> incrementZoomById: iSctp
+2018-07-22 17:47:50 - INFO --> increment zoom: iSctp

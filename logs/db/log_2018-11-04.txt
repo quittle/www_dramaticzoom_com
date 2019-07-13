@@ -1,0 +1,20 @@
+2018-11-04 6:10:27 - INFO --> getUserByCookie: 
+2018-11-04 6:10:27 - INFO --> getUserByCookie: 
+2018-11-04 6:10:27 - INFO --> getZoomById: isctp
+2018-11-04 6:10:27 - INFO --> incrementZoomById: isctp
+2018-11-04 6:10:27 - INFO --> increment zoom: isctp
+2018-11-04 6:10:28 - INFO --> getUserByCookie: 
+2018-11-04 6:10:28 - INFO --> getZoomById: iSctp
+2018-11-04 6:10:28 - INFO --> incrementZoomById: iSctp
+2018-11-04 6:10:28 - INFO --> increment zoom: iSctp
+2018-11-04 6:10:34 - INFO --> getUserByCookie: 
+2018-11-04 6:30:54 - INFO --> getUserByCookie: 
+2018-11-04 6:30:54 - INFO --> getUserByCookie: 
+2018-11-04 9:10:07 - INFO --> getUserByCookie: 
+2018-11-04 9:10:07 - INFO --> getZoomById: wp-login.php
+2018-11-04 9:10:17 - INFO --> getUserByCookie: 
+2018-11-04 9:10:17 - INFO --> getZoomById: option=com_user&task=register
+2018-11-04 9:10:22 - INFO --> getUserByCookie: 
+2018-11-04 9:10:22 - INFO --> getZoomById: user/register
+2018-11-04 12:02:13 - INFO --> getUserByCookie: 
+2018-11-04 12:02:13 - INFO --> getZoomById: blog/

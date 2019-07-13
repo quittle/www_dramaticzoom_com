@@ -1,0 +1,41 @@
+2017-03-01 6:47:40 - INFO --> getUserByCookie: 
+2017-03-01 6:47:40 - INFO --> getZoomById: w6tlCc
+2017-03-01 6:47:40 - INFO --> incrementZoomById: w6tlCc
+2017-03-01 6:47:40 - INFO --> increment zoom: w6tlCc
+2017-03-01 7:20:26 - INFO --> getUserByCookie: 
+2017-03-01 7:20:26 - INFO --> getZoomById: iSctp
+2017-03-01 7:20:26 - INFO --> incrementZoomById: iSctp
+2017-03-01 7:20:26 - INFO --> increment zoom: iSctp
+2017-03-01 9:30:29 - INFO --> getUserByCookie: 
+2017-03-01 15:16:58 - INFO --> getUserByCookie: 
+2017-03-01 19:57:35 - INFO --> getUserByCookie: 
+2017-03-01 22:26:40 - INFO --> getUserByCookie: 
+2017-03-01 22:26:40 - INFO --> getZoomById: language/en-GB/en-GB.xml
+2017-03-01 23:25:13 - INFO --> getUserByCookie: 
+2017-03-01 23:25:13 - INFO --> getZoomById: administrator/
+2017-03-01 23:25:13 - INFO --> getUserByCookie: 
+2017-03-01 23:25:13 - INFO --> getZoomById: administrator/index.php
+2017-03-01 23:32:02 - INFO --> getUserByCookie: 
+2017-03-01 23:32:02 - INFO --> getZoomById: wp-login.php
+2017-03-01 23:32:03 - INFO --> getUserByCookie: 
+2017-03-01 23:32:03 - INFO --> getZoomById: wp-admin/
+2017-03-01 23:37:40 - INFO --> getUserByCookie: 
+2017-03-01 23:37:40 - INFO --> getZoomById: admin.php
+2017-03-01 23:38:28 - INFO --> getUserByCookie: 
+2017-03-01 23:38:28 - INFO --> getZoomById: admin
+2017-03-01 23:42:44 - INFO --> getUserByCookie: 
+2017-03-01 23:42:44 - INFO --> getZoomById: administrator/
+2017-03-01 23:42:44 - INFO --> getUserByCookie: 
+2017-03-01 23:42:44 - INFO --> getZoomById: administrator/index.php
+2017-03-01 23:48:32 - INFO --> getUserByCookie: 
+2017-03-01 23:48:32 - INFO --> getZoomById: wp-login.php
+2017-03-01 23:48:33 - INFO --> getUserByCookie: 
+2017-03-01 23:48:33 - INFO --> getZoomById: wp-admin/
+2017-03-01 23:52:24 - INFO --> getUserByCookie: 
+2017-03-01 23:52:24 - INFO --> getZoomById: admin.php
+2017-03-01 23:52:56 - INFO --> getUserByCookie: 
+2017-03-01 23:52:56 - INFO --> getZoomById: admin
+2017-03-01 23:56:53 - INFO --> getUserByCookie: 
+2017-03-01 23:56:53 - INFO --> getZoomById: administrator/
+2017-03-01 23:56:54 - INFO --> getUserByCookie: 
+2017-03-01 23:56:54 - INFO --> getZoomById: administrator/index.php

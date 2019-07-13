@@ -1,0 +1,22 @@
+2019-07-10 0:55:30 - INFO --> getUserByCookie: 
+2019-07-10 0:55:30 - INFO --> getZoomById: .well-known/assetlinks.json
+2019-07-10 2:53:36 - INFO --> getUserByCookie: 
+2019-07-10 2:53:36 - INFO --> getZoomById: wp-login.php
+2019-07-10 14:01:07 - INFO --> getUserByCookie: 
+2019-07-10 16:18:42 - INFO --> getUserByCookie: 
+2019-07-10 16:18:52 - INFO --> getUserByCookie: 
+2019-07-10 16:18:52 - INFO --> getZoomById: reportType=Legal+Issue&email=top.drop%40tutanota.com&description=Hi%2C%0D%0A%0D%0AI+came+across+your+website+and+thought+you+would+be+interested.%0D%0A+%0D%0AWe+are+the+supplier+of+ready+made+AliExpress+dropshipping+business+websites.%0D%0AThe+average+markup+on+products+is+300%25+or+more.%0D%0A%0D%0ANo+stock%2C+No+headaches%2C+all+items+are+dropshipped+direcly+from+the+suppliers.%0D%0AThere+are+no+monthly+fees+-++domain+and+hosting+are+also+n%2Fc.%0D%0A%0D%0AYou+keep+all+of+the+profits+on+each+sale.%0D%0AWe+design+ready+made+dropship+sites+that+is+all+we+do.%0D%0A%0D%0ATo+see+our+latest+available+dropshipping+sites+please+visit+us+at+https%3A%2F%2Fdropshippingincome.com%0D%0A%0D%0A%0D%0ABest%2C%0D%0AStacey+%0D%0ADSI%0D%0A%0D%0A%0D%0A
+2019-07-10 16:20:53 - INFO --> getUserByCookie: 
+2019-07-10 16:20:53 - INFO --> getZoomById: M)v(f
+2019-07-10 16:20:53 - INFO --> incrementZoomById: M)v(f
+2019-07-10 16:20:53 - INFO --> increment zoom: M)v(f
+2019-07-10 16:48:22 - INFO --> getUserByCookie: 
+2019-07-10 16:48:22 - INFO --> getZoomById: struts2-showcase/ldskflks
+2019-07-10 16:48:28 - INFO --> getUserByCookie: 
+2019-07-10 16:48:28 - INFO --> getZoomById: struts2-showcase/index.action
+2019-07-10 18:34:03 - INFO --> getUserByCookie: 
+2019-07-10 18:34:03 - INFO --> getZoomById: iSctp
+2019-07-10 18:34:03 - INFO --> incrementZoomById: iSctp
+2019-07-10 18:34:03 - INFO --> increment zoom: iSctp
+2019-07-10 23:49:21 - INFO --> getUserByCookie: 
+2019-07-10 23:49:21 - INFO --> getZoomById: user.php

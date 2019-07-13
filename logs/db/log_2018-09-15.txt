@@ -1,0 +1,2 @@
+2018-09-15 10:06:11 - INFO --> getUserByCookie: 
+2018-09-15 10:06:11 - INFO --> getZoomById: .git/HEAD

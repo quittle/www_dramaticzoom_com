@@ -1,0 +1,23 @@
+2018-03-10 0:34:45 - INFO --> getUserByCookie: 
+2018-03-10 0:34:45 - INFO --> getZoomById: register-user=&register-email=sai.1278%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-03-10 0:53:09 - INFO --> getUserByCookie: 
+2018-03-10 0:53:09 - INFO --> getZoomById: .well-known/apple-app-site-association
+2018-03-10 1:18:41 - INFO --> getUserByCookie: 
+2018-03-10 1:18:41 - INFO --> getZoomById: apple-app-site-association
+2018-03-10 1:25:52 - INFO --> getUserByCookie: 
+2018-03-10 1:25:52 - INFO --> getZoomById: register-user=&register-email=danaarobinson%40mindspring.com&register-pass=&register-pass2=&register-agree=&
+2018-03-10 2:19:38 - INFO --> getUserByCookie: 
+2018-03-10 2:19:38 - INFO --> getZoomById: .well-known/assetlinks.json
+2018-03-10 4:09:28 - INFO --> getUserByCookie: 
+2018-03-10 6:10:14 - INFO --> getUserByCookie: 
+2018-03-10 6:10:14 - INFO --> getZoomById: register-user=&register-email=info%40vanderkooyjubbega.nl&register-pass=&register-pass2=&register-agree=&
+2018-03-10 10:58:03 - INFO --> getUserByCookie: 
+2018-03-10 10:58:03 - INFO --> getZoomById: register-user=&register-email=joeannon5%40aol.com&register-pass=&register-pass2=&register-agree=&
+2018-03-10 17:08:39 - INFO --> getUserByCookie: 
+2018-03-10 17:08:39 - INFO --> getZoomById: register-user=&register-email=btrimble24%40aol.com&register-pass=&register-pass2=&register-agree=&
+2018-03-10 22:14:24 - INFO --> getUserByCookie: 
+2018-03-10 22:14:24 - INFO --> getZoomById: register-user=&register-email=joeamon5%40aol.com&register-pass=&register-pass2=&register-agree=&
+2018-03-10 23:17:29 - INFO --> getUserByCookie: 
+2018-03-10 23:17:29 - INFO --> getZoomById: iSctp
+2018-03-10 23:17:29 - INFO --> incrementZoomById: iSctp
+2018-03-10 23:17:29 - INFO --> increment zoom: iSctp

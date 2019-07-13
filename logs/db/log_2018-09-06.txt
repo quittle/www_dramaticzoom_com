@@ -1,0 +1,12 @@
+2018-09-06 7:30:22 - INFO --> getUserByCookie: 
+2018-09-06 7:30:22 - INFO --> getZoomById: random/2miavsiwr
+2018-09-06 7:32:05 - INFO --> getUserByCookie: 
+2018-09-06 7:32:47 - INFO --> getUserByCookie: 
+2018-09-06 7:32:47 - INFO --> getZoomById: random/2miavsiwr
+2018-09-06 7:33:29 - INFO --> getUserByCookie: 
+2018-09-06 8:26:03 - INFO --> getUserByCookie: 
+2018-09-06 8:26:03 - INFO --> getZoomById: core/docs/changelog.txt
+2018-09-06 8:26:05 - INFO --> getUserByCookie: 
+2018-09-06 8:26:05 - INFO --> getZoomById: manager/templates/default/welcome.tpl
+2018-09-06 10:35:43 - INFO --> getUserByCookie: 
+2018-09-06 10:35:43 - INFO --> getZoomById: license.php

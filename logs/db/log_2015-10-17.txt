@@ -1,0 +1,1 @@
+2015-10-17 11:06:36 - INFO --> getUserByCookie: 

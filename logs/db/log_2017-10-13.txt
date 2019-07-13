@@ -1,0 +1,20 @@
+2017-10-13 2:44:21 - INFO --> getUserByCookie: 
+2017-10-13 2:44:21 - INFO --> getZoomById: register-user=&register-email=toates6%40cox.net&register-pass=&register-pass2=&register-agree=&
+2017-10-13 4:21:45 - INFO --> getUserByCookie: 
+2017-10-13 4:21:45 - INFO --> getZoomById: register-user=&register-email=mchristofalo%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-10-13 5:56:15 - INFO --> getUserByCookie: 
+2017-10-13 5:56:15 - INFO --> getZoomById: register-user=&register-email=i.torres777%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-10-13 6:10:20 - INFO --> getUserByCookie: 
+2017-10-13 6:10:20 - INFO --> getZoomById: .well-known/assetlinks.json
+2017-10-13 6:25:39 - INFO --> getUserByCookie: 
+2017-10-13 6:25:39 - INFO --> getZoomById: .well-known/apple-app-site-association
+2017-10-13 7:06:00 - INFO --> getUserByCookie: 
+2017-10-13 7:06:00 - INFO --> getZoomById: apple-app-site-association
+2017-10-13 10:45:23 - INFO --> getUserByCookie: 
+2017-10-13 10:45:23 - INFO --> getZoomById: skin/Signedint.php
+2017-10-13 16:40:27 - INFO --> getUserByCookie: 
+2017-10-13 16:40:27 - INFO --> getZoomById: register-user=&register-email=hristine11999%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-10-13 19:39:37 - INFO --> getUserByCookie: 
+2017-10-13 19:39:37 - INFO --> getZoomById: '/cssPIE/PIE_IE678.js
+2017-10-13 22:23:08 - INFO --> getUserByCookie: 
+2017-10-13 22:23:08 - INFO --> getZoomById: xmlrpc.php

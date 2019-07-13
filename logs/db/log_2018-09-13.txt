@@ -1,0 +1,17 @@
+2018-09-13 2:04:21 - INFO --> getUserByCookie: 
+2018-09-13 2:04:21 - INFO --> getZoomById: ads.txt
+2018-09-13 2:21:25 - INFO --> getUserByCookie: 
+2018-09-13 2:21:25 - INFO --> getZoomById: mbahKb
+2018-09-13 2:21:25 - INFO --> incrementZoomById: mbahKb
+2018-09-13 2:21:25 - INFO --> increment zoom: mbahKb
+2018-09-13 3:16:18 - INFO --> getUserByCookie: 
+2018-09-13 3:16:18 - INFO --> getZoomById: ads.txt
+2018-09-13 3:38:11 - INFO --> getUserByCookie: 
+2018-09-13 3:38:11 - INFO --> getZoomById: ofmiowllnncprh.html
+2018-09-13 20:36:11 - INFO --> getUserByCookie: 
+2018-09-13 21:47:24 - INFO --> getUserByCookie: 
+2018-09-13 21:47:24 - INFO --> getZoomById: mbahKb
+2018-09-13 21:47:24 - INFO --> incrementZoomById: mbahKb
+2018-09-13 21:47:24 - INFO --> increment zoom: mbahKb
+2018-09-13 23:23:58 - INFO --> getUserByCookie: 
+2018-09-13 23:23:58 - INFO --> getZoomById: blog/

@@ -1,0 +1,28 @@
+2018-03-17 0:21:51 - INFO --> getUserByCookie: 
+2018-03-17 0:21:51 - INFO --> getZoomById: register-user=&register-email=joserivera215%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-03-17 2:08:59 - INFO --> getUserByCookie: 
+2018-03-17 2:08:59 - INFO --> getZoomById: q=die('z!a'.'x');&w=die('z!a'.'x');&e=die('z!a'.'x');&r=die('z!a'.'x');&t=die('z!a'.'x');&y=die('z!a'.'x');&u=die('z!a'.'x');&i=die('z!a'.'x');&o=die('z!a'.'x');&p=die('z!a'.'x');&a=die('z!a'.'x');&s=die('z!a'.'x');&d=die('z!a'.'x');&f=die('z!a'.'x');&g=die('z!a'.'x');&h=die('z!a'.'x');&j=die('z!a'.'x');&k=die('z!a'.'x');&l=die('z!a'.'x');&z=die('z!a'.'x');&x=die('z!a'.'x');&c=die('z!a'.'x');&v=die('z!a'.'x');&b=die('z!a'.'x');&n=die('z!a'.'x');&m=die('z!a'.'x');&eval=die('z!a'.'x');&enter=die('z!a'.'x');
+2018-03-17 2:15:23 - INFO --> getUserByCookie: 
+2018-03-17 2:15:23 - INFO --> getZoomById: q=die('z!a'.'x');&w=die('z!a'.'x');&e=die('z!a'.'x');&r=die('z!a'.'x');&t=die('z!a'.'x');&y=die('z!a'.'x');&u=die('z!a'.'x');&i=die('z!a'.'x');&o=die('z!a'.'x');&p=die('z!a'.'x');&a=die('z!a'.'x');&s=die('z!a'.'x');&d=die('z!a'.'x');&f=die('z!a'.'x');&g=die('z!a'.'x');&h=die('z!a'.'x');&j=die('z!a'.'x');&k=die('z!a'.'x');&l=die('z!a'.'x');&z=die('z!a'.'x');&x=die('z!a'.'x');&c=die('z!a'.'x');&v=die('z!a'.'x');&b=die('z!a'.'x');&n=die('z!a'.'x');&m=die('z!a'.'x');&eval=die('z!a'.'x');&enter=die('z!a'.'x');
+2018-03-17 3:11:47 - INFO --> getUserByCookie: 
+2018-03-17 3:40:42 - INFO --> getUserByCookie: 
+2018-03-17 3:40:42 - INFO --> getZoomById: register-user=&register-email=martinezds3%40aol.com&register-pass=&register-pass2=&register-agree=&
+2018-03-17 7:21:32 - INFO --> getUserByCookie: 
+2018-03-17 7:21:32 - INFO --> getZoomById: q=die('z!a'.'x');&w=die('z!a'.'x');&e=die('z!a'.'x');&r=die('z!a'.'x');&t=die('z!a'.'x');&y=die('z!a'.'x');&u=die('z!a'.'x');&i=die('z!a'.'x');&o=die('z!a'.'x');&p=die('z!a'.'x');&a=die('z!a'.'x');&s=die('z!a'.'x');&d=die('z!a'.'x');&f=die('z!a'.'x');&g=die('z!a'.'x');&h=die('z!a'.'x');&j=die('z!a'.'x');&k=die('z!a'.'x');&l=die('z!a'.'x');&z=die('z!a'.'x');&x=die('z!a'.'x');&c=die('z!a'.'x');&v=die('z!a'.'x');&b=die('z!a'.'x');&n=die('z!a'.'x');&m=die('z!a'.'x');&eval=die('z!a'.'x');&enter=die('z!a'.'x');
+2018-03-17 7:25:32 - INFO --> getUserByCookie: 
+2018-03-17 7:25:32 - INFO --> getZoomById: q=die('z!a'.'x');&w=die('z!a'.'x');&e=die('z!a'.'x');&r=die('z!a'.'x');&t=die('z!a'.'x');&y=die('z!a'.'x');&u=die('z!a'.'x');&i=die('z!a'.'x');&o=die('z!a'.'x');&p=die('z!a'.'x');&a=die('z!a'.'x');&s=die('z!a'.'x');&d=die('z!a'.'x');&f=die('z!a'.'x');&g=die('z!a'.'x');&h=die('z!a'.'x');&j=die('z!a'.'x');&k=die('z!a'.'x');&l=die('z!a'.'x');&z=die('z!a'.'x');&x=die('z!a'.'x');&c=die('z!a'.'x');&v=die('z!a'.'x');&b=die('z!a'.'x');&n=die('z!a'.'x');&m=die('z!a'.'x');&eval=die('z!a'.'x');&enter=die('z!a'.'x');
+2018-03-17 9:35:53 - INFO --> getUserByCookie: 
+2018-03-17 9:35:53 - INFO --> getZoomById: register-user=&register-email=slimcam5%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2018-03-17 11:02:58 - INFO --> getUserByCookie: 
+2018-03-17 11:02:58 - INFO --> getZoomById: G1YU4
+2018-03-17 11:02:58 - INFO --> incrementZoomById: G1YU4
+2018-03-17 11:02:58 - INFO --> increment zoom: G1YU4
+2018-03-17 15:20:32 - INFO --> getUserByCookie: 
+2018-03-17 15:20:32 - INFO --> getZoomById: ads.txt
+2018-03-17 19:25:17 - INFO --> getUserByCookie: 
+2018-03-17 19:25:17 - INFO --> getZoomById: register-user=&register-email=jeri.darchuck%40tecmungo.com&register-pass=&register-pass2=&register-agree=&
+2018-03-17 19:55:41 - INFO --> getUserByCookie: 
+2018-03-17 23:23:46 - INFO --> getUserByCookie: 
+2018-03-17 23:23:46 - INFO --> getZoomById: iSctp
+2018-03-17 23:23:46 - INFO --> incrementZoomById: iSctp
+2018-03-17 23:23:46 - INFO --> increment zoom: iSctp

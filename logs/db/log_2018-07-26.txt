@@ -1,0 +1,22 @@
+2018-07-26 1:14:39 - INFO --> getUserByCookie: 
+2018-07-26 1:14:39 - INFO --> getZoomById: fl=i4c
+2018-07-26 1:14:39 - INFO --> incrementZoomById: fl=i4c
+2018-07-26 1:14:39 - INFO --> increment zoom: fl=i4c
+2018-07-26 1:54:45 - INFO --> getUserByCookie: 
+2018-07-26 1:54:56 - INFO --> getUserByCookie: 
+2018-07-26 1:54:56 - INFO --> getZoomById: reportType=Suggestion&email=melanie%40roepa.com&description=Hi%0D%0A%0D%0AShop+Oakley+Sunglasses+19.95+dollars+only+today+at+https%3A%2F%2Fwww.glasseshop.online%0D%0A%0D%0ATo+your+success%2C%0D%0A%0D%0A%0D%0Adramaticzoom.com+Dramatic+Zoom
+2018-07-26 2:31:13 - INFO --> getUserByCookie: 
+2018-07-26 2:31:13 - INFO --> getZoomById: media/system/js/calendar-setup.js
+2018-07-26 3:05:29 - INFO --> getUserByCookie: 
+2018-07-26 3:05:29 - INFO --> getZoomById: media/system/js/calendar-setup.js
+2018-07-26 5:49:32 - INFO --> getUserByCookie: 
+2018-07-26 9:02:23 - INFO --> getUserByCookie: 
+2018-07-26 9:02:23 - INFO --> getZoomById: iSctp
+2018-07-26 9:02:23 - INFO --> incrementZoomById: iSctp
+2018-07-26 9:02:23 - INFO --> increment zoom: iSctp
+2018-07-26 21:39:20 - INFO --> getUserByCookie: 
+2018-07-26 21:39:20 - INFO --> getZoomById: w6tlCc
+2018-07-26 21:39:20 - INFO --> incrementZoomById: w6tlCc
+2018-07-26 21:39:20 - INFO --> increment zoom: w6tlCc
+2018-07-26 23:42:53 - INFO --> getUserByCookie: 
+2018-07-26 23:42:53 - INFO --> getZoomById: okmkpjqzaokuwl.html

@@ -1,0 +1,23 @@
+2018-11-18 6:28:55 - INFO --> getUserByCookie: 
+2018-11-18 6:28:55 - INFO --> getZoomById: .well-known/assetlinks.json
+2018-11-18 14:11:04 - INFO --> getUserByCookie: 
+2018-11-18 14:11:04 - INFO --> getZoomById: iSctp
+2018-11-18 14:11:04 - INFO --> incrementZoomById: iSctp
+2018-11-18 14:11:04 - INFO --> increment zoom: iSctp
+2018-11-18 14:52:16 - INFO --> getUserByCookie: 
+2018-11-18 14:52:16 - INFO --> getZoomById: RNoXZ/
+2018-11-18 14:52:17 - INFO --> getUserByCookie: 
+2018-11-18 14:52:17 - INFO --> getZoomById: RNoXZ/
+2018-11-18 14:52:18 - INFO --> getUserByCookie: 
+2018-11-18 14:52:18 - INFO --> getZoomById: RNoXZ/
+2018-11-18 14:52:19 - INFO --> getUserByCookie: 
+2018-11-18 14:52:19 - INFO --> getZoomById: RNoXZ/
+2018-11-18 16:35:03 - INFO --> getUserByCookie: 
+2018-11-18 23:53:25 - INFO --> getUserByCookie: 
+2018-11-18 23:53:25 - INFO --> getZoomById: iSctp
+2018-11-18 23:53:25 - INFO --> incrementZoomById: iSctp
+2018-11-18 23:53:25 - INFO --> increment zoom: iSctp
+2018-11-18 23:53:35 - INFO --> getUserByCookie: 
+2018-11-18 23:53:35 - INFO --> getZoomById: iSctp
+2018-11-18 23:53:35 - INFO --> incrementZoomById: iSctp
+2018-11-18 23:53:35 - INFO --> increment zoom: iSctp

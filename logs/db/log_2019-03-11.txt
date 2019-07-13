@@ -1,0 +1,38 @@
+2019-03-11 2:40:09 - INFO --> getUserByCookie: 
+2019-03-11 2:40:09 - INFO --> getZoomById: email=jyu4%40nc.rr.com&reportType=&description=&
+2019-03-11 2:47:52 - INFO --> getUserByCookie: 
+2019-03-11 2:47:52 - INFO --> getZoomById: email=derrelhiggins%40gmail.com&reportType=&description=&
+2019-03-11 3:51:22 - INFO --> getUserByCookie: 
+2019-03-11 3:51:22 - INFO --> getZoomById: webdav/ncutfgpdcmh.php
+2019-03-11 4:20:22 - INFO --> getUserByCookie: 
+2019-03-11 4:20:22 - INFO --> getZoomById: email=gcpc007%40yahoo.com&reportType=&description=&
+2019-03-11 6:16:42 - INFO --> getUserByCookie: 
+2019-03-11 6:16:42 - INFO --> getZoomById: email=mohsarlene%40gmail.com&reportType=&description=&
+2019-03-11 7:11:34 - INFO --> getUserByCookie: 
+2019-03-11 7:11:34 - INFO --> getZoomById: email=mercedesparjus143%40gmail.com&reportType=&description=&
+2019-03-11 9:22:09 - INFO --> getUserByCookie: 
+2019-03-11 9:22:09 - INFO --> getZoomById: email=rawsonbari%40gmail.com&reportType=&description=&
+2019-03-11 9:33:20 - INFO --> getUserByCookie: 
+2019-03-11 9:33:20 - INFO --> getZoomById: email=rawsonbari%40gmail.com&reportType=&description=&
+2019-03-11 10:30:16 - INFO --> getUserByCookie: 
+2019-03-11 10:30:16 - INFO --> getZoomById: email=jonathanshefton78%40gmail.com&reportType=&description=&
+2019-03-11 14:27:08 - INFO --> getUserByCookie: 
+2019-03-11 14:27:08 - INFO --> getZoomById: email=dylankunkel%40icloud.com&reportType=&description=&
+2019-03-11 14:32:42 - INFO --> getUserByCookie: 
+2019-03-11 14:32:42 - INFO --> getZoomById: email=zalezca%40yahoo.com&reportType=&description=&
+2019-03-11 16:20:09 - INFO --> getUserByCookie: 
+2019-03-11 16:20:09 - INFO --> getZoomById: email=jehryca%40yahoo.com&reportType=&description=&
+2019-03-11 17:45:35 - INFO --> getUserByCookie: 
+2019-03-11 17:45:35 - INFO --> getZoomById: email=stremblay%40galeriesford.com&reportType=&description=&
+2019-03-11 18:16:05 - INFO --> getUserByCookie: 
+2019-03-11 18:16:05 - INFO --> getZoomById: email=candyl4922%40gmail.com&reportType=&description=&
+2019-03-11 18:44:39 - INFO --> getUserByCookie: 
+2019-03-11 18:44:39 - INFO --> getZoomById: email=eruchel%40gmail.com&reportType=&description=&
+2019-03-11 19:33:20 - INFO --> getUserByCookie: 
+2019-03-11 19:33:20 - INFO --> getZoomById: email=tjenn210%40aol.com&reportType=&description=&
+2019-03-11 19:41:50 - INFO --> getUserByCookie: 
+2019-03-11 19:41:50 - INFO --> getZoomById: email=landonduncan%40sbcglobal.net&reportType=&description=&
+2019-03-11 20:02:37 - INFO --> getUserByCookie: 
+2019-03-11 20:02:37 - INFO --> getZoomById: email=wigurlnky%40aol.com&reportType=&description=&
+2019-03-11 22:31:19 - INFO --> getUserByCookie: 
+2019-03-11 22:31:19 - INFO --> getZoomById: email=jimd%40randoco.com&reportType=&description=&

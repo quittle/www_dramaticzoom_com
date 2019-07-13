@@ -1,0 +1,12 @@
+2016-02-21 5:12:03 - INFO --> getUserByCookie: 
+2016-02-21 5:12:03 - INFO --> getZoomById: mbahKb
+2016-02-21 5:12:03 - INFO --> incrementZoomById: mbahKb
+2016-02-21 5:12:03 - INFO --> increment zoom: mbahKb
+2016-02-21 6:57:45 - INFO --> getUserByCookie: 
+2016-02-21 9:54:11 - INFO --> getUserByCookie: 
+2016-02-21 9:54:11 - INFO --> getZoomById: author=1
+2016-02-21 12:33:39 - INFO --> getUserByCookie: 
+2016-02-21 12:33:39 - INFO --> getZoomById: G1YU4
+2016-02-21 12:33:39 - INFO --> incrementZoomById: G1YU4
+2016-02-21 12:33:39 - INFO --> increment zoom: G1YU4
+2016-02-21 23:21:58 - INFO --> getUserByCookie: 

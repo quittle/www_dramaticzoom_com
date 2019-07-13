@@ -1,0 +1,19 @@
+2018-10-04 0:28:37 - INFO --> getUserByCookie: 
+2018-10-04 0:28:37 - INFO --> getZoomById: status
+2018-10-04 0:28:40 - INFO --> getUserByCookie: 
+2018-10-04 0:28:40 - INFO --> getZoomById: phpMyAdmin/scripts/setup.php
+2018-10-04 0:28:43 - INFO --> getUserByCookie: 
+2018-10-04 0:28:43 - INFO --> getZoomById: phpmyadmin/scripts/setup.php
+2018-10-04 0:28:46 - INFO --> getUserByCookie: 
+2018-10-04 0:28:46 - INFO --> getZoomById: _phpMyAdmin/scripts/setup.php
+2018-10-04 0:28:50 - INFO --> getUserByCookie: 
+2018-10-04 0:28:50 - INFO --> getZoomById: admin/scripts/setup.php
+2018-10-04 0:28:53 - INFO --> getUserByCookie: 
+2018-10-04 0:28:53 - INFO --> getZoomById: scripts/setup.php
+2018-10-04 0:28:56 - INFO --> getUserByCookie: 
+2018-10-04 0:28:56 - INFO --> getZoomById: pma/scripts/setup.php
+2018-10-04 4:10:46 - INFO --> getUserByCookie: 
+2018-10-04 8:40:02 - INFO --> getUserByCookie: 
+2018-10-04 8:40:02 - INFO --> getZoomById: administrator/index.php
+2018-10-04 16:25:04 - INFO --> getUserByCookie: 
+2018-10-04 16:25:04 - INFO --> getZoomById: user/

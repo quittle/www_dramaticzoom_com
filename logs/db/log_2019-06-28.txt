@@ -1,0 +1,5 @@
+2019-06-28 1:20:52 - INFO --> getUserByCookie: 
+2019-06-28 1:20:52 - INFO --> getZoomById: wp-login.php
+2019-06-28 3:32:19 - INFO --> getUserByCookie: 
+2019-06-28 15:16:34 - INFO --> getUserByCookie: 
+2019-06-28 15:16:34 - INFO --> getZoomById: user.php

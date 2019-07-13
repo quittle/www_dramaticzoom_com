@@ -1,0 +1,6 @@
+2017-01-10 3:58:30 - INFO --> getUserByCookie: 
+2017-01-10 3:58:30 - INFO --> getZoomById: images/logo_img.php
+2017-01-10 22:53:37 - INFO --> getUserByCookie: 
+2017-01-10 22:53:37 - INFO --> getZoomById: iSctp
+2017-01-10 22:53:37 - INFO --> incrementZoomById: iSctp
+2017-01-10 22:53:37 - INFO --> increment zoom: iSctp

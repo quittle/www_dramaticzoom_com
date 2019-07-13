@@ -1,0 +1,9 @@
+2018-12-06 10:31:01 - INFO --> getUserByCookie: 
+2018-12-06 10:44:37 - INFO --> getUserByCookie: 
+2018-12-06 10:44:37 - INFO --> getZoomById: connectors/system/phpthumb.php
+2018-12-06 10:44:37 - INFO --> getUserByCookie: 
+2018-12-06 10:44:37 - INFO --> getZoomById: connectors/system/phpthumb.php
+2018-12-06 11:38:48 - INFO --> getUserByCookie: 
+2018-12-06 19:00:51 - INFO --> getUserByCookie: 
+2018-12-06 19:00:51 - INFO --> getZoomById: email=lfarn%40cabinetpeaks.org&reportType=&description=&
+2018-12-06 19:08:29 - INFO --> getUserByCookie: 

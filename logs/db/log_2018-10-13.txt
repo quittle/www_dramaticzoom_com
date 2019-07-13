@@ -1,0 +1,12 @@
+2018-10-13 4:22:36 - INFO --> getUserByCookie: 
+2018-10-13 6:33:27 - INFO --> getUserByCookie: 
+2018-10-13 6:33:27 - INFO --> getZoomById: iSctp
+2018-10-13 6:33:27 - INFO --> incrementZoomById: iSctp
+2018-10-13 6:33:27 - INFO --> increment zoom: iSctp
+2018-10-13 8:25:33 - INFO --> getUserByCookie: 
+2018-10-13 12:43:04 - INFO --> getUserByCookie: 
+2018-10-13 12:43:04 - INFO --> getZoomById: isctp
+2018-10-13 12:43:04 - INFO --> incrementZoomById: isctp
+2018-10-13 12:43:04 - INFO --> increment zoom: isctp
+2018-10-13 13:44:25 - INFO --> getUserByCookie: 
+2018-10-13 13:44:25 - INFO --> getZoomById: wp-admin/setup-config.php

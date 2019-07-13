@@ -1,0 +1,6 @@
+2018-11-17 14:45:15 - INFO --> getUserByCookie: 
+2018-11-17 14:45:15 - INFO --> getZoomById: admin/index.php
+2018-11-17 15:00:16 - INFO --> getUserByCookie: 
+2018-11-17 15:00:16 - INFO --> getZoomById: admin/index.php
+2018-11-17 21:15:24 - INFO --> getUserByCookie: 
+2018-11-17 21:15:24 - INFO --> getZoomById: wp-content/plugins/wp-gdpr-compliance/readme.txt

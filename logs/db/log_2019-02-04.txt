@@ -1,0 +1,29 @@
+2019-02-04 2:18:27 - INFO --> getUserByCookie: 
+2019-02-04 2:18:27 - INFO --> getZoomById: email=mister.huangchao%40gmail.com&reportType=&description=&
+2019-02-04 3:17:46 - INFO --> getUserByCookie: 
+2019-02-04 3:17:46 - INFO --> getZoomById: .well-known/acme-challenge/whX9dW-auhNyXQogah7RtcszyZgMDUdzNimcKtpxW4g
+2019-02-04 3:17:46 - INFO --> getUserByCookie: 
+2019-02-04 3:17:46 - INFO --> getZoomById: .well-known/acme-challenge/t9WiBhEhhn_I6OTn6y4X15hUOFPz5IwBgfooEPAbNjM
+2019-02-04 3:17:54 - INFO --> getUserByCookie: 
+2019-02-04 3:17:54 - INFO --> getZoomById: .well-known/acme-challenge/o45z3VLQMifISQoxUSjZud8XqjCoB_xVFoOl3iH1W84
+2019-02-04 3:18:02 - INFO --> getUserByCookie: 
+2019-02-04 3:18:02 - INFO --> getZoomById: .well-known/acme-challenge/2e8LnI2LJyp_FyTqZsinnLniH5lPmfsw1L8lKyRe840
+2019-02-04 7:43:20 - INFO --> getUserByCookie: 
+2019-02-04 7:43:20 - INFO --> getZoomById: .well-known/security.txt
+2019-02-04 8:53:53 - INFO --> getUserByCookie: 
+2019-02-04 8:53:53 - INFO --> getZoomById: fbclid=IwAR1tYMh5NWeRrVfybj5gVRPkZ2bNGOamqz9oyDftiLvFHzCy7UvwIWkN5mQ
+2019-02-04 10:54:39 - INFO --> getUserByCookie: 
+2019-02-04 10:54:39 - INFO --> getZoomById: email=marble.ball%40yahoo.com&reportType=&description=&
+2019-02-04 11:33:04 - INFO --> getUserByCookie: 
+2019-02-04 11:33:04 - INFO --> getZoomById: email=amyjo.1968%40yahoo.com&reportType=&description=&
+2019-02-04 12:14:57 - INFO --> getUserByCookie: 
+2019-02-04 15:27:25 - INFO --> getUserByCookie: 
+2019-02-04 15:27:25 - INFO --> getZoomById: email=subho.saha%40gmail.com&reportType=&description=&
+2019-02-04 16:36:14 - INFO --> getUserByCookie: 
+2019-02-04 16:36:14 - INFO --> getZoomById: email=rustyw%40vt.edu&reportType=&description=&
+2019-02-04 17:09:05 - INFO --> getUserByCookie: 
+2019-02-04 17:09:05 - INFO --> getZoomById: email=mohamed.saleh2812%40gmail.com&reportType=&description=&
+2019-02-04 17:33:52 - INFO --> getUserByCookie: 
+2019-02-04 17:33:52 - INFO --> getZoomById: email=subho.saha%40gmail.com&reportType=&description=&
+2019-02-04 17:44:42 - INFO --> getUserByCookie: 
+2019-02-04 17:44:42 - INFO --> getZoomById: email=alexa.hughes13%40gmail.com&reportType=&description=&

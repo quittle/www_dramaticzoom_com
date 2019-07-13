@@ -1,0 +1,10 @@
+2015-10-28 7:26:37 - INFO --> getUserByCookie: 
+2015-10-28 7:26:37 - INFO --> getZoomById: iSctp
+2015-10-28 7:26:37 - INFO --> incrementZoomById: iSctp
+2015-10-28 7:26:37 - INFO --> increment zoom: iSctp
+2015-10-28 9:58:23 - INFO --> getUserByCookie: 
+2015-10-28 9:58:23 - INFO --> getZoomById: conns.php
+2015-10-28 18:14:35 - INFO --> getUserByCookie: 
+2015-10-28 18:14:35 - INFO --> getZoomById: mbahKb
+2015-10-28 18:14:35 - INFO --> incrementZoomById: mbahKb
+2015-10-28 18:14:35 - INFO --> increment zoom: mbahKb

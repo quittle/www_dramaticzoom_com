@@ -1,0 +1,19 @@
+2018-06-08 0:44:56 - INFO --> getUserByCookie: 
+2018-06-08 0:44:56 - INFO --> getZoomById: sitemap.xml
+2018-06-08 2:47:32 - INFO --> getUserByCookie: 
+2018-06-08 2:47:32 - INFO --> getZoomById: wp-login.php
+2018-06-08 2:47:41 - INFO --> getUserByCookie: 
+2018-06-08 2:47:41 - INFO --> getZoomById: option=com_user&task=register
+2018-06-08 2:47:50 - INFO --> getUserByCookie: 
+2018-06-08 2:47:50 - INFO --> getZoomById: user/register
+2018-06-08 6:01:25 - INFO --> getUserByCookie: 
+2018-06-08 6:01:25 - INFO --> getZoomById: G1YU4
+2018-06-08 6:01:25 - INFO --> incrementZoomById: G1YU4
+2018-06-08 6:01:25 - INFO --> increment zoom: G1YU4
+2018-06-08 16:26:58 - INFO --> getUserByCookie: 
+2018-06-08 16:26:58 - INFO --> getZoomById: iSctp
+2018-06-08 16:26:58 - INFO --> incrementZoomById: iSctp
+2018-06-08 16:26:58 - INFO --> increment zoom: iSctp
+2018-06-08 16:27:02 - INFO --> getUserByCookie: 
+2018-06-08 17:13:51 - INFO --> getUserByCookie: 
+2018-06-08 17:13:51 - INFO --> getZoomById: sptlzupqgxffemc.html

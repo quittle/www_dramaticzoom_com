@@ -1,0 +1,2 @@
+2016-08-06 10:25:26 - INFO --> getUserByCookie: 
+2016-08-06 21:02:15 - INFO --> getUserByCookie: 

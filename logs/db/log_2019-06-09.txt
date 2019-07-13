@@ -1,0 +1,17 @@
+2019-06-09 4:07:52 - INFO --> getUserByCookie: 
+2019-06-09 4:07:52 - INFO --> getZoomById: wp-login.php
+2019-06-09 5:42:48 - INFO --> getUserByCookie: 
+2019-06-09 5:42:48 - INFO --> getZoomById: kcfinder/browse.php
+2019-06-09 11:24:37 - INFO --> getUserByCookie: 
+2019-06-09 11:24:37 - INFO --> getZoomById: ads.txt
+2019-06-09 13:39:21 - INFO --> getUserByCookie: 
+2019-06-09 13:39:21 - INFO --> getZoomById: wp-login.php
+2019-06-09 17:44:30 - INFO --> getUserByCookie: 
+2019-06-09 17:44:30 - INFO --> getZoomById: wp-login.php
+2019-06-09 19:02:31 - INFO --> getUserByCookie: 
+2019-06-09 19:02:31 - INFO --> getZoomById: wp-login.php
+2019-06-09 20:38:09 - INFO --> getUserByCookie: 
+2019-06-09 20:38:09 - INFO --> getZoomById: admin/
+2019-06-09 22:07:10 - INFO --> getUserByCookie: 
+2019-06-09 22:13:54 - INFO --> getUserByCookie: 
+2019-06-09 22:13:54 - INFO --> getZoomById: wp-login.php

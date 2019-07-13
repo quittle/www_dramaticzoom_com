@@ -1,0 +1,6 @@
+2018-06-05 4:10:42 - INFO --> getUserByCookie: 
+2018-06-05 13:54:03 - INFO --> getUserByCookie: 
+2018-06-05 23:15:35 - INFO --> getUserByCookie: 
+2018-06-05 23:15:35 - INFO --> getZoomById: administrator/components/com_jinc/classes/graphics/php-ofc-library/ofc_upload_image.php
+2018-06-05 23:15:36 - INFO --> getUserByCookie: 
+2018-06-05 23:15:36 - INFO --> getZoomById: administrator/components/com_jinc/classes/graphics/php-ofc-library/ofc_upload_image.php

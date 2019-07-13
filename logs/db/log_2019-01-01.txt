@@ -1,0 +1,30 @@
+2019-01-01 0:08:19 - INFO --> getUserByCookie: 
+2019-01-01 0:08:19 - INFO --> getZoomById: .well-known/assetlinks.json
+2019-01-01 0:33:11 - INFO --> getUserByCookie: 
+2019-01-01 5:30:01 - INFO --> getUserByCookie: 
+2019-01-01 5:30:01 - INFO --> getZoomById: iSctp
+2019-01-01 5:30:01 - INFO --> incrementZoomById: iSctp
+2019-01-01 5:30:01 - INFO --> increment zoom: iSctp
+2019-01-01 5:57:36 - INFO --> getUserByCookie: 
+2019-01-01 5:57:36 - INFO --> getZoomById: email=jgkortis%40gmail.com&reportType=&description=&
+2019-01-01 8:31:23 - INFO --> getUserByCookie: 
+2019-01-01 8:31:23 - INFO --> getZoomById: iSctp
+2019-01-01 8:31:23 - INFO --> incrementZoomById: iSctp
+2019-01-01 8:31:23 - INFO --> increment zoom: iSctp
+2019-01-01 10:01:41 - INFO --> getUserByCookie: 
+2019-01-01 10:01:41 - INFO --> getZoomById: email=cortb64%40yahoo.com&reportType=&description=&
+2019-01-01 14:52:21 - INFO --> getUserByCookie: 
+2019-01-01 14:52:21 - INFO --> getZoomById: iSctp
+2019-01-01 14:52:21 - INFO --> incrementZoomById: iSctp
+2019-01-01 14:52:21 - INFO --> increment zoom: iSctp
+2019-01-01 17:50:05 - INFO --> getUserByCookie: 
+2019-01-01 17:50:05 - INFO --> getZoomById: wp-json/wp_live_chat_support/v1/remote_upload
+2019-01-01 17:50:06 - INFO --> getUserByCookie: 
+2019-01-01 17:50:06 - INFO --> getZoomById: wp-content/uploads/wp_live_chat/lnjeltcnz.php
+2019-01-01 17:53:31 - INFO --> getUserByCookie: 
+2019-01-01 17:53:31 - INFO --> getZoomById: iSctp
+2019-01-01 17:53:31 - INFO --> incrementZoomById: iSctp
+2019-01-01 17:53:31 - INFO --> increment zoom: iSctp
+2019-01-01 20:57:32 - INFO --> getUserByCookie: 
+2019-01-01 20:57:32 - INFO --> getZoomById: email=kay_chino%40yahoo.com&reportType=&description=&
+2019-01-01 22:56:38 - INFO --> getUserByCookie: 

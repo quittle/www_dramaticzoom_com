@@ -1,0 +1,29 @@
+2016-06-27 9:19:46 - INFO --> getUserByCookie: 
+2016-06-27 9:19:46 - INFO --> getZoomById: iSctp
+2016-06-27 9:19:46 - INFO --> incrementZoomById: iSctp
+2016-06-27 9:19:46 - INFO --> increment zoom: iSctp
+2016-06-27 9:19:48 - INFO --> getUserByCookie: 
+2016-06-27 12:42:50 - INFO --> getUserByCookie: 
+2016-06-27 12:42:50 - INFO --> getZoomById: multipart/form-data
+2016-06-27 12:42:52 - INFO --> getUserByCookie: 
+2016-06-27 12:42:52 - INFO --> getZoomById: js/multipart/form-data
+2016-06-27 12:42:53 - INFO --> getUserByCookie: 
+2016-06-27 12:42:53 - INFO --> getZoomById: text/html
+2016-06-27 12:42:54 - INFO --> getUserByCookie: 
+2016-06-27 12:42:54 - INFO --> getZoomById: js/m.
+2016-06-27 12:42:56 - INFO --> getUserByCookie: 
+2016-06-27 12:42:58 - INFO --> getUserByCookie: 
+2016-06-27 12:42:58 - INFO --> getZoomById: application/x-www-form-urlencoded
+2016-06-27 12:42:59 - INFO --> getUserByCookie: 
+2016-06-27 12:42:59 - INFO --> getZoomById: js/application/x-www-form-urlencoded
+2016-06-27 12:43:06 - INFO --> getUserByCookie: 
+2016-06-27 12:43:06 - INFO --> getZoomById: text/html
+2016-06-27 12:43:07 - INFO --> getUserByCookie: 
+2016-06-27 12:43:07 - INFO --> getZoomById: js/text/html
+2016-06-27 12:43:09 - INFO --> getUserByCookie: 
+2016-06-27 12:43:09 - INFO --> getZoomById: js/m.
+2016-06-27 12:43:10 - INFO --> getUserByCookie: 
+2016-06-27 12:43:12 - INFO --> getUserByCookie: 
+2016-06-27 12:43:12 - INFO --> getZoomById: text/plain
+2016-06-27 12:43:13 - INFO --> getUserByCookie: 
+2016-06-27 12:43:13 - INFO --> getZoomById: js/tempImg.php

@@ -1,0 +1,23 @@
+2018-12-24 7:17:59 - INFO --> getUserByCookie: 
+2018-12-24 7:52:59 - INFO --> getUserByCookie: 
+2018-12-24 7:52:59 - INFO --> getZoomById: phpmyadmin/
+2018-12-24 10:46:30 - INFO --> getUserByCookie: 
+2018-12-24 10:46:30 - INFO --> getZoomById: backup/wp-admin/
+2018-12-24 10:59:53 - INFO --> getUserByCookie: 
+2018-12-24 10:59:53 - INFO --> getZoomById: backup/wp-admin/
+2018-12-24 11:38:58 - INFO --> getUserByCookie: 
+2018-12-24 11:38:58 - INFO --> getZoomById: products.json
+2018-12-24 12:17:46 - INFO --> getUserByCookie: 
+2018-12-24 12:17:46 - INFO --> getZoomById: sitemap.xml
+2018-12-24 12:59:52 - INFO --> getUserByCookie: 
+2018-12-24 12:59:52 - INFO --> getZoomById: type.php
+2018-12-24 14:12:47 - INFO --> getUserByCookie: 
+2018-12-24 14:12:47 - INFO --> getZoomById: phpmyadmin/
+2018-12-24 14:13:02 - INFO --> getUserByCookie: 
+2018-12-24 14:13:02 - INFO --> getZoomById: phpmyadmin/
+2018-12-24 16:50:36 - INFO --> getUserByCookie: 
+2018-12-24 16:50:36 - INFO --> getZoomById: backup/wp-admin/
+2018-12-24 17:36:01 - INFO --> getUserByCookie: 
+2018-12-24 17:36:01 - INFO --> getZoomById: backup/wp-admin/
+2018-12-24 17:36:39 - INFO --> getUserByCookie: 
+2018-12-24 17:36:39 - INFO --> getZoomById: backup/wp-admin/

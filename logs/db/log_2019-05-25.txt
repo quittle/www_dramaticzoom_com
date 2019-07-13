@@ -1,0 +1,8 @@
+2019-05-25 0:18:13 - INFO --> getUserByCookie: 
+2019-05-25 0:18:13 - INFO --> getZoomById: server.php
+2019-05-25 7:27:02 - INFO --> getUserByCookie: 
+2019-05-25 7:27:02 - INFO --> getZoomById: fbclid=IwAR0gsvAyDx-jPg8sFf6ztrI05U6NH8W605vsjwVF1GdS21QjooTNN9xlrdQ
+2019-05-25 22:26:05 - INFO --> getUserByCookie: 
+2019-05-25 22:26:05 - INFO --> getZoomById: type.php
+2019-05-25 23:13:11 - INFO --> getUserByCookie: 
+2019-05-25 23:13:11 - INFO --> getZoomById: .well-known/security.txt

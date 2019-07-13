@@ -1,0 +1,7 @@
+2015-12-16 10:56:41 - INFO --> getUserByCookie: 
+2015-12-16 19:59:37 - INFO --> getUserByCookie: 
+2015-12-16 19:59:37 - INFO --> getZoomById: wp-login.php
+2015-12-16 21:24:25 - INFO --> getUserByCookie: 
+2015-12-16 21:24:25 - INFO --> getZoomById: mbahKb
+2015-12-16 21:24:25 - INFO --> incrementZoomById: mbahKb
+2015-12-16 21:24:25 - INFO --> increment zoom: mbahKb

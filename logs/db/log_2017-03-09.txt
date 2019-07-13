@@ -1,0 +1,10 @@
+2017-03-09 0:13:47 - INFO --> getUserByCookie: 
+2017-03-09 9:09:59 - INFO --> getUserByCookie: 
+2017-03-09 9:09:59 - INFO --> getZoomById: '/cssPIE/PIE_IE678.js
+2017-03-09 11:05:58 - INFO --> getUserByCookie: 
+2017-03-09 11:06:01 - INFO --> getUserByCookie: 
+2017-03-09 11:06:01 - INFO --> getZoomById: \
+2017-03-09 23:53:32 - INFO --> getUserByCookie: 
+2017-03-09 23:53:32 - INFO --> getZoomById: iSctp
+2017-03-09 23:53:32 - INFO --> incrementZoomById: iSctp
+2017-03-09 23:53:32 - INFO --> increment zoom: iSctp

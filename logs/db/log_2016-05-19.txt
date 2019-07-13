@@ -1,0 +1,20 @@
+2016-05-19 1:00:34 - INFO --> getUserByCookie: 
+2016-05-19 1:00:34 - INFO --> getZoomById: iSctp
+2016-05-19 1:00:34 - INFO --> incrementZoomById: iSctp
+2016-05-19 1:00:34 - INFO --> increment zoom: iSctp
+2016-05-19 9:08:45 - INFO --> getUserByCookie: 
+2016-05-19 9:08:45 - INFO --> getZoomById: wordpress/
+2016-05-19 11:38:44 - INFO --> getUserByCookie: 
+2016-05-19 11:38:44 - INFO --> getZoomById: mbahKb
+2016-05-19 11:38:44 - INFO --> incrementZoomById: mbahKb
+2016-05-19 11:38:44 - INFO --> increment zoom: mbahKb
+2016-05-19 14:27:51 - INFO --> getUserByCookie: 
+2016-05-19 14:27:51 - INFO --> getZoomById: w6tlCc
+2016-05-19 14:27:51 - INFO --> incrementZoomById: w6tlCc
+2016-05-19 14:27:51 - INFO --> increment zoom: w6tlCc
+2016-05-19 16:41:00 - INFO --> getUserByCookie: 
+2016-05-19 19:27:05 - INFO --> getUserByCookie: 
+2016-05-19 19:27:05 - INFO --> getZoomById: iSctp
+2016-05-19 19:27:05 - INFO --> incrementZoomById: iSctp
+2016-05-19 19:27:05 - INFO --> increment zoom: iSctp
+2016-05-19 20:59:43 - INFO --> getUserByCookie: 

@@ -1,0 +1,12 @@
+2018-09-09 12:44:07 - INFO --> getUserByCookie: 
+2018-09-09 12:44:07 - INFO --> getZoomById: mbahKb
+2018-09-09 12:44:07 - INFO --> incrementZoomById: mbahKb
+2018-09-09 12:44:07 - INFO --> increment zoom: mbahKb
+2018-09-09 13:43:55 - INFO --> getUserByCookie: 
+2018-09-09 13:43:55 - INFO --> getZoomById: mbahKb
+2018-09-09 13:43:55 - INFO --> incrementZoomById: mbahKb
+2018-09-09 13:43:55 - INFO --> increment zoom: mbahKb
+2018-09-09 19:54:39 - INFO --> getUserByCookie: 
+2018-09-09 19:54:39 - INFO --> getZoomById: mbahKb
+2018-09-09 19:54:39 - INFO --> incrementZoomById: mbahKb
+2018-09-09 19:54:39 - INFO --> increment zoom: mbahKb

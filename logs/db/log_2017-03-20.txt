@@ -1,0 +1,10 @@
+2017-03-20 2:48:59 - INFO --> getUserByCookie: 
+2017-03-20 2:48:59 - INFO --> getZoomById: blog/
+2017-03-20 3:55:30 - INFO --> getUserByCookie: 
+2017-03-20 3:55:30 - INFO --> getZoomById: blog/
+2017-03-20 8:49:37 - INFO --> getUserByCookie: 
+2017-03-20 9:10:39 - INFO --> getUserByCookie: 
+2017-03-20 16:00:08 - INFO --> getUserByCookie: 
+2017-03-20 16:00:08 - INFO --> getZoomById: iSctp
+2017-03-20 16:00:08 - INFO --> incrementZoomById: iSctp
+2017-03-20 16:00:08 - INFO --> increment zoom: iSctp

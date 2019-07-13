@@ -1,0 +1,15 @@
+2017-05-27 2:00:14 - INFO --> getUserByCookie: 
+2017-05-27 2:00:14 - INFO --> getZoomById: iSctp
+2017-05-27 2:00:14 - INFO --> incrementZoomById: iSctp
+2017-05-27 2:00:14 - INFO --> increment zoom: iSctp
+2017-05-27 5:04:33 - INFO --> getUserByCookie: 
+2017-05-27 5:04:33 - INFO --> getZoomById: iSctp
+2017-05-27 5:04:33 - INFO --> incrementZoomById: iSctp
+2017-05-27 5:04:33 - INFO --> increment zoom: iSctp
+2017-05-27 5:40:14 - INFO --> getUserByCookie: 
+2017-05-27 5:40:14 - INFO --> getZoomById: test/wp-admin/setup-config.php
+2017-05-27 14:12:54 - INFO --> getUserByCookie: 
+2017-05-27 14:12:54 - INFO --> getZoomById: w+JPX
+2017-05-27 14:12:54 - INFO --> incrementZoomById: w+JPX
+2017-05-27 14:12:54 - INFO --> increment zoom: w+JPX
+2017-05-27 17:52:45 - INFO --> getUserByCookie: 

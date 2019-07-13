@@ -1,0 +1,20 @@
+2018-11-29 0:45:03 - INFO --> getUserByCookie: 
+2018-11-29 2:04:45 - INFO --> getUserByCookie: 
+2018-11-29 2:04:45 - INFO --> getZoomById: iSctp
+2018-11-29 2:04:45 - INFO --> incrementZoomById: iSctp
+2018-11-29 2:04:45 - INFO --> increment zoom: iSctp
+2018-11-29 6:29:14 - INFO --> getUserByCookie: 
+2018-11-29 6:29:14 - INFO --> getZoomById: js/mage/cookies.js
+2018-11-29 8:06:06 - INFO --> getUserByCookie: 
+2018-11-29 8:06:06 - INFO --> getZoomById: iSctp
+2018-11-29 8:06:06 - INFO --> incrementZoomById: iSctp
+2018-11-29 8:06:06 - INFO --> increment zoom: iSctp
+2018-11-29 11:20:13 - INFO --> getUserByCookie: 
+2018-11-29 11:20:13 - INFO --> getZoomById: wp-includes/js/wpdialog.js
+2018-11-29 15:00:33 - INFO --> getUserByCookie: 
+2018-11-29 15:00:33 - INFO --> getZoomById: sitemap.xml
+2018-11-29 22:31:55 - INFO --> getUserByCookie: 
+2018-11-29 22:31:56 - INFO --> getUserByCookie: 
+2018-11-29 22:31:56 - INFO --> getZoomById: iSctp
+2018-11-29 22:31:56 - INFO --> incrementZoomById: iSctp
+2018-11-29 22:31:56 - INFO --> increment zoom: iSctp

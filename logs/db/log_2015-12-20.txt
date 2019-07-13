@@ -1,0 +1,6 @@
+2015-12-20 4:47:46 - INFO --> getUserByCookie: 
+2015-12-20 16:00:19 - INFO --> getUserByCookie: 
+2015-12-20 16:00:19 - INFO --> getZoomById: mbahKb
+2015-12-20 16:00:19 - INFO --> incrementZoomById: mbahKb
+2015-12-20 16:00:19 - INFO --> increment zoom: mbahKb
+2015-12-20 19:11:58 - INFO --> getUserByCookie: 

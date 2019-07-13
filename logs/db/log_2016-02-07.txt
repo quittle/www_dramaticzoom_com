@@ -1,0 +1,14 @@
+2016-02-07 5:45:39 - INFO --> getUserByCookie: 
+2016-02-07 5:45:39 - INFO --> getZoomById: mbahKb
+2016-02-07 5:45:39 - INFO --> incrementZoomById: mbahKb
+2016-02-07 5:45:39 - INFO --> increment zoom: mbahKb
+2016-02-07 6:30:11 - INFO --> getUserByCookie: 
+2016-02-07 6:30:11 - INFO --> getZoomById: G1YU4
+2016-02-07 6:30:11 - INFO --> incrementZoomById: G1YU4
+2016-02-07 6:30:11 - INFO --> increment zoom: G1YU4
+2016-02-07 17:57:52 - INFO --> getUserByCookie: 
+2016-02-07 17:57:52 - INFO --> getZoomById: G1YU4
+2016-02-07 17:57:52 - INFO --> incrementZoomById: G1YU4
+2016-02-07 17:57:52 - INFO --> increment zoom: G1YU4
+2016-02-07 18:11:02 - INFO --> getUserByCookie: 
+2016-02-07 18:11:02 - INFO --> getZoomById: shop/product.php

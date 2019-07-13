@@ -1,0 +1,27 @@
+2018-03-09 0:58:22 - INFO --> getUserByCookie: 
+2018-03-09 0:58:22 - INFO --> getZoomById: register-user=&register-email=chris%40tcrservice.com&register-pass=&register-pass2=&register-agree=&
+2018-03-09 2:48:10 - INFO --> getUserByCookie: 
+2018-03-09 2:48:10 - INFO --> getZoomById: apiyradggbrla.html
+2018-03-09 3:16:21 - INFO --> getUserByCookie: 
+2018-03-09 3:16:21 - INFO --> getZoomById: register-user=&register-email=alex%40theleeaccountancy.com&register-pass=&register-pass2=&register-agree=&
+2018-03-09 3:49:53 - INFO --> getUserByCookie: 
+2018-03-09 3:49:53 - INFO --> getZoomById: register-user=&register-email=bitfinexed%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2018-03-09 4:47:23 - INFO --> getUserByCookie: 
+2018-03-09 4:47:23 - INFO --> getZoomById: G1YU4
+2018-03-09 4:47:23 - INFO --> incrementZoomById: G1YU4
+2018-03-09 4:47:23 - INFO --> increment zoom: G1YU4
+2018-03-09 14:26:03 - INFO --> getUserByCookie: 
+2018-03-09 14:45:11 - INFO --> getUserByCookie: 
+2018-03-09 14:45:11 - INFO --> getZoomById: register-user=&register-email=majorc1990%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2018-03-09 16:40:55 - INFO --> getUserByCookie: 
+2018-03-09 16:40:55 - INFO --> getZoomById: register-user=&register-email=stacysells4u%40aol.com&register-pass=&register-pass2=&register-agree=&
+2018-03-09 17:46:01 - INFO --> getUserByCookie: 
+2018-03-09 17:46:01 - INFO --> getZoomById: register-user=&register-email=inklayer%40verizon.net&register-pass=&register-pass2=&register-agree=&
+2018-03-09 18:15:41 - INFO --> getUserByCookie: 
+2018-03-09 18:15:41 - INFO --> getZoomById: register-user=&register-email=debidolphin1958%40aol.com&register-pass=&register-pass2=&register-agree=&
+2018-03-09 19:27:41 - INFO --> getUserByCookie: 
+2018-03-09 19:27:41 - INFO --> getZoomById: register-user=&register-email=adriennepenrod%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2018-03-09 20:17:04 - INFO --> getUserByCookie: 
+2018-03-09 20:17:04 - INFO --> getZoomById: register-user=&register-email=tracyhatchew%40charter.net&register-pass=&register-pass2=&register-agree=&
+2018-03-09 21:04:58 - INFO --> getUserByCookie: 
+2018-03-09 21:04:58 - INFO --> getZoomById: register-user=&register-email=murielcp3%40aol.com&register-pass=&register-pass2=&register-agree=&

@@ -1,0 +1,12 @@
+2018-10-06 4:01:57 - INFO --> getUserByCookie: 
+2018-10-06 4:01:57 - INFO --> getZoomById: cpanel
+2018-10-06 17:39:11 - INFO --> getUserByCookie: 
+2018-10-06 17:39:11 - INFO --> getZoomById: status
+2018-10-06 17:39:14 - INFO --> getUserByCookie: 
+2018-10-06 17:39:14 - INFO --> getZoomById: phpMyAdmin/scripts/setup.php
+2018-10-06 17:39:16 - INFO --> getUserByCookie: 
+2018-10-06 17:39:16 - INFO --> getZoomById: phpmyadmin/scripts/setup.php
+2018-10-06 17:39:19 - INFO --> getUserByCookie: 
+2018-10-06 17:39:19 - INFO --> getZoomById: _phpMyAdmin/scripts/setup.php
+2018-10-06 17:39:22 - INFO --> getUserByCookie: 
+2018-10-06 17:39:22 - INFO --> getZoomById: admin/scripts/setup.php

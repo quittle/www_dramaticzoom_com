@@ -1,0 +1,4 @@
+2016-01-28 10:12:12 - INFO --> getUserByCookie: 
+2016-01-28 10:12:12 - INFO --> getZoomById: M)v(f
+2016-01-28 10:12:12 - INFO --> incrementZoomById: M)v(f
+2016-01-28 10:12:12 - INFO --> increment zoom: M)v(f

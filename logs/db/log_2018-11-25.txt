@@ -1,0 +1,12 @@
+2018-11-25 7:18:09 - INFO --> getUserByCookie: 
+2018-11-25 7:18:09 - INFO --> getZoomById: sitemap.xml
+2018-11-25 7:18:14 - INFO --> getUserByCookie: 
+2018-11-25 7:18:14 - INFO --> getZoomById: iSctp
+2018-11-25 7:18:14 - INFO --> incrementZoomById: iSctp
+2018-11-25 7:18:14 - INFO --> increment zoom: iSctp
+2018-11-25 16:19:13 - INFO --> getUserByCookie: 
+2018-11-25 16:19:13 - INFO --> getZoomById: email=c21triboro%40aol.com&reportType=&description=&
+2018-11-25 18:41:01 - INFO --> getUserByCookie: 
+2018-11-25 18:41:01 - INFO --> getZoomById: email=mmajor55%40sbcglobal.net&reportType=&description=&
+2018-11-25 22:09:08 - INFO --> getUserByCookie: 
+2018-11-25 22:09:08 - INFO --> getZoomById: up_auto_log=true

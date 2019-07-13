@@ -1,0 +1,13 @@
+2016-12-17 4:42:20 - INFO --> getUserByCookie: 
+2016-12-17 10:39:36 - INFO --> getUserByCookie: 
+2016-12-17 10:39:36 - INFO --> getZoomById: hoofwiowxls.html
+2016-12-17 12:08:23 - INFO --> getUserByCookie: 
+2016-12-17 12:08:23 - INFO --> getZoomById: xmlrpc.php
+2016-12-17 12:08:23 - INFO --> getUserByCookie: 
+2016-12-17 12:08:23 - INFO --> getZoomById: blog/robots.txt
+2016-12-17 12:08:27 - INFO --> getUserByCookie: 
+2016-12-17 12:08:27 - INFO --> getZoomById: blog/
+2016-12-17 12:08:27 - INFO --> getUserByCookie: 
+2016-12-17 12:08:27 - INFO --> getZoomById: wordpress/
+2016-12-17 12:08:28 - INFO --> getUserByCookie: 
+2016-12-17 12:08:28 - INFO --> getZoomById: wp/

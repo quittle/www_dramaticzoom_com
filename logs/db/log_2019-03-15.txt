@@ -1,0 +1,10 @@
+2019-03-15 0:59:51 - INFO --> getUserByCookie: 
+2019-03-15 0:59:51 - INFO --> getZoomById: email=taresa.he%40gmail.com&reportType=&description=&
+2019-03-15 1:33:55 - INFO --> getUserByCookie: 
+2019-03-15 1:33:55 - INFO --> getZoomById: email=wasserguy714%40aol.com&reportType=&description=&
+2019-03-15 12:38:22 - INFO --> getUserByCookie: 
+2019-03-15 12:38:22 - INFO --> getZoomById: email=louise.hodapp%40gmail.com&reportType=&description=&
+2019-03-15 15:27:20 - INFO --> getUserByCookie: 
+2019-03-15 15:27:20 - INFO --> getZoomById: email=ddemaria%40gmail.com&reportType=&description=&
+2019-03-15 18:10:10 - INFO --> getUserByCookie: 
+2019-03-15 18:10:10 - INFO --> getZoomById: email=ovedgroup%40gmail.com&reportType=&description=&

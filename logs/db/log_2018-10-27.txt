@@ -1,0 +1,9 @@
+2018-10-27 9:53:10 - INFO --> getUserByCookie: 
+2018-10-27 9:53:10 - INFO --> getZoomById: .git/HEAD
+2018-10-27 13:55:57 - INFO --> getUserByCookie: 
+2018-10-27 17:06:15 - INFO --> getUserByCookie: 
+2018-10-27 17:06:15 - INFO --> getZoomById: iSctp
+2018-10-27 17:06:15 - INFO --> incrementZoomById: iSctp
+2018-10-27 17:06:15 - INFO --> increment zoom: iSctp
+2018-10-27 17:25:25 - INFO --> getUserByCookie: 
+2018-10-27 17:25:25 - INFO --> getZoomById: .git/config

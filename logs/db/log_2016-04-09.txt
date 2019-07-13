@@ -1,0 +1,7 @@
+2016-04-09 5:39:08 - INFO --> getUserByCookie: 
+2016-04-09 14:13:53 - INFO --> getUserByCookie: 
+2016-04-09 14:13:53 - INFO --> getZoomById: iSctp
+2016-04-09 14:13:53 - INFO --> incrementZoomById: iSctp
+2016-04-09 14:13:53 - INFO --> increment zoom: iSctp
+2016-04-09 17:04:30 - INFO --> getUserByCookie: 
+2016-04-09 17:04:30 - INFO --> getZoomById: plus/mytag_js.php

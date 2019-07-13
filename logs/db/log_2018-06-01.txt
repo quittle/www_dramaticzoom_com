@@ -1,0 +1,12 @@
+2018-06-01 4:07:13 - INFO --> getUserByCookie: 
+2018-06-01 4:07:13 - INFO --> getZoomById: iSctp
+2018-06-01 4:07:13 - INFO --> incrementZoomById: iSctp
+2018-06-01 4:07:13 - INFO --> increment zoom: iSctp
+2018-06-01 7:26:14 - INFO --> getUserByCookie: 
+2018-06-01 7:26:14 - INFO --> getZoomById: wp-pols.php
+2018-06-01 14:15:14 - INFO --> getUserByCookie: 
+2018-06-01 14:15:14 - INFO --> getZoomById: iSctp
+2018-06-01 14:15:14 - INFO --> incrementZoomById: iSctp
+2018-06-01 14:15:14 - INFO --> increment zoom: iSctp
+2018-06-01 22:39:19 - INFO --> getUserByCookie: 
+2018-06-01 22:39:19 - INFO --> getZoomById: blog/

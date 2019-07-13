@@ -1,0 +1,2 @@
+2016-09-02 15:21:18 - INFO --> getUserByCookie: 
+2016-09-02 15:21:18 - INFO --> getZoomById: wp-includes/insmod.php

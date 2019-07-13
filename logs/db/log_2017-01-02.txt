@@ -1,0 +1,10 @@
+2017-01-02 6:02:14 - INFO --> getUserByCookie: 
+2017-01-02 6:02:14 - INFO --> getZoomById: xmlrpc.php
+2017-01-02 6:02:15 - INFO --> getUserByCookie: 
+2017-01-02 6:02:15 - INFO --> getZoomById: blog/robots.txt
+2017-01-02 6:02:15 - INFO --> getUserByCookie: 
+2017-01-02 6:02:15 - INFO --> getZoomById: blog/
+2017-01-02 6:02:15 - INFO --> getUserByCookie: 
+2017-01-02 6:02:15 - INFO --> getZoomById: wordpress/
+2017-01-02 6:02:16 - INFO --> getUserByCookie: 
+2017-01-02 6:02:16 - INFO --> getZoomById: wp/

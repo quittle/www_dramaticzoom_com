@@ -1,0 +1,8 @@
+2018-06-13 2:09:45 - INFO --> getUserByCookie: 
+2018-06-13 3:17:00 - INFO --> getUserByCookie: 
+2018-06-13 3:17:00 - INFO --> getZoomById: iSctp
+2018-06-13 3:17:00 - INFO --> incrementZoomById: iSctp
+2018-06-13 3:17:00 - INFO --> increment zoom: iSctp
+2018-06-13 7:12:10 - INFO --> getUserByCookie: 
+2018-06-13 7:12:10 - INFO --> getZoomById: wp-datas.php
+2018-06-13 9:08:59 - INFO --> getUserByCookie: 

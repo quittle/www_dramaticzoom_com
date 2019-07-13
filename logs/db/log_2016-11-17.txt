@@ -1,0 +1,8 @@
+2016-11-17 5:22:50 - INFO --> getUserByCookie: 
+2016-11-17 8:59:38 - INFO --> getUserByCookie: 
+2016-11-17 8:59:38 - INFO --> getZoomById: wp-login.php
+2016-11-17 12:27:59 - INFO --> getUserByCookie: 
+2016-11-17 12:27:59 - INFO --> getZoomById: wp-includes/js/quicktags.js
+2016-11-17 12:27:59 - INFO --> getUserByCookie: 
+2016-11-17 12:27:59 - INFO --> getZoomById: components/com_content/metadata.xml
+2016-11-17 14:16:16 - INFO --> getUserByCookie: 

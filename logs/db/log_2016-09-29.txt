@@ -1,0 +1,29 @@
+2016-09-29 2:02:36 - INFO --> getUserByCookie: 
+2016-09-29 2:02:36 - INFO --> getZoomById: iSctp
+2016-09-29 2:02:36 - INFO --> incrementZoomById: iSctp
+2016-09-29 2:02:36 - INFO --> increment zoom: iSctp
+2016-09-29 3:09:30 - INFO --> getUserByCookie: 
+2016-09-29 3:09:30 - INFO --> getZoomById: G1YU4
+2016-09-29 3:09:30 - INFO --> incrementZoomById: G1YU4
+2016-09-29 3:09:30 - INFO --> increment zoom: G1YU4
+2016-09-29 4:40:27 - INFO --> getUserByCookie: 
+2016-09-29 4:40:27 - INFO --> getZoomById: w6tlCc
+2016-09-29 4:40:27 - INFO --> incrementZoomById: w6tlCc
+2016-09-29 4:40:27 - INFO --> increment zoom: w6tlCc
+2016-09-29 6:17:16 - INFO --> getUserByCookie: 
+2016-09-29 6:17:16 - INFO --> getZoomById: iSctp
+2016-09-29 6:17:16 - INFO --> incrementZoomById: iSctp
+2016-09-29 6:17:16 - INFO --> increment zoom: iSctp
+2016-09-29 13:37:19 - INFO --> getUserByCookie: 
+2016-09-29 19:22:25 - INFO --> getUserByCookie: 
+2016-09-29 19:22:25 - INFO --> getZoomById: wp-login.php
+2016-09-29 20:01:15 - INFO --> getUserByCookie: 
+2016-09-29 20:01:15 - INFO --> getZoomById: xmlrpc.php
+2016-09-29 20:01:15 - INFO --> getUserByCookie: 
+2016-09-29 20:01:15 - INFO --> getZoomById: blog/robots.txt
+2016-09-29 20:01:15 - INFO --> getUserByCookie: 
+2016-09-29 20:01:15 - INFO --> getZoomById: blog/
+2016-09-29 20:01:16 - INFO --> getUserByCookie: 
+2016-09-29 20:01:16 - INFO --> getZoomById: wordpress/
+2016-09-29 20:01:16 - INFO --> getUserByCookie: 
+2016-09-29 20:01:16 - INFO --> getZoomById: wp/

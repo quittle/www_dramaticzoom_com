@@ -1,0 +1,10 @@
+2017-09-17 1:19:43 - INFO --> getUserByCookie: 
+2017-09-17 1:19:43 - INFO --> getZoomById: register-user=&register-email=dworkman72%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-09-17 2:37:59 - INFO --> getUserByCookie: 
+2017-09-17 2:37:59 - INFO --> getZoomById: register-user=&register-email=dworkman72%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-09-17 6:22:09 - INFO --> getUserByCookie: 
+2017-09-17 6:22:09 - INFO --> getZoomById: register-user=&register-email=li-ming.wang%40hsc.utah.edu&register-pass=&register-pass2=&register-agree=&
+2017-09-17 15:54:52 - INFO --> getUserByCookie: 
+2017-09-17 15:54:52 - INFO --> getZoomById: register-user=&register-email=hanna.lafayette%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-09-17 18:05:04 - INFO --> getUserByCookie: 
+2017-09-17 18:05:04 - INFO --> getZoomById: register-user=&register-email=dorispalmer%40cox.net&register-pass=&register-pass2=&register-agree=&

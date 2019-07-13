@@ -1,0 +1,6 @@
+2018-05-31 2:50:27 - INFO --> getUserByCookie: 
+2018-05-31 2:50:27 - INFO --> getZoomById: license.php
+2018-05-31 11:51:00 - INFO --> getUserByCookie: 
+2018-05-31 14:17:49 - INFO --> getUserByCookie: 
+2018-05-31 14:17:49 - INFO --> getZoomById: configuration.php
+2018-05-31 16:14:03 - INFO --> getUserByCookie: 

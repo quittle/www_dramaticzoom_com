@@ -1,0 +1,24 @@
+2019-07-07 0:00:16 - INFO --> getUserByCookie: 
+2019-07-07 0:00:16 - INFO --> getZoomById: admin/images/cal_date_over.gif
+2019-07-07 0:00:37 - INFO --> getUserByCookie: 
+2019-07-07 0:00:37 - INFO --> getZoomById: admin/login.php
+2019-07-07 0:00:46 - INFO --> getUserByCookie: 
+2019-07-07 0:00:46 - INFO --> getZoomById: templates/system/css/system.css
+2019-07-07 0:00:58 - INFO --> getUserByCookie: 
+2019-07-07 0:00:58 - INFO --> getZoomById: wp-login.php
+2019-07-07 2:56:21 - INFO --> getUserByCookie: 
+2019-07-07 2:56:21 - INFO --> getZoomById: fl=i4c
+2019-07-07 2:56:21 - INFO --> incrementZoomById: fl=i4c
+2019-07-07 2:56:21 - INFO --> increment zoom: fl=i4c
+2019-07-07 18:17:47 - INFO --> getUserByCookie: 
+2019-07-07 18:17:47 - INFO --> getZoomById: wp-login.php
+2019-07-07 20:21:35 - INFO --> getUserByCookie: 
+2019-07-07 20:21:35 - INFO --> getZoomById: include/dialog/select_soft_post.php
+2019-07-07 20:21:38 - INFO --> getUserByCookie: 
+2019-07-07 20:21:38 - INFO --> getZoomById: plus/kwpznaikpsdbk.php
+2019-07-07 22:28:19 - INFO --> getUserByCookie: 
+2019-07-07 22:28:19 - INFO --> getZoomById: wp-login.php
+2019-07-07 23:38:53 - INFO --> getUserByCookie: 
+2019-07-07 23:38:53 - INFO --> getZoomById: wp-login.php
+2019-07-07 23:39:44 - INFO --> getUserByCookie: 
+2019-07-07 23:39:44 - INFO --> getZoomById: wp-login.php

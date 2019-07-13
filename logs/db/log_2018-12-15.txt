@@ -1,0 +1,17 @@
+2018-12-15 2:53:09 - INFO --> getUserByCookie: 
+2018-12-15 2:53:09 - INFO --> getZoomById: mbahKb
+2018-12-15 2:53:09 - INFO --> incrementZoomById: mbahKb
+2018-12-15 2:53:09 - INFO --> increment zoom: mbahKb
+2018-12-15 5:09:17 - INFO --> getUserByCookie: 
+2018-12-15 13:01:56 - INFO --> getUserByCookie: 
+2018-12-15 13:01:56 - INFO --> getZoomById: phpmyadmin/
+2018-12-15 13:02:01 - INFO --> getUserByCookie: 
+2018-12-15 13:02:01 - INFO --> getZoomById: pma/
+2018-12-15 13:02:04 - INFO --> getUserByCookie: 
+2018-12-15 13:02:04 - INFO --> getZoomById: phpMyAdmin/
+2018-12-15 13:56:09 - INFO --> getUserByCookie: 
+2018-12-15 13:56:09 - INFO --> getZoomById: mbahKb
+2018-12-15 13:56:09 - INFO --> incrementZoomById: mbahKb
+2018-12-15 13:56:09 - INFO --> increment zoom: mbahKb
+2018-12-15 14:03:52 - INFO --> getUserByCookie: 
+2018-12-15 14:03:52 - INFO --> getZoomById: email=jl.smile%40yahoo.co.uk&reportType=&description=&

@@ -1,0 +1,10 @@
+2016-10-04 1:15:58 - INFO --> getUserByCookie: 
+2016-10-04 1:15:58 - INFO --> getZoomById: admin
+2016-10-04 1:15:59 - INFO --> getUserByCookie: 
+2016-10-04 1:15:59 - INFO --> getZoomById: wp-admin
+2016-10-04 1:16:00 - INFO --> getUserByCookie: 
+2016-10-04 1:16:00 - INFO --> getZoomById: administrator
+2016-10-04 3:06:45 - INFO --> getUserByCookie: 
+2016-10-04 3:06:45 - INFO --> getZoomById: author=1
+2016-10-04 11:59:16 - INFO --> getUserByCookie: 
+2016-10-04 11:59:16 - INFO --> getZoomById: wordpress/wp-login.php

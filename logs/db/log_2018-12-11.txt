@@ -1,0 +1,38 @@
+2018-12-11 0:36:00 - INFO --> getUserByCookie: 
+2018-12-11 0:36:00 - INFO --> getZoomById: w6tlCc
+2018-12-11 0:36:00 - INFO --> incrementZoomById: w6tlCc
+2018-12-11 0:36:00 - INFO --> increment zoom: w6tlCc
+2018-12-11 1:05:26 - INFO --> getUserByCookie: 
+2018-12-11 1:05:26 - INFO --> getZoomById: w6tlCc
+2018-12-11 1:05:26 - INFO --> incrementZoomById: w6tlCc
+2018-12-11 1:05:26 - INFO --> increment zoom: w6tlCc
+2018-12-11 1:10:56 - INFO --> getUserByCookie: 
+2018-12-11 1:10:56 - INFO --> getZoomById: email=btwine4%40gmail.com&reportType=&description=&
+2018-12-11 6:06:44 - INFO --> getUserByCookie: 
+2018-12-11 6:06:44 - INFO --> getZoomById: iSctp
+2018-12-11 6:06:44 - INFO --> incrementZoomById: iSctp
+2018-12-11 6:06:44 - INFO --> increment zoom: iSctp
+2018-12-11 10:26:50 - INFO --> getUserByCookie: 
+2018-12-11 10:26:50 - INFO --> getZoomById: w6tlCc
+2018-12-11 10:26:50 - INFO --> incrementZoomById: w6tlCc
+2018-12-11 10:26:50 - INFO --> increment zoom: w6tlCc
+2018-12-11 11:36:47 - INFO --> getUserByCookie: 
+2018-12-11 11:36:47 - INFO --> getZoomById: iSctp
+2018-12-11 11:36:47 - INFO --> incrementZoomById: iSctp
+2018-12-11 11:36:47 - INFO --> increment zoom: iSctp
+2018-12-11 12:27:27 - INFO --> getUserByCookie: 
+2018-12-11 12:27:27 - INFO --> getZoomById: fl=i4c
+2018-12-11 12:27:27 - INFO --> incrementZoomById: fl=i4c
+2018-12-11 12:27:27 - INFO --> increment zoom: fl=i4c
+2018-12-11 13:00:57 - INFO --> getUserByCookie: 
+2018-12-11 13:00:58 - INFO --> getUserByCookie: 
+2018-12-11 13:00:58 - INFO --> getZoomById: isctp
+2018-12-11 13:00:58 - INFO --> incrementZoomById: isctp
+2018-12-11 13:00:58 - INFO --> increment zoom: isctp
+2018-12-11 13:00:59 - INFO --> getUserByCookie: 
+2018-12-11 16:39:02 - INFO --> getUserByCookie: 
+2018-12-11 16:39:02 - INFO --> getZoomById: iSctp
+2018-12-11 16:39:02 - INFO --> incrementZoomById: iSctp
+2018-12-11 16:39:02 - INFO --> increment zoom: iSctp
+2018-12-11 19:55:12 - INFO --> getUserByCookie: 
+2018-12-11 19:55:12 - INFO --> getZoomById: epdhewmwudcfhbq.html

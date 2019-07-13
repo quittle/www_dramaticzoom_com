@@ -1,0 +1,10 @@
+2018-05-03 3:13:27 - INFO --> getUserByCookie: 
+2018-05-03 3:13:27 - INFO --> getZoomById: G1YU4
+2018-05-03 3:13:27 - INFO --> incrementZoomById: G1YU4
+2018-05-03 3:13:27 - INFO --> increment zoom: G1YU4
+2018-05-03 18:48:42 - INFO --> getUserByCookie: 
+2018-05-03 18:48:42 - INFO --> getZoomById: register-user=&register-email=zoe.pe.ele%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2018-05-03 21:57:48 - INFO --> getUserByCookie: 
+2018-05-03 21:57:48 - INFO --> getZoomById: G1YU4
+2018-05-03 21:57:48 - INFO --> incrementZoomById: G1YU4
+2018-05-03 21:57:48 - INFO --> increment zoom: G1YU4

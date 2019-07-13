@@ -1,0 +1,6 @@
+2018-06-07 7:31:25 - INFO --> getUserByCookie: 
+2018-06-07 7:31:25 - INFO --> getZoomById: iSctp
+2018-06-07 7:31:25 - INFO --> incrementZoomById: iSctp
+2018-06-07 7:31:25 - INFO --> increment zoom: iSctp
+2018-06-07 22:34:42 - INFO --> getUserByCookie: 
+2018-06-07 22:34:42 - INFO --> getZoomById: overlay.php

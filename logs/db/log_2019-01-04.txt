@@ -1,0 +1,13 @@
+2019-01-04 12:51:11 - INFO --> getUserByCookie: 
+2019-01-04 14:39:21 - INFO --> getUserByCookie: 
+2019-01-04 14:39:21 - INFO --> getZoomById: wordpress/wp-config.php~
+2019-01-04 16:03:06 - INFO --> getUserByCookie: 
+2019-01-04 16:03:06 - INFO --> getZoomById: email=kromelynk%40yahoo.com&reportType=&description=&
+2019-01-04 16:04:31 - INFO --> getUserByCookie: 
+2019-01-04 16:04:31 - INFO --> getZoomById: email=shazen1945%40yahoo.com&reportType=&description=&
+2019-01-04 17:39:16 - INFO --> getUserByCookie: 
+2019-01-04 17:39:16 - INFO --> getZoomById: wordpress/wp-config.php~
+2019-01-04 23:04:45 - INFO --> getUserByCookie: 
+2019-01-04 23:04:45 - INFO --> getZoomById: email=gabi.vrabie%40gmail.com&reportType=&description=&
+2019-01-04 23:56:52 - INFO --> getUserByCookie: 
+2019-01-04 23:56:52 - INFO --> getZoomById: sitemap.xml

@@ -1,0 +1,11 @@
+2016-08-16 4:28:42 - INFO --> getUserByCookie: 
+2016-08-16 4:28:42 - INFO --> getZoomById: iSctp
+2016-08-16 4:28:42 - INFO --> incrementZoomById: iSctp
+2016-08-16 4:28:42 - INFO --> increment zoom: iSctp
+2016-08-16 4:51:02 - INFO --> getUserByCookie: 
+2016-08-16 4:51:02 - INFO --> getZoomById: xmlrpc.php
+2016-08-16 5:50:53 - INFO --> getUserByCookie: 
+2016-08-16 5:50:53 - INFO --> getZoomById: iSctp
+2016-08-16 5:50:53 - INFO --> incrementZoomById: iSctp
+2016-08-16 5:50:53 - INFO --> increment zoom: iSctp
+2016-08-16 5:50:55 - INFO --> getUserByCookie: 

@@ -1,0 +1,13 @@
+2015-11-20 0:26:59 - INFO --> getUserByCookie: 
+2015-11-20 0:26:59 - INFO --> getZoomById: mbahKb
+2015-11-20 0:26:59 - INFO --> incrementZoomById: mbahKb
+2015-11-20 0:26:59 - INFO --> increment zoom: mbahKb
+2015-11-20 11:32:15 - INFO --> getUserByCookie: 
+2015-11-20 11:32:15 - INFO --> getZoomById: mbahKb
+2015-11-20 11:32:15 - INFO --> incrementZoomById: mbahKb
+2015-11-20 11:32:15 - INFO --> increment zoom: mbahKb
+2015-11-20 16:42:44 - INFO --> getUserByCookie: 
+2015-11-20 16:42:44 - INFO --> getZoomById: iSctp
+2015-11-20 16:42:44 - INFO --> incrementZoomById: iSctp
+2015-11-20 16:42:44 - INFO --> increment zoom: iSctp
+2015-11-20 19:14:42 - INFO --> getUserByCookie: 

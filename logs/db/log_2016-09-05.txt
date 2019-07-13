@@ -1,0 +1,7 @@
+2016-09-05 7:13:22 - INFO --> getUserByCookie: 
+2016-09-05 7:13:22 - INFO --> getZoomById: option=com_breezingforms
+2016-09-05 7:20:59 - INFO --> getUserByCookie: 
+2016-09-05 7:20:59 - INFO --> getZoomById: iSctp
+2016-09-05 7:20:59 - INFO --> incrementZoomById: iSctp
+2016-09-05 7:20:59 - INFO --> increment zoom: iSctp
+2016-09-05 7:21:21 - INFO --> getUserByCookie: 

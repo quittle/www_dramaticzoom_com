@@ -1,0 +1,14 @@
+2018-06-23 8:23:18 - INFO --> getUserByCookie: 
+2018-06-23 8:23:18 - INFO --> getZoomById: G1YU4
+2018-06-23 8:23:18 - INFO --> incrementZoomById: G1YU4
+2018-06-23 8:23:18 - INFO --> increment zoom: G1YU4
+2018-06-23 16:03:28 - INFO --> getUserByCookie: 
+2018-06-23 16:03:28 - INFO --> getZoomById: G1YU4
+2018-06-23 16:03:28 - INFO --> incrementZoomById: G1YU4
+2018-06-23 16:03:28 - INFO --> increment zoom: G1YU4
+2018-06-23 16:48:47 - INFO --> getUserByCookie: 
+2018-06-23 16:48:47 - INFO --> getZoomById: iSctp
+2018-06-23 16:48:47 - INFO --> incrementZoomById: iSctp
+2018-06-23 16:48:47 - INFO --> increment zoom: iSctp
+2018-06-23 23:47:54 - INFO --> getUserByCookie: 
+2018-06-23 23:47:54 - INFO --> getZoomById: modules/modules/version.php

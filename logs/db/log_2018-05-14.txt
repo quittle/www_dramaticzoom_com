@@ -1,0 +1,8 @@
+2018-05-14 8:10:39 - INFO --> getUserByCookie: 
+2018-05-14 8:10:39 - INFO --> getZoomById: README.txt
+2018-05-14 11:22:03 - INFO --> getUserByCookie: 
+2018-05-14 11:22:03 - INFO --> getZoomById: G1YU4
+2018-05-14 11:22:03 - INFO --> incrementZoomById: G1YU4
+2018-05-14 11:22:03 - INFO --> increment zoom: G1YU4
+2018-05-14 11:22:55 - INFO --> getUserByCookie: 
+2018-05-14 11:22:55 - INFO --> getZoomById: fnnjngiqzyudftp.html

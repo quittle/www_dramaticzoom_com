@@ -1,0 +1,11 @@
+2016-02-01 9:28:35 - INFO --> getUserByCookie: 
+2016-02-01 9:28:35 - INFO --> getZoomById: G1YU4
+2016-02-01 9:28:35 - INFO --> incrementZoomById: G1YU4
+2016-02-01 9:28:35 - INFO --> increment zoom: G1YU4
+2016-02-01 13:37:32 - INFO --> getUserByCookie: 
+2016-02-01 13:37:32 - INFO --> getZoomById: G1YU4
+2016-02-01 13:37:32 - INFO --> incrementZoomById: G1YU4
+2016-02-01 13:37:32 - INFO --> increment zoom: G1YU4
+2016-02-01 17:58:33 - INFO --> getUserByCookie: 
+2016-02-01 17:58:33 - INFO --> getZoomById: reportType=Legal+Issue&email=mark357177%40hotmail.com&description=wVnxCa+http%3A%2F%2Fwww.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
+2016-02-01 20:05:45 - INFO --> getUserByCookie: 

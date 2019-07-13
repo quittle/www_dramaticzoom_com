@@ -1,0 +1,20 @@
+2018-10-24 2:51:02 - INFO --> getUserByCookie: 
+2018-10-24 4:46:39 - INFO --> getUserByCookie: 
+2018-10-24 4:46:39 - INFO --> getZoomById: wp-login.php
+2018-10-24 4:46:47 - INFO --> getUserByCookie: 
+2018-10-24 4:46:47 - INFO --> getZoomById: option=com_user&task=register
+2018-10-24 4:46:51 - INFO --> getUserByCookie: 
+2018-10-24 4:46:51 - INFO --> getZoomById: user/register
+2018-10-24 4:46:53 - INFO --> getUserByCookie: 
+2018-10-24 4:46:53 - INFO --> getZoomById: wp-login.php
+2018-10-24 4:47:00 - INFO --> getUserByCookie: 
+2018-10-24 4:47:00 - INFO --> getZoomById: option=com_user&task=register
+2018-10-24 4:47:04 - INFO --> getUserByCookie: 
+2018-10-24 4:47:04 - INFO --> getZoomById: user/register
+2018-10-24 7:54:17 - INFO --> getUserByCookie: 
+2018-10-24 7:54:17 - INFO --> getZoomById: iSctp
+2018-10-24 7:54:17 - INFO --> incrementZoomById: iSctp
+2018-10-24 7:54:17 - INFO --> increment zoom: iSctp
+2018-10-24 14:14:40 - INFO --> getUserByCookie: 
+2018-10-24 18:57:38 - INFO --> getUserByCookie: 
+2018-10-24 18:57:38 - INFO --> getZoomById: xmlrpz.php

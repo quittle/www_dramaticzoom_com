@@ -1,0 +1,18 @@
+2018-12-08 0:06:44 - INFO --> getUserByCookie: 
+2018-12-08 1:44:42 - INFO --> getUserByCookie: 
+2018-12-08 5:43:37 - INFO --> getUserByCookie: 
+2018-12-08 5:43:37 - INFO --> getZoomById: email=tonytran777%40gmail.com&reportType=&description=&
+2018-12-08 14:03:28 - INFO --> getUserByCookie: 
+2018-12-08 14:03:28 - INFO --> getZoomById: sitemap.xml
+2018-12-08 14:03:38 - INFO --> getUserByCookie: 
+2018-12-08 14:03:38 - INFO --> getZoomById: iSctp
+2018-12-08 14:03:38 - INFO --> incrementZoomById: iSctp
+2018-12-08 14:03:38 - INFO --> increment zoom: iSctp
+2018-12-08 17:46:53 - INFO --> getUserByCookie: 
+2018-12-08 17:46:53 - INFO --> getZoomById: mbahKb
+2018-12-08 17:46:53 - INFO --> incrementZoomById: mbahKb
+2018-12-08 17:46:53 - INFO --> increment zoom: mbahKb
+2018-12-08 20:31:01 - INFO --> getUserByCookie: 
+2018-12-08 20:31:01 - INFO --> getZoomById: connectors/system/phpthumb.php
+2018-12-08 20:31:02 - INFO --> getUserByCookie: 
+2018-12-08 20:31:02 - INFO --> getZoomById: connectors/system/phpthumb.php

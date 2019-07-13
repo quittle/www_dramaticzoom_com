@@ -1,0 +1,52 @@
+2017-07-13 0:26:48 - INFO --> getUserByCookie: 
+2017-07-13 0:26:48 - INFO --> getZoomById: iSctp
+2017-07-13 0:26:48 - INFO --> incrementZoomById: iSctp
+2017-07-13 0:26:48 - INFO --> increment zoom: iSctp
+2017-07-13 1:32:08 - INFO --> getUserByCookie: 
+2017-07-13 1:32:08 - INFO --> getZoomById: register-user=&register-email=ezettle%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-07-13 5:09:44 - INFO --> getUserByCookie: 
+2017-07-13 5:09:44 - INFO --> getZoomById: wp-login.php
+2017-07-13 5:09:47 - INFO --> getUserByCookie: 
+2017-07-13 5:09:47 - INFO --> getZoomById: blog/wp-login.php
+2017-07-13 5:09:50 - INFO --> getUserByCookie: 
+2017-07-13 5:09:50 - INFO --> getZoomById: wordpress/wp-login.php
+2017-07-13 5:09:53 - INFO --> getUserByCookie: 
+2017-07-13 5:09:53 - INFO --> getZoomById: wp/wp-login.php
+2017-07-13 6:42:43 - INFO --> getUserByCookie: 
+2017-07-13 6:42:43 - INFO --> getZoomById: iSctp
+2017-07-13 6:42:43 - INFO --> incrementZoomById: iSctp
+2017-07-13 6:42:43 - INFO --> increment zoom: iSctp
+2017-07-13 7:36:25 - INFO --> getUserByCookie: 
+2017-07-13 7:36:25 - INFO --> getZoomById: register-user=&register-email=lilo.gruse%40t-online.de&register-pass=&register-pass2=&register-agree=&
+2017-07-13 8:03:07 - INFO --> getUserByCookie: 
+2017-07-13 8:03:07 - INFO --> getZoomById: register-user=&register-email=billy%40waychoffsac.com&register-pass=&register-pass2=&register-agree=&
+2017-07-13 8:24:41 - INFO --> getUserByCookie: 
+2017-07-13 8:24:41 - INFO --> getZoomById: register-user=&register-email=j%40nonplusultrainc.com&register-pass=&register-pass2=&register-agree=&
+2017-07-13 8:27:26 - INFO --> getUserByCookie: 
+2017-07-13 8:27:26 - INFO --> getZoomById: register-user=&register-email=monkey%40kcn.ne.jp&register-pass=&register-pass2=&register-agree=&
+2017-07-13 9:13:05 - INFO --> getUserByCookie: 
+2017-07-13 9:13:05 - INFO --> getZoomById: register-user=&register-email=j%40nonplusultrainc.com&register-pass=&register-pass2=&register-agree=&
+2017-07-13 9:39:02 - INFO --> getUserByCookie: 
+2017-07-13 9:39:02 - INFO --> getZoomById: register-user=&register-email=uluckydog%40comcast.net&register-pass=&register-pass2=&register-agree=&
+2017-07-13 11:37:29 - INFO --> getUserByCookie: 
+2017-07-13 11:37:29 - INFO --> getZoomById: register-user=&register-email=rboler1%40cox.net&register-pass=&register-pass2=&register-agree=&
+2017-07-13 19:01:58 - INFO --> getUserByCookie: 
+2017-07-13 19:01:58 - INFO --> getZoomById: register-user=&register-email=wrightc214%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-07-13 19:33:05 - INFO --> getUserByCookie: 
+2017-07-13 19:33:05 - INFO --> getZoomById: register-user=&register-email=cchmdbwcoffice%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-07-13 20:23:31 - INFO --> getUserByCookie: 
+2017-07-13 20:23:31 - INFO --> getZoomById: register-user=&register-email=kdavis0095%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-07-13 21:00:50 - INFO --> getUserByCookie: 
+2017-07-13 21:00:50 - INFO --> getZoomById: register-user=&register-email=matthew.pollich%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-07-13 21:53:47 - INFO --> getUserByCookie: 
+2017-07-13 21:53:47 - INFO --> getZoomById: register-user=&register-email=ofitogsa%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-07-13 22:10:20 - INFO --> getUserByCookie: 
+2017-07-13 22:10:20 - INFO --> getZoomById: register-user=&register-email=shawnchalifoux%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-07-13 22:29:50 - INFO --> getUserByCookie: 
+2017-07-13 22:29:50 - INFO --> getZoomById: .well-known/apple-app-site-association
+2017-07-13 22:40:00 - INFO --> getUserByCookie: 
+2017-07-13 22:40:00 - INFO --> getZoomById: apple-app-site-association
+2017-07-13 22:54:26 - INFO --> getUserByCookie: 
+2017-07-13 22:54:26 - INFO --> getZoomById: register-user=&register-email=rrs1019%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-07-13 23:25:50 - INFO --> getUserByCookie: 
+2017-07-13 23:25:50 - INFO --> getZoomById: .well-known/assetlinks.json

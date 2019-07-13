@@ -1,0 +1,10 @@
+2018-06-27 4:11:14 - INFO --> getUserByCookie: 
+2018-06-27 4:29:31 - INFO --> getUserByCookie: 
+2018-06-27 4:29:31 - INFO --> getZoomById: blog/wp-admin/install.php
+2018-06-27 6:32:20 - INFO --> getUserByCookie: 
+2018-06-27 9:01:26 - INFO --> getUserByCookie: 
+2018-06-27 9:01:26 - INFO --> getZoomById: G1YU4
+2018-06-27 9:01:26 - INFO --> incrementZoomById: G1YU4
+2018-06-27 9:01:26 - INFO --> increment zoom: G1YU4
+2018-06-27 10:16:59 - INFO --> getUserByCookie: 
+2018-06-27 10:16:59 - INFO --> getZoomById: components/modules.php

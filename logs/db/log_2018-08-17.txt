@@ -1,0 +1,10 @@
+2018-08-17 2:08:08 - INFO --> getUserByCookie: 
+2018-08-17 2:08:09 - INFO --> getUserByCookie: 
+2018-08-17 2:08:09 - INFO --> getZoomById: iSctp
+2018-08-17 2:08:09 - INFO --> incrementZoomById: iSctp
+2018-08-17 2:08:09 - INFO --> increment zoom: iSctp
+2018-08-17 3:40:49 - INFO --> getUserByCookie: 
+2018-08-17 3:40:49 - INFO --> getZoomById: sitemap.xml
+2018-08-17 3:40:52 - INFO --> getUserByCookie: 
+2018-08-17 3:40:54 - INFO --> getUserByCookie: 
+2018-08-17 3:40:54 - INFO --> getZoomById: ads.txt

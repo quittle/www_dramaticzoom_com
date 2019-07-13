@@ -1,0 +1,13 @@
+2015-09-18 10:40:33 - INFO --> getUserByCookie: 
+2015-09-18 10:40:33 - INFO --> getZoomById: fl=i4c
+2015-09-18 10:40:33 - INFO --> incrementZoomById: fl=i4c
+2015-09-18 10:40:33 - INFO --> increment zoom: fl=i4c
+2015-09-18 13:50:01 - INFO --> getUserByCookie: 
+2015-09-18 16:11:28 - INFO --> getUserByCookie: 
+2015-09-18 16:11:28 - INFO --> getZoomById: fl=i4c
+2015-09-18 16:11:28 - INFO --> incrementZoomById: fl=i4c
+2015-09-18 16:11:28 - INFO --> increment zoom: fl=i4c
+2015-09-18 16:11:41 - INFO --> getUserByCookie: 
+2015-09-18 16:11:41 - INFO --> getZoomById: fl=i4c
+2015-09-18 16:11:41 - INFO --> incrementZoomById: fl=i4c
+2015-09-18 16:11:41 - INFO --> increment zoom: fl=i4c

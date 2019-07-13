@@ -1,0 +1,22 @@
+2016-07-31 3:35:24 - INFO --> getUserByCookie: 
+2016-07-31 3:35:24 - INFO --> getZoomById: author=1
+2016-07-31 4:38:27 - INFO --> getUserByCookie: 
+2016-07-31 4:38:27 - INFO --> getZoomById: w+JPX
+2016-07-31 4:38:27 - INFO --> incrementZoomById: w+JPX
+2016-07-31 4:38:27 - INFO --> increment zoom: w+JPX
+2016-07-31 8:42:37 - INFO --> getUserByCookie: 
+2016-07-31 8:42:37 - INFO --> getZoomById: iSctp
+2016-07-31 8:42:37 - INFO --> incrementZoomById: iSctp
+2016-07-31 8:42:37 - INFO --> increment zoom: iSctp
+2016-07-31 8:42:39 - INFO --> getUserByCookie: 
+2016-07-31 11:03:23 - INFO --> getUserByCookie: 
+2016-07-31 12:48:58 - INFO --> getUserByCookie: 
+2016-07-31 12:48:58 - INFO --> getZoomById: .git/
+2016-07-31 14:43:04 - INFO --> getUserByCookie: 
+2016-07-31 14:43:04 - INFO --> getZoomById: iSctp
+2016-07-31 14:43:04 - INFO --> incrementZoomById: iSctp
+2016-07-31 14:43:04 - INFO --> increment zoom: iSctp
+2016-07-31 15:49:19 - INFO --> getUserByCookie: 
+2016-07-31 15:49:19 - INFO --> getZoomById: iSctp
+2016-07-31 15:49:19 - INFO --> incrementZoomById: iSctp
+2016-07-31 15:49:19 - INFO --> increment zoom: iSctp

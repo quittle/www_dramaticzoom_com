@@ -1,0 +1,33 @@
+2019-02-25 1:11:49 - INFO --> getUserByCookie: 
+2019-02-25 1:11:49 - INFO --> getZoomById: email=dbrito1987%40yahoo.com&reportType=&description=&
+2019-02-25 2:16:48 - INFO --> getUserByCookie: 
+2019-02-25 2:16:48 - INFO --> getZoomById: iSctp
+2019-02-25 2:16:48 - INFO --> incrementZoomById: iSctp
+2019-02-25 2:16:48 - INFO --> increment zoom: iSctp
+2019-02-25 2:45:00 - INFO --> getUserByCookie: 
+2019-02-25 2:45:00 - INFO --> getZoomById: fckeditor/editor/filemanager/connectors/uploadtest.html
+2019-02-25 3:01:46 - INFO --> getUserByCookie: 
+2019-02-25 3:01:46 - INFO --> getZoomById: M)v(f
+2019-02-25 3:01:46 - INFO --> incrementZoomById: M)v(f
+2019-02-25 3:01:46 - INFO --> increment zoom: M)v(f
+2019-02-25 14:34:20 - INFO --> getUserByCookie: 
+2019-02-25 14:34:20 - INFO --> getZoomById: email=aliencat%40rochester.rr.com&reportType=&description=&
+2019-02-25 14:42:59 - INFO --> getUserByCookie: 
+2019-02-25 14:42:59 - INFO --> getZoomById: g=Comment&m=Widget&a=fetch
+2019-02-25 16:21:25 - INFO --> getUserByCookie: 
+2019-02-25 16:21:25 - INFO --> getZoomById: email=apcorp%40srttx.com&reportType=&description=&
+2019-02-25 18:19:15 - INFO --> getUserByCookie: 
+2019-02-25 18:19:15 - INFO --> getZoomById: administrator/index.php
+2019-02-25 18:42:00 - INFO --> getUserByCookie: 
+2019-02-25 18:42:00 - INFO --> getZoomById: email=kfraccio%40aol.com&reportType=&description=&
+2019-02-25 19:42:05 - INFO --> getUserByCookie: 
+2019-02-25 21:28:55 - INFO --> getUserByCookie: 
+2019-02-25 21:28:55 - INFO --> getZoomById: email=irsusan%40aol.com&reportType=&description=&
+2019-02-25 22:25:15 - INFO --> getUserByCookie: 
+2019-02-25 22:25:15 - INFO --> getZoomById: email=jwm3rd%40yahoo.com&reportType=&description=&
+2019-02-25 23:12:33 - INFO --> getUserByCookie: 
+2019-02-25 23:12:33 - INFO --> getZoomById: email=istusa%40aol.com&reportType=&description=&
+2019-02-25 23:23:28 - INFO --> getUserByCookie: 
+2019-02-25 23:23:28 - INFO --> getZoomById: email=mdagostino%40ismgcorp.com&reportType=&description=&
+2019-02-25 23:55:42 - INFO --> getUserByCookie: 
+2019-02-25 23:55:42 - INFO --> getZoomById: email=wjanwea%40aol.com&reportType=&description=&

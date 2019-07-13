@@ -1,0 +1,4 @@
+2016-12-30 5:16:03 - INFO --> getUserByCookie: 
+2016-12-30 18:34:12 - INFO --> getUserByCookie: 
+2016-12-30 20:31:03 - INFO --> getUserByCookie: 
+2016-12-30 20:31:03 - INFO --> getZoomById: reportType=Legal+Issue&email=jfvynms4281rt%40hotmail.com&description=WGeDLz+http%3A%2F%2Fwww.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com

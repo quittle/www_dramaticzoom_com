@@ -1,0 +1,12 @@
+2019-03-02 1:53:41 - INFO --> getUserByCookie: 
+2019-03-02 1:53:41 - INFO --> getZoomById: email=rvburbank%40gmail.com&reportType=&description=&
+2019-03-02 5:50:07 - INFO --> getUserByCookie: 
+2019-03-02 5:50:07 - INFO --> getZoomById: email=maryflormarinas%40yahoo.ca&reportType=&description=&
+2019-03-02 6:47:39 - INFO --> getUserByCookie: 
+2019-03-02 6:47:39 - INFO --> getZoomById: temp.php
+2019-03-02 9:21:54 - INFO --> getUserByCookie: 
+2019-03-02 9:21:54 - INFO --> getZoomById: email=rkdekle%40gmail.com&reportType=&description=&
+2019-03-02 17:00:07 - INFO --> getUserByCookie: 
+2019-03-02 17:00:07 - INFO --> getZoomById: iSctp
+2019-03-02 17:00:07 - INFO --> incrementZoomById: iSctp
+2019-03-02 17:00:07 - INFO --> increment zoom: iSctp

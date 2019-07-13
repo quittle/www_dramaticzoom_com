@@ -1,0 +1,23 @@
+2018-12-31 1:39:32 - INFO --> getUserByCookie: 
+2018-12-31 1:39:32 - INFO --> getZoomById: email=ursula.smalls%40yahoo.com&reportType=&description=&
+2018-12-31 2:48:08 - INFO --> getUserByCookie: 
+2018-12-31 5:35:31 - INFO --> getUserByCookie: 
+2018-12-31 5:35:37 - INFO --> getUserByCookie: 
+2018-12-31 5:35:37 - INFO --> getZoomById: reportType=Legal+Issue&email=peter%40mattandfamily.com&description=Hello+there%0D%0A%0D%0AAll+Nike+Shoes+and+Air+Jordan+are+49.95+dollars+with+free+shipping.++Satisfaction+Guaranteed.++Please+visit+our+site%3A+www.nikesales+.us%0D%0A%0D%0AThank+You%2C%0D%0A%0D%0ADramatic+Zoom
+2018-12-31 6:57:31 - INFO --> getUserByCookie: 
+2018-12-31 15:20:06 - INFO --> getUserByCookie: 
+2018-12-31 15:20:06 - INFO --> getZoomById: email=goudarzi.bita%40yahoo.com&reportType=&description=&
+2018-12-31 15:38:03 - INFO --> getUserByCookie: 
+2018-12-31 15:38:03 - INFO --> getZoomById: Public/uploadify/uploadify.php
+2018-12-31 15:40:14 - INFO --> getUserByCookie: 
+2018-12-31 15:40:14 - INFO --> getZoomById: dapur/apps/app_theme/libs/save_file.php
+2018-12-31 15:40:16 - INFO --> getUserByCookie: 
+2018-12-31 15:40:16 - INFO --> getZoomById: dapur/apps/app_theme/libs/atgmumtzrgvkhw.php
+2018-12-31 15:50:49 - INFO --> getUserByCookie: 
+2018-12-31 15:50:49 - INFO --> getZoomById: statics/ueditor/php/controller.php
+2018-12-31 17:51:00 - INFO --> getUserByCookie: 
+2018-12-31 17:51:00 - INFO --> getZoomById: email=kay_chino%40yahoo.com&reportType=&description=&
+2018-12-31 21:06:16 - INFO --> getUserByCookie: 
+2018-12-31 21:06:16 - INFO --> getZoomById: email=kay_chino%40yahoo.com&reportType=&description=&
+2018-12-31 23:44:37 - INFO --> getUserByCookie: 
+2018-12-31 23:44:37 - INFO --> getZoomById: email=tjjacksonsm%40gmail.com&reportType=&description=&

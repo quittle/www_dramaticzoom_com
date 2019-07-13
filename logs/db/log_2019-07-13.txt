@@ -1,0 +1,38 @@
+2019-07-13 6:44:49 - INFO --> getUserByCookie: 
+2019-07-13 6:44:49 - INFO --> getZoomById: g=Comment&m=Widget&a=fetch
+2019-07-13 7:48:06 - INFO --> getUserByCookie: 
+2019-07-13 7:48:06 - INFO --> getZoomById: wp-login.php
+2019-07-13 7:48:10 - INFO --> getUserByCookie: 
+2019-07-13 7:48:10 - INFO --> getZoomById: option=com_user&task=register
+2019-07-13 7:48:14 - INFO --> getUserByCookie: 
+2019-07-13 7:48:14 - INFO --> getZoomById: user/register
+2019-07-13 16:48:58 - INFO --> getUserByCookie: 
+2019-07-13 16:48:58 - INFO --> getZoomById: apple
+2019-07-13 17:47:54 - INFO --> getUserByCookie: 
+2019-07-13 17:47:54 - INFO --> getZoomById: asdf
+2019-07-13 17:53:12 - INFO --> getUserByCookie: 
+2019-07-13 17:53:12 - INFO --> getZoomById: asdf
+2019-07-13 17:55:09 - INFO --> getUserByCookie: 
+2019-07-13 17:55:09 - INFO --> getZoomById: sdf
+2019-07-13 17:55:25 - INFO --> getUserByCookie: 
+2019-07-13 17:55:25 - INFO --> getZoomById: a/ b
+2019-07-13 17:55:51 - INFO --> getUserByCookie: 
+2019-07-13 17:55:51 - INFO --> getZoomById: asda
+2019-07-13 17:55:59 - INFO --> getUserByCookie: 
+2019-07-13 17:55:59 - INFO --> getZoomById: abc
+2019-07-13 17:56:08 - INFO --> getUserByCookie: 
+2019-07-13 17:56:08 - INFO --> getZoomById: bcd
+2019-07-13 17:56:42 - INFO --> getUserByCookie: 
+2019-07-13 17:56:42 - INFO --> getZoomById: sd3
+2019-07-13 17:56:54 - INFO --> getUserByCookie: 
+2019-07-13 17:56:54 - INFO --> getZoomById: ba3
+2019-07-13 18:30:41 - INFO --> getUserByCookie: 
+2019-07-13 18:30:41 - INFO --> getZoomById: 09d
+2019-07-13 18:30:51 - INFO --> getUserByCookie: 
+2019-07-13 18:30:51 - INFO --> getZoomById: abcd3
+2019-07-13 18:30:58 - INFO --> getUserByCookie: 
+2019-07-13 18:30:58 - INFO --> getZoomById: abcd33
+2019-07-13 18:31:27 - INFO --> getUserByCookie: 
+2019-07-13 18:31:27 - INFO --> getZoomById: 09d
+2019-07-13 18:31:32 - INFO --> getUserByCookie: 
+2019-07-13 18:31:32 - INFO --> getZoomById: asdf32

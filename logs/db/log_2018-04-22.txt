@@ -1,0 +1,22 @@
+2018-04-22 0:14:53 - INFO --> getUserByCookie: 
+2018-04-22 0:14:53 - INFO --> getZoomById: register-user=&register-email=sheilafin73%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-04-22 1:31:33 - INFO --> getUserByCookie: 
+2018-04-22 1:31:33 - INFO --> getZoomById: register-user=&register-email=sbritton%40iwcsolutions.com&register-pass=&register-pass2=&register-agree=&
+2018-04-22 11:28:03 - INFO --> getUserByCookie: 
+2018-04-22 11:28:03 - INFO --> getZoomById: ads.txt
+2018-04-22 12:15:50 - INFO --> getUserByCookie: 
+2018-04-22 12:15:50 - INFO --> getZoomById: register-user=&register-email=jenny_quillen%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-04-22 12:50:06 - INFO --> getUserByCookie: 
+2018-04-22 12:50:06 - INFO --> getZoomById: bhtwtfaxnntaja.html
+2018-04-22 15:32:38 - INFO --> getUserByCookie: 
+2018-04-22 15:32:38 - INFO --> getZoomById: iSctp
+2018-04-22 15:32:38 - INFO --> incrementZoomById: iSctp
+2018-04-22 15:32:38 - INFO --> increment zoom: iSctp
+2018-04-22 20:45:25 - INFO --> getUserByCookie: 
+2018-04-22 20:45:25 - INFO --> getZoomById: G1YU4
+2018-04-22 20:45:25 - INFO --> incrementZoomById: G1YU4
+2018-04-22 20:45:25 - INFO --> increment zoom: G1YU4
+2018-04-22 21:16:19 - INFO --> getUserByCookie: 
+2018-04-22 21:16:19 - INFO --> getZoomById: register-user=&register-email=brittanibrooks%40ymail.com&register-pass=&register-pass2=&register-agree=&
+2018-04-22 21:52:05 - INFO --> getUserByCookie: 
+2018-04-22 21:52:05 - INFO --> getZoomById: register-user=&register-email=bhusik1%40gmail.com&register-pass=&register-pass2=&register-agree=&

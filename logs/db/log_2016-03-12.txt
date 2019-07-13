@@ -1,0 +1,7 @@
+2016-03-12 1:10:29 - INFO --> getUserByCookie: 
+2016-03-12 1:10:29 - INFO --> getZoomById: phtdlpixa.html
+2016-03-12 11:55:08 - INFO --> getUserByCookie: 
+2016-03-12 11:55:08 - INFO --> getZoomById: yeHB_b
+2016-03-12 11:55:08 - INFO --> incrementZoomById: yeHB_b
+2016-03-12 11:55:08 - INFO --> increment zoom: yeHB_b
+2016-03-12 12:50:14 - INFO --> getUserByCookie: 

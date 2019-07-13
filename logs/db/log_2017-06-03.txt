@@ -1,0 +1,17 @@
+2017-06-03 0:50:22 - INFO --> getUserByCookie: 
+2017-06-03 0:50:22 - INFO --> getZoomById: register-user=&register-email=whiterhino_19%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-06-03 7:38:58 - INFO --> getUserByCookie: 
+2017-06-03 11:47:07 - INFO --> getUserByCookie: 
+2017-06-03 11:47:07 - INFO --> getZoomById: iSctp
+2017-06-03 11:47:07 - INFO --> incrementZoomById: iSctp
+2017-06-03 11:47:07 - INFO --> increment zoom: iSctp
+2017-06-03 13:37:50 - INFO --> getUserByCookie: 
+2017-06-03 13:37:50 - INFO --> getZoomById: register-user=&register-email=tpotts1999%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-06-03 18:35:23 - INFO --> getUserByCookie: 
+2017-06-03 18:35:23 - INFO --> getZoomById: w+JPX
+2017-06-03 18:35:23 - INFO --> incrementZoomById: w+JPX
+2017-06-03 18:35:23 - INFO --> increment zoom: w+JPX
+2017-06-03 20:23:23 - INFO --> getUserByCookie: 
+2017-06-03 20:23:23 - INFO --> getZoomById: register-user=&register-email=cearastarks%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-06-03 22:55:08 - INFO --> getUserByCookie: 
+2017-06-03 22:55:08 - INFO --> getZoomById: register-user=&register-email=bass.j%40sbcglobal.net&register-pass=&register-pass2=&register-agree=&

@@ -1,0 +1,20 @@
+2017-09-23 7:12:41 - INFO --> getUserByCookie: 
+2017-09-23 7:12:41 - INFO --> getZoomById: iSctp
+2017-09-23 7:12:41 - INFO --> incrementZoomById: iSctp
+2017-09-23 7:12:41 - INFO --> increment zoom: iSctp
+2017-09-23 7:26:51 - INFO --> getUserByCookie: 
+2017-09-23 7:26:51 - INFO --> getZoomById: register-user=&register-email=deirdreluv%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-09-23 11:52:58 - INFO --> getUserByCookie: 
+2017-09-23 11:52:58 - INFO --> getZoomById: register-user=&register-email=foundation%40qtum.org&register-pass=&register-pass2=&register-agree=&
+2017-09-23 15:09:54 - INFO --> getUserByCookie: 
+2017-09-23 15:09:54 - INFO --> getZoomById: '/cssPIE/PIE_IE678.js
+2017-09-23 16:42:08 - INFO --> getUserByCookie: 
+2017-09-23 16:42:08 - INFO --> getZoomById: register-user=&register-email=jesus.jjfs%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-09-23 16:52:11 - INFO --> getUserByCookie: 
+2017-09-23 16:52:11 - INFO --> getZoomById: register-user=&register-email=vandragt%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-09-23 22:28:10 - INFO --> getUserByCookie: 
+2017-09-23 22:28:10 - INFO --> getZoomById: register-user=&register-email=miguelcleon%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2017-09-23 23:47:15 - INFO --> getUserByCookie: 
+2017-09-23 23:47:15 - INFO --> getZoomById: iSctp
+2017-09-23 23:47:15 - INFO --> incrementZoomById: iSctp
+2017-09-23 23:47:15 - INFO --> increment zoom: iSctp

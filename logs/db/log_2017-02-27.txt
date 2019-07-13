@@ -1,0 +1,18 @@
+2017-02-27 1:07:04 - INFO --> getUserByCookie: 
+2017-02-27 2:28:25 - INFO --> getUserByCookie: 
+2017-02-27 2:28:25 - INFO --> getZoomById: iSctp
+2017-02-27 2:28:25 - INFO --> incrementZoomById: iSctp
+2017-02-27 2:28:25 - INFO --> increment zoom: iSctp
+2017-02-27 13:40:50 - INFO --> getUserByCookie: 
+2017-02-27 13:40:50 - INFO --> getZoomById: w6tlCc
+2017-02-27 13:40:50 - INFO --> incrementZoomById: w6tlCc
+2017-02-27 13:40:50 - INFO --> increment zoom: w6tlCc
+2017-02-27 13:56:31 - INFO --> getUserByCookie: 
+2017-02-27 13:56:57 - INFO --> getUserByCookie: 
+2017-02-27 13:56:57 - INFO --> getZoomById: engine/engine.php
+2017-02-27 13:59:27 - INFO --> getUserByCookie: 
+2017-02-27 18:15:38 - INFO --> getUserByCookie: 
+2017-02-27 18:15:38 - INFO --> getZoomById: iSctp
+2017-02-27 18:15:38 - INFO --> incrementZoomById: iSctp
+2017-02-27 18:15:38 - INFO --> increment zoom: iSctp
+2017-02-27 18:24:26 - INFO --> getUserByCookie: 

@@ -1,0 +1,12 @@
+2017-02-11 1:35:14 - INFO --> getUserByCookie: 
+2017-02-11 1:35:14 - INFO --> getZoomById: iSctp
+2017-02-11 1:35:14 - INFO --> incrementZoomById: iSctp
+2017-02-11 1:35:14 - INFO --> increment zoom: iSctp
+2017-02-11 7:25:07 - INFO --> getUserByCookie: 
+2017-02-11 7:25:07 - INFO --> getZoomById: media/logo_img.php
+2017-02-11 21:38:13 - INFO --> getUserByCookie: 
+2017-02-11 21:38:13 - INFO --> getZoomById: update.php
+2017-02-11 21:38:13 - INFO --> getUserByCookie: 
+2017-02-11 21:38:13 - INFO --> getZoomById: update.php
+2017-02-11 22:22:48 - INFO --> getUserByCookie: 
+2017-02-11 22:22:48 - INFO --> getZoomById: language/en-GB/en-GB.xml

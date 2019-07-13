@@ -1,0 +1,6 @@
+2017-03-21 3:52:47 - INFO --> getUserByCookie: 
+2017-03-21 3:52:47 - INFO --> getZoomById: language/en-GB/language/en-GB/en-GB.xml
+2017-03-21 4:58:08 - INFO --> getUserByCookie: 
+2017-03-21 4:58:08 - INFO --> getZoomById: logo_img.php.suspected
+2017-03-21 15:30:27 - INFO --> getUserByCookie: 
+2017-03-21 15:30:27 - INFO --> getZoomById: blog/

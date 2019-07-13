@@ -1,0 +1,9 @@
+2017-01-09 10:45:53 - INFO --> getUserByCookie: 
+2017-01-09 14:07:38 - INFO --> getUserByCookie: 
+2017-01-09 14:07:38 - INFO --> getZoomById: xmlrpc.php
+2017-01-09 14:07:38 - INFO --> getUserByCookie: 
+2017-01-09 14:07:38 - INFO --> getZoomById: wp-config-sample.php
+2017-01-09 14:07:39 - INFO --> getUserByCookie: 
+2017-01-09 14:07:39 - INFO --> getZoomById: readme.html
+2017-01-09 14:07:42 - INFO --> getUserByCookie: 
+2017-01-09 14:07:42 - INFO --> getZoomById: wp-admin/admin-ajax.php

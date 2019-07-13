@@ -1,0 +1,3 @@
+2019-05-31 9:54:46 - INFO --> getUserByCookie: 
+2019-05-31 9:54:46 - INFO --> getZoomById: search.php
+2019-05-31 14:44:07 - INFO --> getUserByCookie: 

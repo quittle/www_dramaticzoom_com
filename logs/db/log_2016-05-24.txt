@@ -1,0 +1,16 @@
+2016-05-24 4:31:21 - INFO --> getUserByCookie: 
+2016-05-24 4:31:21 - INFO --> getZoomById: iSctp
+2016-05-24 4:31:21 - INFO --> incrementZoomById: iSctp
+2016-05-24 4:31:21 - INFO --> increment zoom: iSctp
+2016-05-24 12:01:21 - INFO --> getUserByCookie: 
+2016-05-24 12:01:21 - INFO --> getZoomById: wp-login.php
+2016-05-24 19:13:25 - INFO --> getUserByCookie: 
+2016-05-24 19:13:25 - INFO --> getZoomById: G1YU4
+2016-05-24 19:13:25 - INFO --> incrementZoomById: G1YU4
+2016-05-24 19:13:25 - INFO --> increment zoom: G1YU4
+2016-05-24 19:18:53 - INFO --> getUserByCookie: 
+2016-05-24 20:49:02 - INFO --> getUserByCookie: 
+2016-05-24 20:49:02 - INFO --> getZoomById: mbahKb
+2016-05-24 20:49:02 - INFO --> incrementZoomById: mbahKb
+2016-05-24 20:49:02 - INFO --> increment zoom: mbahKb
+2016-05-24 21:00:42 - INFO --> getUserByCookie: 

@@ -1,0 +1,14 @@
+2018-12-29 9:42:58 - INFO --> getUserByCookie: 
+2018-12-29 9:42:58 - INFO --> getZoomById: wp-login.php
+2018-12-29 9:43:06 - INFO --> getUserByCookie: 
+2018-12-29 9:43:06 - INFO --> getZoomById: option=com_user&task=register
+2018-12-29 9:43:10 - INFO --> getUserByCookie: 
+2018-12-29 9:43:10 - INFO --> getZoomById: user/register
+2018-12-29 11:50:07 - INFO --> getUserByCookie: 
+2018-12-29 11:50:07 - INFO --> getZoomById: wp-admin/install.php
+2018-12-29 11:51:02 - INFO --> getUserByCookie: 
+2018-12-29 11:51:02 - INFO --> getZoomById: wp-admin/install.php
+2018-12-29 18:48:40 - INFO --> getUserByCookie: 
+2018-12-29 18:48:40 - INFO --> getZoomById: wp-login.php
+2018-12-29 19:41:46 - INFO --> getUserByCookie: 
+2018-12-29 19:41:46 - INFO --> getZoomById: email=jamaievans%40yahoo.com&reportType=&description=&

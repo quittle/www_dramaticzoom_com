@@ -1,0 +1,42 @@
+2016-11-23 2:28:37 - INFO --> getUserByCookie: 
+2016-11-23 2:28:37 - INFO --> getZoomById: iSctp
+2016-11-23 2:28:37 - INFO --> incrementZoomById: iSctp
+2016-11-23 2:28:37 - INFO --> increment zoom: iSctp
+2016-11-23 11:01:00 - INFO --> getUserByCookie: 
+2016-11-23 11:01:00 - INFO --> getZoomById: wp/wp-login.php
+2016-11-23 18:35:32 - INFO --> getUserByCookie: 
+2016-11-23 18:35:32 - INFO --> getZoomById: images/xxx.php
+2016-11-23 18:35:32 - INFO --> getUserByCookie: 
+2016-11-23 18:35:32 - INFO --> getZoomById: infos.php
+2016-11-23 18:35:32 - INFO --> getUserByCookie: 
+2016-11-23 18:35:32 - INFO --> getZoomById: administrator/includes/readmy.php
+2016-11-23 18:36:13 - INFO --> getUserByCookie: 
+2016-11-23 18:36:13 - INFO --> getZoomById: news.php
+2016-11-23 18:38:03 - INFO --> getUserByCookie: 
+2016-11-23 18:38:03 - INFO --> getZoomById: tmp.php
+2016-11-23 18:38:51 - INFO --> getUserByCookie: 
+2016-11-23 18:38:51 - INFO --> getZoomById: en/wp-login.php
+2016-11-23 18:40:08 - INFO --> getUserByCookie: 
+2016-11-23 18:40:08 - INFO --> getZoomById: wp-main.php
+2016-11-23 18:41:09 - INFO --> getUserByCookie: 
+2016-11-23 18:41:09 - INFO --> getZoomById: wp-content/plugins/wp-cache.php
+2016-11-23 18:42:51 - INFO --> getUserByCookie: 
+2016-11-23 18:42:51 - INFO --> getZoomById: sqlibak.php
+2016-11-23 18:44:35 - INFO --> getUserByCookie: 
+2016-11-23 18:44:35 - INFO --> getZoomById: functions.php
+2016-11-23 18:46:15 - INFO --> getUserByCookie: 
+2016-11-23 18:46:15 - INFO --> getZoomById: wp-cache.php
+2016-11-23 18:47:50 - INFO --> getUserByCookie: 
+2016-11-23 18:47:50 - INFO --> getZoomById: images/google-assist.php
+2016-11-23 18:49:31 - INFO --> getUserByCookie: 
+2016-11-23 18:49:31 - INFO --> getZoomById: wp-content/plugins/myshe.php
+2016-11-23 18:51:18 - INFO --> getUserByCookie: 
+2016-11-23 18:51:18 - INFO --> getZoomById: maill.php
+2016-11-23 18:53:41 - INFO --> getUserByCookie: 
+2016-11-23 18:53:41 - INFO --> getZoomById: includes.php
+2016-11-23 18:53:43 - INFO --> getUserByCookie: 
+2016-11-23 18:53:43 - INFO --> getZoomById: includes.php
+2016-11-23 18:54:54 - INFO --> getUserByCookie: 
+2016-11-23 18:54:54 - INFO --> getZoomById: configurationbak.php
+2016-11-23 22:26:14 - INFO --> getUserByCookie: 
+2016-11-23 22:26:14 - INFO --> getZoomById: news/wp-login.php

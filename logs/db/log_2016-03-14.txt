@@ -1,0 +1,15 @@
+2016-03-14 10:21:20 - INFO --> getUserByCookie: 
+2016-03-14 10:21:20 - INFO --> getZoomById: w6tlCc
+2016-03-14 10:21:20 - INFO --> incrementZoomById: w6tlCc
+2016-03-14 10:21:20 - INFO --> increment zoom: w6tlCc
+2016-03-14 13:03:51 - INFO --> getUserByCookie: 
+2016-03-14 13:03:51 - INFO --> getZoomById: js/mage/cookies.js
+2016-03-14 13:22:22 - INFO --> getUserByCookie: 
+2016-03-14 13:22:22 - INFO --> getZoomById: iSctp
+2016-03-14 13:22:22 - INFO --> incrementZoomById: iSctp
+2016-03-14 13:22:22 - INFO --> increment zoom: iSctp
+2016-03-14 22:41:09 - INFO --> getUserByCookie: 
+2016-03-14 22:41:09 - INFO --> getZoomById: iSctp
+2016-03-14 22:41:09 - INFO --> incrementZoomById: iSctp
+2016-03-14 22:41:09 - INFO --> increment zoom: iSctp
+2016-03-14 23:32:09 - INFO --> getUserByCookie: 

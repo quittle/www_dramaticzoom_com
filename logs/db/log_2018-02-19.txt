@@ -1,0 +1,18 @@
+2018-02-19 1:58:11 - INFO --> getUserByCookie: 
+2018-02-19 1:58:11 - INFO --> getZoomById: register-user=&register-email=pjgannon%40sbcglobal.net&register-pass=&register-pass2=&register-agree=&
+2018-02-19 2:52:42 - INFO --> getUserByCookie: 
+2018-02-19 2:52:42 - INFO --> getZoomById: register-user=&register-email=pjgannon%40sbcglobal.net&register-pass=&register-pass2=&register-agree=&
+2018-02-19 6:32:17 - INFO --> getUserByCookie: 
+2018-02-19 6:32:17 - INFO --> getZoomById: connectors/security/login.php
+2018-02-19 13:41:28 - INFO --> getUserByCookie: 
+2018-02-19 13:41:28 - INFO --> getZoomById: .well-known/apple-app-site-association
+2018-02-19 14:08:49 - INFO --> getUserByCookie: 
+2018-02-19 14:08:49 - INFO --> getZoomById: register-user=&register-email=droberts30064%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-02-19 15:04:13 - INFO --> getUserByCookie: 
+2018-02-19 15:04:13 - INFO --> getZoomById: register-user=&register-email=patricia.u1%40freenet.de&register-pass=&register-pass2=&register-agree=&
+2018-02-19 20:23:09 - INFO --> getUserByCookie: 
+2018-02-19 20:23:09 - INFO --> getZoomById: register-user=&register-email=rojrustad%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2018-02-19 22:39:58 - INFO --> getUserByCookie: 
+2018-02-19 22:39:58 - INFO --> getZoomById: apple-app-site-association
+2018-02-19 23:15:14 - INFO --> getUserByCookie: 
+2018-02-19 23:15:14 - INFO --> getZoomById: register-user=&register-email=lindsayannecurl%40yahoo.com&register-pass=&register-pass2=&register-agree=&

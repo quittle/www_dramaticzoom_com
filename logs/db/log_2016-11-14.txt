@@ -1,0 +1,64 @@
+2016-11-14 7:07:38 - INFO --> getUserByCookie: 
+2016-11-14 7:07:38 - INFO --> getZoomById: js/mage/cookies.js
+2016-11-14 7:25:51 - INFO --> getUserByCookie: 
+2016-11-14 11:07:00 - INFO --> getUserByCookie: 
+2016-11-14 11:07:00 - INFO --> getZoomById: iSctp
+2016-11-14 11:07:00 - INFO --> incrementZoomById: iSctp
+2016-11-14 11:07:00 - INFO --> increment zoom: iSctp
+2016-11-14 12:56:16 - INFO --> getUserByCookie: 
+2016-11-14 13:16:50 - INFO --> getUserByCookie: 
+2016-11-14 13:16:50 - INFO --> getZoomById: iSctp
+2016-11-14 13:16:50 - INFO --> incrementZoomById: iSctp
+2016-11-14 13:16:50 - INFO --> increment zoom: iSctp
+2016-11-14 14:47:02 - INFO --> getUserByCookie: 
+2016-11-14 14:47:02 - INFO --> getZoomById: tmp.php
+2016-11-14 14:47:03 - INFO --> getUserByCookie: 
+2016-11-14 14:47:03 - INFO --> getZoomById: infos.php
+2016-11-14 14:47:03 - INFO --> getUserByCookie: 
+2016-11-14 14:47:03 - INFO --> getZoomById: news.php
+2016-11-14 14:47:03 - INFO --> getUserByCookie: 
+2016-11-14 14:47:03 - INFO --> getZoomById: administrator/includes/readmy.php
+2016-11-14 14:47:03 - INFO --> getUserByCookie: 
+2016-11-14 14:47:03 - INFO --> getZoomById: images/xxx.php
+2016-11-14 14:47:03 - INFO --> getUserByCookie: 
+2016-11-14 14:47:03 - INFO --> getZoomById: infos.php
+2016-11-14 14:48:09 - INFO --> getUserByCookie: 
+2016-11-14 14:48:09 - INFO --> getZoomById: wp-content/plugins/wp-cache.php
+2016-11-14 14:51:45 - INFO --> getUserByCookie: 
+2016-11-14 14:51:45 - INFO --> getZoomById: wp-main.php
+2016-11-14 14:51:54 - INFO --> getUserByCookie: 
+2016-11-14 14:51:54 - INFO --> getZoomById: wp-cache.php
+2016-11-14 14:57:36 - INFO --> getUserByCookie: 
+2016-11-14 14:57:36 - INFO --> getZoomById: maill.php
+2016-11-14 14:57:37 - INFO --> getUserByCookie: 
+2016-11-14 14:57:37 - INFO --> getZoomById: wp-content/plugins/myshe.php
+2016-11-14 14:57:40 - INFO --> getUserByCookie: 
+2016-11-14 14:57:40 - INFO --> getZoomById: images/google-assist.php
+2016-11-14 15:15:16 - INFO --> getUserByCookie: 
+2016-11-14 15:15:16 - INFO --> getZoomById: odxeuhvhay.html
+2016-11-14 17:20:29 - INFO --> getUserByCookie: 
+2016-11-14 17:57:16 - INFO --> getUserByCookie: 
+2016-11-14 17:57:16 - INFO --> getZoomById: iSctp
+2016-11-14 17:57:16 - INFO --> incrementZoomById: iSctp
+2016-11-14 17:57:16 - INFO --> increment zoom: iSctp
+2016-11-14 19:07:19 - INFO --> getUserByCookie: 
+2016-11-14 19:07:19 - INFO --> getZoomById: iSctp
+2016-11-14 19:07:19 - INFO --> incrementZoomById: iSctp
+2016-11-14 19:07:19 - INFO --> increment zoom: iSctp
+2016-11-14 20:25:07 - INFO --> getUserByCookie: 
+2016-11-14 20:25:07 - INFO --> getZoomById: text/css
+2016-11-14 20:25:08 - INFO --> getUserByCookie: 
+2016-11-14 20:25:08 - INFO --> getZoomById: js/text/css
+2016-11-14 20:25:11 - INFO --> getUserByCookie: 
+2016-11-14 20:25:11 - INFO --> getZoomById: text/plain
+2016-11-14 20:25:13 - INFO --> getUserByCookie: 
+2016-11-14 20:25:13 - INFO --> getZoomById: js/m.
+2016-11-14 20:25:14 - INFO --> getUserByCookie: 
+2016-11-14 20:25:14 - INFO --> getZoomById: application/x-www-form-urlencoded
+2016-11-14 20:25:15 - INFO --> getUserByCookie: 
+2016-11-14 20:25:15 - INFO --> getZoomById: js/application/x-www-form-urlencoded
+2016-11-14 20:25:17 - INFO --> getUserByCookie: 
+2016-11-14 20:25:17 - INFO --> getZoomById: js/text/plain
+2016-11-14 20:25:20 - INFO --> getUserByCookie: 
+2016-11-14 23:30:23 - INFO --> getUserByCookie: 
+2016-11-14 23:30:23 - INFO --> getZoomById: manager/media

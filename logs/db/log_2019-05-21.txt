@@ -1,0 +1,23 @@
+2019-05-21 7:15:54 - INFO --> getUserByCookie: 
+2019-05-21 7:16:02 - INFO --> getUserByCookie: 
+2019-05-21 7:16:02 - INFO --> getZoomById: reportType=Legal+Issue&email=eric%40talkwithcustomer.com&description=Hello%2C%0D%0A%0D%0AYou+know+it%E2%80%99s+true.%0D%0A%0D%0AYour+competition+just+can%E2%80%99t+hold+a+candle+to+the+way+you+DELIVER+real+solutions+to+your+customers+at+dramaticzoom.com%0D%0A%0D%0ABut+it%E2%80%99s+a+shame+when+good+people+who+need+what+you+have+to+offer+wind+up+settling+for+second+best+or+even+worse.%0D%0A++%0D%0ANot+only+do+they+deserve+better%2C+you+deserve+to+be+at+the+top+of+their+list.%0D%0A+%0D%0ATalkWithCustomer+can+reliably+turn+your+website+into+a+serious%2C+lead+generating+machine.%0D%0A+%0D%0AWith+TalkWithCustomer+installed+on+your+site%2C+visitors+can+either+call+you+immediately+or+schedule+a+call+for+you+in+the+future.%0D%0A++%0D%0AAnd+the+difference+to+your+business+can+be+staggering+%E2%80%93+up+to+100X+more+leads+could+be+yours%2C+just+by+giving+TalkWithCustomer+a+FREE+14+Day+Test+Drive.%0D%0A+%0D%0AThere%E2%80%99s+absolutely+NO+risk+to+you%2C+so+CLICK+HERE+http://www.talkwithcustomer.com+to+sign+up+for+this+free+test+drive+now.+%0D%0A+%0D%0ATons+more+leads%3F+You+deserve+it.%0D%0A%0D%0ASincerely%2C%0D%0AAndy%0D%0A%0D%0APS:++Odds+are%2C+you+won%E2%80%99t+have+long+to+wait+before+seeing+results:%0D%0A-This+service+makes+an+immediate+difference+in+getting+people+on+the+phone+right+away+before+they+have+a+chance+to+turn+around+and+surf+off+to+a+competitor%E2%80%99s+website.-+David+Traylor%2C+Traylor+Law+Firm%0D%0A++%0D%0AWhy+wait+any+longer%3F++%0D%0A%0D%0ACLICK+HERE+http://www.talkwithcustomer.com+to+take+the+FREE+14-Day+Test+Drive+and+start+converting+up+to+100X+more+leads+today%21%0D%0A%0D%0AIf+you%27d+like+to+unsubscribe+click+here.+http://liveserveronline.com/talkwithcustomer.aspx%3Fd%3Ddramaticzoom.com%0D%0A
+2019-05-21 11:48:31 - INFO --> getUserByCookie: 
+2019-05-21 11:48:31 - INFO --> getZoomById: wp-login.php
+2019-05-21 13:02:29 - INFO --> getUserByCookie: 
+2019-05-21 13:02:29 - INFO --> getZoomById: include/dialog/select_soft_post.php
+2019-05-21 13:02:30 - INFO --> getUserByCookie: 
+2019-05-21 13:02:30 - INFO --> getZoomById: plus/aokizyq.php
+2019-05-21 13:02:31 - INFO --> getUserByCookie: 
+2019-05-21 13:02:31 - INFO --> getZoomById: plus/download.php
+2019-05-21 13:02:33 - INFO --> getUserByCookie: 
+2019-05-21 13:02:33 - INFO --> getZoomById: plus/ad_js.php
+2019-05-21 13:02:35 - INFO --> getUserByCookie: 
+2019-05-21 13:02:35 - INFO --> getZoomById: plus/read.php
+2019-05-21 13:02:36 - INFO --> getUserByCookie: 
+2019-05-21 13:02:36 - INFO --> getZoomById: yp/product.php
+2019-05-21 13:02:38 - INFO --> getUserByCookie: 
+2019-05-21 13:02:38 - INFO --> getZoomById: user.php
+2019-05-21 13:17:48 - INFO --> getUserByCookie: 
+2019-05-21 13:17:48 - INFO --> getZoomById: wp-login.php
+2019-05-21 16:44:39 - INFO --> getUserByCookie: 
+2019-05-21 16:44:39 - INFO --> getZoomById: wp-login.php

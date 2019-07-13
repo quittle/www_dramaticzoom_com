@@ -1,0 +1,5 @@
+2018-07-28 8:48:35 - INFO --> getUserByCookie: 
+2018-07-28 14:29:13 - INFO --> getUserByCookie: 
+2018-07-28 14:29:13 - INFO --> getZoomById: wp-includes/js/wpdialog.js
+2018-07-28 16:17:34 - INFO --> getUserByCookie: 
+2018-07-28 16:17:34 - INFO --> getZoomById: wp-includes/js/wpdialog.js

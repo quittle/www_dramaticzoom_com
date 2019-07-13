@@ -1,0 +1,6 @@
+2018-06-09 9:12:30 - INFO --> getUserByCookie: 
+2018-06-09 9:12:30 - INFO --> getZoomById: modules/modules.php
+2018-06-09 15:19:26 - INFO --> getUserByCookie: 
+2018-06-09 15:19:26 - INFO --> getZoomById: iSctp
+2018-06-09 15:19:26 - INFO --> incrementZoomById: iSctp
+2018-06-09 15:19:26 - INFO --> increment zoom: iSctp

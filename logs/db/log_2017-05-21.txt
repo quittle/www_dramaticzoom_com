@@ -1,0 +1,8 @@
+2017-05-21 2:41:04 - INFO --> getUserByCookie: 
+2017-05-21 4:13:46 - INFO --> getUserByCookie: 
+2017-05-21 4:13:46 - INFO --> getZoomById: register-user=&register-email=gibsonrandall%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-05-21 8:14:06 - INFO --> getUserByCookie: 
+2017-05-21 8:14:06 - INFO --> getZoomById: register-user=&register-email=babyureadyme%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-05-21 14:39:28 - INFO --> getUserByCookie: 
+2017-05-21 22:57:57 - INFO --> getUserByCookie: 
+2017-05-21 22:57:57 - INFO --> getZoomById: register-user=&register-email=fernandezjoseph15%40yahoo.com&register-pass=&register-pass2=&register-agree=&

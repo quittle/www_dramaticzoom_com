@@ -1,0 +1,25 @@
+2018-09-22 3:06:47 - INFO --> getUserByCookie: 
+2018-09-22 3:06:47 - INFO --> getZoomById: sitemap.xml
+2018-09-22 3:06:49 - INFO --> getUserByCookie: 
+2018-09-22 3:06:51 - INFO --> getUserByCookie: 
+2018-09-22 3:06:51 - INFO --> getZoomById: ads.txt
+2018-09-22 13:20:19 - INFO --> getUserByCookie: 
+2018-09-22 13:20:19 - INFO --> getZoomById: phpmyadmin/
+2018-09-22 13:20:23 - INFO --> getUserByCookie: 
+2018-09-22 13:20:23 - INFO --> getZoomById: console
+2018-09-22 13:58:49 - INFO --> getUserByCookie: 
+2018-09-22 13:58:49 - INFO --> getZoomById: phpmyadmin/
+2018-09-22 13:58:54 - INFO --> getUserByCookie: 
+2018-09-22 13:58:54 - INFO --> getZoomById: console
+2018-09-22 16:54:10 - INFO --> getUserByCookie: 
+2018-09-22 18:49:30 - INFO --> getUserByCookie: 
+2018-09-22 18:49:30 - INFO --> getZoomById: phpmyadmin/
+2018-09-22 18:49:35 - INFO --> getUserByCookie: 
+2018-09-22 18:49:35 - INFO --> getZoomById: console
+2018-09-22 18:56:27 - INFO --> getUserByCookie: 
+2018-09-22 18:56:30 - INFO --> getUserByCookie: 
+2018-09-22 18:56:30 - INFO --> getZoomById: reportType=Legal+Issue&email=Randy%40TalkWithLead.com&description=Hi%2C%0D%0A%0D%0AMy+name+is+Randy+and+I+was+looking+at+a+few+different+sites+online+and+came+across+your+site+dramaticzoom.com.++I+must+say+-+your+website+is+very+impressive.++I+found+your+website+on+the+first+page+of+the+Search+Engine.+%0D%0A%0D%0AHave+you+noticed+that+70+percent+of+visitors+who+leave+your+website+will+never+return%3F++In+most+cases%2C+this+means+that+95+percent+to+98+percent+of+your+marketing+efforts+are+going+to+waste%2C+not+to+mention+that+you+are+losing+more+money+in+customer+acquisition+costs+than+you+need+to.%0D%0A+%0D%0AAs+a+business+person%2C+the+time+and+money+you+put+into+your+marketing+efforts+is+extremely+valuable.++So+why+let+it+go+to+waste%3F++Our+users+have+seen+staggering+improvements+in+conversions+with+insane+growths+of+150+percent+going+upwards+of+785+percent.+Are+you+ready+to+unlock+the+highest+conversion+revenue+from+each+of+your+website+visitors%3F++%0D%0A%0D%0ATalkWithLead+is+a+widget+which+captures+a+website+visitor%E2%80%99s+Name%2C+Email+address+and+Phone+Number+and+then+calls+you+immediately%2C+so+that+you+can+talk+to+the+Lead+exactly+when+they+are+live+on+your+website+%E2%80%94+while+they%27re+hot%21+Best+feature+of+all%2C+we+offer+FREE+International+Long+Distance+Calling%21%0D%0A++%0D%0ATry+the+TalkWithLead+Live+Demo+now+to+see+exactly+how+it+works.++Visit:+https://www.talkwithlead.com/Contents/LiveDemo.aspx%0D%0A%0D%0AWhen+targeting+leads%2C+speed+is+essential+-+there+is+a+100x+decrease+in+Leads+when+a+Lead+is+contacted+within+30+minutes+vs+being+contacted+within+5+minutes.%0D%0A%0D%0AIf+you+would+like+to+talk+to+me+about+this+service%2C+please+give+me+a+call.++We+do+offer+a+14+days+free+trial.++%0D%0A%0D%0AThanks+and+Best+Regards%2C%0D%0ARandy
+2018-09-22 22:26:42 - INFO --> getUserByCookie: 
+2018-09-22 22:26:42 - INFO --> getZoomById: phpmyadmin/
+2018-09-22 22:26:49 - INFO --> getUserByCookie: 
+2018-09-22 22:26:49 - INFO --> getZoomById: console

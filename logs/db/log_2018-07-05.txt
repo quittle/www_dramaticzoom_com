@@ -1,0 +1,4 @@
+2018-07-05 1:59:07 - INFO --> getUserByCookie: 
+2018-07-05 1:59:07 - INFO --> getZoomById: G1YU4
+2018-07-05 1:59:07 - INFO --> incrementZoomById: G1YU4
+2018-07-05 1:59:07 - INFO --> increment zoom: G1YU4

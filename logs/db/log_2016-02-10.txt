@@ -1,0 +1,36 @@
+2016-02-10 0:43:19 - INFO --> getUserByCookie: 
+2016-02-10 0:43:19 - INFO --> getZoomById: G1YU4
+2016-02-10 0:43:19 - INFO --> incrementZoomById: G1YU4
+2016-02-10 0:43:19 - INFO --> increment zoom: G1YU4
+2016-02-10 3:29:48 - INFO --> getUserByCookie: 
+2016-02-10 3:29:48 - INFO --> getZoomById: wordpress/
+2016-02-10 4:09:59 - INFO --> getUserByCookie: 
+2016-02-10 4:09:59 - INFO --> getZoomById: reportType=Legal+Issue&email=mark357177%40hotmail.com&description=6F0svP+http%3A%2F%2Fwww.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
+2016-02-10 7:22:04 - INFO --> getUserByCookie: 
+2016-02-10 7:22:04 - INFO --> getZoomById: reportType=Content+Problem&email=mark357177%40hotmail.com&description=s4rjAs+http%3A%2F%2Fwww.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
+2016-02-10 7:22:59 - INFO --> getUserByCookie: 
+2016-02-10 7:22:59 - INFO --> getZoomById: reportType=Content+Problem&email=mark357177%40hotmail.com&description=eyxcm5+http%3A%2F%2Fwww.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
+2016-02-10 9:38:31 - INFO --> getUserByCookie: 
+2016-02-10 9:38:31 - INFO --> getZoomById: w6tlCc
+2016-02-10 9:38:31 - INFO --> incrementZoomById: w6tlCc
+2016-02-10 9:38:31 - INFO --> increment zoom: w6tlCc
+2016-02-10 10:58:41 - INFO --> getUserByCookie: 
+2016-02-10 10:58:41 - INFO --> getZoomById: mbahKb
+2016-02-10 10:58:41 - INFO --> incrementZoomById: mbahKb
+2016-02-10 10:58:41 - INFO --> increment zoom: mbahKb
+2016-02-10 17:16:20 - INFO --> getUserByCookie: 
+2016-02-10 17:16:20 - INFO --> getZoomById: iSctp
+2016-02-10 17:16:20 - INFO --> incrementZoomById: iSctp
+2016-02-10 17:16:20 - INFO --> increment zoom: iSctp
+2016-02-10 19:53:25 - INFO --> getUserByCookie: 
+2016-02-10 19:53:25 - INFO --> getZoomById: yeHB_b
+2016-02-10 19:53:25 - INFO --> incrementZoomById: yeHB_b
+2016-02-10 19:53:25 - INFO --> increment zoom: yeHB_b
+2016-02-10 23:54:08 - INFO --> getUserByCookie: 
+2016-02-10 23:54:08 - INFO --> getZoomById: G1YU4
+2016-02-10 23:54:08 - INFO --> incrementZoomById: G1YU4
+2016-02-10 23:54:08 - INFO --> increment zoom: G1YU4
+2016-02-10 23:55:07 - INFO --> getUserByCookie: 
+2016-02-10 23:55:07 - INFO --> getZoomById: mbahKb
+2016-02-10 23:55:07 - INFO --> incrementZoomById: mbahKb
+2016-02-10 23:55:07 - INFO --> increment zoom: mbahKb

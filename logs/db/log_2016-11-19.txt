@@ -1,0 +1,29 @@
+2016-11-19 0:48:16 - INFO --> getUserByCookie: 
+2016-11-19 0:48:16 - INFO --> getZoomById: wp-login.php
+2016-11-19 1:07:39 - INFO --> getUserByCookie: 
+2016-11-19 1:07:39 - INFO --> getZoomById: wordpress/wp-login.php
+2016-11-19 1:46:40 - INFO --> getUserByCookie: 
+2016-11-19 1:46:40 - INFO --> getZoomById: wordpress/wp-login.php
+2016-11-19 2:05:34 - INFO --> getUserByCookie: 
+2016-11-19 2:05:34 - INFO --> getZoomById: en/wp-login.php
+2016-11-19 3:44:57 - INFO --> getUserByCookie: 
+2016-11-19 3:44:57 - INFO --> getZoomById: news/wp-login.php
+2016-11-19 4:09:02 - INFO --> getUserByCookie: 
+2016-11-19 4:09:02 - INFO --> getZoomById: news/wp-login.php
+2016-11-19 4:17:44 - INFO --> getUserByCookie: 
+2016-11-19 4:17:44 - INFO --> getZoomById: cms/wp-login.php
+2016-11-19 4:18:22 - INFO --> getUserByCookie: 
+2016-11-19 4:18:22 - INFO --> getZoomById: wp-login.php
+2016-11-19 4:20:22 - INFO --> getUserByCookie: 
+2016-11-19 4:20:22 - INFO --> getZoomById: wp/wp-login.php
+2016-11-19 13:07:48 - INFO --> getUserByCookie: 
+2016-11-19 13:07:48 - INFO --> getZoomById: G1YU4
+2016-11-19 13:07:48 - INFO --> incrementZoomById: G1YU4
+2016-11-19 13:07:48 - INFO --> increment zoom: G1YU4
+2016-11-19 14:30:44 - INFO --> getUserByCookie: 
+2016-11-19 14:30:44 - INFO --> getZoomById: iqsdvegtav.html
+2016-11-19 15:05:04 - INFO --> getUserByCookie: 
+2016-11-19 15:05:04 - INFO --> getZoomById: iSctp
+2016-11-19 15:05:04 - INFO --> incrementZoomById: iSctp
+2016-11-19 15:05:04 - INFO --> increment zoom: iSctp
+2016-11-19 22:58:30 - INFO --> getUserByCookie: 

@@ -1,0 +1,12 @@
+2018-09-19 3:29:05 - INFO --> getUserByCookie: 
+2018-09-19 3:29:05 - INFO --> getZoomById: wp-login.php
+2018-09-19 3:29:06 - INFO --> getUserByCookie: 
+2018-09-19 3:29:06 - INFO --> getZoomById: blog/wp-login.php
+2018-09-19 3:29:08 - INFO --> getUserByCookie: 
+2018-09-19 3:29:08 - INFO --> getZoomById: wordpress/wp-login.php
+2018-09-19 3:29:10 - INFO --> getUserByCookie: 
+2018-09-19 3:29:10 - INFO --> getZoomById: wp/wp-login.php
+2018-09-19 5:37:12 - INFO --> getUserByCookie: 
+2018-09-19 5:37:12 - INFO --> getZoomById: iSctp
+2018-09-19 5:37:12 - INFO --> incrementZoomById: iSctp
+2018-09-19 5:37:12 - INFO --> increment zoom: iSctp

@@ -1,0 +1,10 @@
+2016-03-27 0:43:37 - INFO --> getUserByCookie: 
+2016-03-27 0:43:37 - INFO --> getZoomById: option=com_user&view=register
+2016-03-27 0:43:38 - INFO --> getUserByCookie: 
+2016-03-27 0:43:38 - INFO --> getZoomById: option=com_user&view=register
+2016-03-27 9:00:34 - INFO --> getUserByCookie: 
+2016-03-27 9:00:34 - INFO --> getZoomById: iSctp
+2016-03-27 9:00:34 - INFO --> incrementZoomById: iSctp
+2016-03-27 9:00:34 - INFO --> increment zoom: iSctp
+2016-03-27 9:15:30 - INFO --> getUserByCookie: 
+2016-03-27 9:15:30 - INFO --> getZoomById: wordpress/

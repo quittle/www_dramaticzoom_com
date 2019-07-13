@@ -1,0 +1,2 @@
+2018-08-30 7:08:37 - INFO --> getUserByCookie: 
+2018-08-30 7:08:37 - INFO --> getZoomById: license.php

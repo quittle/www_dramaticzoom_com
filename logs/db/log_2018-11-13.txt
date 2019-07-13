@@ -1,0 +1,6 @@
+2018-11-13 5:58:38 - INFO --> getUserByCookie: 
+2018-11-13 5:58:38 - INFO --> getZoomById: option=com_user&task=register
+2018-11-13 5:58:43 - INFO --> getUserByCookie: 
+2018-11-13 5:58:43 - INFO --> getZoomById: user/register
+2018-11-13 7:22:28 - INFO --> getUserByCookie: 
+2018-11-13 16:36:38 - INFO --> getUserByCookie: 

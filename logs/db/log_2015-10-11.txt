@@ -1,0 +1,17 @@
+2015-10-11 5:19:32 - INFO --> getUserByCookie: 
+2015-10-11 5:19:32 - INFO --> getZoomById: iSctp
+2015-10-11 5:19:32 - INFO --> incrementZoomById: iSctp
+2015-10-11 5:19:32 - INFO --> increment zoom: iSctp
+2015-10-11 5:19:33 - INFO --> getUserByCookie: 
+2015-10-11 7:54:08 - INFO --> getUserByCookie: 
+2015-10-11 7:54:08 - INFO --> getZoomById: admin/spaw2/dialogs/dialog.php
+2015-10-11 14:14:00 - INFO --> getUserByCookie: 
+2015-10-11 14:14:00 - INFO --> getZoomById: administrator/
+2015-10-11 14:14:00 - INFO --> getUserByCookie: 
+2015-10-11 14:14:00 - INFO --> getZoomById: administrator/index.php
+2015-10-11 14:19:54 - INFO --> getUserByCookie: 
+2015-10-11 14:19:54 - INFO --> getZoomById: wp-login.php
+2015-10-11 14:19:55 - INFO --> getUserByCookie: 
+2015-10-11 14:19:55 - INFO --> getZoomById: wp-admin/
+2015-10-11 14:22:02 - INFO --> getUserByCookie: 
+2015-10-11 14:22:02 - INFO --> getZoomById: admin.php

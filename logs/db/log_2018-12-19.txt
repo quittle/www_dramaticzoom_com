@@ -1,0 +1,8 @@
+2018-12-19 0:00:40 - INFO --> getUserByCookie: 
+2018-12-19 0:00:40 - INFO --> getZoomById: wordpress/wp-admin/
+2018-12-19 0:10:10 - INFO --> getUserByCookie: 
+2018-12-19 0:10:10 - INFO --> getZoomById: wordpress/wp-admin/
+2018-12-19 9:10:48 - INFO --> getUserByCookie: 
+2018-12-19 9:10:48 - INFO --> getZoomById: wordpress/wp-admin/
+2018-12-19 10:47:21 - INFO --> getUserByCookie: 
+2018-12-19 10:47:21 - INFO --> getZoomById: wordpress/wp-admin/

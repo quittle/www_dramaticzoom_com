@@ -1,0 +1,15 @@
+2019-05-19 5:39:39 - INFO --> getUserByCookie: 
+2019-05-19 5:39:39 - INFO --> getZoomById: wp-login.php
+2019-05-19 9:21:10 - INFO --> getUserByCookie: 
+2019-05-19 9:21:10 - INFO --> getZoomById: sitemap.xml
+2019-05-19 9:21:12 - INFO --> getUserByCookie: 
+2019-05-19 9:21:14 - INFO --> getUserByCookie: 
+2019-05-19 9:21:14 - INFO --> getZoomById: ads.txt
+2019-05-19 10:45:13 - INFO --> getUserByCookie: 
+2019-05-19 10:45:13 - INFO --> getZoomById: register-user=Jayda%20Snyder&register-email=elbertdtemple1841%40gmail.com&register-pass=Jayda%20Snyder&register-pass2=Jayda%20Snyder&register-agree=Jayda%20Snyder&=Register&
+2019-05-19 10:45:15 - INFO --> getUserByCookie: 
+2019-05-19 10:45:15 - INFO --> getZoomById: email=elbertdtemple1841%40gmail.com&=Report!&reportType=&
+2019-05-19 10:45:17 - INFO --> getUserByCookie: 
+2019-05-19 10:45:17 - INFO --> getZoomById: email=elbertdtemple1841%40gmail.com&=ResetPassword&
+2019-05-19 11:07:30 - INFO --> getUserByCookie: 
+2019-05-19 11:07:30 - INFO --> getZoomById: wp-login.php

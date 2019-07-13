@@ -1,0 +1,6 @@
+2017-04-08 12:54:00 - INFO --> getUserByCookie: 
+2017-04-08 12:54:00 - INFO --> getZoomById: wp-login.php
+2017-04-08 12:54:00 - INFO --> getUserByCookie: 
+2017-04-08 12:54:00 - INFO --> getZoomById: administrator/index.php
+2017-04-08 12:54:01 - INFO --> getUserByCookie: 
+2017-04-08 12:54:01 - INFO --> getZoomById: admin.php

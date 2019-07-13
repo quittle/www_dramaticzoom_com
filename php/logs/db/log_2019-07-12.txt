@@ -1,0 +1,19 @@
+2019-07-12 15:44:09 - INFO --> getUserByUsername: tes
+2019-07-12 15:44:09 - INFO --> getUserByUsername: test
+2019-07-12 15:44:09 - INFO --> getUserByUsername: test
+2019-07-12 15:44:09 - INFO --> getUserByUsername: test
+2019-07-12 15:44:09 - INFO --> getUserByUsername: test123
+2019-07-12 15:44:09 - INFO --> getUserByUsername: test123
+2019-07-12 15:44:09 - INFO --> getUserByUsername: test123
+2019-07-12 15:44:12 - INFO --> getUserByEmail: test@gmail.c
+2019-07-12 15:44:12 - INFO --> getUserByEmail: test@gmail.c
+2019-07-12 15:44:12 - INFO --> getUserByEmail: test@gmail.com
+2019-07-12 15:44:12 - INFO --> getUserByEmail: test@gmail.com
+2019-07-12 15:44:34 - INFO --> getUserByUsername: test123
+2019-07-12 15:44:34 - INFO --> getUserByEmail: test@gmail.com
+2019-07-12 15:44:34 - INFO --> putUser: test123 : test@gmail.com : 82cb35fa6db48bd5bfbffabeb21e78a8d274317fef77b3bfa4ae3f23a24d9363 : userZooms/test123 : f45c33ffb4610dd935908a0a95420cd30025999a312deb4bdc1817147523ad9a : 7570c816b58e305afca0828020e7f53c260f753f17858244ffaa995fd2da8101 : 2
+2019-07-12 15:44:40 - INFO --> getUserByUsername: test123
+2019-07-12 15:44:40 - INFO --> getUserByUsername: test123
+2019-07-12 15:44:43 - INFO --> getUserByUsername: test123
+2019-07-12 15:44:48 - INFO --> getUserByUsername: test123
+2019-07-12 15:44:50 - INFO --> getUserByUsername: test123

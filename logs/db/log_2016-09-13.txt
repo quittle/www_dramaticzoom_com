@@ -1,0 +1,26 @@
+2016-09-13 15:02:58 - INFO --> getUserByCookie: 
+2016-09-13 15:02:58 - INFO --> getZoomById: wp-login.php
+2016-09-13 15:02:58 - INFO --> getUserByCookie: 
+2016-09-13 15:02:58 - INFO --> getZoomById: administrator/index.php
+2016-09-13 15:02:59 - INFO --> getUserByCookie: 
+2016-09-13 15:02:59 - INFO --> getZoomById: user/
+2016-09-13 15:02:59 - INFO --> getUserByCookie: 
+2016-09-13 15:02:59 - INFO --> getZoomById: admin/index.php
+2016-09-13 15:03:00 - INFO --> getUserByCookie: 
+2016-09-13 15:03:00 - INFO --> getZoomById: admin.php
+2016-09-13 15:03:00 - INFO --> getUserByCookie: 
+2016-09-13 15:03:00 - INFO --> getZoomById: admin.php
+2016-09-13 15:03:00 - INFO --> getUserByCookie: 
+2016-09-13 15:03:00 - INFO --> getZoomById: manager/
+2016-09-13 15:03:01 - INFO --> getUserByCookie: 
+2016-09-13 15:03:01 - INFO --> getZoomById: admin.php
+2016-09-13 15:03:01 - INFO --> getUserByCookie: 
+2016-09-13 15:03:01 - INFO --> getZoomById: typo3/
+2016-09-13 19:14:21 - INFO --> getUserByCookie: 
+2016-09-13 19:14:21 - INFO --> getZoomById: fl=i4c
+2016-09-13 19:14:21 - INFO --> incrementZoomById: fl=i4c
+2016-09-13 19:14:21 - INFO --> increment zoom: fl=i4c
+2016-09-13 23:07:02 - INFO --> getUserByCookie: 
+2016-09-13 23:07:02 - INFO --> getZoomById: iSctp
+2016-09-13 23:07:02 - INFO --> incrementZoomById: iSctp
+2016-09-13 23:07:02 - INFO --> increment zoom: iSctp

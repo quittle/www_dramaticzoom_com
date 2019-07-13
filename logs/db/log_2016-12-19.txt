@@ -1,0 +1,14 @@
+2016-12-19 0:11:41 - INFO --> getUserByCookie: 
+2016-12-19 1:53:41 - INFO --> getUserByCookie: 
+2016-12-19 1:53:41 - INFO --> getZoomById: iSctp
+2016-12-19 1:53:41 - INFO --> incrementZoomById: iSctp
+2016-12-19 1:53:41 - INFO --> increment zoom: iSctp
+2016-12-19 3:39:13 - INFO --> getUserByCookie: 
+2016-12-19 3:39:13 - INFO --> getZoomById: modules/attributewizardpro/file_upload.php
+2016-12-19 6:01:52 - INFO --> getUserByCookie: 
+2016-12-19 6:01:52 - INFO --> getZoomById: G1YU4
+2016-12-19 6:01:52 - INFO --> incrementZoomById: G1YU4
+2016-12-19 6:01:52 - INFO --> increment zoom: G1YU4
+2016-12-19 10:48:44 - INFO --> getUserByCookie: 
+2016-12-19 12:25:04 - INFO --> getUserByCookie: 
+2016-12-19 21:04:56 - INFO --> getUserByCookie: 

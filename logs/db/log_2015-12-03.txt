@@ -1,0 +1,24 @@
+2015-12-03 3:55:52 - INFO --> getUserByCookie: 
+2015-12-03 3:55:52 - INFO --> getZoomById: mbahKb
+2015-12-03 3:55:52 - INFO --> incrementZoomById: mbahKb
+2015-12-03 3:55:52 - INFO --> increment zoom: mbahKb
+2015-12-03 7:26:06 - INFO --> getUserByCookie: 
+2015-12-03 7:26:06 - INFO --> getZoomById: G1YU4
+2015-12-03 7:26:06 - INFO --> incrementZoomById: G1YU4
+2015-12-03 7:26:06 - INFO --> increment zoom: G1YU4
+2015-12-03 16:11:51 - INFO --> getUserByCookie: 
+2015-12-03 16:11:51 - INFO --> getZoomById: fl=i4c
+2015-12-03 16:11:51 - INFO --> incrementZoomById: fl=i4c
+2015-12-03 16:11:51 - INFO --> increment zoom: fl=i4c
+2015-12-03 16:12:07 - INFO --> getUserByCookie: a5c06cb179702a0718a73bc27bb958b053c96393f27361b759751078959ca7ca
+2015-12-03 16:31:56 - INFO --> getUserByCookie: 
+2015-12-03 16:31:56 - INFO --> getZoomById: fl=i4c
+2015-12-03 16:31:56 - INFO --> incrementZoomById: fl=i4c
+2015-12-03 16:31:56 - INFO --> increment zoom: fl=i4c
+2015-12-03 16:31:56 - INFO --> getUserByCookie: 
+2015-12-03 16:31:56 - INFO --> getZoomById: fl=i4c
+2015-12-03 16:31:56 - INFO --> incrementZoomById: fl=i4c
+2015-12-03 16:31:56 - INFO --> increment zoom: fl=i4c
+2015-12-03 18:23:01 - INFO --> getUserByCookie: 
+2015-12-03 18:23:01 - INFO --> getZoomById: license.php
+2015-12-03 23:05:31 - INFO --> getUserByCookie: 

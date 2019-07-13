@@ -1,0 +1,40 @@
+2018-03-23 0:34:42 - INFO --> getUserByCookie: 
+2018-03-23 0:34:42 - INFO --> getZoomById: register-user=&register-email=amccann%40justplumbing.net&register-pass=&register-pass2=&register-agree=&
+2018-03-23 0:40:28 - INFO --> getUserByCookie: 
+2018-03-23 0:40:28 - INFO --> getZoomById: register-user=&register-email=waz_nyc%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-03-23 3:24:05 - INFO --> getUserByCookie: 
+2018-03-23 3:24:05 - INFO --> getZoomById: register-user=&register-email=carrie7ann77%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-03-23 6:35:00 - INFO --> getUserByCookie: 
+2018-03-23 6:35:00 - INFO --> getZoomById: register-user=&register-email=waz_nyc%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-03-23 6:46:27 - INFO --> getUserByCookie: 
+2018-03-23 6:46:27 - INFO --> getZoomById: register-user=&register-email=leafar_b23%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-03-23 7:56:17 - INFO --> getUserByCookie: 
+2018-03-23 8:21:44 - INFO --> getUserByCookie: 
+2018-03-23 8:21:44 - INFO --> getZoomById: register-user=&register-email=orders%40osbee.com&register-pass=&register-pass2=&register-agree=&
+2018-03-23 10:25:36 - INFO --> getUserByCookie: 
+2018-03-23 10:25:36 - INFO --> getZoomById: register-user=&register-email=derrickraby%40aol.com&register-pass=&register-pass2=&register-agree=&
+2018-03-23 10:33:33 - INFO --> getUserByCookie: 
+2018-03-23 10:33:33 - INFO --> getZoomById: register-user=&register-email=keithhanson%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-03-23 10:37:19 - INFO --> getUserByCookie: 
+2018-03-23 10:37:19 - INFO --> getZoomById: .well-known/apple-app-site-association
+2018-03-23 12:07:23 - INFO --> getUserByCookie: 
+2018-03-23 12:07:23 - INFO --> getZoomById: register-user=&register-email=harald-pfeiffer%40web.de&register-pass=&register-pass2=&register-agree=&
+2018-03-23 13:21:18 - INFO --> getUserByCookie: 
+2018-03-23 13:21:18 - INFO --> getZoomById: apple-app-site-association
+2018-03-23 15:56:40 - INFO --> getUserByCookie: 
+2018-03-23 15:56:40 - INFO --> getZoomById: register-user=&register-email=richard.richardbailey%40gmail.com&register-pass=&register-pass2=&register-agree=&
+2018-03-23 16:42:47 - INFO --> getUserByCookie: 
+2018-03-23 16:42:47 - INFO --> getZoomById: register-user=&register-email=robjohns5%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-03-23 17:09:28 - INFO --> getUserByCookie: 
+2018-03-23 17:09:28 - INFO --> getZoomById: register-user=&register-email=billystrubberg%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-03-23 17:30:11 - INFO --> getUserByCookie: 
+2018-03-23 17:30:11 - INFO --> getZoomById: .well-known/assetlinks.json
+2018-03-23 18:37:11 - INFO --> getUserByCookie: 
+2018-03-23 18:37:11 - INFO --> getZoomById: admin
+2018-03-23 19:17:39 - INFO --> getUserByCookie: 
+2018-03-23 19:17:39 - INFO --> getZoomById: register-user=&register-email=michaelg%40cuttingedgestoneworks.com&register-pass=&register-pass2=&register-agree=&
+2018-03-23 19:42:18 - INFO --> getUserByCookie: 
+2018-03-23 19:42:18 - INFO --> getZoomById: register-user=&register-email=heatherlhurley%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2018-03-23 20:11:17 - INFO --> getUserByCookie: 
+2018-03-23 23:50:01 - INFO --> getUserByCookie: 
+2018-03-23 23:50:01 - INFO --> getZoomById: admin

@@ -1,0 +1,4 @@
+RewriteEngine on
+
+RewriteCond %{ENV:REDIRECT_STATUS} !200
+RewriteRule ^(.*)$ /error/404.php [L]

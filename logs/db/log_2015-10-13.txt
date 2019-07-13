@@ -1,0 +1,12 @@
+2015-10-13 10:00:11 - INFO --> getUserByCookie: 
+2015-10-13 10:00:11 - INFO --> getZoomById: iSctp
+2015-10-13 10:00:11 - INFO --> incrementZoomById: iSctp
+2015-10-13 10:00:11 - INFO --> increment zoom: iSctp
+2015-10-13 10:18:37 - INFO --> getUserByCookie: 
+2015-10-13 11:52:41 - INFO --> getUserByCookie: 
+2015-10-13 11:52:41 - INFO --> getZoomById: w+JPX
+2015-10-13 11:52:41 - INFO --> incrementZoomById: w+JPX
+2015-10-13 11:52:41 - INFO --> increment zoom: w+JPX
+2015-10-13 16:02:04 - INFO --> getUserByCookie: 
+2015-10-13 19:18:24 - INFO --> getUserByCookie: 
+2015-10-13 19:18:24 - INFO --> getZoomById: js/mage/cookies.js

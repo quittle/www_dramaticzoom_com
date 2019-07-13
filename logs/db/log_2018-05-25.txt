@@ -1,0 +1,8 @@
+2018-05-25 1:58:57 - INFO --> getUserByCookie: 
+2018-05-25 1:58:57 - INFO --> getZoomById: downloader/
+2018-05-25 4:23:28 - INFO --> getUserByCookie: 
+2018-05-25 4:23:28 - INFO --> getZoomById: web-cache.php
+2018-05-25 15:22:21 - INFO --> getUserByCookie: 
+2018-05-25 15:22:21 - INFO --> getZoomById: cbbnfwrtd.html
+2018-05-25 21:23:02 - INFO --> getUserByCookie: 
+2018-05-25 21:23:02 - INFO --> getZoomById: Marvins.php

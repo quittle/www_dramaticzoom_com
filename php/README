@@ -1,0 +1,13 @@
+db.php - handles all I/O with the database
+
+email.php - sends HTML and TEXT emails
+	Consumed by ONLY email-*.php
+	Consumed temporarily also by reportBug.php
+
+email-*.php - contains structure for sending the emails through 
+
+manage-*.php - handles connection with front end
+
+password.php - Handles logic specific to passwords
+
+security.php (validateInputs.php) - Provides functions related to security

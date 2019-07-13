@@ -1,0 +1,16 @@
+2017-05-20 0:10:37 - INFO --> getUserByCookie: 
+2017-05-20 0:10:37 - INFO --> getZoomById: qkawmougaqt.html
+2017-05-20 0:19:05 - INFO --> getUserByCookie: 
+2017-05-20 1:24:05 - INFO --> getUserByCookie: 
+2017-05-20 1:24:05 - INFO --> getZoomById: register-user=&register-email=cyngar21%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-05-20 2:45:31 - INFO --> getUserByCookie: 
+2017-05-20 2:45:31 - INFO --> getZoomById: w6tlCc
+2017-05-20 2:45:31 - INFO --> incrementZoomById: w6tlCc
+2017-05-20 2:45:31 - INFO --> increment zoom: w6tlCc
+2017-05-20 6:12:08 - INFO --> getUserByCookie: 
+2017-05-20 8:12:48 - INFO --> getUserByCookie: 
+2017-05-20 20:23:44 - INFO --> getUserByCookie: 
+2017-05-20 20:23:44 - INFO --> getZoomById: register-user=&register-email=rmckinney31%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-05-20 20:24:32 - INFO --> getUserByCookie: 
+2017-05-20 20:24:32 - INFO --> getZoomById: register-user=&register-email=rdcahalane%40yahoo.com&register-pass=&register-pass2=&register-agree=&
+2017-05-20 22:24:01 - INFO --> getUserByCookie: 

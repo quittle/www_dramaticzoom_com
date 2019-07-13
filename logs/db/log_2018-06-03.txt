@@ -1,0 +1,1 @@
+2018-06-03 17:11:20 - INFO --> getUserByCookie: 

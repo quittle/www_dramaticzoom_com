@@ -1,0 +1,25 @@
+2019-03-09 0:11:51 - INFO --> getUserByCookie: 
+2019-03-09 0:11:51 - INFO --> getZoomById: .well-known/assetlinks.json
+2019-03-09 0:26:29 - INFO --> getUserByCookie: 
+2019-03-09 0:26:29 - INFO --> getZoomById: email=herrmann%40uoguelph.ca&reportType=&description=&
+2019-03-09 2:52:53 - INFO --> getUserByCookie: 
+2019-03-09 2:52:53 - INFO --> getZoomById: m=member&c=index&a=register&siteid=1
+2019-03-09 12:07:02 - INFO --> getUserByCookie: 
+2019-03-09 14:06:26 - INFO --> getUserByCookie: 
+2019-03-09 14:06:26 - INFO --> getZoomById: email=cvhardscapes%40yahoo.com&reportType=&description=&
+2019-03-09 15:39:31 - INFO --> getUserByCookie: 
+2019-03-09 15:39:31 - INFO --> getZoomById: Uploads/show/mbenfdie.php
+2019-03-09 20:04:06 - INFO --> getUserByCookie: 
+2019-03-09 20:04:06 - INFO --> getZoomById: iSctp
+2019-03-09 20:04:06 - INFO --> incrementZoomById: iSctp
+2019-03-09 20:04:06 - INFO --> increment zoom: iSctp
+2019-03-09 21:06:57 - INFO --> getUserByCookie: 
+2019-03-09 21:06:57 - INFO --> getZoomById: wp-login.php
+2019-03-09 21:07:10 - INFO --> getUserByCookie: 
+2019-03-09 21:07:10 - INFO --> getZoomById: option=com_user&task=register
+2019-03-09 21:07:17 - INFO --> getUserByCookie: 
+2019-03-09 21:07:17 - INFO --> getZoomById: user/register
+2019-03-09 23:39:20 - INFO --> getUserByCookie: 
+2019-03-09 23:39:20 - INFO --> getZoomById: iSctp
+2019-03-09 23:39:20 - INFO --> incrementZoomById: iSctp
+2019-03-09 23:39:20 - INFO --> increment zoom: iSctp

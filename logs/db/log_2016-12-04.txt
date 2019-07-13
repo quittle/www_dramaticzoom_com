@@ -1,0 +1,4 @@
+2016-12-04 11:40:09 - INFO --> getUserByCookie: 
+2016-12-04 11:40:09 - INFO --> getZoomById: feed/magpie_debug.php
+2016-12-04 13:01:20 - INFO --> getUserByCookie: 
+2016-12-04 13:01:20 - INFO --> getZoomById: feed/magpie_debug.php
