@@ -5,5 +5,17 @@
     "require": {
         "bref/bref": "^0.5.0",
         "ralouphie/mimey": "^2.1"
+    },
+    "scripts": {
+        "build": "./run_build",
+        "sam-validate": "sam validate --template template.json",
+        "sam-package": "sam package --s3-bucket=sam-915290536872 --template-file template.json --output-template-file build/packaged-template.yaml",
+        "sam-deploy": "sam deploy --template-file build/packaged-template.yaml --stack-name www-dramaticzoom-com --capabilities CAPABILITY_IAM",
+        "release": [
+            "@composer build",
+            "@composer sam-validate",
+            "@composer sam-package",
+            "@composer sam-deploy"
+        ]
     }
 }

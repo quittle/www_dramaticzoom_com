@@ -3,7 +3,6 @@
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
 
 BUILD_DIR="${ROOT}/build"
-LAMBDA_ZIP="${BUILD_DIR}/lambda.zip"
 
 rm -rf "${BUILD_DIR}"
 rsync \
@@ -24,12 +23,5 @@ rsync \
         --exclude '*.md' \
         --exclude 'aws-sdk-php/features' \
         "${ROOT}/vendor" "${BUILD_DIR}"
-# cp -r "${ROOT}/vendor" "${BUILD_DIR}"
 cp -r "${ROOT}/dynamic/"* "${BUILD_DIR}"
 cp -r "${ROOT}/static/"* "${BUILD_DIR}"
-
-rm -f "${LAMBDA_ZIP}"
-(
-    cd "${BUILD_DIR}"
-    zip -r "${LAMBDA_ZIP}" *
-)

@@ -1,11 +1,112 @@
 {
     "AWSTemplateFormatVersion": "2010-09-09",
+    "Transform": "AWS::Serverless-2016-10-31",
+    "Parameters": {
+        "ApigStageName": {
+            "Type": "String",
+            "Default": "Prod",
+        }
+    },
     "Resources": {
+        "DramaticZoomApigDeployment": {
+            "Type": "AWS::ApiGateway::Deployment",
+            "Properties": {
+                "RestApiId": { "Ref": "DramaticZoomRestApi" },
+                "StageName": { "Ref": "ApigStageName" }
+            },
+            "DependsOn": [
+                "ProxyMethod",
+                "RootMethod"
+            ]
+        },
+        "DramaticZoomBasePathMapping": {
+            "Type": "AWS::ApiGateway::BasePathMapping",
+            "Properties": {
+                "DomainName": "www.dramaticzoom.com",
+                "RestApiId": { "Ref": "DramaticZoomRestApi" },
+                "Stage": { "Ref": "ApigStageName" }
+            },
+            "DependsOn": [ "DramaticZoomApigDomainName", "DramaticZoomApigDeployment" ]
+        },
+        "DramaticZoomApigDomainName": {
+            "Type": "AWS::ApiGateway::DomainName",
+            "Properties": {
+                "DomainName": "www.dramaticzoom.com",
+                "EndpointConfiguration": { "Types": [ "REGIONAL" ] },
+                "RegionalCertificateArn": "arn:aws:acm:us-east-1:915290536872:certificate/56cd81f0-94e0-4266-a1a8-090df51d294b"
+            }
+        },
+        "DramaticZoomRestApi": {
+            "Type": "AWS::ApiGateway::RestApi",
+            "Properties": {
+                "BinaryMediaTypes": [ "*~1*" ],
+                "FailOnWarnings": true,
+                "Name": "www-dramatic-zoom"
+            }
+        },
+        "RootResource": {
+            "Type": "AWS::ApiGateway::Resource",
+            "Properties": {
+                "ParentId": { "Fn::GetAtt": [ "DramaticZoomRestApi", "RootResourceId"] },
+                "RestApiId": { "Ref": "DramaticZoomRestApi" },
+                "PathPart": "{proxy+}"
+            }
+        },
+        "RootMethod": {
+            "Type": "AWS::ApiGateway::Method",
+            "Properties": {
+                "HttpMethod": "ANY",
+                "AuthorizationType": "NONE",
+                "ResourceId": { "Fn::GetAtt": [ "DramaticZoomRestApi", "RootResourceId" ] },
+                "RestApiId": { "Ref": "DramaticZoomRestApi" },
+                "Integration": {
+                    "IntegrationHttpMethod": "POST",
+                    "Type": "AWS_PROXY",
+                    "Uri": { "Fn::Sub": [
+                        "arn:aws:apigateway:${AWS::Region}:lambda:path/2015-03-31/functions/${Arn}/invocations",
+                        {
+                            "Arn": { "Fn::GetAtt": [ "DramaticZoomLambda", "Arn" ] }
+                        }
+                    ] },
+                    "PassthroughBehavior": "WHEN_NO_MATCH",
+                    "IntegrationResponses": [
+                        {
+                            "StatusCode": 200
+                        }
+                    ]
+                }
+            }
+        },
+        "ProxyMethod": {
+            "Type": "AWS::ApiGateway::Method",
+            "Properties": {
+                "HttpMethod": "ANY",
+                "AuthorizationType": "NONE",
+                "ResourceId": { "Ref": "RootResource" },
+                "RestApiId": { "Ref": "DramaticZoomRestApi" },
+                "Integration": {
+                    "IntegrationHttpMethod": "POST",
+                    "Type": "AWS_PROXY",
+                    "Uri": { "Fn::Sub": [
+                        "arn:aws:apigateway:${AWS::Region}:lambda:path/2015-03-31/functions/${Arn}/invocations",
+                        {
+                            "Arn": { "Fn::GetAtt": [ "DramaticZoomLambda", "Arn" ] }
+                        }
+                    ] },
+                    "PassthroughBehavior": "WHEN_NO_MATCH",
+                    "IntegrationResponses": [
+                        {
+                            "StatusCode": 200
+                        }
+                    ]
+                }
+            }
+        },
         "DramaticZoomLambdaRole": {
             "Type": "AWS::IAM::Role",
             "Properties": {
                 "AssumeRolePolicyDocument": {
-                    "Version" : "2012-10-17",
+                    "Version": "2012-10-17",
                     "Statement": [ {
                         "Effect": "Allow",
                         "Principal": {
@@ -18,25 +119,28 @@
                 "Policies": [ {
                     "PolicyName": "DramaticZoomLambdaRolePolicy",
                     "PolicyDocument": {
-                        "Version" : "2012-10-17",
+                        "Version": "2012-10-17",
                         "Statement": [ {
                            "Effect": "Allow",
                            "Action": "*",
-                           "Resource": {"Fn::GetAtt" : ["DramaticZoomDDB", "Arn"] }
+                           "Resource": {"Fn::GetAtt": ["DramaticZoomDDB", "Arn"] }
                         } ]
                     }
-                }]
+                } ]
             }
         },
         "DramaticZoomLambda": {
-            "Type": "AWS::Lambda::Function",
+            "Type": "AWS::Serverless::Function",
             "Properties": {
                 "Handler": "router.php",
                 "Runtime": "provided",
-                "CodeUri": ".", // This is invaid
+                "CodeUri": "build/",
+                "Layers": [
+                    { "Fn::Join": [ ":", [ "arn:aws:lambda", { "Ref": "AWS::Region" }, "209497400698:layer:php-73:7" ] ] }
+                ],
                 "MemorySize": 128,
                 "Timeout": 3,
-                "Role": {"Fn::GetAtt" : ["DramaticZoomLambdaRole", "Arn"] }
+                "Role": {"Fn::GetAtt": ["DramaticZoomLambdaRole", "Arn"] }
             }
         },
         "DramaticZoomDDB": {

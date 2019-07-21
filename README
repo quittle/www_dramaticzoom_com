@@ -2,10 +2,10 @@
 - Install PHP 7.2
 - Install [Composer](https://getcomposer.org), the PHP package mangement tool
 - Run `composer install` to generate the `./vendor` folder with all the dependencies.
-- Run the build scripts in the root of the project.
+- Run the build scripts with `copmoser` in the root of the project.
 ```
-./run_build # Lambda zip will be under ./build/lambda.zip
-./run_server # Local server
+composer build # Build
+composer release # Builds and deploys the package
 ```
 
 # Dependencies
