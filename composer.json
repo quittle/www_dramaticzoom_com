@@ -1,5 +1,9 @@
 {
+    "name": "quittle/www.dramaticzoom.com",
+    "description": "PHP backend for dramaticzoom.com",
+    "license": "proprietary",
     "require": {
-        "bref/bref": "^0.5.0"
+        "bref/bref": "^0.5.0",
+        "ralouphie/mimey": "^2.1"
     }
 }

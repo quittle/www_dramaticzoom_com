@@ -1,0 +1,66 @@
+{
+    "AWSTemplateFormatVersion": "2010-09-09",
+    "Resources": {
+        "DramaticZoomLambdaRole": {
+            "Type": "AWS::IAM::Role",
+            "Properties": {
+                "AssumeRolePolicyDocument": {
+                    "Version" : "2012-10-17",
+                    "Statement": [ {
+                        "Effect": "Allow",
+                        "Principal": {
+                            "Service": [ "lambda.amazonaws.com" ]
+                        },
+                        "Action": [ "sts:AssumeRole" ]
+                    } ]
+                },
+                "Path": "/",
+                "Policies": [ {
+                    "PolicyName": "DramaticZoomLambdaRolePolicy",
+                    "PolicyDocument": {
+                        "Version" : "2012-10-17",
+                        "Statement": [ {
+                           "Effect": "Allow",
+                           "Action": "*",
+                           "Resource": {"Fn::GetAtt" : ["DramaticZoomDDB", "Arn"] }
+                        } ]
+                    }
+                }]
+            }
+        },
+        "DramaticZoomLambda": {
+            "Type": "AWS::Lambda::Function",
+            "Properties": {
+                "Handler": "router.php",
+                "Runtime": "provided",
+                "CodeUri": ".", // This is invaid
+                "MemorySize": 128,
+                "Timeout": 3,
+                "Role": {"Fn::GetAtt" : ["DramaticZoomLambdaRole", "Arn"] }
+            }
+        },
+        "DramaticZoomDDB": {
+            "Type": "AWS::DynamoDB::Table",
+            "Properties": {
+                "TableName": "www-dramatic-zoom",
+                "AttributeDefinitions": [
+                    {
+                        "AttributeName": "accountId",
+                        "AttributeType": "S"
+                    }
+
+                ],
+                "KeySchema": [
+                    {
+                        "AttributeName": "accountId",
+                        "KeyType": "HASH",
+                    }
+                ],
+                "ProvisionedThroughput": {
+                    "ReadCapacityUnits": 2,
+                    "WriteCapacityUnits": 2
+                }
+            }
+        }
+    }
+}

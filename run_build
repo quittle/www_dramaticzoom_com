@@ -6,8 +6,25 @@ BUILD_DIR="${ROOT}/build"
 LAMBDA_ZIP="${BUILD_DIR}/lambda.zip"
 
 rm -rf "${BUILD_DIR}"
-mkdir -p "${BUILD_DIR}"
-cp -r "${ROOT}/vendor" "${BUILD_DIR}"
+rsync \
+        -r \
+        --copy-links \
+        --exclude 'composer.*' \
+        --exclude '.git' \
+        --exclude '.git*' \
+        --exclude 'LICENSE' \
+        --exclude 'Tests' \
+        --exclude 'Test' \
+        --exclude 'examples-*' \
+        --exclude 'tests' \
+        --exclude 'docs' \
+        --exclude '*.txt' \
+        --exclude 'docs-*' \
+        --exclude '.docker' \
+        --exclude '*.md' \
+        --exclude 'aws-sdk-php/features' \
+        "${ROOT}/vendor" "${BUILD_DIR}"
+# cp -r "${ROOT}/vendor" "${BUILD_DIR}"
 cp -r "${ROOT}/dynamic/"* "${BUILD_DIR}"
 cp -r "${ROOT}/static/"* "${BUILD_DIR}"
 
