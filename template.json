@@ -1,13 +1,34 @@
 {
     "AWSTemplateFormatVersion": "2010-09-09",
     "Transform": "AWS::Serverless-2016-10-31",
+    "Globals": {
+        "Api": {
+            "BinaryMediaTypes": [ "*~1*" ]
+        }
+    },
     "Parameters": {
         "ApigStageName": {
             "Type": "String",
             "Default": "Prod",
+        },
+        "ServiceDomainName": {
+            "Type": "String",
+            "Default": "test.dramaticzoom.com",
         }
     },
     "Resources": {
+        "DramaticZoomRecordSet": {
+            "Type": "AWS::Route53::RecordSet",
+            "Properties": {
+                "HostedZoneName": "dramaticzoom.com.",
+                "Name": { "Ref": "ServiceDomainName" },
+                "Type": "A",
+                "AliasTarget": {
+                  "DNSName": { "Fn::GetAtt": [ "DramaticZoomApigDomainName", "RegionalDomainName"] },
+                  "HostedZoneId": { "Fn::GetAtt": [ "DramaticZoomApigDomainName", "RegionalHostedZoneId"] }
+                }
+            }
+        },
         "DramaticZoomApigDeployment": {
             "Type": "AWS::ApiGateway::Deployment",
             "Properties": {
@@ -22,7 +43,7 @@
         "DramaticZoomBasePathMapping": {
             "Type": "AWS::ApiGateway::BasePathMapping",
             "Properties": {
-                "DomainName": "www.dramaticzoom.com",
+                "DomainName": { "Ref": "ServiceDomainName" },
                 "RestApiId": { "Ref": "DramaticZoomRestApi" },
                 "Stage": { "Ref": "ApigStageName" }
             },
@@ -31,7 +52,7 @@
         "DramaticZoomApigDomainName": {
             "Type": "AWS::ApiGateway::DomainName",
             "Properties": {
-                "DomainName": "www.dramaticzoom.com",
+                "DomainName": { "Ref": "ServiceDomainName" },
                 "EndpointConfiguration": { "Types": [ "REGIONAL" ] },
                 "RegionalCertificateArn": "arn:aws:acm:us-east-1:915290536872:certificate/56cd81f0-94e0-4266-a1a8-090df51d294b"
             }
@@ -39,7 +60,7 @@
         "DramaticZoomRestApi": {
             "Type": "AWS::ApiGateway::RestApi",
             "Properties": {
-                "BinaryMediaTypes": [ "*~1*" ],
+                "BinaryMediaTypes": [ "image~1*", "text~1*", "application~1*", "audio~1*", "font~1*", "video~1*", "text~1css", "text~1html" ],
                 "FailOnWarnings": true,
                 "Name": "www-dramatic-zoom"
             }
@@ -127,6 +148,14 @@
                         } ]
                     }
                 } ]
+            }
+        },
+        "DramaticZoomLambdaPermission": {
+          "Type": "AWS::Lambda::Permission",
+          "Properties": {
+                "Action": "lambda:InvokeFunction",
+                "FunctionName": { "Ref": "DramaticZoomLambda" },
+                "Principal": "apigateway.amazonaws.com"
             }
         },
         "DramaticZoomLambda": {

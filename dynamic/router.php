@@ -19,7 +19,7 @@
         if (in_array($file, $routes)) {
             $msg = eval_to_string(getenv('LAMBDA_TASK_ROOT') . '/' . $file . '.php');
             return array(
-                'body' => base64_encode($msg + '\n'),
+                'body' => base64_encode($msg . '\n'),
                 'headers' => array(
                     'Content-Type' => 'text/html',
                 ),
